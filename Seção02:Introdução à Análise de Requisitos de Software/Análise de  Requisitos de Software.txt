@@ -1,0 +1,120 @@
+Olá aluna ao alunos, sejam muito bem vindos a nossa segunda aula do curso de Análise de Requisitos
+
+de Software.
+
+Falaremos um pouco especificamente nesta aula sobre análise de requisitos de software, ou seja, o
+
+que é análise de requisitos de software?
+
+Vamos lá.
+
+A análise de requisitos de software é um processo de identificar, analisar, documentar e validar os
+
+requisitos do software.
+
+É uma etapa crucial no desenvolvimento de sistemas, pois garante que o software seja projetado e construído
+
+corretamente para atender às necessidades dos usuários e partes interessadas.
+
+O Analista de Requisitos é o profissional responsável por conduzir a análise de requisitos, interagindo
+
+com os usuários e partes interessadas para compreender as necessidades e traduzi las em requisitos claros
+
+e precisos.
+
+Bom, de certa forma, o que o texto quer dizer aqui?
+
+Vamos lá.
+
+A área de análise de requisitos de software é a área que é responsável por mapear, identificar, documentar,
+
+analisar e validar todas as necessidades, recursos, finalidades e funções que um sistema de software
+
+deve ter.
+
+Beleza.
+
+Se o sistema vai fazer o login, se o sistema vai fazer o logout, se o sistema vai fazer cadastro,
+
+se o sistema vai permitir editar um cadastro, se o sistema vai permitir excluir um cadastro, se o
+
+sistema vai permitir renomear as informações, se o sistema vai permitir anexar arquivo, se o sistema
+
+vai permitir x, Y ou Z.
+
+O analista de requisitos é o responsável por mapear tudo o que é existente dentro de um software.
+
+Geralmente todos esses mapeamentos, eles acontecem com duas bases que é.
+
+Os usuários que vão fazer a utilização desse software e as partes interessadas.
+
+Bom, geralmente quem são as partes interessadas?
+
+A parte interessada pode ser a própria empresa no qual esse software está sendo desenvolvido.
+
+Por que eu posso fazer um software?
+
+Um exemplo eu posso fazer um software que ele pode ser usado para um cliente em específico para um cliente
+
+X.
+
+Como eu posso fazer um software que use ou disponibilize em inúmeros clientes de uma única vez?
+
+Então, quando eu falo em parte interessada, eu posso pensar numa funcionalidade que seria legal,
+
+por exemplo, a minha empresa ter, mas que ela não venda apenas para a empresa X, mas que ela venda
+
+para a empresa XYZABC e assim sucessivamente.
+
+Então, o que é legal de ressaltar quando a gente entra nesse contexto de análise de requisitos de software,
+
+nós sempre olhamos dois lados da moeda.
+
+Sempre vai existir dois lados da moeda, sempre vai haver as necessidades que o usuário quer e sempre
+
+vai haver as necessidades que as partes interessadas querem que a empresa talvez queira.
+
+Por quê?
+
+A empresa precisa gerar lucro e o usuário?
+
+Ele precisa ter ali uma autonomia ou uma facilidade no dia a dia, de acordo com alguns deveres e tarefas
+
+que ele possui.
+
+Então, quando nós falamos em análise de requisitos, geralmente nós precisamos juntar qual que é a
+
+dor, qual que é a necessidade, qual é o interesse do usuário juntamente com qual que é o necessário
+
+das partes interessadas?
+
+Ou seja, será que o que o usuário está pedindo é necessário ou faz sentido para a parte interessada
+
+ou vice versa?
+
+Se sim, nós literalmente temos um mete aí, então nós podemos seguir adiante.
+
+Se não, existem algumas coisinhas que nós vamos ver ao decorrer das aulas, durante o curso.
+
+Mas o que vocês precisam entender é que a área de análise de requisitos de software, que é a responsável
+
+por mapear, documentar e desenhar todas as necessidades da ferramenta, todas as necessidades do sistema.
+
+E geralmente quem faz isso é o carinha e o profissional é o doutor chamado analista de requisitos.
+
+Em algumas empresas será analista de processos ou até mesmo analista de negócios.
+
+Existem pequenas diferenças entre esses três termos, mas a maioria das empresas faz com que todas as
+
+tarefas sejam muito semelhantes, mudando apenas o nome desse profissional, mudando apenas o nome desse
+
+cargo, desse profissional.
+
+Beleza.
+
+Bom, essa foi mais uma aula do nosso curso de Análise de Requisitos.
+
+Espero que vocês tenham entendido e principalmente que vocês tenham gostado.
+
+Me despeço por aqui, Fica com Deus e até breve.
+

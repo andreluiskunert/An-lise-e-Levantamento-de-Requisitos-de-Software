@@ -1,0 +1,187 @@
+Olá aluna! Olá alunos, sejam muito bem vindos a nossa
+
+primeira aula do curso de Análise de Requisitos de Software.
+
+Começando pelo básico, pela premissa, pelo necessário.
+
+Nós falaremos um pouco sobre o que são os requisitos de software.
+
+Primeiro de tudo, nós precisamos separar aqui duas coisas e entendê las
+
+de forma separada, para que após nós possamos entender como um todo.
+
+Primeiro de tudo, o que é? O que
+
+significa a palavra requisitos? Bom, requisitos seria o
+
+mesmo que exigências, o mesmo que premissas, o
+
+mesmo que necessidade ou algo do gênero.
+
+Então, quando eu falo de requisitos, eu falo do que o que
+
+precisa ter ou o que é necessário ter, ou que seria
+
+bacana ter legal e software de uma forma bem robusta, bem
+
+genérica, seria algum tipo de aplicação? Seria algum tipo de programa?
+
+Seria algum tipo de sistema ou algum tipo de plataforma que
+
+nós usamos no nosso computador? Então, de forma bem simplificada e
+
+objetiva, o que é requisito de software? Seriam necessidades que um
+
+programa, um sistema ele necessita ter para ele poder existir? Beleza.
+
+Bom, vamos lá.
+
+Quando pensamos em desenvolver um software, precisamos entender quais as
+
+necessidades e expectativas do usuário e das partes interessadas envolvidas.
+
+Os requisitos de software são basicamente as especificações que definem
+
+o que o software precisa fazer para atender essas necessidades.
+
+Então, como eu mencionei, eu vou criar um determinado software que faz venda de camiseta.
+
+O que o meu software precisa ter ou que precisa existir para que a
+
+venda da camiseta ou que a venda de camisetas aconteça? Então eu vou fazer
+
+o levantamento de uma série de exigências, uma série de necessidades, uma série
+
+de especificações, para que eu consiga mapear e criar esse meu determinado software,
+
+para que, quando ele estiver pronto, ele consiga fazer as vendas das camisetas.
+
+Beleza, Então existem principais tipos de requisitos, então nós vamos ver aqui o
+
+que são requisitos funcionais e não funcionais Entender as diferenças entre ambos.
+
+Beleza.
+
+Primeiro de tudo, os requisitos funcionais.
+
+Eles descrevem as funcionalidades e tarefas específicas que o software deve executar.
+
+Como assim? Ou um sistema de gerenciamento de
+
+pedidos pode ter o requisito funcional de
+
+permitir que os usuários cadastrem novos pedidos.
+
+Então, assim, de uma forma simplificada, o que é o requisito funcional? O
+
+requisito funcional é aquilo que vai, por obrigatoriedade ter que existir para
+
+que o sistema ou que a ferramenta ou que o programa exista.
+
+Ou seja, a função principal que ele precisa ter para ele poder existir.
+
+Então, o requisito funcional é um requisito que é obrigatório.
+
+Então, novamente dando um exemplo aqui, se um sistema faz
+
+gerenciamento de pedidos, o que precisa haver dentro desse
+
+sistema para que haja gerenciamento de pedidos? Premissa Cadastro
+
+de novos pedidos? Então, isso aqui é uma regra.
+
+Não tem como eu criar um sistema de gerenciamento de pedidos se eu não conseguir fazer
+
+o cadastro dos meus pedidos para após eu fazer o gerenciamento desses cadastros que foram realizados.
+
+Então isso é um requisito funcional.
+
+Beleza é um requisito que é obrigatório existir para que
+
+o meu sistema, minha ferramenta, o meu serviço, ele aconteça.
+
+Já o meu requisito não funcional.
+
+Ele descreve características e qualidades que o software
+
+deve ter, como desempenho, usabilidade, segurança, entre outros.
+
+Como assim?
+
+Vamos lá.
+
+Um requisito não funcional pode ser um sistema de gerenciamento que
+
+faz pedidos que seja capaz de processar 1000 pedidos por minuto.
+
+Bom, isso é uma obrigatoriedade do sistema, não é uma obrigatoriedade do sistema.
+
+Eu poderia fazer um sistema que ele consiga fazer
+
+o cadastro de um pedido por minuto e
+
+que ele consiga fazer cadastros de pedidos, certo?
+
+A premissa é o que? Cadastrar pedidos para
+
+serem gerenciados? Agora, quanto? Quanta quantidade de cadastros
+
+que pode ser realizado por minuto, por hora
+
+ou por dia? Isso não tem tanta necessidade.
+
+O que eu preciso é fazer inicialmente ele funcionar e
+
+após eu faço determinados ajustes rápidos de acordo com necessidades.
+
+Então o requisito não funcional, ele e algumas características que
+
+são existentes nas ferramentas, mas que elas não são obrigatórias.
+
+Então, aqui, no caso de um gerenciamento de pedido para
+
+ele existir, necessita por obrigatoriedade haver cadastro de pedido.
+
+Agora, quantos cadastros podem ser feitos por
+
+minuto? Isso não é uma obrigatoriedade.
+
+Eu posso fazer um sistema que consiga fazer um por minuto ou 1000 por minuto.
+
+Isso é o que é uma determinada característica ou uma determinada qualidade do meu software.
+
+Assim como também quando eu vou ressaltar o tipo de usabilidade ou a segurança do meu
+
+sistema, saber se vai ter criptografia, se o cadastro vai ser realizado após haver um usuário
+
+e senha, ou seja, após um usuário efetuar efetuar o login usando o login senha
+
+para acessar o sistema ou se simplesmente ele executando o arquivo ou o aplicativo que
+
+tiver no computador, ele já vai conseguir, independente de ter o usuário sim ou não.
+
+Tudo isso são requisitos não funcionais.
+
+Legal, Então, de uma forma bem resumida sobre o que acabamos de falar aqui.
+
+Requisitos de software são os levantamentos das necessidades que um sistema deve ter para que
+
+ele funcione, para que ele seja criado, para que ele exista dentro dessas necessidades.
+
+Dessas especificações, vão haver as necessidades que são obrigatórias, que são chamadas de
+
+requisitos funcionais e outras não obrigatórias, que são chamadas de não funcionais.
+
+Novamente as obrigatórias, que são as funcionais.
+
+É aqui o que o sistema vai fazer, quais são as
+
+tarefas e deveres dele? E as não funcionais? Seriam características, qualidades
+
+ou voltado a segurança que seriam de certa forma, enfeitar o
+
+pavão? Beleza, Espero que vocês tenham entendido que vocês tenham gostado.
+
+Eu me despeço por aqui.
+
+Fica com Deus e até breve.
