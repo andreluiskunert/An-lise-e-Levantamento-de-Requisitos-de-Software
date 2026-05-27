@@ -1,0 +1,125 @@
+Olá aluna!
+
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise de Requisitos de Software.
+
+Dessa aula nós falaremos um pouco sobre os processos de análise de requisitos, ou seja, quais são
+
+as etapas necessárias ou fundamentais para que nós possamos levantar os requisitos de maneira mais assertiva
+
+e objetiva.
+
+O processo de análise de requisitos envolve várias etapas que podem variar de acordo com a metodologia
+
+utilizada.
+
+No entanto, em geral, podemos destacar as seguintes etapas.
+
+Uma primeira etapa é a identificação dos stakeholders.
+
+Identificar todas as partes interessadas envolvidas no projeto, como usuários, gerentes, clientes
+
+e especificações em domínio, entre outros.
+
+De certa forma, o que que é ter que holders stakeholders são todas as partes interessadas no projeto?
+
+Todas as pessoas que têm interesse ou que estão ligadas diretamente ao projeto como um todo.
+
+Então, dentre as pessoas para um projeto, sempre vai haver usuários, sempre vai haver gerentes,
+
+sempre vai haver clientes, sempre vai haver os especialistas.
+
+Então, como eu comentei, eu vou fazer um sistema voltado à área logística.
+
+Quem são os especialistas em domínio?
+
+São as pessoas daquela determinada área que vão poder detalhar de forma mais assertiva qual é o processo,
+
+como são as etapas, como que é o dia a dia para que eu consiga fazer os levantamentos necessários?
+
+Então, primeiro de tudo, quando nós vamos fazer uma análise de requisitos, nós, como primeiro processo,
+
+precisamos fazer a identificação de todos os stakeholders envolvidos.
+
+Se não conseguimos todos, pelo menos da maioria, isso vai facilitar bastante a nossa análise, o nosso
+
+levantamento, o nosso mapeamento no futuro.
+
+Bom, segundo o processo, ele envolve o quê?
+
+A coleta dos requisitos.
+
+Então, como que geralmente essas coletas são feitas?
+
+Então será necessário realizar entrevistas, workshops e outras técnicas para coletar informações sobre
+
+as necessidades dos usuários e das partes interessadas.
+
+Então, aqui seria de certa forma, se você trabalhar remotamente, fazer uma reunião, marcar um bate
+
+papo, pode ser com uma única pessoa, como também pode ser com várias.
+
+Nós vamos entender isso ao decorrer do tempo, fazer os workshops também e coletar todos os requisitos.
+
+Bom, o que seria os requisitos aqui?
+
+Todas as necessidades ou talvez tudo o que devesse conter dentro do sistema ou da ferramenta, tudo
+
+o que o usuário quisesse ter na ferramenta, por exemplo.
+
+Não que tudo seria necessário, mas muita coisa com certeza vai ser beleza.
+
+Bom.
+
+O terceiro processo é análise e especificação dos requisitos.
+
+Então, depois que você coletou os requisitos, você precisa fazer uma análise, uma identificação das
+
+inconsistências e priorizar e documentar os requisitos de forma clara e precisa.
+
+Então, como eu comentei em aulas anteriores, sempre vai haver ali dois lados, duas necessidades ou
+
+dois quereres, que é as partes interessadas e os usuários.
+
+Então, aqui na análise e especificação de requisitos aqui, de certa forma vai haver um D para do que
+
+o usuário está precisando, do que a empresa está precisando no sistema para poder fazer a venda desse
+
+sistema e literalmente cruzar as informações, os dados, as solicitações e ver o que é mais aderente
+
+para a situação e então mapear e documentar como premissas principais.
+
+E aí?
+
+Aqui.
+
+A partir dessa parte de análise e especificação é que nós conseguimos distinguir o que é o requisito
+
+funcional e o que é um requisito não funcional.
+
+Por exemplo.
+
+E por fim, nós também temos validação de requisitos.
+
+Validar os requisitos com as partes interessadas para garantir que eles estejam corretos e completos.
+
+Então aqui entra aquela etapa no qual, quando nós já fizemos a documentação, fazer um check in com
+
+aquelas pessoas que nós havíamos conversado inicialmente lá na parte das entrevistas, com workshops
+
+e etc.
+
+E avaliar aí a aderência, falar olha só o que nós conseguimos mapear das necessidades e isso nós vamos
+
+seguir.
+
+Dessa forma, com esse tipo de construção, está aderente ou não Precisa ser mudado ou não acrescenta
+
+ou retira algumas coisas daqui.
+
+Então, essas são as etapas dos processos de análise de requisitos.
+
+Espero que vocês tenham entendido.
+
+Espero principalmente que vocês estejam gostando.
+
+Me despeço por aqui, ficar com Deus e até breve.

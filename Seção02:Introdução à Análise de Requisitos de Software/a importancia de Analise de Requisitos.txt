@@ -1,0 +1,107 @@
+Olá aluna ao alunos, sejam muito bem vindos a nossa terceira aula do curso de Análise de Requisitos
+
+de Software e dessa vez nós falaremos um pouco por que a análise de requisitos é importante.
+
+Vamos lá.
+
+A análise de requisitos é fundamental para o sucesso de um projeto de software.
+
+Por diversos motivos.
+
+Listei alguns aqui para vocês.
+
+Primeiro, evita retrabalho ao compreender as necessidades dos usuários Desde o início, é possível
+
+evitar as necessidades de fazer alterações significativas no software posteriormente, o que seria um
+
+retrabalho custoso.
+
+Vamos imaginar assim que você foi contratado para desenvolver um software e por um acaso não houve o
+
+levantamento dos requisitos ou se houve o levantamento dos requisitos.
+
+Eles não foram tão assertivos e não foram tão objetivos.
+
+Certamente, quando o seu projeto for sendo tocado, à medida em que ele for acontecendo, possa ser
+
+que exista alguma coisa que não foi mapeada, alguma coisa que não foi prevista, alguma necessidade
+
+que não foi acordada, algum pedido que não foi anotado e isso te traga um retrabalho.
+
+Consequentemente, você terá um custo maior e um tempo maior para desenvolvimento também, porque se
+
+tecnicamente você está desenvolvendo, certamente você está pagando um desenvolvedor.
+
+Se ele falou que demorava 20 horas para fazer aquilo e por um acaso aparece uma atividade, um dever,
+
+uma tarefa que necessita ser feito e não foi mapeado, consequentemente ele vai precisar de um outro
+
+tempo ou de um tempo maior para refazer aquilo, para recolocar aquilo.
+
+Até porque ele vai precisar encaixar no que ele já fez.
+
+Então, muitas vezes ele vai ter que reestruturar toda a linha de código.
+
+Acaba sendo trabalhoso e custoso para a empresa, por exemplo.
+
+Bom.
+
+Segundo, por que requisito é importante, Olha só, orienta o desenvolvimento.
+
+A análise de requisitos fornece uma base sólida para o desenvolvimento de software, orientando os programadores
+
+na construção das funcionalidades necessárias.
+
+Então, se eu tenho um levantamento de requisitos bem mapeado, bem robusto, bem enxuto, bem detalhado,
+
+eu facilita o desenvolvimento na hora para os desenvolvedores, porque eu já estou dizendo tudo o que
+
+é necessário ter.
+
+Eu já tô dizendo como que isso deve ser feito.
+
+Eu já tô dizendo quais são as regras para aquelas funcionalidades.
+
+Eu já tô dizendo tudo, então acaba sendo mais fácil a parte do desenvolvimento pra essas pessoas também.
+
+É claro, melhora a comunicação.
+
+Como assim?
+
+Ao documentário validar os requisitos.
+
+A análise de requisito facilita a comunicação entre os membros da equipe de desenvolvimento e as partes
+
+interessadas, evitando o mal entendido e conflitos.
+
+Então, se eu tenho uma documentação bem feita, bem elaborada, com todos os detalhes necessários,
+
+com tudo o que foi falado, com tudo o que foi pedido, quando houver uma certa confusão, quando o
+
+usuário fala que está faltando alguma coisa no sistema, quando as partes interessadas falar que precisava
+
+que tivesse aqui, ou isso e etc, você vai ter uma documentação para mostrar para as pessoas e falar
+
+olha só, o levantamento que foi feito foi feito com isso.
+
+Essas são as necessidades, essas são as funcionalidades, esses são os recursos e esse é o desenvolvimento.
+
+Então, tudo o que está sendo desenvolvido ou tudo o que nós já temos atualmente no nosso software é
+
+com base nisso daqui.
+
+Se por um acaso precisar de outras coisas que não tenha nessa documentação, teremos de fazer um novo
+
+levantamento em questão para um outro processo, um outro mapeamento, levando aí uma melhoria para
+
+o sistema futuramente.
+
+Então a comunicação, ela serve até para evitar gargalos e confusão entre a empresa e o cliente, por
+
+exemplo.
+
+E essa foi mais uma aula do nosso curso de Análise de Requisitos de Software.
+
+Mais uma vez eu espero que vocês tenham entendido e principalmente que vocês tenham gostado.
+
+Me despeço por aqui, Fica com Deus e até breve.

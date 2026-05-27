@@ -1,0 +1,97 @@
+Olá aluna!
+
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise de Requisitos de Software.
+
+Hoje nós falaremos um pouco sobre quais os desafios que são enfrentados ou que surgem na área de análise
+
+de requisitos.
+
+Com a análise de requisitos, pode enfrentar alguns desafios comuns, como mudança nos requisitos,
+
+expectativas não claras, falta de documentação adequada, entre outros.
+
+Para lidar com esses desafios, é importante ter uma comunicação clara e aberta com as partes interessadas.
+
+Realizar reuniões regulares para revisar e validar os requisitos e estar preparado para fazer ajustes
+
+conforme necessário.
+
+Então, conforme já fui mencionando nas aulas anteriores, tudo se leva em consideração com o processo
+
+desde o início.
+
+Então, se você está migrando de empresa, se você começou num cargo novo e existe algum projeto que
+
+está sendo tocado, que os requisitos eles não foram levantados de maneira devida ou não contém todas
+
+as informações necessárias?
+
+Não está tão robusto, não está tão detalhado, não está tão completo.
+
+Eu aconselho que você faça todos os procedimentos desde o zero.
+
+Agende reuniões com stakeholders, principalmente internos.
+
+Conversem com as áreas relacionadas.
+
+Se necessário, converse com os clientes, explique a situação que você é um novo funcionário, que
+
+os requisitos não estão tão aderentes quanto necessário, quanto deveria estar e que você precisa fazer
+
+um novo mapeamento da situação para que você tenha toda a visão por completo do que está rolando.
+
+Certamente você fazendo isso, você vai tirar alguns impeditivos.
+
+Com certeza você vai tirar alguns gargalos não só da sua área, mas também de áreas relacionadas de
+
+outras partes, outros times no qual você também tem relação, principalmente a área do desenvolvimento.
+
+Então é sempre necessário estar em contato com as pessoas de forma frequente, de forma regular, para
+
+fazer a revisão de todas essas informações.
+
+E claro, se na sua empresa, se aonde você está trabalhando existe uma pessoa que tem um cargo que
+
+tem a função de ScrumMaster, essa pessoa, ela tem que ser o seu braço direito para facilitar as informações,
+
+para ser a ponte a chave e retirada de impeditivos para que você consiga sanar todas as dores que você
+
+possui.
+
+Então, novamente, todas as dores que vierem a aparecer, o que você encontrar ou que deixarem de legado
+
+para você quando você entrar numa empresa, sempre vai se dar por levantamentos, por processos, por
+
+entrevistas, por documentações ou por desenhos que foram mal feitos.
+
+Então, o meu conselho a cada um de vocês é refazer todas essas tarefas, todas essas funções, todos
+
+esses deveres.
+
+Mesmo que demore um tempo, mesmo que tenha um retrabalho, garanto que a medida em que você terminar,
+
+tudo vai fluir de forma mais objetiva e mais assertiva.
+
+Beleza?
+
+Outro ponto que é interessante ressaltar é que toda vez que você precisar fazer os reajustes necessários,
+
+seja na documentação textual, seja no fluxograma que você desenhou ou qualquer outro tipo de documentação
+
+que você esteja usando, Sempre mantenha um backup da versão antiga e um backup da versão atual, ou
+
+seja, vai separando versões para que você também tenha uma visão ampla de como estava no início do
+
+projeto, como está atualmente e talvez como vai ficar no fim do projeto.
+
+Se ainda surgir outras alterações, então você vai ter ali um evolutivo, um D para de todas as situações,
+
+de todas as recorrências, de todos os ajustes, de todas as inclusões ou de todas as retiradas, de
+
+todos os mapeamentos do geral que foram efetuados ao decorrer do projeto, desde o seu faseamento inicial
+
+até o seu faseamento final que seria a entrega.
+
+Bom, eu espero ter ajudado, Espero que você tenha entendido e que você esteja gostando.
+
+Me despeço por aqui, Fica com Deus e até breve.
