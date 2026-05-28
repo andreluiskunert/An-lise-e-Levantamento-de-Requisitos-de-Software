@@ -1,0 +1,419 @@
+Olá Luna, ao alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise de Requisitos
+
+de Software.
+
+Nesta aula nós vamos abordar os diferentes tipos de requisitos existentes.
+
+Veremos também quais as diferenças entre eles e qual a importância de cada um.
+
+Bom, nós vimos lá nas primeiras aulas sobre requisitos funcionais e não funcionais.
+
+Nós veremos novamente aqui, porém com alguns detalhes maiores e, claro, acrescentando outros tipos
+
+de requisitos.
+
+Primeiro de todos os requisitos funcionais.
+
+Como já mencionado anteriormente, os requisitos funcionais descrevem as funcionalidades e tarefas específicas
+
+que um software deve ser capaz de realizar.
+
+Eles definem as ações que o sistema deve executar em resposta a determinadas entradas, ou seja, a
+
+determinadas ações efetuadas pelos usuários.
+
+E aí eu trouxe alguns exemplos.
+
+O que poderia ser um requisito funcional?
+
+Olha só.
+
+O sistema deve permitir que o usuário faça login com o nome de usuário e senha.
+
+Isso é uma obrigatoriedade e a partir de uma ação do usuário segundo, o sistema deve permitir que o
+
+usuário adicione itens ao carrinho de compra e finalize compra.
+
+Então, se eu estou fazendo uma loja virtual, obrigatoriamente eu devo ter isso na minha ferramenta
+
+para que eu consiga fazer vendas.
+
+Então, para que o usuário consiga adicionar as compras ao seu carrinho e finalizá las após consequentemente.
+
+Antes de tudo isso, ele precisa acessar a minha ferramenta como ele acessa login e senha, usuário
+
+e senha para poder fazer o login na ferramenta.
+
+Beleza?
+
+Então aqui é um dos exemplos de 1001 exemplos de requisitos funcionais que eu poderia ter em um sistema,
+
+por exemplo.
+
+Segundo requisitos não funcionais.
+
+Os requisitos não funcionais descrevem as características e qualidades do software, além de funcionalidades
+
+em si.
+
+Eles se concentram em atributos do sistema, como o desempenho, usabilidade, segurança e confiabilidade.
+
+Então, como já foi mencionado em aulas anteriores, são requisitos que destacam usabilidade, segurança
+
+ou funcionalidade, porém que não é obrigatoriedade haver em um software.
+
+E aí tem aqui alguns exemplos também.
+
+O sistema deve ter uma resposta de busca instantânea, retornando resultados em menos de um segundo.
+
+Bom, claro que se o meu sistema ele fizer isso, ele é um sistema muito ágil, mas não é uma obrigatoriedade
+
+o meu sistema ter isso para ele poder trazer as respostas, até porque vai variar de acordo com o banco
+
+de dados, de acordo com a quantidade de buscas de informações que foram efetuadas, de acordo com toda
+
+a robustez do meu software num todo.
+
+Então o meu sistema trazer uma busca instantânea e uma certa qualidade do que ele faz, do que ele pode
+
+trazer, mas não é uma obrigatoriedade de ser dessa forma.
+
+Segundo exemplo, o sistema deve ser compatível com as diretrizes de acessibilidade da WC AD 2,0.
+
+Então isso daqui também entra como a qualidade, ou seja, o fato de ele ter uma compatibilidade com
+
+diretrizes.
+
+Beleza, não que precisa ser uma obrigatoriedade.
+
+Então, novamente, requisitos não funcionais são requisitos que existem, mas que não são obrigatórios.
+
+Além desses dois que nós já vimos em aulas anteriores, nós temos aqui um terceiro, que é o requisito
+
+de domínio.
+
+Os requisitos de domínio são específicos para determinado contexto ou área de negócio.
+
+Eles são baseados no conhecimento especializado do domínio em que o software será aplicado.
+
+Então vou colocar aqui que existem diferentes tipos de software.
+
+Existem software de canais de comunicação que são CRM.
+
+Existem softwares de models e RP.
+
+Existem softwares de modelo TMS.
+
+Existem softwares de modelo WMS, Existem softwares de modelo e TMS.
+
+Então, cada tipo de software tem ali, de certa forma, uma funcionalidade ou um público alvo.
+
+Vamos colocar assim que ele tem público alvo.
+
+Então, o meu CRM é voltado a canais de comunicação.
+
+O meu TMS é o meu WMS, por exemplo, é voltado a produtos logísticos, então a fazer controle gerenciamento
+
+logístico tanto interno quanto externo, ou seja, na parte de entrega ou coleta de produtos, por exemplo.
+
+Já o meu sistema é TMS, é um sistema de gerenciamento de TI, por exemplo.
+
+Então cada um dos softwares existentes tem um público alvo em especifico.
+
+Então o meu requisito de domínio ele se enquadra nisso nesse determinado contexto de área de negócio.
+
+Então por isso que é falado que eles são baseados em conhecimento especializado do domínio em que o
+
+software será aplicado.
+
+E aqui tem um exemplo.
+
+Olha só, é um sistema de gerenciamento de estoque de uma loja de varejo.
+
+Um requisito do domínio pode ser.
+
+Olha só.
+
+O sistema deve calcular automaticamente o preço de venda, considerando os descontos promocionais e
+
+as regras de precificação pré definidas ou definidas pelo varejista.
+
+Então aqui eu estou colocando uma premissa que é um requisito funcional, porém é uma obrigatoriedade
+
+de um tipo de software que é voltado ao nicho de quê?
+
+Ao nicho de varejo, Beleza.
+
+Então, por isso que eu tenho uma determinada classificação nesse gênero.
+
+Temos um quarto requisitos de interface.
+
+Olha só, os requisitos de interface dizem a respeito a interação entre o software e o usuário ou outros
+
+sistemas.
+
+Eles descrevem como o sistema se comunica com o ambiente externo.
+
+Bom, de uma forma simplificada aqui, o que ele está querendo dizer é entre os requisitos de interface.
+
+Olha só o requisito de interface.
+
+Ele pode ser sistema deve fornecer uma API REST para integração com outros sistemas.
+
+Então vamos lá.
+
+Imagina o seguinte eu vou colocar aqui novamente o exemplo de um sistema de gestão logística.
+
+Então o meu distribuidor, o cara que possui produtos e faz envios desses produtos para o Brasil como
+
+um todo, utiliza um sistema bem conhecido pela maioria que chama esse API.
+
+Beleza, Então esse meu sistema, esse app, ele faz a emissão das notas fiscais dos produtos, assim
+
+como CDS e qualquer outro tipo de documentação eletrônica que seja necessária.
+
+Porém, para que o meu cliente ele tenha o controle como um todo, ele precisa usar minha ferramenta.
+
+Só que para ele usar a minha ferramenta, ele precisa fornecer todas aqueles dados ou todas aquelas
+
+documentações que o sistema que ele tem lá dentro, que é o esse app ele disponibiliza ou ele gere beleza?
+
+Então, quando eu uso a integração, como é mencionada aqui, uma integração de tipo API, eu estou
+
+fazendo o quê?
+
+Uma ponte de comunicação entre o sistema interno do meu cliente e o meu sistema para que haja a troca
+
+de informações, para que um faça a emissão das informações e o outro tenha o recebimento das informações.
+
+Esses tipos de requisitos são chamados de requisitos de interface, que ele menciona como que está sendo
+
+feita a comunicação ou como que os dados estão sendo enviados ou como os dados estão sendo recebidos,
+
+por exemplo.
+
+Então, esse é um tipo de requisito de interface.
+
+Novamente, não é um tipo de requisito obrigatório, mas se eu quiser detalhar ainda mais a minha documentação.
+
+Detalhar ainda mais os meus requisitos, eu posso estar colocando.
+
+O segundo exemplo.
+
+Olha só, a interface do usuário deve ser intuitiva e fácil utilização, seguindo os princípios de design
+
+de interface modern.
+
+Então aqui eu estou dizendo uma outra especificação que talvez o meu cliente tenha tenha falado da necessidade
+
+que ele usava antigamente um sistema que a interface era muito ruim, não era tão legível, não era
+
+tão didática e que ele precisa de uma interface mais intuitiva.
+
+Quando esse software foi construído, então isso aqui não é uma obrigatoriedade.
+
+O que eu preciso dar pra ele como obrigatoriedade é que o sistema faça o que ele precise fazer como
+
+um requisito funcional obrigatório.
+
+Agora, com uma interface intuitiva, que o botãozinho seja arredondado, que a letra tenha um tamanho
+
+de fácil leitura, por exemplo, nada disso é obrigatório, mas entra como um requisito não funcional.
+
+Isso entra como uma qualidade para o meu software futuramente.
+
+Então eu posso estar acrescentando esses detalhes na minha documentação também.
+
+Beleza, hoje ainda não acabou.
+
+Nós temos um quinto tipo de requisito que é requisito de usabilidade.
+
+Os requisitos de usabilidade estão relacionados à experiência do usuário.
+
+Ao utilizar o software, eles visam garantir que o sistema seja intuitivo, eficiente e agradável de
+
+usar.
+
+Então, como eu acabei de mencionar a galera, olha só o meu sistema.
+
+Ele não tem a obrigatoriedade de ter nada disso, mas se tiver uma maior satisfação eu vou dar pro meu
+
+cliente.
+
+Por quê?
+
+Por que ele vai ter uma experiência mais interativa, mais eficiente, mais agradável.
+
+Ele vai ter uma facilidade de uso diariamente.
+
+Beleza, Então, novamente, o que pode ser dado como um requisito de usabilidade, por exemplo?
+
+Olha só, As informações exibidas na tela devem ser organizadas de forma clara e legível para facilitar
+
+a compreensão do usuário, ou seja, agrupar informações que são relacionadas ao mesmo assunto em um
+
+lugar ou ao mesmo grupo.
+
+Dividir menus que tenham as mesmas habilidades em um determinado módulo, não deixar nada bagunçado.
+
+Isso entra como um requisito de usabilidade.
+
+Um segundo exemplo.
+
+O sistema deve fornecer feedback visual adequado para indicar ao usuário que uma ação foi executada
+
+com sucesso.
+
+Então vamos lá.
+
+Seria isso?
+
+Seriam mensagens que o sistema pode mostrar para o usuário a medida em que ele faz alguma ação.
+
+Então vamos lá.
+
+Fui tentar fazer o login, senha, digitei login, senha, pressionei para logar.
+
+Puts, não logout, Por que não logout?
+
+Então ele vai me informar.
+
+Olha só o login errado.
+
+C Errada Login inexistente Senha errada?
+
+Não sei.
+
+Possa ser alguma coisa decidir se o usuário já está logado na ferramenta.
+
+Ele precisou por um acaso, subir uma foto, uma documentação, um arquivo dentro do sistema.
+
+Eu posso ter ali inúmeras mensagens.
+
+Se o arquivo ele subiu para o sistema de forma correta, Se deu certo arquivo subido com sucesso o arquivo
+
+do arquivo upado com sucesso.
+
+O pillow de sucesso, independente da mensagem, tem que exibir alguma coisa.
+
+Se por acaso der algum erro.
+
+Arquivo cancelado Arquivo pendente Arquivo aguardando aprovação.
+
+Então existem algumas coisas que novamente não são necessárias por obrigatoriedade, mas são necessárias
+
+por qualidade e aí o requisito de usabilidade entra nesse contexto também.
+
+Então, só recapitulando, para que nós possamos ter o entendimento geral, então nós temos o requisito
+
+funcional, que é o que o sistema deve fazer por obrigatoriedade.
+
+Nós temos o requisito não funcional que entram aí como características, qualidades que eu posso colocar
+
+no meu sistema, mas não é obrigatório.
+
+Temos aqui os requisitos de domínio, que é aquilo que vai haver em específico para um software, que
+
+é o de um determinado nicho.
+
+Aqui está sendo usado o exemplo de nicho como um varejo.
+
+O requisito de interface que é usado para quando há uma comunicação entre sistemas, por exemplo.
+
+E aí eu estou dizendo qual é o meio de comunicação entre esses dois sistemas?
+
+Como a informação está sendo enviada?
+
+Com o que a informação está sendo recebida?
+
+É o de usabilidade, que é como eu coloco as coisas de fácil usabilidade ou de forma agradável e eficiente
+
+ao usuário final.
+
+Beleza.
+
+E por fim, temos o requisito de desempenho.
+
+Requisitos de desempenho dizem respeito ao desempenho esperado do sistema em relação ao tempo de resposta,
+
+capacidade de processamento e uso eficiente de recursos.
+
+Um exemplo aqui.
+
+Olha só o requisito de desempenho pode ser sistema deve ser capaz de processar simultaneamente 1000
+
+transições ou 1000 transações por segundo.
+
+Outro exemplo seria o sistema de resposta do sistema não deve exceder 2/2, mesmo com a carga máxima
+
+de usuários.
+
+Só que dois requisitos de desempenho.
+
+Eu estou fazendo o que aqui?
+
+Neste caso, eu estou estressando a minha ferramenta ao máximo em algumas ocasiões.
+
+E eu estou dizendo a capacidade do que ele aguenta, do que ele suporta ou do que ele precisa ou do
+
+que é necessário ter.
+
+Então, daqueles dois requisitos que eram os principais requisitos funcionais e não funcionais, esse
+
+requisito de desempenho, ele entra como requisito não funcional.
+
+Eu posso acrescentar, mas não me é obrigatório possuir.
+
+Beleza, Então são aqui algumas classificações de grupos funcionais e não funcionais e os subgrupos
+
+que podem ser esses listados como foi mencionado nesta aula.
+
+Pessoal.
+
+De uma forma bem resumida, deixei alguns tópicos aqui que são como um lembrete.
+
+Tá bom, vamos lá.
+
+É importante destacar que essas são apenas alguns exemplos de tipos de requisitos que podem ser encontrados
+
+em um projeto de desenvolvimento de software.
+
+Novamente, isso vai variar do contexto, vai variar do nicho, vai variar do tipo de software, vai
+
+variar, ser um programa, ser uma aplicação.
+
+Se é uma ferramenta, ser um serviço e assim sucessivamente.
+
+Cada projeto terá seus próprios requisitos específicos e é uma responsabilidade do analista de Requisitos
+
+identificá los adequadamente.
+
+Então você, como analista de requisitos, você como analista de processos ou como analista de negócios
+
+por dever, deve saber identificar e mapear cada uma das necessidades obrigatórias e não obrigatórias
+
+também dentro do seu sistema.
+
+Lembre se de compreender os diferentes tipos de requisitos é fundamental para a análise adequada das
+
+necessidades do sistema.
+
+Então vocês precisam entender o que é o requisito necessário obrigatório, o que é o requisito funcional,
+
+o que é o requisito que entra como característica, qualidade ou descrição, que é o requisito não funcional?
+
+E aí vocês vão destrinchando o que é um requisito de desempenho, o que é um requisito de usabilidade
+
+e assim sucessivamente.
+
+Espero que vocês tenham entendido cada um deles.
+
+Espero que vocês consigam diferenciar cada um deles.
+
+Espero que vocês tenham entendido o que vocês têm absorvido, principalmente que vocês consigam colocar
+
+em prática.
+
+Me despeço por aqui.
+
+Fica com Deus e até breve.
