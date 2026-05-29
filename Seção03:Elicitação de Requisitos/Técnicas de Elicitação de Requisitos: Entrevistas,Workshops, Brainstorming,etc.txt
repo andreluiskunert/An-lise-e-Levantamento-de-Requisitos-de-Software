@@ -1,0 +1,445 @@
+Olá aluna, ao alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise de Requisitos
+
+de Software.
+
+Nesta aula falaremos um pouco sobre técnicas de elicitação de requisitos que são existentes e utilizadas
+
+no cotidiano.
+
+Então existem algumas no qual eu não apenas numerei para que nós possamos entender e identificar cada
+
+uma delas, mas eu também contribuir com algumas dicas para todas elas para facilitar o dia a dia,
+
+para facilitar também o aprendizado e principalmente, exercitar de uma forma mais prática a cabeça
+
+de vocês.
+
+Bom, primeiro de tudo, dentro de elicitação de requisitos, o que nós temos são as entrevistas ou,
+
+de forma bem resumida, o que são as entrevistas?
+
+Uma das técnicas mais comuns e eficazes para coletar informações dos usuários e partes interessadas
+
+nesse método, o Analista de Requisitos realiza perguntas diretas e abertas, permitindo que as pessoas
+
+expressem suas necessidades e expectativas em relação ao sistema.
+
+Então, aqui a entrevista é o que nós já havíamos falado em algumas aulas anteriores, no qual nós temos
+
+a função de perguntar ou de sugerir de certa forma, o que o sistema ou que aplicação que o software
+
+deve conter, quais as dores, quais as necessidades, o que seria viável ou o que gostaria que fosse
+
+existente.
+
+Para que nós possamos ter o início de um software e algumas dicas para conduzir uma entrevista de forma
+
+eficaz.
+
+Bom, primeiro é importante você preparar um roteiro de perguntas para orientar a entrevista, ou seja,
+
+para você ter um norte para você ter um horizonte, para você ter uma objetividade.
+
+Beleza.
+
+Segundo, criar um ambiente confortável e acolhedor para encorajar a participação ativa dos entrevistados.
+
+Então, aqui tem muito a parte da simpatia, da troca de informações.
+
+De repente, de um quebra gelo, uma piadinha, algo que deixe a pessoa mais confortável, que ela consiga
+
+ser mais aberto e ela consiga também ter uma maior expressão durante a entrevista.
+
+A beleza.
+
+E terceiro, ouvir atentamente e fazer anotações detalhadas durante a entrevista.
+
+Então, aqui o ponto que é interessante é que assim, quando você vai fazer a entrevista com alguém,
+
+ou seja, cliente, ou seja, parte interessada, ou seja, o usuário, enfim, você vai ouvir às vezes
+
+muitas coisas iguais de muitas pessoas, porém de formas diferentes.
+
+Por quê?
+
+Porque cada pessoa tem uma maneira de pedir, uma maneira de solicitar uma maneira de se comunicar.
+
+E aí você tende muitas vezes a anotar de forma detalhada, justamente para depois você passar a limpo.
+
+Então aqui é uma espécie de rascunho de um esboço para que você consiga depois fazer um Dê para de tudo
+
+aquilo que foi feito de todas as entrevistas e literalmente ter uma documentação objetiva.
+
+Segundo são os workshops, são os workshops.
+
+São sessões colaborativas que envolvem diferentes partes interessadas, como usuários, clientes e membros
+
+de equipe de desenvolvimento.
+
+Essa prática promove a troca de ideias e a obtenção de informações valiosas de forma interativa.
+
+Durante o workshop.
+
+Durante um workshop, pode ser realizadas atividades como discussões em grupo, atividades práticas
+
+e exercícios de brainstorming.
+
+Beleza.
+
+No workshop, de uma forma geral, é uma espécie de entrevista, só que em grupo, de uma forma mais
+
+interativa, onde você junta diferentes pessoas de diferentes nichos, diferentes áreas.
+
+Você junta usuários, você junta clientes, você junta membros da sua equipe, seja de desenvolvimento,
+
+seja de projetos, seja de produtos.
+
+E você coloca todas essas pessoas para trocarem informações, trocarem ideias, dar sugestões, dar
+
+feedbacks.
+
+Muitas vezes críticas aparecem também para que você tenha um mapeamento mais amplo, para que você também
+
+consiga não abrir apenas a sua cabeça, mas abrir a cabeça das outras pessoas, compartilhando informações.
+
+Então, muitas vezes o usuário vai solicitar uma coisa que talvez ele ache que é fácil de ser feito
+
+e o desenvolvedor ele pode opinar em cima disso, dizendo que não é tão simples explicar quais quer
+
+os processos.
+
+Então ali vai abrir um pouco a cabeça do usuário e ele vai ter uma percepção melhor, vai entender um
+
+pouco mais sobre qual é a dificuldade de criar aquilo que ele está solicitando.
+
+Muitas vezes você vai falar sobre cursos que as pessoas vão achar que talvez seja barato de fazer.
+
+Então você vai entrar nesses contextos também.
+
+E aí, assim como as entrevistas, aqui também tem algumas dicas ou quais são as dicas para conduzir
+
+um workshop de forma eficiente.
+
+Primeiro, definir uma agenda clara com os tópicos a serem abordados.
+
+Você já tem que ter ali uma agenda definida com as pessoas para que elas também se programem para que
+
+elas também travem agenda.
+
+Isso é importante, principalmente para não haver atraso ou saída antecipada desse workshop e tópicos
+
+que vão ser abordados da mesma maneira que você vai a entrevista com tópicos para fazer a entrevista
+
+dentro do workshop, você vai fazer o mesmo.
+
+Segundo, facilitar a participação de todos os envolvidos, garantindo que todas as vozes sejam ouvidas.
+
+Então aqui entra muito contexto.
+
+Assim que vai haver uma pessoa que é muito extrovertida ou vai haver uma pessoa que é dono da razão
+
+em tudo e vai sempre querer falar e bater o martelo?
+
+E vão haver outras pessoas que muitas vezes são introvertidas.
+
+São pessoas muitas vezes vergonhosas.
+
+Um exemplo.
+
+E elas não têm tanta aptidão ou não se sentem tão confortáveis em falar em público, principalmente
+
+em muitas pessoas.
+
+Então, aqui você tem que ter uma participação muito fundamental de fazer uma interação bacana com esses
+
+tipos de pessoas e fazer eles interagirem com o grupo e também opinarem.
+
+Muitas vezes eles guardam muitas informações importantes e valiosas justamente por não se sentirem confortáveis
+
+em trabalhar em grupo, por bem dizer.
+
+E, por fim, registrar as ideias e informações discutidas durante o workshop.
+
+Da mesma forma da entrevista, então você vai fazer um esboço mais detalhado possível para que depois
+
+você consiga passar tudo a limpo.
+
+Com a outra terceira técnica de elicitação e o próprio brainstorming.
+
+Ou o que é o brainstorm?
+
+É uma técnica criativa e colaborativa que visa gerar um grande volume de ideias em um curto período
+
+de tempo.
+
+Olha só, Eis aqui uma das coisas mais bacanas que a gente consegue fazer Ele citando requisitos.
+
+Vamos lá.
+
+Durante uma sessão de brainstorming, os participantes são encorajados a expressar livremente suas ideias,
+
+sem críticas ou julgamentos.
+
+Olha, aqui é aberto para todo mundo falar o que pensa, o que deseja, o que necessita, como deveria
+
+ser feito, por onde deveria começar, por onde deveria terminar, O que seria mais importante, O que
+
+seria menos importante dentre 1001 outra coisa que pode ser dita aqui?
+
+Bom.
+
+Essa técnica pode ser utilizada para gerar novas funcionalidades, identificar possíveis problemas e
+
+explorar soluções inovadoras.
+
+Então aqui vão ser pessoas que muitas vezes vão dar feedbacks positivos, muitas vezes vão dar feedbacks
+
+negativos.
+
+Vamos dizer que a ferramenta é lenta, que a ferramenta trava, que não tem funcionalidade X, não tem
+
+funcionalidade Y nem Z.
+
+Muitas vezes vão falar que as vezes cai o arquivo não sobe.
+
+As informações não são de certa forma legíveis.
+
+O sistema ele não é um sistema muito interativo e assim, por bem dizer, você vai ouvir 1001 coisas
+
+durante esse processo de brainstorm.
+
+Mas aqui é uma das coisas mais importantes por aqui.
+
+Porque aqui é onde você consegue entender literalmente aonde está o problema da ferramenta.
+
+Então ninguém melhor para dizer problemas na ferramenta senão o usuário que está utilizando o dia a
+
+dia, semana a semana, mês a mês.
+
+Beleza?
+
+E aqui também é um outro ponto que você também consegue gerar novas funcionalidades.
+
+Então, a partir dessas dores, você também consegue pensar em soluções e trazer novos recursos melhorias
+
+para dentro da ferramenta.
+
+Então, algumas dicas para realizar um brainstorming de forma eficaz.
+
+Primeiro, estabelecer regras claras.
+
+Como não julgar ou criticar as ideias apresentadas?
+
+Então aqui você tem que ser neutro.
+
+Beleza.
+
+Segundo, encorajar a participação ativa de todos os envolvidos.
+
+Então, da mesma forma que eu falei anteriormente, vai haver pessoas extrovertidas, donas da razão.
+
+Vá ver pessoas introvertidas, vergonhosas.
+
+Você tem que fazer todo mundo falar, todo mundo se comunicar, todo mundo se expressar, todo mundo
+
+dar ideias, feedbacks, etc.
+
+E terceiro, registrar todas as idéias em um quadro ou papel para facilitar a visualização e discussão
+
+posterior.
+
+Então aqui você não vai guardar para si esses informativos.
+
+Aqui você vai ter de fazer uma discussão em grupo.
+
+Então, aqui, muitas vezes você vai usar uma lousa, um quadro, se você estiver de forma presencial,
+
+se não, você estiver remoto, como a maioria das empresas está atualmente.
+
+Você vai ter ali um bloco de notas, uma apresentação em PowerPoint, seja o que você se sentir confortável,
+
+mas que tenha as anotações para que haja a troca de ideias também.
+
+Beleza.
+
+E nós temos aqui uma quarta técnica que é a prototipação.
+
+A prototipação envolve a criação de versões simplificadas do sistema para obter feedback dos usuários
+
+e validar os requisitos.
+
+Esses protótipos podem variar em complexidade, desde esboços em papel até protótipos interativos.
+
+Através da interação com o protótipo, o usuário pode fornecer feedback valioso sobre o funcionamento
+
+e a usabilidade do sistema.
+
+Então, aqui, como o próprio nome diz, ou um protótipo, ele é uma espécie de um esboço.
+
+E, como é dito aqui, você pode fazer de diversas formas.
+
+Duas delas você pode esboçar em um papel e mostrar ao usuário como funcionaria, como seria, como seria
+
+a visibilidade da tela, como ficaria a visualização das informações, como o sistema carregaria X,
+
+Y e Z de arquivo e etc.
+
+Ou você pode trabalhar em MVP, que é o mínimo produto viável, aonde você vai pegar as funcionalidades
+
+mais importantes, mais interessantes, o necessário para o sistema.
+
+Para a ferramenta funcionar.
+
+Você vai criar isso e vai apresentar de forma prática o usuário.
+
+Ele vai usar, ele vai estressar, ele vai testar, ele vai entender e ele também.
+
+A partir dali vai fazer uma avaliação sobre o que está sendo criado, o que está sendo desenvolvido,
+
+se está dentro ou fora do critério que ele necessita.
+
+Beleza.
+
+E aqui também tem algumas dicas eficazes.
+
+Primeiro, focar nos principais aspectos e funcionalidades do sistema.
+
+Então aqui, como eu comentei, entra no MVP que é o mínimo produto viável.
+
+Você vai pegar as funcionalidades principais, os aspectos principais, o que é importante necessário
+
+para o produto rodar.
+
+Beleza, E aí você vai criar a partir dali.
+
+Agora o enfeitar o pavão, que é quando você já tem algo e quer fazer melhoria, isso vai sendo feito
+
+de forma posterior.
+
+Legal.
+
+Segundo, comunicar claramente que o protótipo é apenas uma representação inicial do sistema.
+
+Aqui você tem que dizer pro que o usuário vai falar Pô, mas aqui tá feio, pô, mas não tem isso,
+
+pô, mas não tem aquilo.
+
+Então você tem que falar pra ele que vocês criaram com base em um critério, que a premissa é a funcionalidade
+
+a partir daquilo e que aquilo é o início e futuramente as coisas serão melhoradas não apenas em design,
+
+mas principalmente em recursos e funcionalidades.
+
+Terceiro foi dar feedback dos usuários sobre o protótipo e inteirar conforme o necessário.
+
+Então aqui você vai coletar tanto os pontos positivos quanto os negativos e a partir daí você vai fazer
+
+as melhorias ou vai acrescentar necessidades que ainda a ferramenta não possui.
+
+Bom.
+
+Quinta técnica de elicitação e observação.
+
+A observação envolve a observação direta dos usuários enquanto eles realizam tarefas diárias.
+
+Essa técnica permite ao analista de requisitos obter uma compreensão mais profunda das necessidades
+
+e problemas enfrentados pelos usuários no contexto real de uso do sistema.
+
+Então aqui, na verdade, é um acompanhamento que você vai fazer com os usuários para que você entenda
+
+não só como ele utiliza a ferramenta, como ele trabalha diariamente, mas também para você entender
+
+quais são as tarefas que ele possui no cotidiano que você muitas vezes pode otimizar ou acrescentar
+
+dentro da sua ferramenta.
+
+Então, esse processo aqui é um processo bem bacana, porque aqui você consegue entender também por
+
+muitas vezes, se a sua ferramenta não funciona de forma devida ou se é o usuário que não sabe utilizar
+
+a ferramenta de forma propícia.
+
+Legal.
+
+Aqui é onde você também consegue trazer outras coisas para dentro do seu sistema, conforme as necessidades
+
+ou o cotidiano do que ele realiza no dia a dia.
+
+E aqui também nós temos algumas observações ou algumas dicas para que nós consigamos fazer uma observação
+
+de forma eficaz.
+
+Primeiro, obter permissão dos usuários para observar as suas atividades.
+
+Então, aqui você primeiramente precisa pedir a permissão, porque não são todas as pessoas que aceitam.
+
+Não são todas as pessoas que se sentem confortáveis com isso em serem observadas a maneira que elas
+
+trabalham, e não são todas as pessoas que vão querer.
+
+Registrar observações detalhadas e capturar evidências como fotos ou vídeos.
+
+Então aqui é bem bacana para que você também não esqueça quais os procedimentos ou o que você viu.
+
+Então, se necessário, se possível, pedir para o usuário gravar.
+
+O dia a dia dele é bem bacana enquanto você observa ou se você não conseguir você mesmo tirar fotos.
+
+Óbvio, com a permissão do usuário, tirar fotos ou realizar vídeos das tarefas do que ele vem fazendo
+
+no dia a dia.
+
+Terceiro e isso é bem importante respeitar a privacidade dos usuários e não interferir em suas tarefas.
+
+Então aqui entra um conceito bem bacana.
+
+Eu vou dar um exemplo bem bobo.
+
+Vamos lá.
+
+Você está vendo uma pessoa, Ela está mexendo no Excel e aí muitas vezes você está vendo ela fazer algo
+
+que talvez para você seja muito simples, mas ela faz de uma forma mais complexa, mais demorada, usando
+
+mais passos, mais procedimentos ou mais ferramentas.
+
+Então, não interfira no modo em que a pessoa trabalha.
+
+Você está ali para observar e não para ensinar.
+
+Ela permitiu você observar e não ensiná la.
+
+Então saiba separar essas coisas, a não ser que a pessoa mesmo fale que sente uma dificuldade naquilo
+
+ou que ela comente e aí você tem uma brecha para adentrar e talvez dar uma dica de melhoria para essa
+
+pessoa.
+
+Do contrário, não interfira.
+
+É resumo de tudo.
+
+Importante ressaltar que essas são apenas algumas das várias técnicas disponíveis para elicitação de
+
+requisitos.
+
+Vimos cinco, mas existem mais.
+
+Cada técnica tem suas vantagens e desvantagens e a escolha da técnica mais apropriada dependerá do contexto
+
+e dos objetivos do projeto.
+
+Então aqui entra no contexto de que você tem de ter a malícia e entender o que você deve usar, qual
+
+o momento propício de se utilizar, o que você deve juntar, o que você deve mesclar, o que você deve
+
+combinar, o que você deve usar de forma separada, dentre outras.
+
+Bom, essa foi mais uma aula do nosso curso de Análise de Requisitos de Software.
+
+Espero que vocês tenham entendido e principalmente que vocês estejam gostando.
+
+Eu me despeço por aqui.
+
+Fica com Deus e até breve.

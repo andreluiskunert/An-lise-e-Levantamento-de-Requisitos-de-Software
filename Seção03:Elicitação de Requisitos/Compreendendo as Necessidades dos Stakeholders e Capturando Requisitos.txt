@@ -1,0 +1,402 @@
+Olá aluna, ao aluno, sejam muito bem vindos a mais uma aula do nosso curso de Análise de Requisitos
+
+de Software.
+
+Nesta aula falaremos um pouco sobre as necessidades dos stakeholders e a captura dos requisitos de forma
+
+clara e precisa.
+
+Então, nessa aula nós vamos compreender alguns conceitos.
+
+Então, da mesma forma que eu fiz na aula anterior, eu vou trabalhar aqui por tópicos, beleza?
+
+Então o primeiro tópico para que nós possamos compreender as necessidades dos stakeholders e capturar
+
+os requisitos de forma clara e objetiva e identificando os stakeholders.
+
+Então, antes de começarmos a capturar os requisitos, é importante identificar quem são os stakeholders
+
+envolvidos no projeto.
+
+Stakeholders são todas as partes interessadas que serão afetadas pelo sistema, como clientes, usuários
+
+finais, gerentes, equipes de desenvolvimento, entre outros.
+
+Então, aqui nós já entendemos que os stakeholders são as pessoas envolvidas e essas pessoas elas são
+
+separadas por grupos.
+
+Então, nós temos os stakeholders, que são os usuários.
+
+Nós temos os stakeholders, que são os clientes.
+
+Nós temos os stakeholders, que são as partes interessadas.
+
+Nós temos os stakeholders, que são os gerentes, Nós temos os stakeholders, que são a equipe de desenvolvimento.
+
+Nós vamos ter stakeholders que fazem parte de design, por exemplo.
+
+Então, 1/1, que é importante para que nós possamos capturar os requisitos de forma clara e precisa,
+
+é compreender as necessidades de cada um dos stakeholders.
+
+Então aqui está dizendo que os stakeholders, de uma forma geral, são pessoas que estão envolvidas
+
+e têm interesse naquele projeto.
+
+Só que dentro do meu projeto e dentro dos meus interesses, eu tenho grupos específicos.
+
+Um exemplo os interesses do meu usuário não vai ser os mesmos interesses dos gerentes, os meus interesses,
+
+que talvez fosse de projetos ou desenvolvimento, não seria os mesmos interesses dos clientes e assim
+
+sucessivamente.
+
+Então, o primeiro de tudo é você saber identificar e separar cada um desses grupos para que você trabalhe
+
+de forma apartada e entenda a necessidade de um grupo específico separadamente, para que depois você
+
+tem o entendimento como um todo.
+
+Bom, é crucial envolver todos os stakeholders relevantes, pois cada um deles pode ter perspectivas
+
+e necessidades diferentes.
+
+Então aqui é o que eu acabei de comentar mesmo.
+
+Segundo, realizando entrevistas detalhadas.
+
+Então aqui vai bater muito com o que nós já falamos em algumas aulas.
+
+Uma das melhores formas de compreender as necessidades dos stakeholders é através de entrevistas detalhadas
+
+durante as entrevistas.
+
+É importante fazer perguntas específicas e direcioná las para obter as informações claras e precisas.
+
+O que comentamos ao anterior?
+
+Sermos objetivos e entrarmos nessas entrevistas já com roteiros prontos, preparados.
+
+Deixar as pessoas confortáveis, ter aquele quebra gelo para que as pessoas se expressem de uma forma
+
+mais leve também.
+
+Novamente, algumas dicas para conduzir entrevistas detalhadas são Preparar um roteiro de perguntas
+
+com base nos stakeholders e no contexto do projeto.
+
+Olha só que mudou a dica da aula anterior para a dica de agora.
+
+Aqui eu estou falando o quê?
+
+Roteiro de perguntas com base nos stakeholders e no contexto do projeto.
+
+Então, aqui eu estou dividindo por grupo.
+
+Se o meu stakeholder no qual eu vou fazer a entrevista no momento é o usuário final, eu vou me basear
+
+em uma entrevista, criar um roteiro para um usuário final.
+
+Se a minha entrevista de um stakeholder é para uma pessoa que faz parte do desenvolvimento, eu vou
+
+me basear em um roteiro para um contexto que é relacionado a desenvolvimento.
+
+Então aqui eu vou fazer uma entrevista detalhada de acordo com o grupo de stakeholder no qual eu estou
+
+falando.
+
+Segundo, ouvir atentamente as respostas e fazer anotações detalhadas aqui não muda nada do que nós
+
+já vimos na aula anterior.
+
+Terceiro, utilizar técnicas de comunicação eficaz, como reformular perguntas e pedir exemplos concretos.
+
+Muitas vezes a pessoa vai falar você não vai entender e você só vai fazer ou tá bom.
+
+Só que na verdade você não entendeu.
+
+Quando você não entender, não tem problema, Não sinta vergonha.
+
+Falar olha só, eu não entendi.
+
+Por favor, reformule, Por favor, me dê um exemplo.
+
+E aí você vai entrar no contexto e vai bater o martelo até que você entenda o que ela está dizendo ou
+
+o que ela está falando, ou o que ela está pedindo também.
+
+Terceiro, realizando workshops colaborativos.
+
+Os workshops colaborativos é uma excelente forma de envolver os stakeholders e capturar requisitos de
+
+forma participativa.
+
+Aqui nós já falamos na aula anterior aqui aonde eu vou fazer um grupo com diferentes tipos de stakeholders.
+
+Aqui é onde eu vou pegar um stakeholder, que é o usuário final.
+
+Um stakeholder quer desenvolvimento e sei que roda, que é projetos.
+
+O hipster que roda, que é gerente, um ser que roda, que é cliente, enfim.
+
+Eu vou fazer aqui uma miscigenação dessas pessoas para que eu faça o workshop e eu tenha de uma única
+
+vez várias ideias de diferentes grupos de stakeholders ao mesmo tempo.
+
+Dando essas sessões, é possível estimular a colaboração, promover a troca de ideias e alinhar expectativas
+
+que nós vimos na aula anterior.
+
+Algumas dicas para realizar os workshops colaborativos são.
+
+Definir um objetivo claro para o workshop Uma agenda bem estruturada Vimos aula passada.
+
+Dois Utilizar técnicas como brainstorming e dinâmicas em grupo para estimular a participação ativa.
+
+Também vimos aula passada.
+
+Três Designaram facilitador para conduzir o workshop e garantir que todas as vozes sejam ouvidas.
+
+Também já falamos aula anterior.
+
+Existem pessoas que são extrovertidas, donas da razão, querem bater o martelo em tudo e existem pessoas
+
+introvertidas, pessoas vergonhosas que muitas vezes não vão querer falar.
+
+Estão ali literalmente porque foram chamadas.
+
+Então vai ter de ter um facilitador.
+
+Muitas vezes vai ser você, mas pode ser outras pessoas que você delegar também para conduzir, desde
+
+que você saiba que essa pessoa saiba conduzir de uma forma bem clara, objetiva.
+
+Quatro A técnica de observação Falamos Aula anterior Observação direta do sistema de roldanas em seu
+
+ambiente de trabalho pode proporcionar insights valiosos sobre as suas necessidades e requisitos.
+
+Observar como eles realizam as tarefas diárias pode revelar informações que não seriam obtidas por meio
+
+de entrevistas, workshops.
+
+E é o que eu falei sobre as tarefas enquanto você os observa.
+
+Muitas vezes você vai conseguir tirar muitas coisas, muitas funcionalidades para o sistema, inclusive
+
+de acordo com o que o usuário com que o stakeholder está usando a ferramenta no dia a dia.
+
+Algumas dicas para a utilização dessas técnicas de observação são.
+
+Número um Obter a permissão do stakeholder para observar a atividade.
+
+Dois Registrar observações detalhadas e capturar evidências como fotos ou vídeos.
+
+E três Respeitar a privacidade dos stakeholders e não interferir em suas tarefas.
+
+E aqui, novamente, como nós estamos falando em stakeholders por grupos separados, vai variar.
+
+Então aqui eu posso estar falando de um stakeholder que é o usuário final.
+
+Aqui eu posso estar falando de um stakeholder que é gerente.
+
+Então as tarefas, os afazeres, a maneira no qual são utilizadas ferramentas, muitas vezes até os
+
+módulos, a ferramenta no qual eles utilizam são diferentes, então é interessante observar cada um
+
+deles.
+
+Quinto utilizando técnicas de documentação.
+
+Após coletar as informações dos stakeholders, é importante documentar os requisitos de forma clara
+
+e precisa.
+
+Existem várias técnicas de documentação, como a criação de diagramas de caso de uso, lista de requisitos,
+
+mapa de empatia, entre outros.
+
+Nós vamos ver a maioria durante o curso, então não se preocupe quanto a isso que é fundamental escolher
+
+a técnica mais adequada para o contexto do projeto e garantir que a documentação seja compreensível
+
+e acessível a todos os stakeholders.
+
+Como assim, Avila?
+
+O que é escolher a técnica mais adequada ao contexto?
+
+Vamos lá.
+
+Bom, dentre as técnicas de documentação, eu tenho técnicas que existem em documentação textual.
+
+Eu tenho técnicas que exige em documentação visual.
+
+O que seria uma documentação visual?
+
+Seria transformar todos os requisitos.
+
+Tudo o que você anotou, todos os pontos que você levantou em uma espécie de fluxo de processo, só
+
+que de forma ilustrativa.
+
+Por que eu digo isso?
+
+Porque existem pessoas que elas não são aptas, ou talvez elas não entendam de uma forma tão clara e
+
+objetiva.
+
+Talvez quanto você.
+
+Sobre documentação textual, muitas vezes ela tem dificuldades de leitura, muitas vezes ela tem dificuldade
+
+de interpretação, então você muitas vezes tem de fazer um processo visual, porque você vai transformar
+
+tudo aquilo que você escreveu, tudo aquilo que é texto em desenho.
+
+E aí pras pessoas terem uma percepção, ou para as pessoas terem um entendimento maior e mais fácil
+
+pra que elas consigam entender.
+
+Vou dar um exemplo bem clássico você tem um grupo de informações dentro do Excel, uma porrada de informações
+
+que você sabe porque você utiliza no dia a dia.
+
+Só que se você mostrar o seu superior, talvez ele não vai saber ou ele vai sentir dificuldade de interpretar.
+
+Quando você vai fazer uma apresentação para o seu superior, você geralmente mostra uma planilha ou
+
+um gráfico.
+
+Possivelmente você vai mostrar um gráfico.
+
+Por quê?
+
+Porque é uma imagem ilustrativa que representa as informações no qual você trabalha no dia a dia.
+
+Então, para o seu superior, no caso, ele olha um gráfico e ter um entendimento é muito mais fácil
+
+do que ele olhar coluna, coluna, informação, informação.
+
+Então, da mesma forma que as técnicas de documentação funcionam assim, então existem empresas que
+
+trabalham só com documentações textuais.
+
+Existem empresas que trabalham só com documentações visuais, mas a maioria das empresas elas trabalham
+
+com os dois tipos de documentação.
+
+Então, o que eu aconselho?
+
+Principalmente se você trabalha numa empresa e ela não adota essa metodologia, É interessante até que
+
+você implemente de uma forma bem resumida que isso vai facilitar não apenas o seu dia a dia, não apenas
+
+o cliente, não apenas os stakeholders, mas todas as pessoas que tiverem a necessidade de ter acesso
+
+a essa documentação, seja de qualquer outra área, seja um funcionário novo e etc.
+
+Então, sempre quando você for fazer a documentação, crie uma documentação textual, mas também crie
+
+uma documentação visual e se você precisar mandar para alguém, não pergunta se ela precisa de uma ou
+
+de outra já de imediato manda as duas e aí a pessoa vai ter uma aptidão melhor.
+
+Então se ela preferir optar em ler o documento, ela vai ler.
+
+Se ela quiser visualizar a imagem, ela vai visualizar.
+
+E se ela quiser trabalhar ou estudar os dois documentos, seja imagem ou texto, ela vai fazer também.
+
+Beleza, Fica a dica para vocês.
+
+Bom, é fundamental escolher as técnicas mais adequadas ao contexto do projeto e garantir que a documentação
+
+seja compreensível e de fácil acesso a todos os stakeholders.
+
+Com o número seis, validando e refinando os requisitos.
+
+Ao capturar os requisitos, é importante validar a sua precisão e relevância com os stakeholders.
+
+Isso pode ser feito por meio de revisões, prototipação e testes.
+
+O feedback dos stakeholders é essencial para garantir que os requisitos atendam as necessidades e expectativas.
+
+Além disso, os requisitos podem precisar de refinamentos e ajustes ao longo do processo de análise.
+
+Então aqui entra o que nós falamos na aula anterior sobre fazer protótipos ou escrever num papel, ou
+
+fazer um MVP, levar para o usuário validar para ele dar o feedback para ele entender se está dentro
+
+do que foi conversado e é essencial para garantir que os requisitos atendam as necessidades.
+
+Então, por que você deve fazer isso?
+
+Para que você não perca tempo e não perca dinheiro?
+
+De uma forma bem resumida.
+
+Para se desenvolver leva tempo.
+
+Você paga um desenvolvedor, então você está gastando tempo e dinheiro.
+
+A empresa está gastando tempo e dinheiro e não vai adiantar nada você fazer uma série de coisas.
+
+E quando você levar para o usuário, para qualquer outro stakeholder que tiver a necessidade de visualizar
+
+e não tiver dentro do contexto e não estiver dentro das expectativas, então é sempre bom você sempre
+
+levar de pouquinho em pouquinho, mas sempre levar com frequência para sempre manter alinhado e dentro
+
+das expectativas do que as pessoas querem.
+
+Bom, e por fim, lembrando que compreender as necessidades dos stakeholders e capturar requisitos de
+
+forma clara e precisa é um processo contínuo e iterativo.
+
+Óbvio, você não vai fazer isso daqui uma vez e nunca mais.
+
+Só que e frequência você vai definir ali uma vez a cada uma semana, uma vez a cada 15 dias, duas vezes
+
+a cada 15 dias, uma vez a cada um mês, duas vezes a cada um mês.
+
+Se você vai ter de ir muitas vezes conversar com os stakeholders e entender também o que ele prefere.
+
+Claro que quem manda é você e você vai entender as necessidades melhor que ele, Mas muitas vezes as
+
+pessoas, principalmente se forem pessoas importantes, talvez não tenham uma agenda, muita agenda
+
+livre, muito frequente.
+
+Então possa ser que essas entrevistas elas não sejam tão frequentes assim.
+
+Mas é sempre importante manter a situação sempre que possível.
+
+Então, olha só, é importante manter uma comunicação constante com os stakeholders e estar aberto a
+
+mudanças e novas descobertas ao longo do projeto.
+
+Então, da mesma forma que surgem novas ideias ou que surgem novas funcionalidades na ferramenta, muitas
+
+vezes as mudanças vão acontecer por parte dos stakeholders.
+
+Às vezes eles vão te pedir alguma coisa no início que você vai achar bacana.
+
+Muitas vezes eles vão desistir daquilo porque vão achar que vai trocar seis por meia dúzia.
+
+Às vezes eles vão até querer mudar aquilo que eles haviam pedido, trazer de uma outra forma, de um
+
+outro contexto, de um outro jeito e etc.
+
+Então é interessante e é necessário você estar aberto a novas mudanças e descobertas.
+
+É interessante você estar disposto e aberto a ouvir, disposto e aberto a entender.
+
+E essa foi mais uma aula do nosso curso de Análise de Requisitos.
+
+Espero que vocês tenham gostado e principalmente, que vocês tenham entendido que vocês estejam absorvendo
+
+bastante.
+
+Eu me despeço por aqui, Fica com Deus e até breve.
+Rol
