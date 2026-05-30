@@ -1,0 +1,393 @@
+Olá aluna o aluno, sejam muito bem vindos a mais uma aula do curso de Análise de Requisitos de Software.
+
+Nesta aula falaremos especificamente sobre documentações existentes
+
+e interação com especialistas de domínio.
+
+Bom, de forma resumida nós vamos entender nessa aula como trabalhar com documentações já existentes.
+
+Então imagine que você está migrando de empresa e a empresa no qual você está indo tem
+
+projetos em andamento, projetos em aberto e existe algumas documentações no qual você precisa fazer análises.
+
+Então nós vamos entender aqui quais os procedimentos devidos ou quais as melhores
+
+etapas a se fazer para que possamos ter essa análise de forma adequada.
+
+Fora isso, também trabalharemos nesta aula, inclusive sobre a interação com especialistas do domínio.
+
+Vamos entender o que significa um especialista de domínio e como
+
+nós podemos ter uma melhor interação com esse tipo de pessoa.
+
+Bom, então o primeiro de tudo é a análise de documentação existente.
+
+A análise de documentação existente é um processo que examinamos documentos
+
+e artefatos já disponíveis para extrair informações relevantes para o projeto.
+
+Se a documentação pode incluir manuais, especificações, relatórios, diagramas, entre outros, então
+
+pode haver aqui também, dentro da documentação proposta comercial, por exemplo.
+
+E aí existe alguns passos para que nós possamos fazer a análise das documentações.
+
+Então, o primeiro passo é identificar e coletar todos os documentos relevantes disponíveis.
+
+Então aqui entra num processo literalmente de buscar qualquer ou quaisquer tipos
+
+de documentação que seja relacionada ao projeto, seja num contexto geral, ou
+
+seja, uma parte especifica, um documento para um contexto específico do projeto.
+
+Então vou exemplificar para você aqui.
+
+Imagina uma arquitetura de software, o desenvolvimento de uma plataforma CRM, por exemplo.
+
+Pode ser um documento que fala de uma maneira ampla sobre
+
+o sistema no geral, sobre o CRM, todos os módulos.
+
+Como pode haver, por exemplo, documentos que fala
+
+especificamente de um módulo dentro da ferramenta CRM.
+
+Então, o papel aqui é identificar e coletar todos os documentos que são
+
+relevantes, documentos que são relacionados a projeto, documentos que são relacionados a integrações,
+
+documentos que são relacionados a tecnologias, documentos que são relacionados a valores.
+
+Então, por isso que eu mencionei proposta comercial, por
+
+exemplo, todo tipo de documento que tiver relação.
+
+Bom.
+
+Segundo ler e compreender o conteúdo dos documentos, buscando por requisitos
+
+e informações sobre o domínio do problema e possíveis restrições.
+
+Então aqui e após você coletar todos os documentos, é necessário tirar um tempo para
+
+ler, compreender, ler e entender todos os documentos e dali retirar o que os requisitos
+
+ou as informações importantes sobre o domínio para que você consiga posteriormente trabalhar em cima.
+
+Então, aqui dentro dos documentos, principalmente os documentos técnicos e a proposta comercial, é onde
+
+vai ter principalmente os requisitos mais importantes ou as premissas do projeto, por bem dizer.
+
+Bom.
+
+E terceiro, registrar as descobertas e insights obtidos durante a análise.
+
+Então, aqui você vai novamente remapear a partir daquilo que já existia em
+
+um contexto no qual você possa ter um entendimento e uma maneira ou
+
+uma metodologia que você possa abstrair mais detalhes daquilo que tem documentado.
+
+Bom.
+
+Segundo, interagindo com especialistas do domínio, que são especialistas no domínio.
+
+Comentei isso nas primeiras aulas, mas eu não adentrei, então vou colocar
+
+aqui com mais detalhes para ter um entendimento e uma absorção melhor.
+
+Os especialistas no domínio são pessoas com conhecimento profundo
+
+sobre a área em que o sistema será aplicado.
+
+Eles possuem experiência prática e entendem as regras e processos envolvidos.
+
+A interação com esses especialistas é fundamental para obter
+
+insights valiosos sobre as necessidades e requisitos do sistema.
+
+Bom, eu me recordo que quando eu falei sobre especialistas de domínio em aulas anteriores, eu
+
+falei em um exemplo sobre uma pessoa que trabalha com logística, por exemplo, não especialista.
+
+Domínio seria aquela pessoa que atua diariamente com aquela tarefa, com aqueles deveres,
+
+e ela sabe todos os processos ou regras de negócio sobre aquilo.
+
+Então imagina que você, por exemplo, precise criar um sistema, levantar requisitos para um
+
+sistema que pondera sobre controles ou saídas de produtos de estoque, por exemplo.
+
+Então, quem são as melhores pessoas para falar ou mostrar como
+
+que funcionam os processos de entrada de produtos ou saídas de
+
+produtos de estoque? Seriam as pessoas justamente que trabalham diariamente com
+
+isso? Talvez ali um encarregado de estoque ou propriamente um conferente.
+
+Essas pessoas, elas são denominadas como especialistas de domínio, porque são as pessoas que
+
+mais entendem do assunto ou as que mais interagem com aquilo no cotidiano.
+
+E aí, para essas pessoas, existem algumas estratégias de interação
+
+para que consigamos ali retirar informações importantes, por bem dizer.
+
+Então, primeiro de tudo, agendamento de reuniões individuais ou em grupo com os especialistas de domínio.
+
+Por que aqui está de forma genérica, no plural? Porque
+
+não pode ser apenas uma, mas pode ser várias pessoas.
+
+Eu posso ter ali um conferente que talvez saiba, saiba bastante, mas eu também.
+
+Junto ao conferente eu posso ter o superior dele, o encarregado, um gerente
+
+da operação que também saiba tanto quanto ou mais do que essa pessoa.
+
+Então eu posso fazer escolhas em reuniões individuais, reuniões paralelas entre essas pessoas, ou
+
+eu posso fazer uma única reunião em grupo e aí eu coloco todas essas
+
+pessoas relacionadas no mesmo lugar para fazer essa troca de figurinhas, por exemplo.
+
+Segundo, preparar perguntas específicas para obter informações relevantes.
+
+Isso aqui nós vimos em outras duas aulas anteriores, no qual nós já temos de preparar roteiros
+
+específicos, saber o que perguntar, maneiras de abordagem, como será as interações para facilitar a comunicação.
+
+Terceiro, ouvir atentamente as experiências e conhecimentos compartilhados pelos especialistas.
+
+Então, aqui você tem que ter o ouvido bem aberto.
+
+Está principalmente bem ligado à comunicação.
+
+Prestando bastante atenção, não pode estar avoado nesta etapa para que você não perca nenhum detalhe.
+
+E por fim.
+
+Quarta etapa registrar as informações obtidas e tirar notas durante as interações.
+
+Então, aqui é onde você vai anotando tudo o que você pondera como relevante para que
+
+você também consiga ali tirar notas durante as interações e também fazer questionamentos em cima.
+
+Até por um acaso também, se possível, se necessário, pedir palpites dessas pessoas.
+
+Elas também podem dar bastante palpites para aquilo que você tem
+
+como sugestão ou para ideias que você tem de como prosseguir.
+
+Às vezes, elas podem também estar ajudando bastante.
+
+Bom número três, realizando entrevistas com os especialistas de domínio.
+
+As entrevistas com os especialistas do domínio são uma
+
+técnica valiosa para aprofundar o entendimento dos requisitos.
+
+Durante essas entrevistas, é importante fazer perguntas específicas
+
+e explorar detalhes relevantes para o projeto.
+
+Algumas dicas para conduzir as entrevistas com os especialistas do domínio são.
+
+Primeiro, preparar o roteiro de perguntas com base nos objetivos do projeto e nas informações já coletadas.
+
+Então lembra que, antes de tudo, você já buscou todos os documentos que são
+
+existentes? Você já leu e compreendeu e retirou algumas informações daqueles documentos que
+
+você julgou como importante? E aqui nesse caso, dentro do roteiro, você vai
+
+preparar perguntas com base nos objetivos do projeto e nas informações já coletadas.
+
+Então aqui entra naquele contexto que se por um acaso você já fez a
+
+coleta de informações através das documentações existentes, porém aquelas informações elas não estão tão
+
+claras quanto deveria ser, Ou talvez dentro daquelas informações você tenha alguma dúvida.
+
+Essas pessoas aqui, elas também podem te ajudar a sanar aquela dúvida ou realmente a
+
+entender se aquilo que foi anotado é tão importante quanto está demonstrando ser, Por exemplo.
+
+Segundo, estar preparado para escutar ativamente, fazer perguntas de acompanhamento para
+
+esclarecer pontos importantes, que é o que eu mencionei anteriormente.
+
+Ter atenção no que está sendo dito e fazer perguntas
+
+para um melhor entendimento ou uma melhor absorção daquilo.
+
+Se talvez você não ter o entendimento tão claro, talvez a comunicação não for tão
+
+aberta, ou se a pessoa que estiver falando ela não ser tão objetiva, por exemplo.
+
+E terceiro, registrar as respostas e insights obtidos durante a entrevista, para que você também tenha um
+
+mapeamento do que foi dito, do que foi retirado e do que pode ser absorvido ali.
+
+Número quatro.
+
+Utilizando técnicas de modelagem.
+
+Então, aqui nós teremos aulas específicas para falar sobre modelagem.
+
+Até porque existem 14 tipos de modelagem, então, de certa forma, será um módulo bem amplo, bem robusto.
+
+E aqui nós veremos o que é de forma superficial.
+
+Técnicas de modelagem, beleza.
+
+Bom, como eu já mencionei também em aulas anteriores, a modelagem
+
+é uma forma visual de representar informações e requisitos do sistema.
+
+Entra naquele contexto, no que eu mencionei anteriormente, possa ser que existem pessoas que não tem
+
+uma interpretação tão boa com textos que talvez não tenham uma leitura tão legal e
+
+que talvez elas também tenham um entendimento ou uma melhor absorção olhando imagens e ilustrações.
+
+Então, a modelagem é uma forma visual de representar informações e
+
+requisitos do sistema, como eu mencionei anteriormente também sobre gráficos.
+
+Então imagina que você trabalha com Excel e você precisa fazer uma apresentação de
+
+informações que são relevantes para a diretoria, para os seus superiores e etc.
+
+Você nunca vai apresentar as informações em forma de tabela.
+
+Geralmente o que você faz é transformar aquelas informações de uma tabela em gráfico,
+
+então, de certa forma, você também está fazendo uma apresentação de forma ilustrativa.
+
+Então a modelagem é da mesma forma, só que com requisitos de sistema.
+
+Então, modelagem é uma representação visual de levantamentos, de
+
+requisitos de sistema e por que ela é útil.
+
+Ela pode ser útil ao analisar a documentação existente e interagir com os especialistas de domínio.
+
+Então lembra que os especialistas de domínio, eles são especialistas naquilo que eles fazem
+
+diariamente nas tarefas e deveres que eles possuem dentro daqueles cargos que eles têm.
+
+Só que eles não são obrigados a ter entendimentos técnicos, até entendimentos de informática.
+
+Eles não são obrigados a entender sistemas, entender módulos.
+
+Eles não são obrigados a entender integrações.
+
+Eles não são obrigados a entender APIs nem nada do tipo.
+
+Como que você vai se comunicar de forma com que essas pessoas entenda
+
+tudo isso? Muitas vezes você vai utilizar a modelagem justamente por isso.
+
+Beleza.
+
+Bom, e aí tem alguns exemplos e técnicas de modelagem existentes.
+
+Então existem diagramas de fluxo de dados que é denominado como o DFD,
+
+que é utilizado para representar a sequência de informações em um sistema.
+
+Existem diagramas de casos de uso que são utilizados para
+
+fazer ilustrações de interações entre atores e o sistema.
+
+Aqui o contexto de atores seria.
+
+Os usuários então são usados para ilustrar as interações entre usuários e sistema.
+
+Existem diagramas de classe.
+
+Esses são usados para representar a estrutura e os relacionamentos entre entidades e domínios.
+
+E entre esses três também existem outros 14 que eu já mencionei.
+
+Então existe diagramas de caso de uso, existe diagramas
+
+de máquina, existe diagramas de domínio e assim sucessivamente.
+
+Então nós teremos aulas específicas para falar sobre cada um deles em detalhes.
+
+Se possível, desenhar com cada um deles, entender como funciona, quando, o que
+
+deve ser utilizado, fazer comparativos, qual é melhor para cada ocasião, por exemplo.
+
+Mas aqui são três exemplos do que pode ser utilizado como técnicas de modelagem.
+
+Dentre essas três também tem uma quarta que foge um pouco do contexto que
+
+é o fluxograma, porque ele também é bastante utilizado aqui para fazer ilustrações também.
+
+Bom número cinco.
+
+Validação e refinamento.
+
+Após realizar a análise da documentação existente e interagir com
+
+especialistas domínio, é importante validar e refinar as informações coletadas.
+
+Isso pode ser feito por meio de revisões com os especialistas e atualizações nos artefatos de requisitos.
+
+A validação e o refinamento dos requisitos garantem que eles
+
+estejam claros, corretos e alinhados às necessidades dos projetos.
+
+Bom, então aqui eu também já mencionei aulas anteriores como funciona a validação e o
+
+refinamento literalmente e mostrar para as partes interessadas, seja os usuários, seja os clientes,
+
+enfim, seja gerentes, sejam pessoas que estão relacionadas a projetos para saber se o
+
+contexto ou o que está sendo mostrado ou o caminho que vai ser seguido
+
+está sendo aderente, está sendo dentro das expectativas, está sendo abrangente para o projeto.
+
+Então todos os refinamentos e validações são necessários por isso.
+
+Então primeiro você valida e se necessário você refina.
+
+Você lapida aquilo para ter um melhor entendimento.
+
+E aí, o que é importante lembrar de tudo isso? Então,
+
+aqui tem uma dica geral, tá? Lembrando que a análise de
+
+documentação existente e a interação com especialista do domínio são etapas
+
+fundamentais para a compreensão das necessidades e requisitos do sistema.
+
+Essas atividades nos ajudam a obter um conhecimento mais aprofundado sobre
+
+o domínio do problema e garantem que estamos desenvolvendo soluções adequadas.
+
+Então, a importância de nós fazermos todos esses mapeamentos a partir
+
+de documentações existentes e compreender como falar com os especialistas.
+
+Domínio.
+
+É justamente com esse propósito.
+
+Isso nos ajuda a ter um conhecimento aprofundado e também garante que nós possamos desenvolver soluções mais
+
+adequadas ou, de certa forma, mais propícias para a ocasião ou para a necessidade daquele momento.
+
+Lá era.
+
+E essa foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Eu espero que vocês estejam gostando do curso.
+
+Espero que vocês tenham gostado desta aula.
+
+Me despeço por aqui, Fica com Deus e até breve.
