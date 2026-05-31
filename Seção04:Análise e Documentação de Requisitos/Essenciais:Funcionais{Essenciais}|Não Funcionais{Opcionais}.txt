@@ -1,0 +1,299 @@
+La Luna ao aluno.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Nesta aula nós falaremos, ou melhor, nesta aula nós abordaremos como fazer as
+
+identificações de requisitos que são essenciais e de requisitos que são opcionais.
+
+Ou melhor, da mesma maneira que nós aprendemos e aulas anteriores, Como
+
+fazer as identificações devidas de requisitos funcionais e requisitos não funcionais.
+
+Então, aqui nesta aula, nós bateremos em alguns conceitos e entenderemos quais são as
+
+etapas cruciais para que nós possamos fazer a separação do que é essencial
+
+ou funcional, ou do que é opcional, no caso, que seria não funcional.
+
+Bom.
+
+A identificação de requisitos é uma etapa crucial no processo de desenvolvimento de projetos,
+
+pois ela define o escopo e as funcionalidades que serão incorporadas ao produto final.
+
+Requisitos podem ser classificados em essenciais e opcionais ou como aprendemos ao decorrer do curso.
+
+Funcionais e não funcionais.
+
+E cada um deles pode desempenhar um papel que é fundamental
+
+na definição e o sucesso do projeto ou sucesso do produto.
+
+Bom, então de certa forma nós vimos já ao decorrer do curso que para
+
+que nós possamos ter um projeto bem feito, ou que nós possamos ter um
+
+produto bem aderente que cumpra as expectativas, nós precisamos ter os requisitos bem definidos.
+
+Então aqui nesta aula nós falaremos especificamente sobre as etapas de separação para melhor identificar o que
+
+é funcional, o que é não funcional, o que é essencial e o que é opcional.
+
+Tá bom? Então, começando por requisitos essenciais ou funcionais,
+
+os requisitos essenciais são aqueles que são absolutamente
+
+necessários para atender os objetivos centrais do projeto.
+
+Ou seja, de certa forma, são os requisitos que são considerados premissas e obrigatoriedade.
+
+Ter isso dentro do projeto ou obrigatoriedade ter isso dentro do produto.
+
+Bom são as funcionalidades e características fundamentais que devem ser
+
+implementadas para que o produto cumpra a sua finalidade principal.
+
+Requisitos essenciais geralmente estão ligados diretamente ao propósito do projeto
+
+e a solução dos problemas que ele visa resolver.
+
+Identificar requisitos essenciais envolvem entender as necessidades dos stakeholders
+
+e traduzi las em funcionalidades ou características específicas.
+
+Esses requisitos são a base sobre as quais o projeto é construído e não
+
+podem ser comprometidos sem afetar a integridade ou a utilidade do produto final.
+
+Então, novamente com base em aulas anteriores, o exemplo que eu venho dando Imagina que você
+
+vai fazer um sistema, um produto que faz controle de entrada e saída de estoque.
+
+Bom, quais seriam as premissas que esse sistema ele deveria
+
+ter? Quais são as funcionalidades que são obrigatórias? Bom, para
+
+que eu tenha um controle, obviamente eu preciso ter produtos.
+
+Então o cadastro, a edição, a exclusão dos meus produtos que entra e que
+
+saem do estoque seriam levados aqui nesse quesito, como requisitos essenciais ou requisitos funcionais.
+
+E aqui tem um outro exemplo para uma melhor absorção.
+
+Então imagina que nós temos um aplicativo que é de entrega de alimentos, ou seja, um delivery.
+
+Qual seria o requisito funcional pra que nós tenhamos um delivery,
+
+que nós consigamos fazer venda, consigamos atender clientes, consigamos fazer entregas.
+
+Olha só o aplicativo.
+
+Ele deve permitir que os usuários escolham restaurantes, façam pedidos e paguem online.
+
+Então, aqui são três requisitos funcionais, ou seja, três requisitos essenciais.
+
+Então, para que eu consiga fazer uma venda, eu preciso ter
+
+o que? Restaurantes cadastrados no meu aplicativo e os meus usuários.
+
+Eles precisam conseguir escolher os restaurantes que eles querem fazer pedido.
+
+Segundo, eles precisam fazer o pedido, porque não basta entrar num restaurante.
+
+Se eles não conseguirem fazer pedido, então eles precisam escolher o restaurante e fazer o pedido.
+
+E terceiro, eles precisam também conseguir fazer pagamento online.
+
+Então a gente sabe que está num mundo tecnológico cada vez mais otimizado
+
+e nada mais justo do que nós temos a opção de pagamento online.
+
+Então aqui seriam que três premissas, três regras, três obrigatoriedades que
+
+meu aplicativo delivery ele precisaria ter para ir ao ar.
+
+Então aqui seria o que o famoso MVP.
+
+O mínimo produto viável é aquilo que eu crio com de certa forma
+
+as funcionalidades mais básicas, porém as mais necessárias para que meu produto comece
+
+a rodar e a partir dali eu consiga ganhar feedbacks e a partir
+
+desses feedbacks eu consiga otimizar, melhorar, acrescentar funcionalidades, novos recursos e etc.
+
+Dando continuidade agora.
+
+Requisitos opcionais ou requisitos não funcionais Os requisitos opcionais, por outro lado, são funcionalidades
+
+ou características que podem melhorar a experiência do usuário ou adicionar valor ao produto,
+
+mas não são estritamente necessários para que ele cumpra a sua função principal.
+
+Ou seja, é aqui o que eu preciso ter no meu produto, na minha
+
+ferramenta, na minha funcionalidade, que de certa forma vai agregar valor, vai trazer
+
+satisfação, mas que não é uma obrigatoriedade para que a minha ferramenta funcione.
+
+Olha só.
+
+Requisitos opcionais podem ser considerados desejáveis e podem ser incluídos
+
+ou excluídos, dependendo dos recursos disponíveis, prazos e prioridades.
+
+Então aqui entra aquele contexto que o usuário às vezes vai pedir para enfeitar o pavão.
+
+Você vai entender que não há tanta importância para aquele momento.
+
+E aí você pode ir trabalhar com prazos, priorizar ações e ir ajustando conforme
+
+necessário e enquadrar aquele recurso, aquela funcionalidade, ou melhor, aquele pedido que ele
+
+solicitou de acordo com a aderência e o andar da carruagem do projeto.
+
+Dando continuidade.
+
+Identificar os requisitos opcionais envolve avaliar quais funcionalidades
+
+podem ser implementadas para aprimorar o produto.
+
+Além das suas funcionalidades essenciais.
+
+A inclusão de requisitos opcionais pode depender das preferências dos usuários, das tendências do
+
+mercado e de outros fatores não essenciais para a solução do problema central.
+
+Então, aqui, como eu já comentei em aulas anteriores, entra muito aquele D
+
+para dos stakeholders, porque usuário final ele vai ter um determinado interesse.
+
+Só que pra agregar valor e dinheiro pra empresa nós precisamos também ver o
+
+que o lado das partes interessadas, o lado dos clientes e talvez tenha cliente.
+
+Nós precisamos também entender o lado da diretoria e o lado da gerência,
+
+Então realmente precisa e é necessário cruzar determinadas informações para saber se os
+
+requisitos que são opcionais que foram solicitados é cabível e viável ou não.
+
+Bom.
+
+É aqui o mesmo exemplo do nosso aplicativo de alimentos, ou seja, do nosso delivery, só que
+
+para um requisito opcional ou no caso, o requisito não funcional, o aplicativo pode oferecer um recurso
+
+de rastreamento em tempo real para que os usuários possam acompanhar a localização de seu pedido.
+
+Saber ali, de certa forma, se o pedido está em preparação, se o pedido já
+
+foi enviado, se o pedido está em rota, se o pedido foi entregue, etc.
+
+Bom, isso não é uma premissa para que eu consiga fazer o pedido, fazer o pagamento e receber o pedido,
+
+eu posso ter o aplicativo que eu consiga fazer o pedido, eu consiga fazer o pagamento, ele chega até
+
+a minha casa, só que eu não tenho como fazer a localização e nem estimar o tempo de entrega.
+
+Beleza.
+
+Só que novamente, se eu quiser enfeitar o pavão, trazer uma satisfação melhor, uma certa
+
+experiência ao meu usuário final, eu acrescento coisas que melhoram a usabilidade, melhoram a dinâmica.
+
+E aí entra nesse contexto meu aplicativo de delivery.
+
+Ele não necessariamente precisa ter isso pra funcionar, mas óbvio que se tiver
+
+uma melhor satisfação eu terei para o meu usuário final, por exemplo.
+
+E aí como que nós fazemos a identificação e a
+
+priorização desses requisitos? Como que nós vamos identificar o que
+
+é funcional e o que é não funcional? E, principalmente,
+
+como que nós vamos priorizar cada um deles aqui? Olha
+
+só! Para identificar e priorizar requisitos, é essencial envolver as
+
+partes interessadas, como usuários finais, clientes e membros da equipe.
+
+Isso pode ser feito por entrevistas, pesquisas, workshops e brainstormings e análise
+
+de documentação, que é o que nós já aprendemos em aulas anteriores.
+
+Então, aqui para mim, identificar o que vai ser funcional, o que vai ser opcional e
+
+eu posso fazer a metodologia de técnicas de elicitação, Por exemplo, eu consigo conversar com as
+
+pessoas, fazer entrevistas, marcar bate bate papos e eu consigo dali ter uma melhor absorção ou
+
+ter uma visão mais ampla do que pode ser importante, do que pode ser opcional.
+
+Olha só.
+
+Ao coletar informações sobre as necessidades e expectativas das partes interessadas, é possível determinar quais
+
+requisitos são essenciais para o sucesso do projeto e quais podem ser considerados como opcionais.
+
+A priorização de requisitos envolve categorizar os requisitos de
+
+acordo com a importância e impacto do projeto.
+
+E aí tem técnicas matriz de priorização e abordagem como AMOSC ou W, que pode ser utilizada
+
+para classificar os requisitos em diferentes níveis de prioridade, facilitando a tomada de decisões durante o processo
+
+de desenvolvimento e, no caso, entre outros contextos, de colocar ali as premissas para um beck.
+
+Hoje, entender a esteira de desenvolvimento e saber o que é mais crítico,
+
+o que é mais prioritário, o que vai agregar mais valor para a
+
+empresa, o que vai trazer mais satisfação para o usuário fazer um de
+
+para cruzar todas essas informações, para conseguir mensurar quais requisitos tem uma importância
+
+maior, que deve ser criado primeiro, quais requisitos têm uma importância não tão
+
+relevante assim, Quais requisitos talvez eu consiga criar com mais velocidade ou com
+
+mais facilidade, de acordo com a complexidade dele? Quais requisitos eu vou demorar
+
+mais tempo? Tudo isso deve ser mensurado para que nós consigamos ter ali
+
+um balanceamento para que o desenvolvimento seja feito da melhor forma devida.
+
+Continuando a identificação de requisitos essenciais e opcionais é um
+
+passo crucial no início de qualquer projeto de desenvolvimento.
+
+Isso garante que o produto final atenda às necessidades principais dos usuários e do mercado, ao mesmo
+
+tempo em que permite a inclusão de melhorias e recursos adicionais que podem agregar valor à solução.
+
+A habilidade de distinguir entre requisitos essenciais e opcionais e
+
+priorizá los adequadamente contribui para o sucesso geral do projeto.
+
+Então, de certa forma, como nós já vimos, isso é obviamente o papel
+
+do analista de processos, do analista de requisitos, do analista de negócios.
+
+E isso daqui é essencial.
+
+É necessário ter uma malícia para esse ponto, para que você consiga tocar o projeto e fazer
+
+as coisas andarem da melhor forma de vida ou dentro da linha em que isso foi acordado.
+
+Não era.
+
+E essa foi mais uma aula do nosso curso de Análise e Requisitos de Software.
+
+Espero que vocês tenham entendido e principalmente que vocês tenham gostado, eu me dissesse por aqui.
+
+Fica com Deus e até breve.
