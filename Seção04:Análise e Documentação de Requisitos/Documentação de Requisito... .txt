@@ -1,0 +1,389 @@
+La Luna ao aluno.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Nessa aula nós falaremos sobre documentações de requisitos utilizando linguagens naturais, diagramas
+
+ou ML, ou seja, diagramas de modelagem de dados e outras técnicas que também são fundamentais.
+
+Na verdade, nós já até vimos em aulas anteriores, mas eu vou repassar para vocês.
+
+Bom, a documentação de requisitos é uma parte crucial do processo de desenvolvimento de projetos,
+
+pois fornece um registro claro e detalhado das funcionalidades e características que o produto final
+
+deve ter.
+
+Como nós já vimos em aulas anteriores, existem várias técnicas e também existem várias abordagens para
+
+documentar requisitos de forma eficaz, incluindo o uso da linguagem natural e os diagramas de modelagem
+
+de dados.
+
+Primeiro de tudo, o que é a linguagem natural.
+
+Vamos lá?
+
+A documentação de requisitos utilizando a linguagem natural envolve a descrição clara e concisa das
+
+funcionalidades e características em termos compreensíveis para os stakeholders, independentemente
+
+do seu conhecimento técnico.
+
+Como eu mencionei em aulas anteriores, também.
+
+Bom, dependendo das pessoas que são as partes interessadas, dependendo de quem são os stakeholders,
+
+principalmente naquele contexto em que eu mencionei, onde as pessoas são proprietárias de domínio,
+
+elas são muitas vezes experts em tarefas, funções delegadas a área em que elas atuam.
+
+Mas talvez elas não saibam muito sobre sistemas, sobre tecnologia, sobre informática, nem nada do
+
+tipo.
+
+Então, quando você vai fazer a requisição, a documentação é de extrema importância você criar algo
+
+que todos tenham um entendimento, independente do nível de conhecimento em tratar o contexto no qual
+
+eu mencionei também anteriormente, no qual você precisa fazer documentações textuais, mesmo sabendo
+
+que existem algumas pessoas que talvez não tenham tanta facilidade pra leitura ou tanta facilidade de
+
+interpretação textual.
+
+E também a parte desenho a parte ilustrativa para melhorar o entendimento desses.
+
+E aqui vamos lá.
+
+Dando continuidade, aqui estão algumas dicas para criar a documentação eficaz utilizando linguagem
+
+natural.
+
+Então, nada mais do que dicas de etapas para você fazer a documentação da forma devida.
+
+Primeiro de tudo, use uma linguagem simples e direta, evitando jargões técnicos sempre que possível.
+
+Então a gente sabe que a área do ter e principalmente, tem muito termos inho técnico, muita coisinha
+
+em inglês e as pessoas que não fazem parte da área não tem obrigatoriedade nenhuma de saber se você,
+
+para escrever bonitinho, quiser adentrar e colocar esses contextos, é interessante que você coloque
+
+ali entre parênteses o que significa ou a tradução de cada palavra em inglês que você utilizar.
+
+Fazendo isso, você já vai ter uma amplitude muito boa para as pessoas que não tem o conhecimento daquilo.
+
+Bom.
+
+O segundo divide os requisitos em seções claras e organizadas, como descrição, funcionalidades e limitações.
+
+Então aqui você vai ter a descrição dos requisitos, as funcionalidades, os requisitos e as limitações.
+
+Dividir por seções para não deixar embaralhado e também ter uma facilidade, até porque se isso for
+
+para o desenvolvedor, por exemplo, ele não precisa ler a documentação inteira para achar o que ele
+
+precisa ou ele está precisando de detalhes sobre funcionalidades e existe uma seção no seu documento
+
+só de funcionalidades e ali ele vai conseguir achar o que ele precisa, por exemplo.
+
+Vamos lá.
+
+Terceiro, utilize frases curtas e parágrafos concisos para facilitar a leitura e compreensão.
+
+De certa forma é bem resumido, sem encheção de linguiça.
+
+Seja direto ao ponto.
+
+Quarto, os exemplos ou cenários para ilustrar como os requisitos serão aplicados na prática.
+
+Então, aqui foi o exemplo que demos em aulas anteriores sobre o aplicativo Delivery, por exemplo.
+
+Como que seria aquela funcionalidade dentro daquela ferramenta?
+
+E, por fim, inclua detalhes suficientes para que os desenvolvedores possam entender e implementar
+
+os requisitos com precisão.
+
+Voltando ao ponto, os desenvolvedores, eles geralmente trabalham com base em documentações, então
+
+tudo o que é entregue para eles fazerem para eles criarem para eles customizar, para eles mexerem e
+
+etc, Chega por documentação.
+
+Se você tem documentação suficientemente detalhada, você vai facilitar o trabalho do desenvolvedor.
+
+Você muitas vezes vai otimizar o tempo porque ele não vai perder tempo entendendo a documentação e vai
+
+usar esse tempo para desenvolver.
+
+Então você vai ter uma economia de tempo e uma redução de custo.
+
+Por quê?
+
+Porque ele vai precisar estimar o tempo que ele vai precisar para desenvolver.
+
+Porém, ele vai fazer isso com base no entendimento em que ele possui.
+
+Então, se ele tem uma documentação suficientemente detalhada, ele pode entender que às vezes aquilo
+
+que talvez seria complexo não seja tanto e estime um tempo de desenvolvimento menor do que talvez ele
+
+precisasse, por exemplo.
+
+Agora, falando um pouquinho sobre o ML, seria a nossa linguagem de modelagem.
+
+Aqui.
+
+Os diagramas o ML são uma linguagem visual poderosa para representar requisitos e modelar sistemas de
+
+software.
+
+Eles fornecem uma representação gráfica das interações, estruturas e comportamentos do sistema.
+
+Olha só que interessante aqui falei três coisas cruciais que são inclusive diferente as interações.
+
+É uma coisa dentro do sistema, as estruturas ou a arquitetura do sistema é uma outra coisa, é o comportamento.
+
+É uma terceira coisa distinta.
+
+Tudo isso daqui funciona em paralelo.
+
+Ou seja, para cada uma dessas três no qual eu mencionei, existe um tipo de diagrama que é feito especificamente
+
+para a representação gráfica ou ilustrativa daqui.
+
+Então, por exemplo, para eu precisar fazer a ilustração da interação do software, eu vou utilizar
+
+um tipo de modelagem para mim representar a estrutura ou arquitetura.
+
+Eu vou utilizar uma outra modelagem para mim fazer um diagrama comportamental, eu vou utilizar uma
+
+outra modelagem.
+
+Então aqui nós temos alguns dos modelos que são relevantes para documentação de requisitos, porque
+
+pouquinhos aqui.
+
+Mas já mencionei em outras aulas que existem 14 primeiro diagramas de caso de uso.
+
+Para que ele serve?
+
+Olha só.
+
+Representa as interações entre atores, que são os usuários finais, os usuários externos e o sistema,
+
+mostrando como os usuários interagem com as funcionalidades.
+
+Então esse diagrama aqui é de extrema importância para representar e ilustrar como o usuário utilizaria
+
+a ferramenta.
+
+Segundo é o diagrama de classe mostra as classes do sistema, seus atributos, métodos de relacionamento,
+
+ajudando a entender a estrutura das entidades do sistema, ou seja, diagrama de classe.
+
+Ele já tem um propósito diferente do anterior.
+
+Esse diagrama de classe aqui ele é usado para ilustrar a arquitetura do sistema, ou seja, quais e
+
+os bancos de dados que estão sendo utilizados?
+
+Para onde essas informações estão indo, quais informações fazem, amarrações com outras e etc.
+
+O terceiro diagrama de sequência ilustra a ordem das interações entre objetos do sistema ao longo do
+
+tempo, destacando os fluxos de comunicação entre eles.
+
+Então, aqui é um outro tipo de diagrama para uma outra ocasião.
+
+Então, como ele fala aqui, Olha só.
+
+Interações entre objetos do sistema ao longo do tempo, destacando os fluxos de comunicação entre eles.
+
+O que são objetos dentro do sistema?
+
+Os objetos dentro do sistema de uma forma bem robusta e bem simplificada, e tudo aquilo que o usuário
+
+consegue clicar e botão e arquivo e menu e modo e etc.
+
+O diagrama de sequência ele ilustra tudo isso daqui entre interações, ou seja, quando eu clico no
+
+botão X acontece o quê?
+
+Ou faz a amarração?
+
+Com qual outro objeto dentro do meu sistema?
+
+Um exemplo cliquei no botão abrir vai abrir uma tela, ou seja, o meu objeto, que é o botão abrir.
+
+Ele faz uma interação com a minha tela que foi aberta após um exemplo.
+
+É o último diagrama de Estado.
+
+Descreve os diferentes estados de um objeto ou descreve os diferentes estados de que um objeto pode
+
+assumir durante a sua vida útil e as transições entre os seus estados.
+
+Então lembra que qualquer sistema nós vamos ter alguma coisa relacionada.
+
+Pendente concluído em aberto isso são listados o nosso diagrama de estado.
+
+Ele é utilizado para fazer esses tipos de ilustrações.
+
+No exemplo, eu subi um arquivo para dentro de um sistema.
+
+No meu arquivo ele está em alguns estados.
+
+Primeiro, ele está em processamento.
+
+Segundo, ele pode ficar pendente.
+
+Terceiro, ele pode ser concluído, ou seja, ele subiu com sucesso para dentro do sistema, ou ele
+
+foi recusado.
+
+Então, aí a gente pode entender que o arquivo ele pode ter sido corrompido ou a estrutura do arquivo
+
+que eu subi não é suportada no sistema ou formato que eu tentei subir.
+
+O sistema não comporta.
+
+Enfim, são estados.
+
+E esse diagrama ele é utilizado para isso, por exemplo.
+
+E aí, juntamente ao que nós já falamos anteriormente, novamente temos as técnicas de licitações,
+
+que é o que vimos em aulas anteriores.
+
+No caso, na aula passada.
+
+Então nós vamos passar aqui de uma forma bem resumida, não vamos entrar muito em detalhes porque já
+
+tivemos aulas específicas para isso, mas para entendermos que juntamente a nossa linguagem natural,
+
+juntamente a nossa modelagem de dados, nós também utilizamos as técnicas de licitação.
+
+Então temos as entrevistas, os workshops, os brainstorms, as prototipagem que são usadas em conjunto
+
+também.
+
+E aqui eu coloquei algumas ferramentas de documentação que são utilizadas no cotidiano.
+
+Cara, assim, para qualquer coisa que você vier a fazer, vai existir literalmente mais de uma opções.
+
+Eu coloquei duas ou três para cada um aqui, só para abrir um pouquinho, expandir um pouquinho a cabeça
+
+de vocês.
+
+Então utilize ferramentas específicas para documentar requisitos de forma organizada e colaborativa.
+
+O que eu sempre vou pensar para quando eu utilizar ferramentas para fazer as documentações?
+
+Eu vou pensar não apenas em mim que estou criando ou que tenho uma facilidade com uma determinada ferramenta,
+
+mas eu também vou pensar na facilidade de abertura, facilidade de execução, facilidade de viabilidade,
+
+facilidade de visualização, facilidade de envio desses arquivos para outras pessoas que precisarem
+
+olhar, seja usuários finais, seja gerentes, seja partes interessadas, seja clientes e etc.
+
+Então é assim pressuposto que todo mundo utiliza Word, todo mundo utiliza pacote Office, todo mundo
+
+usa o Word ou instalado na máquina ou três e assim.
+
+Então eu vou documentar em Word para que eu vou fazer um documento em, sei lá, formato X PDF.
+
+Um exemplo.
+
+Talvez só você utilize o x PT, mas todo o resto usa o Word.
+
+E aí quando você enviar, a pessoa vai falar olha só, não estou conseguindo abrir.
+
+No mínimo que você vai ter que fazer é transferir tudo aquilo que você já fez para um outro formato
+
+ou transformar em um outro arquivo para a pessoa poder abrir.
+
+Então, quando vocês forem fazer documentações independentes e seja textual, independente se seja ilustrativa,
+
+busca sempre o que a maioria está fazendo, o que a maioria está usando, o que está sendo aderente
+
+para um contexto geral.
+
+Então aqui no caso eu coloquei dois, que é bastante usado por qualquer organização, pela maioria dos
+
+funcionários, independente das áreas que é o Microsoft Word e o Google Docs.
+
+E pra que ele serve?
+
+Criar documentos de requisitos em linguagem natural, ou seja, criar os seus textos só que da forma
+
+que precisa ser feito, com linguagem simples, objetiva, sem muito frufrus, inho.
+
+Se houver alguma descrição, algum contexto que a área utiliza ou que o setor do TI utiliza alguma palavra
+
+em inglês, sempre deixar em parênteses colocar o significado ou a tradução daquela palavra para facilitar
+
+as pessoas.
+
+Beleza, então aqui seria para documentos textuais.
+
+Agora, para ferramentas de criação de modelagem de dados, coloquei outras duas, que é o Luce de Chart
+
+e o Drill.
+
+Só que além deles, nossa, tem 1001 outra ferramenta para vocês utilizarem.
+
+Vocês podem estar utilizando por exemplo o Visio que é da Microsoft, pode ser o BI Usage também, que
+
+é muito utilizado pela maioria das pessoas.
+
+Enfim, tem uma série, então se você procurar na internet você vai usar, vai achar na verdade tanto
+
+ferramentas free, ferramentas gratuitas quanto ferramenta pagas.
+
+Tá bom.
+
+E aqui no caso, como eu já mencionei anteriormente, são duas das 1001 possibilidades de criação de
+
+diagramas de forma visual, ou seja, ilustrativa.
+
+Agora para ferramentas de gestão de requisitos para controle, você pode usar o Jira.
+
+Você pode usar o Trello.
+
+Você pode usar o Hub Staff e você pode usar o Monday.
+
+Está sendo muito utilizado agora nas empresas o Click Up.
+
+Então assim, existem também 1001 ferramentas no qual você pode escolher por opção free ou opção paga.
+
+E aqui são ferramentas para acompanhar e gerenciar os requisitos ao longo do ciclo de vida do projeto,
+
+ou seja, para mapear black log para definir prioridades de desenvolvimento, para marcar o que já foi
+
+feito, o que está para fazer, o que foi adiado, o que está pendente, o que está para teste, o que
+
+subiu para deploy, etc.
+
+Bom, e por fim, a documentação de requisitos é essencial para garantir a compreensão clara e consistente
+
+entre os membros da equipe e as partes interessadas.
+
+Novamente, a combinação da linguagem natural dos diagramas de modelagem de dados e as técnicas de elicitação.
+
+Elas ajudam a criar uma documentação abrangente e precisa, que facilita a interpretação que seja bem
+
+sucedida de projetos e a comunicação eficaz ao longo do processo de desenvolvimento em todas as partes
+
+interessadas em todos os stakeholders.
+
+Não era.
+
+E essa foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos.
+
+Espero que vocês tenham entendido e principalmente que vocês estejam gostando.
+
+Me despeço por aqui, Fica com Deus e até breve.
