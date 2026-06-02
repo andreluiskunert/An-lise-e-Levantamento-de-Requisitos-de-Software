@@ -1,0 +1,267 @@
+La Luna.
+
+Olá alunos, sejam bem vindos a mais uma aula do
+
+nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Para fechar o nosso módulo eu coloquei aqui especificação
+
+de requisitos de forma clara, consistente e sem ambiguidades.
+
+De certa forma, nós vamos ponderar, mapear e comentar um pouquinho sobre o que nós já falamos
+
+nas aulas anteriores, ou seja, definir o que é importante, quais as premissas, como devemos seguir, quais
+
+as técnicas, quais as dicas, o que é necessário, o que fica mais fácil e etc.
+
+Bom.
+
+A especificação de requisitos é uma parte crítica do processo de desenvolvimento de projetos,
+
+pois estabelece a base para a construção e implementação bem sucedida do produto.
+
+É essencial que os requisitos sejam documentados de forma clara, consistente e sem
+
+ambiguidades, para garantir uma compreensão comum entre todas as partes interessadas envolvidas.
+
+Como vimos em outras aulas, todos os stakeholders, todas as pessoas que fazem parte do projeto,
+
+seja o usuário final, seja a equipe, seja a gerente, seja a diretoria, seja a cliente.
+
+Eles precisam entender o documento, independente do nível de conhecimento
+
+que eles possuem, independente do nível de conhecimento sobre informática.
+
+Independente do nível de interação em tecnologia, independente do nível de conhecimento propriamente da
+
+ferramenta que está sendo desenvolvida, eles precisam entender, mesmo sem fazer a utilização.
+
+E aí existem algumas diretrizes e práticas que nós usamos para alcançar essa
+
+clareza na especificação dos requisitos, que é o que ponderamos em aulas anteriores.
+
+Então, a primeira é linguagem precisa.
+
+Então evite linguagem ambígua, vaga ou genérica.
+
+Utilize termos específicos e técnicos quando necessário, mas certifique de explicá los
+
+para garantir que todos os leitores entendam e evite duplo sentido ou
+
+palavras que possam ser interpretadas de várias maneiras que nós falamos na
+
+aula anterior, de uma linguagem clara, simples, objetiva, sem enfeitar o pavão.
+
+Número dois define o escopo e limitações.
+
+Estabeleça claramente os limites do sistema ou produto em termos de funcionalidades e interações.
+
+Especifique quaisquer restrições técnicas, orçamentárias ou tempo que possa afetar a implementação.
+
+Então, aqui você também tem que fazer uma definição de escopo bem detalhado, bem
+
+resumido, bem mastigado, para que você tenha uma visão muito ampla também, até
+
+mesmo das criticidade que podem surgir ou dos imprevistos ao decorrer do projeto.
+
+Número três.
+
+Seja conciso e focado.
+
+Evite incluir detalhes desnecessários ou informações irrelevantes.
+
+Concentre se nas funcionalidades e características que são essenciais para atender aos objetivos
+
+dos projetos, ou seja, requisitos funcionais e não funcionais e nada além.
+
+Quatro Evite ambiguidades, ou seja, evite termos vagos como rápido,
+
+fácil, eficiente, a menos que sejam quantificáveis ou claramente definíveis.
+
+Seja específico sobre as funcionalidades que devem se comportar em situações específicas.
+
+Cinco Use exemplos e cenários Ilustra os requisitos como exemplos concretos de uso ou cenários de aplicação.
+
+Isso ajuda a esclarecer como os requisitos se aplicam ao mundo real.
+
+Então, sempre que possível, desenhem e explique.
+
+Ilustre.
+
+Se necessário, mostre até o contexto de que você está
+
+fazendo aquilo para aquela ferramenta em questão, por exemplo.
+
+Novamente, dando o exemplo do delivery, então você pode
+
+voltar às aulas anteriores para entender um pouquinho melhor.
+
+Número seis Structures de forma organizada.
+
+Organize os requisitos em seções ou categorias lógicas para facilitar a leitura e a referência.
+
+Utilize títulos, numeração e formatação consistente para melhorar
+
+a legibilidade, ou seja, para melhorar a leitura.
+
+Então, novamente, divida aqui por seção para que você não deixe as coisas embaralhadas e
+
+facilite a visualização e leitura e até mesmo a busca de informações específicas quando necessário.
+
+Ou seja, seção de valor você vai falar só de valor.
+
+Você não vai colocar um requisito na seção de valor, por exemplo.
+
+Então divida as seções Aquilo que a proposta comercial você deixa como proposta comercial.
+
+Aquilo que é requisito, você deixa como requisito aquilo que
+
+a estrutura você deixa como estrutura e assim sucessivamente.
+
+O número sete.
+
+Evite redundâncias.
+
+Garanta que um requisito específico não seja repetido em diferentes partes da documentação.
+
+Evite redundâncias que possam causar confusão ou inconsistências.
+
+Então, aqui eu não preciso dizer nada, nem comentar nada,
+
+né? Número oito Valide com as partes interessadas, compartilhe a
+
+documentação de requisitos com as partes interessadas e solicite feedbacks.
+
+Isso ajuda a identificar possíveis ambiguidades ou áreas de confusão que podem precisar de esclarecimento.
+
+Então, lembra que eu comentei nas aulas anteriores? Sempre se manter em contato com
+
+as partes interessadas, pedindo feedbacks, mostrando o que está sendo feito, olhando se
+
+está aderente e se está indo para o caminho em que realmente é
+
+para ir ou se está fugindo da trilha que foi levantada de início.
+
+E aí, novamente, compartilhe a documentação.
+
+Lembra que eu falei na aula anterior? Faça a documentação em
+
+formatos de arquivos ou aonde possa ser aberto pela maioria
+
+das ferramentas que as pessoas utilizam que são consideradas comuns.
+
+Não vá me criar uma imagem para abrir no Photoshop e enviar
+
+para uma pessoa para ela poder abrir e ver o requisito lá.
+
+Número nove.
+
+Use técnicas de revisão, Realize revisões e verificações da documentação
+
+de requisitos por membros da equipe ou especificações em validação.
+
+Isso ajuda a identificar e corrigir problemas e clareza
+
+de ambiguidade e número dez Manter a documentação atualizada.
+
+Cara está que é imprescindível.
+
+Eu já trabalhei em muitas empresas no qual não haviam documentações.
+
+Tudo era feito de boca a boca quando precisava ter o sistema ou fazer algo no sistema.
+
+Às vezes a pessoa que desenvolveu nem lembrava como funcionava, não sabia a regra de
+
+negócio, não sabia qual era o banco de dados onde as informações estavam armazenadas.
+
+Literalmente era uma bagunça.
+
+E eu também já trabalhei em algumas empresas que apesar de ter documentações, a
+
+documentação foi feita uma única vez para levantar e mapear os requisitos iniciais.
+
+Depois nunca mais ninguém colocou a mão e aí assim, de certa forma, ficou desatualizado.
+
+Na medida em que o projeto vai acontecer do óbvio a customizações, a melhorias, há versões.
+
+Então você criou o MVP, depois você faz um dois zero um três dois zero e
+
+você precisa mapear quais foram as mudanças, o que foi acrescentado, quais as novas funcionalidades,
+
+qual foi o valor que foi acordado, quanto que o cliente pagou, quanto tempo levou.
+
+Enfim, você precisa ter uma visão ampla do que era, do que é e de como vai ficar,
+
+entende? Então você precisa manter as documentações atualizadas para que você tenha uma visão mais ampla e
+
+principalmente, que você deixe a documentação de acordo com o que o sistema está fazendo no momento.
+
+Então olha só.
+
+À medida que o projeto progride e novas informações surgem, atualize a
+
+documentação de requisitos para refletir com precisão o estado atual do projeto.
+
+Às vezes o cliente, depois de três anos da ferramenta implantada nele, ele vai
+
+pedir a documentação e você vai mandar uma documentação de 2019 pra ele.
+
+Ele leva só por mês, só tem isso daqui na documentação ou essa
+
+documentação não tem nada a ver com o que o sistema faz atualmente?
+
+Então assim, tem coisas que você precisa manter, mesmo que dê trabalho,
+
+mesmo que seja chato ficar a atualização e manter ali com constância.
+
+Mas poxa, uma vez a cada 15 dias, revisite as documentações.
+
+Quando tiver um tempo ocioso, visite as documentações, ver se é necessário, pergunte pras pessoas.
+
+Às vezes acontece de principalmente que vem da parte comercial, vai saber disso daqui.
+
+Muitas vezes o comercial acaba fechando novas funcionalidades para ferramenta e entende que porque
+
+o cliente já está implantado, talvez até não precise documentar ou fazer mais nada.
+
+Então as vezes acaba fechando outras coisas comerciais, melhorias, recursos
+
+e etc e acaba não chegando na pessoa que precisa.
+
+Para fazer o quê as atualizações do documento.
+
+Então tenta sempre entrar em contato com pessoas que você sabe que tem contato direto com o cliente,
+
+pessoas do comercial, pessoas de venda, enfim, ser X o Customer Pessoas de Customer para que você tenha
+
+uma aptidão e saiba mais ou menos o que está acontecendo com o cliente, se ele está
+
+satisfeito com a ferramenta, se ele solicitou algo, se ele pediu atualização para você ponderar na documentação.
+
+Também.
+
+A especificação de requisitos de forma clara, consistente e
+
+sem ambiguidades é essencial para o sucesso do projeto.
+
+A documentação bem elaborada e transparente ajuda a evitar mal entendidos, reduzir
+
+erros de implementação e garantir que todos os envolvidos tenham uma compreensão
+
+clara das funcionalidades e características que o produto final deve possuir.
+
+Ao adotar as práticas mencionadas anteriormente, você estará melhor equipado para
+
+criar a documentação de requisitos eficaz e de alta qualidade.
+
+Galera.
+
+Então esse foi o resumo do que nós já abordamos em aulas anteriores.
+
+É interessante que se você não teve uma absorção tão boa até aqui,
+
+que você revisite algumas aulas ou reveja alguns conteúdos que você teve dúvida.
+
+Mas, de certa forma, eu espero que vocês tenham aprendido que vocês estejam gostando.
+
+Me despeço por aqui, Fica com Deus e até breve.
