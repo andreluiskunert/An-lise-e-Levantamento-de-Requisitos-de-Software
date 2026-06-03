@@ -1,0 +1,449 @@
+Olá aluna ou alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+Vamos entrar a partir desta aula num novo módulo que é Validação e Verificação de Requisitos.
+
+Então nós teremos três aulas para falar um pouco a respeito conhecer, entender algumas técnicas, saber
+
+de algumas dicas que são fundamentais.
+
+Em nossa primeira aula nós falaremos um pouco sobre técnicas para verificar a qualidade dos requisitos,
+
+Então aqueles requisitos que nós levantamos, eles necessitam ter uma qualidade e nós precisamos de
+
+algumas técnicas para conseguir deduzir se a qualidade daqueles requisitos que foram levantados.
+
+Elas são tão boas ou nem tanto.
+
+Vamos lá.
+
+A qualidade dos requisitos é essencial para o sucesso de qualquer projeto de desenvolvimento de software.
+
+Requisitos mal definidos ou inconsistentes podem levar a atrasos, custos extras e, o que é pior,
+
+ao desenvolvimento de um produto que não atende às necessidades dos usuários.
+
+Portanto, é fundamental empregar técnicas eficazes para verificar e garantir a qualidade dos requisitos
+
+antes de prosseguir para etapas de desenvolvimento.
+
+Nesse conteúdo, nós exploraremos algumas técnicas valiosas para realizar essa verificação.
+
+Então aqui galera, nós já conseguimos previamente pelo texto entender que quando os requisitos são
+
+mal definidos, quando os requisitos eles são inconsistentes ou quando eles não estão dentro daquilo
+
+que está sendo proposto dentro das expectativas, pode acontecer de haver atrasos nos projetos, porque
+
+aí os requisitos eles não estão levantados da maneira devida.
+
+O projeto ele não está seguindo para o caminho que deve seguir e aí acaba havendo uma nova necessidade
+
+de levantamento, uma nova necessidade de reavaliações e etc.
+
+Isso também acaba implicando em custos, porque você está pagando pessoas para desenvolver o produto
+
+e se por um acaso tem a necessidade de desenvolver, de alterar ou de simplesmente remapear as coisas,
+
+você está pagando duas vezes àquele profissional para fazer o mesmo trabalho?
+
+E aí, o pior de tudo isso é quando o produto acaba não atendendo às necessidades.
+
+Então você fez um mau levantamento de requisitos, acabou não fazendo as validações, não sabendo se
+
+está dentro das expectativas, acabou levando isso ao time de desenvolvimento.
+
+Eles realizaram todo o desenvolvimento, teve os testes, aconteceu a homologação, o deploy subiu em
+
+produção e aí chega no final para o usuário e não tem nada daquilo que ele solicitou ou nada daquilo
+
+do que ele precisa no cotidiano.
+
+Então, assim, os requisitos são, de certa forma, premissa para qualquer produto, para qualquer
+
+funcionalidade em sistemas de TI.
+
+Dando continuidade.
+
+Vamos lá.
+
+Primeiro, nós temos uma técnica chamada Análise de requisitos por pares em inglês.
+
+Vocês vão ouvir muito a sigla ou a nomeclatura chamada Peer review.
+
+O que que é isso e pra que serve?
+
+Vamos lá.
+
+Revisão por pares é uma das técnicas mais utilizadas para verificar a qualidade dos requisitos.
+
+Nesse método, os requisitos são submetidos a uma equipe de especialistas, que inclui desenvolvedores,
+
+gerentes de projetos, quando possível, os próprios stakeholders, ou seja, os próprios interessados,
+
+os clientes, os usuários finais e etc.
+
+Cada membro da equipe revisa os requisitos, buscando por inconsistências, ambiguidades, falta de
+
+detalhes e conflitos entre eles.
+
+Essa abordagem colaborativa permite identificar problemas em uma fase inicial e reconhecer os requisitos
+
+com diversos pontos de vista.
+
+Então, quando você levantar os requisitos, é interessante sempre fazer o peer review, que é entregar
+
+esses requisitos levantados a diferentes pessoas envolvidas nos projetos.
+
+Então, muitas vezes é a própria equipe no qual você está atuando.
+
+É a sua equipe de desenvolvimento e sua equipe de gestão de projetos e propriamente até mesmo a sua
+
+equipe de gestão de produtos.
+
+E eles vão fazer essas verificações, essas análises.
+
+E aí, se necessário, você também pode pedir para eles ter que holders externos também fazer essas
+
+análises.
+
+Tá bom?
+
+Agora quanto ao segundo, é uma prototipagem rápida.
+
+Prototipagem rápida é uma técnica que envolve a criação rápida de protótipos ou modelos de partes do
+
+sistema ou do produto com base nos requisitos coletados.
+
+Esses protótipos são apresentados aos stakeholders para a validação e feedback.
+
+A partir desses protótipos, é possível obter insights valiosos sobre a adequação dos requisitos às
+
+necessidades reais dos usuários, além de identificar novos requisitos ou ajustar os requisitos já existentes.
+
+Bom, aqui, quanto à prototipagem, talvez vocês nunca ouviram a palavra prototipagem rápida dentro
+
+do dia a dia, dentro do cotidiano que talvez vocês vão ouvir e que tem muita relação quanto a isso.
+
+É um MVP que é o mínimo produto viável, que também às vezes nem tem tanta relação com o contexto atual
+
+do que aqui.
+
+Porque um MVP já é um produto que está funcionando, só que com os mínimos de requisitos necessários
+
+ou com aquilo que é premissa básica para ele estar funcionando.
+
+Tá bom, então, além de MVP que as pessoas às vezes confundem e colocam nesse contexto, vocês vão
+
+ouvir muito falar sobre POC, Então vamos criar uma POC para o produto tal.
+
+Vamos criar uma POC para o módulo tal, Vamos criar uma POC com a funcionalidade X PTR.
+
+Tá bom então a POC ela entra nesse contexto da prototipagem que seria aqui a criação de modelos ou protótipos
+
+de partes do sistema ou do produto para o usuário, ele literalmente expressar, entender, saber se
+
+vai seguir aquele caminho, se tá aderente, se está dentro das expectativas e etc.
+
+Agora.
+
+A terceira técnica seria a matriz de rastreabilidade de requisitos.
+
+O que faz e para que serve?
+
+Vamos lá.
+
+A Matriz de Rastreabilidade é uma ferramenta que relaciona requisitos com outros artefatos do projeto,
+
+como casos de testes, componentes de software e até mesmos os objetivos de negócio.
+
+Ela permite verificar se todos os requisitos têm uma origem e justificativa bem definida, além de garantir
+
+que cada requisito seja testável e que haja cobertura adequada durante o processo de desenvolvimento
+
+e de teste.
+
+Então aqui.
+
+Na verdade, a matriz de rastreabilidade.
+
+De uma forma bem resumida, ela é um depara nos requisitos que foram levantados de tudo aquilo que é
+
+necessário, que você mapeou com outras áreas ou outro com outros contextos que envolvem o projeto.
+
+Aí, no caso, entra muito em relação a regra de negócio para saber se os requisitos tem relação com
+
+regras de negócio, entrar muito em relação aos testes para entender se os requisitos e os testes que
+
+estão sendo feitos tem relação aos componentes que foram desenvolvidos, as funcionalidades que estão
+
+no ar no momento e etc.
+
+Já a nossa quarta técnica é check list de qualidade de requisitos.
+
+Os check list são listas de verificação que contêm critérios específicos para avaliar a qualidade dos
+
+requisitos.
+
+Esses critérios podem incluir clareza, consistência, rastreabilidade, testabilidade, entre outros.
+
+Os check lists oferecem uma abordagem estruturada e sistêmica para revisar os requisitos, tornando
+
+o processo mais abrangente e evitando que questões importantes sejam esquecidas.
+
+Então vou dar um exemplo aqui, bem genérico, Tá bom?
+
+Você cria check lists sobre cadastro de usuários e logins de usuários?
+
+Então, o primeiro de tudo é inserir o login.
+
+Inserir senha seria um primeiro check list, Redefinir senha seria um segundo.
+
+Terceiro, excluir usuário.
+
+Quarto a partir de usuário administrativo.
+
+Um exemplo conseguir usar outros critérios, cadastrar novos usuários, editar usuários já cadastrados,
+
+permitir novos acessos ou novos recursos a partir de usuários que já estão existentes ou restringir
+
+esses usuários.
+
+Como assim?
+
+Vamos lá!
+
+Tem um usuário que é básico e eu quero também dar um perfil administrativo para ele.
+
+Ou eu tenho um usuário que é perfil administrativo, perfil gerencial e eu quero retirar algumas permissões
+
+desse usuário.
+
+Então, assim são requisitos premissas que eu preciso ter no meu sistema para quando eu for um usuário
+
+eu conseguir obviamente, logar, redefinir a minha senha quando eu acabar esquecendo, cadastrar,
+
+editar ou excluir usuários e também modificar os permission mentos de usuários, caso eu também necessite.
+
+Então são os check lists que eu poderia anotar e entraria nesse contexto de check list de qualidade
+
+para saber se aquilo está tendo aderência ou se é existente dentro da ferramenta, ou principalmente,
+
+se aquilo que está dentro da ferramenta está entre a concordância com os requisitos levantados.
+
+Beleza seria mais ou menos nesse contexto aqui.
+
+E por fim, o quinto seria o estudo de viabilidade técnica.
+
+Antes de confirmar e aceitar os requisitos, é importante realizar um estudo de viabilidade técnica
+
+para determinar se a implementação desses requisitos é possível dentro das restrições de tempo, orçamento
+
+e tecnologia.
+
+Essa análise identifica desafios técnicos potenciais e ajuda a eliminar requisitos que podem ser inviáveis
+
+ou excessivamente complexos.
+
+Como assim, Ávila?
+
+Não entendi.
+
+Vamos lá.
+
+Olha só.
+
+Fiz o mapeamento, levantei todos os requisitos necessários para começar a desenvolver o meu produto.
+
+Porém, para que eu consiga realmente ter o início do desenvolvimento do meu produto, eu preciso ter
+
+algumas confirmações.
+
+Então vamos lá.
+
+Eu vou desenvolver um sistema primeiro.
+
+Qual que é o tipo de linguagem de programação que vai ser utilizado?
+
+Segundo, essa linguagem de programação que foi escolhida, ela possui compatibilidade com outras linguagens.
+
+Terceiro, essa linguagem que foi escolhida, ela tem uma fácil implantação, ou melhor, ela tem uma
+
+fácil integração com outras linguagens ou com outras ferramentas, se houver necessidade.
+
+Bom, são outras coisas também que são importantes aqui.
+
+Nesse contexto, os requisitos que foram levantados.
+
+Eles são muito complexos de ser desenvolvido, as pessoas, os recursos que eu tenho dentro da empresa,
+
+o meu time, a minha equipe de desenvolvimento.
+
+Ela é suficientemente capaz de desenvolver aquilo dentro da empresa ou é necessário contratar terceiros,
+
+olhar para o lado de freelancers ou algo do gênero?
+
+Se por acaso os requisitos, as necessidades que foram levantadas a minha equipe não conseguir, precisa
+
+fazer.
+
+Vamos lá dando continuidade ainda a isso.
+
+Se por um acaso eu precisar contratar um freelancer, um terceiro pra desenvolver, qual é o tempo que
+
+ele tem pra fazer?
+
+O desenvolvimento está dentro da estimativa do prazo que foi proposto.
+
+O orçamento cobre.
+
+Existe um budget que permite com que eu pague esse freelancer pra ele poder fazer isso.
+
+Ou melhor, se tudo isso sair muito caro ou acabar levando muito tempo.
+
+Será que não é mais fácil eu dar um capacete pra uma pessoa da minha equipe?
+
+Será que não é melhor eu puxar uma pessoa de desenvolvimento, pedir pra ela tirar um tempo de pesquisa,
+
+de estudo, quem sabe até procurar um curso pra ela poder ir acompanhando pra ela chegar ao desenvolvimento.
+
+Então tudo isso entra no estudo de viabilidade.
+
+Então assim é o meu sistema, ele vai ser hospedado, ele vai ter ser um sistema em nuvem, vai ser
+
+um sistema cloud.
+
+Eu vou hospedar ele aonde?
+
+Na WS, por exemplo, se eu não me hospedar em nuvem, vai ser o que?
+
+Vai ser um servidor físico.
+
+Aí eu tenho que pensar em outras possibilidades que entra nas viabilidades de risco.
+
+Se por um acaso acaba a energia tem gerador.
+
+Se por um acaso a internet cai, o sistema vai ficar fora do ar DNS de acesso pra precaução.
+
+Exemplo Eu tenho um servidor de produção número um, mas se ele cair eu tenho.
+
+Será que um servidor de produção número dois?
+
+Por que eu também tenho que pensar nos meus clientes?
+
+E eu tenho que pensar que se eles estiverem usando a ferramenta IP, a ferramenta ficar fora do ar por
+
+algum motivo, tecnicamente eles também estão sem atuação.
+
+E existem também muitas áreas somente de clientes que não podem ficar sem fazer o processo.
+
+Um exemplo se cai o atendimento da Vivo, um exemplo.
+
+Vamos lá.
+
+O servidor da Vivo caiu, então elas não recebem ligações, não recebem WhatsApp, não recebem chat
+
+dentro do sistema.
+
+Como faz?
+
+Como atender as pessoas?
+
+Então, tudo isso deve ser levado em consideração da viabilidade técnica.
+
+Então a gente não tem que pensar só se o requisito dá ou não.
+
+Dá pra fazer tudo Dá pra fazer, desde que haja capacete, haja uma condição financeira, ou seja,
+
+uma pessoa que consiga arcar com os custos e principalmente, que haja tempo pra esse desenvolvimento.
+
+Tudo isso precisa ser olhado com cautela.
+
+Número seis Métricas de qualidade de requisitos A medição e o acompanhamento de métricas de qualidade
+
+de requisitos podem fornecer uma visão objetiva do nível de qualidade alcançado.
+
+Algumas métricas, como incluem o número de requisitos por caso de uso, a taxa de adição ou remoção
+
+de requisitos durante o ciclo de vida do projeto e o número de problemas identificados durante as revisões.
+
+Aqui nós estamos trabalhando com números, métricas e tecnicamente números aqui.
+
+Então, quais as métricas comuns que a gente pode medir de certa forma?
+
+Então assim.
+
+Quando os requisitos estão sendo feitos por caso de uso.
+
+Quantos desses requisitos foram adicionados?
+
+Após quantos requisitos eram existentes e foram removidos?
+
+Quantos problemas foram identificados ao realizar testes?
+
+Ou quantos problemas foram identificados a partir daqueles requisitos que já são existentes dentro da
+
+ferramenta?
+
+Tudo aqui a gente também precisa monitorar e ter uma aderência para saber se está indo dentro ou fora
+
+do contexto do que é para ser seguido.
+
+Bom galera, de uma forma geral, aqui a conclusão de tudo isso.
+
+Garantir a qualidade dos requisitos é um processo crítico para o sucesso do projeto.
+
+A aplicação de técnicas de verificação como revisão por pares, a prototipagem rápida que entra como
+
+POC, a matriz de rastreabilidade, os check lists de qualidade, os estudos de viabilidade técnica
+
+e a utilização de métricas adequadas ajuda a assegurar que os requisitos sejam claros, consistentes,
+
+testáveis e alinhados às necessidades dos stakeholders, ou seja, das partes interessadas, seja usuários
+
+finais, seja clientes, ou seja propriamente o time interno para agregar valor à empresa.
+
+A adoção dessas técnicas desde o início do projeto contribui para a contribuição de produtos de software
+
+mais confiáveis e que atendam às expectativas dos usuários.
+
+Então, de certa forma, galera, o resumo geral do que nós tivemos desde a nossa primeira aula até
+
+o momento, é que tudo isso daqui precisa ser levado em consideração desde o início do projeto.
+
+Não adianta nada eu fazer muita coisa ou fazer tudo muito certinho no início, por eu dar uma relaxada
+
+no meio ou no término de tudo isso.
+
+Então tudo tem que ser acompanhado e ser restritamente bem monitorado desde o início.
+
+Então, desde o levantamento, desde as entrevistas, desde os brainstorms, enfim, tudo eu preciso
+
+fazer com detalhes, com cautela, com premissa para quando eu chegar nessa etapa de verificação eu
+
+também conseguir realizar testes, eu terei que ter braços e etc para conseguir andar com o meu projeto.
+
+E como eu disse lá no início dos primeiros slides, não ter custo extra, não ter um tempo maior ou
+
+não ter um produto não aderente com as expectativas.
+
+Galera, essa foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Espero que vocês tenham entendido e principalmente que vocês estejam gostando.
+
+Se por um acaso tiverem alguma dúvida, não deixe de mandar uma mensagem direta ou de até fazer um comentário
+
+propriamente no curso para que eu assim que visualizar, conseguir responder e sanar a sua dúvida da
+
+melhor maneira possível.
+
+Claro, se alguma dúvida que você tiver por ter muito conteúdo e muita coisa sendo passada, você também
+
+com certeza pode revisar conteúdos que você teve dúvidas ou não teve uma absorção tão boa e reestudar
+
+eles também.
+
+De certa forma me despeço por aqui.
+
+Fica com Deus e até breve.
