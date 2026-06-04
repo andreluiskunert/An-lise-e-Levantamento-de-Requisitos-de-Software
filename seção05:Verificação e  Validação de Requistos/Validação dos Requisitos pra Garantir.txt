@@ -1,0 +1,425 @@
+Olá aluna ou alunos, sejam muito bem vindos a mais uma aula
+
+do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Ainda falando sobre a validação e verificação de requisitos.
+
+Nessa aula nós falaremos um pouco sobre como fazer a validação dos requisitos com
+
+os stakeholders para garantir que as expectativas estão sendo atendidas ou que sejam atendidas.
+
+Então nós vimos que ao decorrer do cursos sei que holders são as pessoas que são interessadas no projeto.
+
+De certa forma são pessoas tanto internas que fazem parte da equipe ou que fazem
+
+parte da empresa, como principalmente as pessoas externas são clientes, são usuários finais que
+
+muitas vezes vão usar o produto no cotidiano, realizar tarefas no dia a dia.
+
+Então nós sabemos também que os usuários finais, eles não necessariamente tem de ter a experiência, o
+
+entendimento técnico da coisa, mas nós precisamos, como aprendemos em aulas anteriores, escrever de certa forma
+
+ou ilustrar de certa forma um contexto em que eles consigam entender que eles consigam absorver
+
+o que vai ser feito, como que vai funcionar, como que vai ser utilizado e etc.
+
+Então esse conteúdo, de certa forma, nós vamos abordar a importância
+
+da validação dos requisitos com esses stakeholders, e aqui vai haver
+
+algumas técnicas que nós podemos utilizar para facilitar essas validações.
+
+Beleza.
+
+Vamos lá.
+
+Por que a validação dos requisitos é importante com os
+
+stakeholders? A validação dos requisitos com os stakeholders é
+
+essencial por várias razões, então eu numerei algumas aqui.
+
+A primeira delas é a garantia da adequação às necessidades.
+
+O que é
+
+isso? Vamos lá.
+
+Os stakeholders são as pessoas que usarão o produto final ou se beneficiarão dele.
+
+Validar os requisitos com eles é uma maneira de garantir
+
+que o produto esteja alinhado com as necessidades reais.
+
+Saber se está atendendo ou se está sanando as dores que eles possuem no cotidiano.
+
+Segundo redução de riscos Ao envolver os stakeholders na validação dos requisitos, os potenciais problemas e
+
+mal entendidos são identificados precocemente, o que permite a sua correção antes de avançar no desenvolvimento.
+
+Então, quando você faz uma validação com o stakeholder, você mostra em que caminho, em que
+
+pé está sendo tomado o projeto, o que vai ser desenvolvido, o que vai ser customizado,
+
+o que vai ser criado, qual é a nova funcionalidade, o que ela vai fazer, O
+
+que ela vai trazer de benéfico para dentro da ferramenta? Você também consegue saber se o
+
+stakeholders usando aquilo no dia a dia, realmente ele vai ter um ganho benéfico, se vai
+
+facilitar o dia a dia, se vai facilitar as tarefas, os deveres que ele possui,
+
+se vai otimizar o tempo dele, enfim, ou se vai trocar seis por meia dúzia.
+
+Se você realmente está gastando um tempo de desenvolvimento para algo que ele
+
+nem vai usar, que ele nem vai olhar, ou que talvez ele já
+
+faça em algum outro lugar que você só está colocando dentro da ferramenta.
+
+Terceiro melhoria da comunicação.
+
+A validação dos requisitos promove uma comunicação mais clara e aberta entre a equipe de desenvolvimento
+
+e os stakeholders, permitindo que as expectativas sejam esclarecidas e compreendidas por ambas as partes.
+
+Eu já comentei em aulas passadas galera.
+
+Então é assim, muitas vezes os stakeholders eles vão propor alguma solução da dor que eles
+
+possuem, alguma otimização das tarefas que eles realizam no dia a dia e muitas vezes o
+
+que eles proporem ou a ideia que eles trouxerem à vocês não vai ser necessariamente viável.
+
+Construir, não vai ter uma facilidade de construção ou vai ser literalmente inviável.
+
+O desenvolvedor, por conhecer arquitetura do sistema, vai falar olha, isso daqui não convém fazer, porque
+
+se eu mexer aqui ou acrescentar isso vai bagunçar x PT só de coisas na ferramenta.
+
+Então, aqui, quando você faz a melhoria da comunicação, você também consegue
+
+transpassar as dores dos stakeholders para o desenvolvedor ou para os desenvolvedores.
+
+E a mesma coisa.
+
+Você também consegue mostrar para o usuário que a sua equipe de desenvolvimento também tem
+
+algumas dificuldades, que o sistema tem algumas limitações, que não é tudo que consegue criar,
+
+que não é tudo que dá para fazer e chegar a uma concordância real aqui.
+
+Número quatro.
+
+Economia de tempo e recursos Corrigir problemas após o desenvolvimento pode ser caro e demorado.
+
+Como eu já mencionei em aulas anteriores, a validação prévia
+
+dos requisitos reduz a probabilidade de rastreamento e economiza recursos.
+
+Então você economiza tempo, você economiza dinheiro, você
+
+economiza muita coisa e principalmente, você economiza estresse.
+
+E se você entregar algo errado ao usuário e ele fala que
+
+não está aderente, o que não é aquilo que ele pediu.
+
+Cara, você vai ter muita dor de cabeça.
+
+Aí você vai ter que ouvir cliente bater em você, usuário batendo em você e você muitas
+
+vezes vai ter que ouvir a sua própria equipe batendo em você, porque você deixou ser
+
+desenvolvido algo que talvez não tenha sido verificado, não tenha sido validado, não tenha sido corrigido.
+
+Então a sua própria equipe também vai ficar puxando a sua orelha nesse momento.
+
+E aí nós temos algumas práticas que são recomendadas para fazer a validação desses requisitos.
+
+Então, primeiro, identificar os stakeholders relevantes.
+
+Comece identificando todas as partes interessadas relevantes para o projeto.
+
+Você pode incluir representantes dos usuários finais, clientes, patrocinadores,
+
+especialistas em domínio e membros de equipe de desenvolvimento.
+
+Então, aqui dentro dos stakeholders, nós temos vários grupos, como vimos em aulas anteriores.
+
+Então nós temos que, de certa forma, fazer um D para cruzar todas as informações, dores e necessidades
+
+de todos eles ou da maioria que possível e trazer aquilo que é o aderente para a maioria.
+
+Por que olha só o usuário final, ele tem uma dor, porque ele precisa usar
+
+alguns recursos e funcionalidades para otimizar o dia a dia, para diminuir o tempo
+
+ou para principalmente, facilitar o que ele faz como trabalho, como tarefas no cotidiano.
+
+Os clientes.
+
+Eles querem algo que também funcione de certa forma dentro da esteira, dentro do que é proposto.
+
+Já o patrocinador é o cara que está patenteando o seu, o seu custo, a sua ferramenta.
+
+Muitas vezes o patrocinador é o que está pagando o seu salário e o que está pagando.
+
+Muitas vezes aonde a empresa está locada é o que está
+
+pagando as tecnologias, pagando a hospedagem, os servidores e etc.
+
+Um segundo envolver os stakeholders desde o início.
+
+Iniciou o processo de validação desde a fase inicial do projeto.
+
+Isso permite que os stakeholders influenciem os requisitos desde
+
+o início e evita que surjam desentendimentos posteriormente.
+
+Então, o bacana aqui, pessoal, é que todos os momentos que houver novos
+
+projetos, principalmente aqueles que estão iniciando do zero ou aqueles que já foram
+
+entregues e a customizações, é que essas customizações vão se iniciar do zero.
+
+É legal envolver um stakeholder e deixar que ele acompanhe desde o
+
+início, que futuramente não haja imprevistos, que principalmente não haja desentendimentos.
+
+Chegar lá na hora da entrega e falar olha, mas eu pedi isso e não tem.
+
+Ou olha, eu pedi aquilo e não tem.
+
+Ou Olha, você me entregou que não precisava, Olha, isso daqui não era necessário.
+
+É causar conflitos, causar gargalos.
+
+Então não tem necessidade.
+
+Então, uma das premissas de recomendação é envolver os stakeholders desde o início.
+
+Precisa ser todos os decoders.
+
+Não.
+
+Aqui é uma lista de colocar os stakeholders externos, as partes interessadas
+
+no qual está pagando pela ferramenta que está usando, a ferramenta que
+
+vai fazer a usabilidade dela em alguma forma ou em algum momento.
+
+Beleza.
+
+Agora sobre número três, realizar entrevistas e workshops.
+
+Nós tivemos aulas detalhadas para falar sobre Realize entrevistas individuais ou workshops com
+
+os stakeholders para obter insights sobre as suas necessidades, expectativas e prioridades.
+
+Então, necessidade é uma coisa, a expectativa é outra e
+
+prioridade é uma terceira completamente diferente das duas anteriores.
+
+O que é premissa para
+
+prioridade? A expectativa é aqui.
+
+O que? Talvez ele dissesse que esperava que
+
+a ferramenta tivesse, o que gostaria que
+
+a ferramenta futuramente tivesse aquela tal funcionalidade.
+
+Então é necessário você saber fazer a separação desses três para
+
+você Melhor se enquadrar às esteiras de backlog Desenvolvimento futuramente.
+
+Olha só, Essas sessões ajudam a esclarecer requisitos e a
+
+descobrir requisitos adicionais que podem ter sido ignorados inicialmente.
+
+Então entra muito naquele contexto já mencionado.
+
+Possa ser que os requisitos ou as necessidades funcionalidades que os usuários
+
+venham a pedir, principalmente no início do projeto, você fale que talvez
+
+não seja necessário, que talvez não seja prioridade, que talvez seja complexo.
+
+Só que ao andar da carruagem, à medida em que o projeto for acontecendo, à
+
+medida em que for havendo entregas, for sendo realizados testes, possa ser que aquilo
+
+que foi ignorado no começo, no passado possa vir a fazer sentido no presente.
+
+Então é interessante se atentar a isso também.
+
+Quatro Prototipagem e demonstração Crie protótipos ou demonstrações do produto para os stakeholders,
+
+permitindo que eles visualizem e interajam com o que está sendo proposto.
+
+Isso facilita a compreensão e validação dos requisitos.
+
+Ora, aqui entra muito no contexto do que já foi mencionado sobre a POC.
+
+Se possível, crie box disponibilizem para os clientes, para os usuários testarem e
+
+expressarem, entenderem como vai funcionar, qual é o segmento, como que vai acontecer
+
+para eles entenderem as expectativas e saber se está em concordância ou não.
+
+Quinto feedback interativo Solicite feedbacks regulares dos stakeholders
+
+à medida em que os requisitos são desenvolvidos.
+
+Isso permite que influencia as decisões e façam ajustes durante o processo.
+
+Então, sempre que houver o desenvolvimento e haver os testes internos, disponibilize para os
+
+clientes fazerem testes externos antes de subir aquela funcionalidade para produção, porque aí
+
+você vai ter o produto na base de teste por bem dizer, e
+
+é mais fácil do desenvolvedor trabalhar do que retirar aquela funcionalidade de introdução.
+
+Então, qual é a premissa? Sempre
+
+haver dois tipos de validação.
+
+Primeiro é a validação interna para os membros da equipe, os responsáveis por aquilo
+
+Saber se o que foi desenvolvido está de acordo com a proposta comercial, está
+
+de acordo com as solicitações, está de acordo com o que foi solicitado? Está
+
+de acordo com a maioria do que foi pedido E se estiver legal? Óbvio
+
+que sempre tem uma barbinha a outra para fazer alguns ajustes aqui, outros ali.
+
+Fez os ajustes, faz uma segunda bateria de testes, que é o que é realização de
+
+testes externos, ou seja, e os testes que a sua equipe ou você vai realizar.
+
+Porém, com a ajuda ou com o acompanhamento dos
+
+stakeholders externos, dos clientes, dos usuários e etc.
+
+E aí você vai mostrar a eles o que foi feito, como funciona, qual
+
+que é a premissa, se precisa melhorar algo, se dentro daquilo precisa acrescentar, se
+
+precisa complementar se está aderente ou não, para então subir aquilo em produção.
+
+Então, essa parte de interatividade entre equipe e cliente é muito importante.
+
+Sexto, utilizar ferramentas de gerenciamento de requisitos.
+
+Então já vimos algumas ferramentas.
+
+Porém, como eu mencionei, existem 1001 ferramentas disponíveis atualmente, então utilize
+
+ferramentas de gerenciamento de requisitos que permitam o compartilhamento, a revisão
+
+e o rastreamento das alterações feitas nos requisitos pelos stakeholders.
+
+Então tenha algo que todas as pessoas, ou pelo menos a maioria, tem a visibilidade,
+
+tem a facilidade de abertura, facilidade de execução, facilidade de envio ou de recebimento.
+
+Se precisar, por um acaso enviar para algum lugar ou hospedar em alguma ferramenta.
+
+Então, para que as pessoas consigam também ter interação e ter visibilidade do que está acontecendo, ter o
+
+acompanhamento do que está como premissa de se fazer o que já foi feito, o que foi feito
+
+e está em teste do que foi feito, foi para teste, mas voltou para a correção do
+
+que foi feito, foi para teste e teve um aceite e subiu para produção e assim sucessivamente.
+
+Temos um sétimo documentar o processo de validação.
+
+Então registre todas as interações e decisões tomadas durante o processo de validação.
+
+Isso ajuda a manter o histórico claro e garantir que nenhum requisito importante seja esquecido ou negligenciado.
+
+Então, aqui a documentação, como já vimos desde a primeira aula, tecnicamente é
+
+o que tem de mais importância para que todo o restante dê certo.
+
+Então, seja um cara ou uma pessoa, uma mulher que documente muito bem.
+
+Ou oitavo.
+
+A aceitação formal dos requisitos.
+
+Olha só isso aqui.
+
+Interessante.
+
+Após a validação e ajustes necessários, formalize a aceitação dos requisitos pelos stakeholders.
+
+Isso cria uma linha de base acordada que o guiará ao desenvolvimento subsequente.
+
+Então, sempre que houver uma funcionalidade, um recurso ou algo que foi
+
+solicitado pelo cliente, você fez o levantamento dos requisitos, teve o desenvolvimento,
+
+houve testes? Foi validado? O cliente deu ok, cara, de alguma forma
+
+formalize, seja criando um documento, enviando por e-mail, seja enviando propriamente
+
+a escrita dentro do e-mail, coloque todos os envolvidos em cópia.
+
+Coloque principalmente seu superior e sua diretoria superiores da pessoa que está fazendo o acompanhamento.
+
+Do outro lado.
+
+Coloque todas as pessoas de relevância e de importância para ficar no histórico, porque se futuramente
+
+acontecer algum xabu, acontecer algum problema de que ai não era pra ter sido assim
+
+ou aconteceu de estar faltando algo, Você tem como argumento e tem um histórico para
+
+mostrar para a pessoa que aquilo foi feito, aquilo foi validado e aquilo foi aceito.
+
+Então por isso que está daquela forma também.
+
+E aí um lembrete que é válido a validação de requisitos é um processo contínuo e
+
+é importante manter os stakeholders envolvidos ao longo de todo o ciclo de vida do
+
+projeto, desde a fase inicial até a sua entrega ou até as suas customizações futuras.
+
+Beleza.
+
+Ao seguir as práticas recomendadas, você poderá garantir que os requisitos estejam
+
+alinhados com as expectativas dos stakeholders, que são um dos principais e,
+
+consequentemente, aumentar as chances de sucesso do projeto de desenvolvimento de software.
+
+Então, aqui são outras dicas do que nós fazemos no
+
+cotidiano como analista de requisitos ou analista de processos.
+
+Então, essas coisas é interessante sim, de acrescentar, de se agregar nas tarefas do dia a dia.
+
+E você vai ver que conforme a aptidão, isso daqui
+
+vai virar uma habilidade quase que automática para você.
+
+Nos contextos de projetos e você vai ver ao decorrer do tempo
+
+que tudo vai ficar mais fácil, mais simples e mais organizados.
+
+Ou.
+
+Essa foi mais uma aula do nosso curso de Análise de Requisitos
+
+de Software? Espero que vocês tenham entendido e principalmente que vocês tenham
+
+gostado, que vocês estejam gostando do curso e se faz por aqui.
+
+Fica com Deus e até breve.
