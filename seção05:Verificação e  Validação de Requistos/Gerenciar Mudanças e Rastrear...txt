@@ -1,0 +1,409 @@
+Olá aluna, ao alunos, sejam muito bem vindos a mais uma aula
+
+do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Ainda falando sobre a verificação e validação de qualidade dos nossos requisitos, falaremos hoje sobre
+
+gerenciamento de mudanças e rastreabilidade dos requisitos ao longo do ciclo de vida do projeto.
+
+Então, o que é o ciclo de vida do projeto?
+
+Todo projeto ele nasce, cresce e morre, ou seja, início,
+
+meio e fim, início, meio e entrega, por bem dizer.
+
+Então, o que acontece dentre esses ciclos de vida do nosso projeto ou dentro
+
+desses ciclos de vida do nosso produto, que é a ferramenta ou sistema no
+
+qual nós estamos desenvolvendo e por muitas vezes vai haver muitas mudanças de requisitos.
+
+Então nós precisamos ter o entendimento de como fazer a rastreabilidade deles ao decorrer do projeto,
+
+para que não corra o risco de nós nos perdermos ao decorrer em que ele evolua.
+
+Beleza.
+
+Vamos lá! Olha só o
+
+gerenciamento de mudanças e rastreabilidade.
+
+Os requisitos são aspectos críticos em projetos de desenvolvimento de software.
+
+Eles garante que as mudanças nos requisitos sejam controladas e documentadas adequadamente, permitindo que
+
+a equipe do projeto compreenda as origens, justificativas e impactos de cada mudança.
+
+Então, saber como que era, como que está e como vai ficar, por que é
+
+que não foi feito da primeira forma, Por que foi mudado para uma segunda
+
+as vezes? Por que foi mudado para uma terceira ou quarta? O que impactou
+
+ou o que impediu de não ser daquele jeito, daquela maneira, e assim sucessivamente.
+
+Então, nesse conteúdo, nós exploraremos a importância desses processos e apresentaremos
+
+as melhores práticas para o gerenciamento de mudanças e a rastreabilidade
+
+dos requisitos ao longo do ciclo de vida do projeto.
+
+Vamos lá.
+
+Por que é importante o gerenciamento de mudanças
+
+dos requisitos? Primeiro, evita desvios no projeto.
+
+E, cara, se você trabalha já na área, você sabe o quanto
+
+as pessoas querem desviar o foco? Quantas pessoas querem desviar o propósito?
+
+Quantas pessoas querem sair do trilho daquilo que foi proposto? Então, o
+
+primeiro de tudo, quando nós vamos fazer esses monitoramentos de gerenciamento
+
+de mudanças é justamente para isso, para evitar desvios no projeto.
+
+Então, mudanças nos requisitos são inevitáveis em projetos de desenvolvimento de software.
+
+Como eu já mencionei, o gerenciamento adequado de mudanças ajuda a
+
+evitar desvios significativos no escopo e no cronograma do projeto, garantindo
+
+que as mudanças sejam avaliadas e aprovadas antes de serem implementadas.
+
+Então, sempre quando há muitas mudanças, muitas vezes há mudança também no
+
+cronograma, porque ou insere ou retira a atividade e também as mudanças
+
+no tempo de estimativa, de desenvolvimento e de entrega do projeto.
+
+Por exemplo, se eu estipulei que para mim fazer o meu
+
+projeto, eu tenho dez atividades, eu vou demorar uma semana.
+
+Se por um acaso entra novas novos requisitos, novas solicitações e sobe para 15, eu já
+
+não vou mais demorar uma semana e já não vai ser o mesmo tempo de desenvolvimento.
+
+Eu vou ter um tempo de desenvolvimento maior e eu vou ter também um tempo de entrega mais esticado.
+
+Segundo, garantir a satisfação dos stakeholders.
+
+As mudanças nos requisitos podem surgir devido aos novos
+
+ensaios dos stakeholders ou mudanças no ambiente de negócios.
+
+Ao gerenciar essas mudanças de forma eficaz, a equipe do projeto
+
+demonstra flexibilidade e busca garantir a satisfação das partes interessadas.
+
+Então, outros motivos do qual os requisitos mudam é justamente
+
+a pedido dos stakeholders, às vezes dos clientes, dos usuários.
+
+Pede para acrescentar algo, enfeitar o pavãozinho em alguma coisa que às vezes já está até pronta.
+
+Um detalhezinho aqui, outro ali, justamente para ter uma satisfação maior.
+
+E aí nós, obviamente, vamos acabar aderindo justamente para isso, para ter uma
+
+satisfação e uma garantia de qualidade e de aceitação do nosso cliente.
+
+Então, de certa forma, nós também acabamos mudando esse determinado escopo.
+
+Não muitas vezes porque o cliente está pedindo, mas também muitas vezes porque vai gerar
+
+valor, ou seja, vai gerar lucro para nossa empresa se aquilo estiver dentro da
+
+ferramenta também, principalmente se aquela funcionalidade que você está fazendo para um cliente específico
+
+ela puder ser adotada em outros clientes, então você não vai estar ganhando só
+
+uma vez naquele projeto que está em andamento, mas você vai ganhar em outros
+
+projetos que vierem a ser futuros, porque aquilo já vai ser existente na plataforma.
+
+Consequentemente, a empresa vai cobrar um pouquinho mais por aquilo existir dentro da ferramenta.
+
+Bom.
+
+Terceiro, reduzir riscos e custos.
+
+Identificar e lidar com mudanças o mais cedo possível no ciclo de vida
+
+dos projetos reduz o risco de retrabalho, desperdício de recursos e custos adicionais.
+
+Como eu já mencionei em aulas anteriores, evita a hora extra de desenvolvedor, evita refazer
+
+as atividades, evita que seja refeito ou que seja necessário iniciar do zero alguma funcionalidade.
+
+Então você tem muitas reduções de riscos e custos também.
+
+Bom, e aí, quais são as melhores práticas para o gerenciamento
+
+das mudanças de requisitos? Vamos lá! Nós primeiramente precisamos estabelecer um
+
+processo de gerenciamento de mudanças, ou seja, nós precisamos definir
+
+um processo claro para solicitação, um processo claro para revisão
+
+e um processo claro para aprovação das mudanças dos requisitos.
+
+E isso deve incluir papéis e responsabilidades, critérios para
+
+aprovação das mudanças e os canais de comunicações adequados.
+
+Então, nós temos que muitas vezes definir quem serão os pontos focais responsáveis por aquilo.
+
+Nós precisamos definir pessoas que serão responsáveis para testes, para validações.
+
+Nós precisamos definir canais de comunicação para que, muitas vezes, conforme a
+
+agenda das pessoas, não tiver como fazer reuniões, entrevistas, brainstorms e etc.
+
+Nós conseguimos falar durante o dia a dia, seja uma mensagem mínima ou não.
+
+Pode ser um e-mail, um grupo no X ou um grupo no WhatsApp,
+
+seja da melhor forma que se adequar para aquele convívio da equipe.
+
+Beleza.
+
+Segundo, registrar e rastrear mudanças.
+
+Então mantenha o registro detalhado de todas as mudanças solicitadas, incluindo a descrição da
+
+mudança, a justificativa, a data de solicitação e a pessoa responsável por analisá la.
+
+Utilize ferramentas de gerenciamento de requisitos para rastrear o status e o histórico de mudança.
+
+Aqui entra vários contextos e pode ser feito de várias formas.
+
+Galera.
+
+Eu em particular costumava fazer da seguinte forma sempre quando houver mudanças
+
+ou sempre quando havia mudanças, sempre vai ter aquela aquele bate papo,
+
+aquela reuniãozinha básica para falar sobre as primícias, necessidades e etc.
+
+Bom, se isso está feito de forma remota, que é o que acontece na maioria dos
+
+casos hoje em dia, pede por gentileza pra pessoa pra deixar você gravar e aí conforme
+
+a gravação for acontecendo, vocês vão batendo papo e trocando as figurinhas, as informações devidas.
+
+E aí, ao término daquela reunião, você pára a gravação e você fica com uma cópia daquele
+
+vídeo e envia uma cópia para pessoa que estava a participante ou pra equipe participante também.
+
+E aí em cima desta reunião, em cima do que você falou, em
+
+cima do que você ouviu, em cima da gravação do vídeo em si
+
+que foi feito, você pondera algumas coisas criadas de reuniões, faz disparos por
+
+e-mail, coloca pessoas em cópia, acrescenta determinados arquivos e aí você mensura tudo
+
+isso com os demais informativos, descrições, justificativas, as datas, quais foram as pessoas
+
+envolvidas do lado da sua equipe, do lado da sua empresa? Quais foram
+
+as pessoas envolvidas e participantes de stakeholders externos, clientes, patrocinadores e etc.
+
+E aí, fazendo tudo isso, você tem um mapeamento mais amplo, mais robusto e
+
+mais detalhado do que que era, do que é e como vai ficar.
+
+E também, principalmente, do por que aquelas coisas foram mudadas.
+
+Se houve uma dificuldade na implantação, se descobriu que se a integração entre os sistemas
+
+não são compatíveis ou se são compatíveis, demoraria ou teria uma complexidade muito grande.
+
+Se o envio vai ser feito de uma outra forma porque achou que é
+
+mais fácil e ou porque dá pra enviar vários arquivos de uma vez.
+
+Enfim, são 1001 possibilidades do que pode fazer com que
+
+haja mudanças, inclusive imprevistos propriamente de saída de pessoas.
+
+Então a fulano acabou recebendo uma proposta, mudou de emprego.
+
+Então nós vamos precisar fazer de uma outra forma, porque quem vai
+
+entrar agora no lugar dele e não tem conhecimento e não teve
+
+uma participação tão grande quanto a ponto de poder dar continuidade no
+
+projeto? Enfim, são premissas e premissas, argumentos e argumentos, ocasiões e ocasiões.
+
+E aí tudo isso você vai gerenciar, como eu já mencionei
+
+em ferramentas que depois é fácil de ter o rastreio.
+
+Então um e-mail você mantém um histórico, você mantém uma árvore de troca de e-mails.
+
+Ali você pode focar em ferramentas de gerenciamento de projetos, anexar arquivos,
+
+incluir KPI em Trello, no Jira e aonde você achar melhor.
+
+Terceiro, avaliar o impacto das mudanças.
+
+Então, avalie cuidadosamente o impacto de cada mudança nos requisitos.
+
+Considere aspectos como cronograma, orçamento, recursos e dependência com outros requisitos.
+
+Como eu já mencionei anteriormente, então aqui entra as gestões de risco.
+
+Saber se isso vai fazer com que seu projeto atrase, quanto tempo ele vai ser atrasado,
+
+se o orçamento ou se o valor que o cliente pagou por aquilo está ainda
+
+dentro do proposto, ou seja, se as mudanças que ele solicitou, a empresa vai arcar
+
+de forma gratuita como um bônus para ele, ou se isso foge da proposta comercial.
+
+E aí para ele realmente ter isso, é para entrar no mapeamento do desenvolvimento.
+
+A equipe do comercial vai precisar entrar em contato com ele e conversar sobre novos valores de novo.
+
+Aí tem o contexto de ele querer aceitar ou não, de querer
+
+frisar o projeto ou dar continuidade apenas com o que tem.
+
+Se os recursos são as pessoas que estão desenvolvendo aquilo, elas
+
+têm o capacete, elas têm um tempo para fazer aquilo.
+
+Se vai ser necessário pagar hora extra ou fazer para o acaso o funcionário, o desenvolvedor trabalhar em
+
+final de semana, se ele vai aceitar ou se ele vai ter compromisso pra isso ou se ele
+
+não conseguisse, terceiros Freelancers vão poder ser contratados entre uma outra série de coisas que pode estar acontecendo.
+
+N quatro comunicar as mudanças para a equipe.
+
+Então, isso aqui é o importante para tudo dar certo.
+
+Comunicação interna, principalmente, é o que flui para todas as
+
+equipes, independente de qual área ou de qual tarefa seja.
+
+Então, garanta que a equipe do projeto esteja ciente de todas as mudanças aprovadas.
+
+A comunicação transparente é fundamental para evitar maus entendidos
+
+e garantir que todos trabalhem com as informações atualizadas.
+
+Por isso que é um dos motivos de você ter grupos de comunicação, além de fazer
+
+trocas por e-mail, que aí você consegue colocar um lembrete ali, fixar uma mensagem aqui, etc.
+
+Então sempre utilize dos recursos e das tecnologias que você tem em
+
+mãos também para facilitar o seu trabalho no dia a dia.
+
+E aí, Qual a importância da rastreabilidade dos
+
+requisitos? Por que a gente deve fazer essas
+
+rastreabilidade? Primeiro, porque garante a integridade dos requisitos.
+
+Então, a rastreabilidade permite que a equipe do projeto entenda a origem e a evolução de cada requisito.
+
+Isso ajuda a garantir que nenhum requisito seja esquecido ou
+
+negligenciado ao longo do ciclo de vida do projeto.
+
+Segundo, facilita a manutenção e o teste.
+
+Então, ao rastrear as relações entre requisitos e outros artefatos do projeto, como casos de testes e
+
+componentes de software, é mais fácil entender como as mudanças podem afetar o sistema como um todo.
+
+Então, aqui também você tem uma facilidade não só para você, para
+
+sua equipe, mas para todo o restante do time que estiver envolvido.
+
+Para os que as por exemplo, para as manutenções, as pessoas de sustentação, de suporte, etc.
+
+E aí, Quais as melhores práticas
+
+para a rastreabilidade? Então vamos lá.
+
+Primeiro, utilize ferramentas de gerenciamento de requisitos.
+
+Então aqui nós já mencionamos a ferramenta de gerenciamento de requisitos vai
+
+facilitar o trabalho, especialmente em projetos complexos ou projetos com muitos requisitos.
+
+Segundo, crie matrizes de rastreabilidade.
+
+Isso ajuda a identificar lacunas de rastreabilidade e garante
+
+que todos os requisitos estejam devidamente cobertos pelos testes.
+
+Terceiro, manter a rastreabilidade atualizada, que também já comentamos.
+
+Isso ajuda a manter a integridade dos requisitos ao longo do tempo.
+
+Então, ter documentações direcionadas v1, v2, v3 ter as descrições separadas por seções, ter os descritivos do que
+
+era, de como está e como vai ficar, o que mudou, porque mudou e o que impacta.
+
+Qual era o valor, Qual o valor que está atualmente?
+
+Qual vai ser o futuro? Qual é o tempo estimado?
+
+O que impactou no cronograma, se vai ter atraso ou
+
+não, quem atuou no arquivo, qual foi a data solicitada
+
+e tudo o que nós já vimos anteriormente até aqui.
+
+Conclusão geral Gerenciamento de mudanças e a rastreabilidade de requisitos são
+
+processos críticos para o sucesso de projetos de desenvolvimento de software.
+
+Ao estabelecer um processo claro de gerenciamento de mudanças, registrar e avaliar cuidadosamente
+
+cada mudança e garantir uma rastreabilidade adequada, a equipe do projeto poderá
+
+liderar de forma eficaz com as mudanças, os requisitos e garantir a
+
+qualidade e o alinhamento do produto final com as necessidades dos stakeholders.
+
+Uso de ferramentas de gerenciamento de requisitos também
+
+desempenham um papel importante na eficiência desses processos.
+
+Porque se de certa forma você consegue mapear, você consegue controlar.
+
+Você consegue manter atualizado, de fácil acesso, de fácil
+
+comunicação, de fácil envio, recebimento, abertura, leitura e atendimento.
+
+Você também facilita o a equipe num todo, todas as partes interessadas, seja os stakeholders
+
+internos, sejam os stakeholders externos, ou seja, seja a sua equipe de desenvolvimento, seja sua
+
+equipe de produtos, seja sua equipe de testes, seja sua equipe de sustentação, sejam as
+
+pessoas clientes, sejam os usuários finais, sejam as partes interessadas que entram com o dinheiro,
+
+patrocinadores ou propriamente a diretoria para saber sobre budget, valores de produto e etc.
+
+Agora.
+
+E essa foi mais uma aula do nosso curso de Análise de Requisitos de Software.
+
+Muita coisa a gente já viu, muita coisa ainda pra ver.
+
+Espero que vocês tenham entendido e que vocês estejam gostando do curso.
+
+O processo por aqui.
+
+Fica com Deus e até breve.
