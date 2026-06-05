@@ -1,0 +1,477 @@
+Olá aluna aula alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+Entrando no módulo novo, nós vamos falar um pouco sobre modelagem de requisitos usando diagramas de
+
+caso de uso, diagramas de sequência.
+
+Também falaremos um pouco a respeito de outros diagramas existentes também.
+
+Bom.
+
+A modelagem de requisitos é uma etapa crucial no desenvolvimento de sistemas de software, pois permite
+
+capturar, analisar, documentar os requisitos funcionais e não funcionais do sistema.
+
+Através dessa técnica, como diagramas de caso de uso e diagramas de sequência, os analistas e desenvolvedores
+
+podem entender melhor as interações entre os atores e o sistema, além de visualizar o comportamento
+
+esperado em diferentes cenários.
+
+Se conteúdo, nós abordaremos essas duas técnicas principais e também mencionaremos outros diagramas
+
+frequentemente utilizados na modelagem de requisitos.
+
+Então, já como foi mencionado em muitas aulas anteriores, pessoal, os diagramas são as formas ilustrativas
+
+no qual nós pegamos tudo aquilo que foi levantado de requisito de forma textual e transformamos em imagem
+
+para que nós tenhamos uma facilidade de visualização de interpretação.
+
+E como o próprio texto menciona aqui, os analistas e os desenvolvedores, eles podem entender melhor
+
+as interações entre os atores e o sistema.
+
+Então, nesse caso, quem que é o ator?
+
+Qual é o contexto de ator?
+
+O ator sempre vai ser o usuário que está fazendo o uso daquela ferramenta ou daquele recurso.
+
+Então, sempre que vocês ouvirem atores, significa que está sendo falado dos usuários.
+
+E aí, independente de ser usuário final, independente de ser um gerente, independente de ser pessoas
+
+do time interno ou externo, os atores, eles sempre vão ser relacionados a usuários.
+
+Tá bom.
+
+Vamos lá.
+
+O primeiro deles, como já foi mencionado, Diagramas de caso de uso.
+
+Para que ele serve?
+
+Por que ele é muito utilizado?
+
+Olha só.
+
+Os diagramas de caso de uso são ferramentas gráfica que ajudam a representar a funcionalidade do sistema
+
+sob a perspectiva dos atores envolvidos.
+
+O ator é qualquer entidade externa que interage com o sistema, como usuários, outros sistemas ou até
+
+mesmo dispositivos.
+
+Os casos de uso descrevem as ações que os atores executam no sistema e a resposta que o sistema fornece.
+
+A notação padrão inclui eclipses para representar atores e retângulos para representar casos de uso.
+
+Então vamos lá.
+
+Diagrama de caso de uso de representar a interação entre os atores e o sistema, então, é um dos diagramas
+
+mais utilizados justamente por isso, porque representa a interatividade entre o externo e o interno.
+
+E aí eu coloquei uma imagem aqui para nós termos uma percepção melhor de como que é desenhado.
+
+Beleza?
+
+Então, olha só, nós temos aqui inicialmente os atores.
+
+Beleza.
+
+Então, temos três atores nesse contexto.
+
+Um é o usuário, o segundo é o moderador e o terceiro é o administrador.
+
+De certa forma, esses três aqui são usuários, porém, o que muda de um para o outro é literalmente
+
+a acessibilidade que eles possuem dentro do sistema.
+
+Então vou imaginar que seja por camadas, tá bom?
+
+Então, assim, o meu usuário digamos que seja as pessoas que vai fazer a usabilidade do sistema no
+
+cotidiano, no dia a dia, realizar tarefas, elas possuem algumas interações e essas interações não
+
+dão particionamento os mais avançados.
+
+Já o moderador, por exemplo, ele tem uma interação da mesma forma que o usuário possui, porém ele
+
+tem permissões maiores para realizar algumas outras coisas dentro da ferramenta.
+
+Já o administrativo, ele tem os mesmos acessos do que os dois anteriores, porém ainda tem uma personalidade
+
+maior para fazer outras coisas que os outros dois anteriores talvez não consigam ou não tenham permissão.
+
+E aí, como que ilustrar isso daqui?
+
+Olha só o meu usuário, por exemplo, ele pode se registrar na ferramenta, ele pode efetuar o login,
+
+ele pode manter PET e ele pode adotar PET.
+
+Então aqui seria um exemplo fictício de um sistema de doação de animais domésticos, por exemplo.
+
+Beleza, Então meu sistema ele permite que o meu usuário faça quatro ações aqui dentro.
+
+Legal, Então as minhas ações, elas são representadas por esses círculos aqui.
+
+Então eu estou dizendo que a interação com o meu usuário para minha ferramenta e que ele pode se registrar,
+
+ele pode efetuar login, ele pode manter um pet e ele pode adotar um pet legal.
+
+Já o meu moderador, ele pode fazer tudo o que o meu usuário faz, só que ele também consegue manter
+
+localidades que diferente do meu usuário, não consegue.
+
+Já o meu administrador, ele consegue fazer tudo que o usuário faz, mas o que o moderador faz que é
+
+manter localidades.
+
+E além de todas essas funcionalidades, ele também consegue gerenciar usuários.
+
+Então aqui ele consegue, por exemplo, fazer a busca dos usuários.
+
+As vezes dependendo do sistema, ele vai conseguir da permissão, retirar permissão, trocar a senha
+
+para esse usuário congelar esse usuário, desativar esse usuário, ativar esse usuário, excluir esse
+
+usuário, criar outros usuários e assim sucessivamente.
+
+Então aqui é uma maneira ilustrativa.
+
+Imaginemos que foram levantados requisitos para criar uma funcionalidade.
+
+Um sistema que faz a adoção de pets, aonde você cadastra primeiramente o usuário cadastra o seu pet
+
+e aí você também consegue colocar a opção de doação ou fazer buscas de pets que estão sendo doados.
+
+Então foram levantados todos os requisitos textuais.
+
+Foram mapeados requisitos funcionais, não funcionais, requisitos de usabilidade, requisitos de desempenho
+
+e etc.
+
+E aí, depois de tudo isso, foi montado que foi montado um diagrama de caso de uso que aqui é possível
+
+destrinchar de uma melhor maneira o que dá para fazer o que não dá.
+
+Como que o usuário vai acessar?
+
+Como que não vai, se vai haver mais algum outro ponto além do que foi anotado ou não, se faltou,
+
+faltou anotações ou não e etc.
+
+Então, esse é um dos diagramas mais utilizados para fazer representações de requisitos que nós temos.
+
+Legal.
+
+Agora.
+
+O segundo diagrama é o de sequência.
+
+Os diagramas de sequência são usados para descrever a interação entre atores e objetos dentro do sistema
+
+ao longo do tempo.
+
+Eles mostram a ordem das mensagens trocadas entre os objetos em sequência cronológica.
+
+Esse tipo de diagrama é útil para visualizar o comportamento dinâmico do sistema em resposta a um caso
+
+de uso específico.
+
+Então, diferente do diagrama anterior, que mostra a interação entre o usuário e o sistema de um contexto
+
+genérico e geral, esse outro diagrama, que é o de sequência, ele vai ser usado para descrever a interação
+
+entre os atores e os objetos.
+
+Então, o que são os objetos dentro do sistema?
+
+Os objetos são tudo aquilo que o usuário conseguir clicar, conseguir fazer ações.
+
+Beleza.
+
+Pode ser um botão, pode ser um campo de texto, pode ser um chazinho de popup e entre outras finalidades.
+
+E aí, como que é feito?
+
+Olha só como é dito, o nome é um diagrama de sequência, então ele vai pegar uma primeira ação do usuário
+
+e a partir daquela ação do usuário, ele vai fazer sequências de interações entre objetos dentro do
+
+sistema.
+
+Então, após o usuário fazer o login, por exemplo, dentro de uma aplicação web, o que vai acontecer?
+
+A aplicação vai fazer a verificação ou a busca.
+
+Se aquele e-mail e senha no qual o usuário usou para fazer o login existe.
+
+E aí vai haver uma autenticação para saber se está válido ou não, se inseri de forma devida ou não,
+
+se o usuário e senha estão corretos ou não, então essa autenticação vai ser verificada dentro do banco
+
+de dados, onde talvez exista um token.
+
+Isso não é premissa e nós vamos entender que assim, de certa forma, o token é uma espécie de chave
+
+no qual é permitido fazer verificações.
+
+Beleza.
+
+Só que não precisamos entrar em detalhes quanto a isso daqui, Só que dando continuidade.
+
+Então, como funciona o meu usuário?
+
+Ele usou usuário e senha para fazer o login dentro de uma aplicação web?
+
+Então, a busca entre usuário e senha foi feita no meu banco de dados, então foi feito uma autenticação
+
+para saber a existência daquele usuário e senha, se existe e se está correto.
+
+E aí, caso exista, existe aqui o login.
+
+Do meu usuário, ou seja, ele conseguiu fazer o login.
+
+Caso não exista, existe uma mensagem de erro.
+
+Como que isso vai funcionar a partir de uma condição que tem aqui no meio?
+
+Então olha só, se o meu usuário não existe, existe uma mensagem de e-mail, se o meu usuário existe
+
+e ele vai efetuar o login.
+
+Então aqui eu estou mostrando as interações do meu agente, do meu ator dentro da minha ferramenta legal.
+
+Só que depois da interação do meu ator com a minha ferramenta, eu estou mostrando a interação entre
+
+os objetos existentes dentro da minha ferramenta.
+
+Beleza?
+
+E aí?
+
+Olha só que bacana!
+
+Então, existe aqui os status de login e mensagem de erro ou o redirecionamento para a tela principal,
+
+que é o redirecionamento para a tela principal.
+
+Então eu tenho a tela de login e senha, então eu inseri lá o meu e-mail, a minha senha, que é o que
+
+eu uso para fazer o login, se ele está correto ou se existe o cadastro disso dentro do banco de dados,
+
+ele vai fazer o login e vai me redirecionar para a tela inicial.
+
+Então aqui o redirecionamento para a tela principal.
+
+Caso o meu usuário que é o meu email ou caso a minha senha esteja incorreta ou caso eles não estão cadastrado,
+
+não são existente dentro do banco de dados e vai me mostrar uma mensagem de erro.
+
+E aí, o que meu sistema faz?
+
+Por exemplo, após ter efetuado o login?
+
+Tela de cadastro de documento.
+
+Beleza, Então são dois tipos de diagramas que são muito utilizados para fazer representações ilustrativas
+
+dos requisitos que foram levantados.
+
+Lembrando que o nosso diagrama de caso de uso, ele serve aqui para ilustrar os atores e as ações que
+
+eles fazem dentro do sistema.
+
+Já o outro, ele faz a ilustração das interações entre os objetos dentro do sistema legal.
+
+E aí, por fim, existem outros diagramas.
+
+Como eu já mencionei em aulas anteriores, existem 14 tipos de diagramas ao todo.
+
+Beleza, Nem sempre todos eles vão ser usados para fazerem levantamentos de requisitos.
+
+Mas todos eles fazem partes de diagramas.
+
+Então olha só.
+
+Além dos diagramas de caso de uso e sequência, existem diagramas que podem ser utilizados na modelagem
+
+dos outros 14 no total.
+
+Alguns outros também podem ser utilizados para dentro de requisitos.
+
+Então nós temos o primeiro, que é o diagrama de classes usados para representar as estruturas das classes
+
+do sistema, mostrando as suas propriedades e relacionamentos.
+
+Então sobre banco de dados, chaves primárias estrangeiras e etc.
+
+Segundo diagramas de estado são úteis para descrever o comportamento do objeto ao longo do tempo, mostrando
+
+os estados pelos quais eles podem passar e as transições entre eles.
+
+Um exemplo de estados estão off line pendente on line ocupado, pausa para banheiro, pausa para almoço
+
+e etc.
+
+Isso são estados de um objeto que é o meu objeto.
+
+Meu objeto é o meu usuário logado.
+
+Um exemplo.
+
+E aí ele pode passar por alguns estados de acordo com a disponibilidade ou com a ocupação que ele possui
+
+ou com a pausa que ele possui.
+
+Então, essas pausas, esses estados dentro do sistema, dentro da ferramenta, poderia muito bem entrar
+
+como esses tipos de estados que podem ser passados.
+
+Então, quando ele está disponível e apto para trabalhar, ele está disponível.
+
+Se por um acaso ele entrou em uma reunião interna, ou ele está fazendo alguma ligação ou qualquer outra
+
+coisa do tipo, ele está como ocupado.
+
+Se ele teve o horário de almoço, ele pode colocar pausa para almoço.
+
+Se ele precisou ir ao banheiro, ele pode colocar pausa para o banheiro e assim sucessivamente.
+
+Temos um terceiro, que é o diagrama de componentes.
+
+Esses aqui mostram a estrutura do sistema em termos de componentes e as suas interações.
+
+Aqui é para mostrar qual é a estrutura.
+
+Então, aonde que está hospedado, qual é o tipo de tecnologia, quantos bancos de dados, quais que
+
+são as tabelas e assim sucessivamente.
+
+Temos um quarto que é diagrama de implantação representam a disposição física dos componentes dos sistemas
+
+em hardware.
+
+Então, aqui nós estamos falando de requisitos, por exemplo, para talvez projetos do Primícias voltados
+
+à telefonia, talvez voltado à área de telecom, onde nós temos muitos aparelhos físicos.
+
+Beleza, então ele pode ser usado para fazer essas representatividades, por exemplo.
+
+Já o nosso quinto seria o diagrama de atividades.
+
+Esses são utilizados para descrever o fluxo de trabalho ou processos em um sistema.
+
+Então aqui nós podemos entender que esse diagrama ele serve para fazer a descrição de fluxo de trabalho.
+
+Um exemplo é cadastrar.
+
+Cadastrar o usuário?
+
+Qual é o fluxo de cadastro do usuário?
+
+Então vamos usar usuário.
+
+Ele acessa login e senha é redirecionado para a página inicial.
+
+O usuário clica no menu Cadastrar.
+
+Abre se então uma janela onde é necessário preencher dados.
+
+O usuário preenche nome Usuário Preenche sobrenome.
+
+Usuário Preenche endereço Usuário Preenche contato Usuário Preenche e-mail O usuário distingue sexo
+
+entre feminino e masculino e assim sucessivamente.
+
+Após todos os preenchimentos, o usuário clica em cadastrar.
+
+Isso é um fluxo de trabalho ou processo que um sistema realizaria, por exemplo.
+
+Já o nosso sexto seria Diagramas de interação.
+
+Esses englobam tanto os diagramas de sequência como os diagramas de comunicação, que mostram as interações
+
+entre objetos de forma mais abstrata.
+
+Aqui seria uma complementação do segundo diagrama que nós vimos, que é o nosso diagrama de sequência.
+
+Beleza, então ele pode ser utilizado junto ou ele pode ser utilizado para complementar informações.
+
+Olha só.
+
+Cada tipo de diagrama tem o seu propósito e contribui para uma visão específica do sistema, permitindo
+
+uma análise completa dos requisitos e facilitando a comunicação entre os membros de equipe e de desenvolvimento.
+
+Então você, como um analista de requisitos, um analista de processos, você tem que ter a malícia
+
+de saber qual que é o diagrama que melhor vai representar informações, que melhor vai ilustrar, que
+
+melhor vai deixar visível aquilo que você precisa mostrar à sua equipe, que você precisa mostrar a
+
+terceiros.
+
+Então você tem de saber escolher o momento propício de se utilizar cada um desses diagramas ou se você
+
+tiver tempo, habilidade e etc.
+
+Você pode criar mais de um também.
+
+E aí você pode utilizar combinações.
+
+Então, por exemplo, diagramas de caso de uso e diagramas de sequência foram os 2/1 que nós utilizamos
+
+ali que nós vimos.
+
+Na verdade, eles são utilizados muito em conjunto, então eu uso um para fazer a ilustrativo idade
+
+do que o meu usuário faz dentro da minha ferramenta.
+
+E um outro eu uso para ilustrar o que a minha ferramenta faz em relação a interatividade entre um objeto
+
+e outro.
+
+Beleza, então eu posso fazer combinações e aí eu preciso ter o que é a malícia de saber como utilizar
+
+isso aqui, como eu vou incorporar ou como que eu vou incrementar um ao outro?
+
+Como que eu vou combinar?
+
+Bom, qual que é o diagrama que faz isso?
+
+Qual é o diagrama que faz aqui?
+
+Se eu desenhar os dois, eu vou ter uma visão mais ampla, eu vou ter uma visão mais embaralhada.
+
+Então tudo isso é necessário de se visualizar também.
+
+A conclusão geral é que a modelagem de requisitos através dos diagramas de caso de uso, sequências
+
+e outros diagramas são fundamentais para garantir a compreensão e a documentação adequada dos requisitos
+
+do sistema, contribuindo para o desenvolvimento de software eficiente, confiável e alinhado com as
+
+expectativas dos usuários e também dos stakeholders de uma forma geral.
+
+Como eu já vinha batendo na tecla em aulas anteriores junto a documentação textual, é imprescindível
+
+que tenha um diagrama para fazer a ilustração daquelas informações.
+
+Então, espero que você tenha absorvido muito do que nós falamos aqui.
+
+Principalmente que você consiga colocar isso em prática no dia a dia, você consiga fazer testes, que
+
+você consiga trabalhar, fixar, exercitar tudo isso daqui.
+
+Muita coisa.
+
+Nós já vimos, muita coisa ainda para ver.
+
+Me despeço por aqui, Fica com Deus e até breve.
