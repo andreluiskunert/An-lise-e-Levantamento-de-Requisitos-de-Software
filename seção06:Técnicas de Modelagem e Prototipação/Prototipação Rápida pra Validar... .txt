@@ -1,0 +1,231 @@
+Olá Luna, ao aluno, sejam muito bem vindos a mais uma aula
+
+do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Nós nesta aula falaremos um pouco sobre prototipação rápida para validar requisitos com usuários finais.
+
+Aqui vai ser uma aula um pouco diferente das anteriores.
+
+Nós vemos ali que as aulas anteriores e de dez minutos acima,
+
+só que vai ser um pouco mais resumida, um pouco mais curta.
+
+Na verdade, aqui são algumas técnicas conceitos do que nós
+
+já falamos em aulas anteriores desde o início do curso.
+
+Há mais, assim, uma certa forma de fixação e um contexto diferente do que nós já vimos em outras aulas.
+
+Vocês terem uma percepção maior, uma abrangência maior, uma expansão de horizontes
+
+para entender como que funciona ou como que faz determinadas coisas.
+
+Tá bom.
+
+Então nós já vimos que a prototipação é uma técnica essencial no processo de
+
+desenvolvimento de software, especificamente quando se trata de validação dos requisitos dos usuários finais.
+
+Nós vimos também que essa abordagem envolve a criação rápida de protótipos.
+
+São versões simplificadas ou simulações do produto final para que os usuários possam interagir com os
+
+sistemas antes mesmos que eles sejam completamente desenvolvidos e a linha entre aquele contexto para saber
+
+se está aderente ou não está entrando nas expectativas do que foi acordado e etc.
+
+Esse método oferece uma série de benefícios, permitindo que as equipes identifiquem e resolvam
+
+problemas mais cedo no ciclo de desenvolvimento, Economizem tempo e recursos e, o
+
+mais importante, garantam que o produto final atenda às necessidades reais dos usuários.
+
+Como já falamos especificamente em aulas propícias para isso.
+
+Com Quais são as vantagens da
+
+prototipação rápida? Então vamos lá.
+
+Primeiro é que nós temos o feedback antecipado.
+
+Isso evita que problemas e desvios dos requisitos sejam descobertas apenas após o
+
+desenvolvimento completo do sistema, economizando tempo e evitando retrabalhos, como já mencionamos.
+
+Segundo, é validação dos requisitos.
+
+Por quê? Garante que o produto final atenda às
+
+expectativas dos usuários e às necessidades do negócio.
+
+Então, eu validando os requisitos, eu sei se eu estou de acordo
+
+com o que está sendo proposto, de acordo com o que foi
+
+vendido, de acordo com propostas comerciais, de acordo com expectativas, os stakeholders.
+
+Enfim, eu tenho que fazer essas validações não apenas no início do meu projeto, mas com frequência.
+
+À medida em que o projeto vai avançando, eu vou validando e validando para saber
+
+as aderências e se ainda se mantém no caminho ou se teve algum desvio.
+
+Terceiro compreensão mais clara.
+
+Então, aqui, através dos protótipos, nós podemos visualizar como o sistema funcionará na prática, que
+
+ajuda a melhorar a compreensão dos requisitos, permite que eles forneçam feedbacks mais direcionados.
+
+Olha aqui tá legal, mas tá faltando isso.
+
+Olha, dá pra implementar isso daqui também junto com aquilo e assim sucessivamente.
+
+Agilidade e rapidez, então torna o processo mais ágil, permitindo os ajustes contínuos
+
+e garantindo que o produto final seja desenvolvido de forma mais eficiente.
+
+Então eu tenho uma agilidade maior e uma rapidez no desenvolvimento.
+
+Redução de custos e riscos.
+
+Esta etapa aqui também é uma premissa, pois identificar problemas de usabilidade de requisitos mal
+
+compreendidos ou de funcionalidades desnecessárias no início do projeto de desenvolvimento evita retrabalhos e
+
+alojamento desnecessário de recursos, reduzindo assim os custos e os riscos envolvidos no projeto.
+
+Bom, e aí, como que nós podemos realizar a prototipação
+
+rápida com base no que nós vimos? Então vamos lá.
+
+Primeiro, defina os objetivos.
+
+Então, antes de iniciar a prototipação, é fundamental compreender
+
+claramente os objetivos do sistema e os requisitos.
+
+Principais Requisitos Funcionais Qual que é premissa?
+
+O que é obrigatório conter? Por quê?
+
+Isso ajudará a redirecionar o desenvolvimento do
+
+protótipo para focar nas funcionalidades mais
+
+críticas ou nas funcionalidades mais necessárias.
+
+Então eu tenho que ter uma clareza do que é necessário.
+
+Eu tenho que ter uma clareza do que é o projeto.
+
+Eu preciso entender muito bem dos requisitos que está sendo necessários ali
+
+para que eu tenha o objetivo, para que eu defina um objetivo.
+
+Segundo escolha as ferramentas apropriadas.
+
+Existem várias ferramentas disponíveis para criação de protótipos, desde ferramentas,
+
+wireframe simples até ferramentas mais avançadas de design de prototipagem.
+
+Escolha aquela que melhor se adapte às necessidades do projeto.
+
+Então aqui, se vocês quiserem procurar, até para vocês entenderem, se
+
+precisar, vocês também aprenderem, caso não saibam, caso nunca tenham ouvido
+
+falar, existem ferramentas que ajudam nesse processo que primeiro chama balsâmico.
+
+Você consegue criar determinadas telas, acrescentar objetos nessas telas e o mais legal que você.
+
+A partir de inúmeras telas criadas, você consegue linkar de uma para outra e conforme você
+
+apresenta, ele literalmente dá uma impressão de que a pessoa está acessando uma tela inicial e
+
+conforme vai acontecendo, ela vai entrando ou adentrando a outras telas, outras funcionalidades e outros recursos.
+
+Um exemplo fiz uma tela de login e senha, depois eu criei uma tela de página inicial.
+
+Depois da página inicial, criei uma outra tela de criação de ticket.
+
+Quando eu linko essas telas e eu peço pra apresentar, ele vai mostrar como
+
+se realmente houvesse um login e um direcionamento para a página inicial e após
+
+a página inicial, houvesse ali algo clicando para essa página de cadastro, por exemplo.
+
+Lá fora.
+
+Ela tem aí o Sigma, que é muito utilizado por equipes de design, equipes de O X, o IR e assim sucessivamente.
+
+Também é bem válido de saberem, porque muitas vezes você pode pegar programas, ferramentas que
+
+é usado em outros lugares e adentrar para dentro daquilo que você precisa também.
+
+Terceiro, crie protótipos interativos, Então desenvolva protótipos em etapas interativas,
+
+focando em partes específicas do sistema de cada interação.
+
+Por exemplo, que eu acabei de mencionar, isso permitirá que os usuários
+
+interajam com o protótipo em estágios diferentes, dando feedbacks progressivamente, Então eles
+
+vão conseguir entender como vai funcionar de uma forma prática, por exemplo.
+
+Quatro conduz as sessões de testes com os usuários, já que é de extrema importância.
+
+Já falei em aulas anteriores realizar testes internos para lapidar ou tirar
+
+rebarbas e, após testes externos para os clientes, os usuários, os stakeholders,
+
+acompanhar o que está sendo desenvolvido, como que está ficando e etc.
+
+E ali sessões de testes com os usuários finais, apresentando o protótipo e observando suas interações.
+
+Registre o feedback e utilize o para melhorar o protótipo nas interações subsequentes.
+
+Então avalia e redefine.
+
+Com base no feedback dos usuários naquele que você coletou.
+
+Conforme os testes, avalia o protótipo.
+
+Identifique áreas de melhoria e faça os ajustes necessários, os ajustes devidos.
+
+Repita esse processo até que o protótipo atinja um nível satisfatório de validação dos requisitos.
+
+Em sexto transição para o desenvolvimento.
+
+Uma vez que o protótipo tenha sido validado e refinada adequadamente, a
+
+equipe pode utilizar as lições aprendidas para o desenvolvimento do produto final
+
+com uma compreensão mais clara dos requisitos e necessidades dos usuários.
+
+Bom resumo geral.
+
+Prototipação rápida é uma abordagem valiosa para validar requisitos com usuários finais,
+
+pois permite obter feedback precoce e interativo, garantindo que o sistema desenvolvido
+
+atenda às expectativas dos usuários e traga benefícios significativos para o negócio.
+
+Seja agregue valor à empresa também através da prototipação.
+
+As equipes podem identificar e resolver problemas de usabilidade, ajustar funcionalidades
+
+e garantir o sucesso do projeto de desenvolvimento de software.
+
+Então galera, aqui na verdade foram complementados o que nós já havíamos falado em muitas aulas anteriores.
+
+Não são etapas, são técnicas de validação dos protótipos, de testes,
+
+de protótipos, de realização de protótipos rápidos no termo geral.
+
+Espero que vocês tenham entendido e que vocês estejam gostando do curso.
+
+Ainda existe muito a nós vermos e trabalharmos aqui.
+
+Me despeço até então.
+
+Fica com Deus e até breve

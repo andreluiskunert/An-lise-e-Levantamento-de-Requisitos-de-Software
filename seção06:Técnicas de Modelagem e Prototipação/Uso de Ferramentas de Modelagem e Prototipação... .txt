@@ -1,0 +1,345 @@
+O La Luna ao aluno.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Ainda falando um pouco sobre modelagem e prototipação, nesta aula nós vamos entender como a modelagem
+
+e como a prototipação podem auxiliar no processo de desenvolvimento de software.
+
+Então nós já vimos que o desenvolvimento de software é uma tarefa bem complexa e que requer um planejamento
+
+cuidadoso e uma compreensão muito clara dos requisitos do sistema.
+
+Então, o que o sistema vai fazer?
+
+O que que deve conter, quais são as premissas e etc.
+
+E aí nós já vimos também que as ferramentas de modelagem e também a prototipação elas possuem papéis
+
+fundamentais porque desempenham um papel essencial no processo, então permite que as equipes capturem.
+
+E também permite que as equipes visualizem e validem os requisitos de forma eficiente.
+
+Então, de certa forma, o que nós veremos aqui?
+
+Nós exploraremos o uso das ferramentas de modelagem e também de prototipação e verificaremos como que
+
+elas podem auxiliar em todas as etapas do desenvolvimento de software.
+
+Então, como que ela vai nos ajudar no cotidiano, nas tarefas, nos deveres do dia a dia até que o
+
+desenvolvimento do software seja feito?
+
+Então, a importância das ferramentas de modelagem.
+
+Bom, nós já vimos que as ferramentas de modelagem elas fornecem de maneira estruturada e visual, uma
+
+representatividade dos requisitos do sistema.
+
+Então, nós vimos na aula anterior que existem diversos tipos de diagramas.
+
+Alguns diagramas.
+
+Eles permitem que nós consigamos visualizar o que os atores e o sistema faz que a interação entre os
+
+usuários e a ferramenta.
+
+Nós também conseguimos visualizar entre diagramas quais são as atividades entre os objetos, Então vai
+
+adentrando dentro do sistema quais são as atividades que acontece entre um objeto e outro.
+
+Desde quando o usuário faz o login dentro da ferramenta?
+
+Qual é o processo da verificação do login?
+
+Aonde que esses dados estão?
+
+Como que eles são verificados?
+
+Qual que é a forma que se verifica se é existente ou não, se é válido ou não.
+
+E aí as mensagens que é dita, se não existe ou se está errado aquele usuário e senha, existe uma mensagem
+
+de erro.
+
+Se por um acaso existe, existe o login para uma tela inicial e assim sucessivamente.
+
+Então nós sabemos que alguns benefícios dessas ferramentas inclui isso que eu já falei, além do que
+
+está anotado aqui.
+
+Então tem uma comunicação efetiva, porque os diagramas eles permitem que os membros das equipes, os
+
+stakeholders, eles compartilhem e tenham uma compreensão comum dos requisitos, reduzindo os mais entendimentos
+
+e as ambiguidades.
+
+Aqui nós já falamos em aulas anteriores, então o diagrama ele serve para ter uma representatividade
+
+ilustrativa daquilo que está em texto, porque muitas vezes a pessoa não tem uma interpretação textual
+
+tão boa.
+
+Ela não gosta de ler e às vezes ela tem dificuldade de leitura.
+
+Então a forma visual é a forma mais comum e mais fácil de entendimento.
+
+E nós sabemos disso até por conta de história.
+
+Então, os primeiros registros históricos, os humanos, nós sabemos que existiam desenhos para a comunicação.
+
+Então a parte ilustrativa para o ser humano é mais fácil do que a parte textual.
+
+Sim.
+
+Segundo é a análise e a validação.
+
+Por que através da modelagem é possível identificar problemas potenciais e inconsistências nos requisitos,
+
+permitindo os ajustes do desenvolvimento.
+
+É o terceiro e a maior abstração.
+
+Por que Diagramas possui uma visão mais abstrata do sistema, permitindo que a equipe se concentre nos
+
+aspectos mais relevantes, sem perder detalhes técnicos.
+
+E assim como nós temos as importâncias das modelagens, nós também temos as ferramentas e isso nós já
+
+vimos na aula anterior.
+
+Então temos os diagramas de caso de uso, temos diagramas de sequência, temos diagramas de classe,
+
+temos diagramas de estado e entre eles nós temos outros que completam 14 diagramas ao todo.
+
+Já o papel da prototipação que seria aqui.
+
+Olha só, prototipação.
+
+Nós vimos que é uma técnica que envolve a criação de modelos ou simulações entre os sistemas antes da
+
+implantação final.
+
+Então nós sabemos que, de certa forma, é uma POC que nós reproduzimos para o cliente ele entender
+
+e também interagir com aquilo e verificar a aderência, impacto, satisfação e etc.
+
+E aí nós temos aqui alguns tópicos também.
+
+Que é o quê?
+
+Obter feedback dos usuários Por que os protótipos permitem que os usuários finais interajam com o sistema
+
+antes da construção completa, fornecendo feedback valioso para o refinamento.
+
+Então nós tiramos aquelas rebarbas antes do desenvolvimento para ter algo mais amplo, mais completo
+
+e mais robusto.
+
+Nós também temos a validação dos requisitos, porque ao testar o protótipo com os usuários, é possível
+
+verificar se os requisitos, aqueles que foram levantados, definidos como funcionais, não funcionais,
+
+desempenho, requisitos de segurança, requisitos de usabilidade, etc.
+
+Eles foram compreendidos corretamente por nós, que levantamos eles ou não.
+
+Então, aqui nós conseguimos saber se nós estamos indo pelo caminho certo ou se nós, ao decorrer do
+
+desenvolvimento do projeto, desviamos por algum motivo o percurso.
+
+Nós também temos a redução dos riscos e dos custos daqui.
+
+Eu já falei também por quê?
+
+Identificaram os problemas e as necessidades não atendidas nos estágios iniciais.
+
+Evita retrabalho e reduz custos dos projetos.
+
+Então, nós sabemos que o desenvolvedor leva um tempo, que as coisas são complexas para serem desenvolvidas
+
+e se você tem requisitos mal levantados, você obviamente tem um risco maior, porque você já vai ter
+
+coisas feitas.
+
+Você vai ter retrabalho para refazer ou remodelar ou para corrigir, e o custo acaba sendo maior porque
+
+aquele tempo em que ele vai refazer, no caso, o desenvolvedor, aquele tempo em que ele vai refazer
+
+aquilo que já era para ter sido implantado de forma devida, ele poderia estar em um outro projeto,
+
+ou a empresa poderia estar fazendo o pagamento dele, o dia a dia, as horas trabalhadas para um outro
+
+recurso, por exemplo.
+
+Então, tudo isso aqui é importante e está nas mãos do analista de requisitos.
+
+E aí os tipos de ferramentas de prototipação que nós temos é a prototipação de baixa fidelidade, que
+
+aí eu já mencionei, né?
+
+Os wireframes são esboços simples para representação da estrutura do sistema.
+
+E por que ele é bem utilizado?
+
+Porque ele é rápido de criar e são ideais para início de processo de prototipação.
+
+Então esse daqui é um carinha que você vai de certa forma conseguir fazer a interação do protótipo com
+
+os stakeholders e você não vai levar tanto tempo pra desenvolver, para apresentar e testar juntamente
+
+a ele.
+
+Então por isso que ele é bastante utilizado.
+
+Mas aí tem um problema Por quê?
+
+Porque ele é de baixa fidelidade.
+
+Então, assim, ele é como se fosse um rascunho de pão.
+
+Literalmente, ele é o básico do básico, as premissas necessárias e apenas isso.
+
+E aí nós também temos a prototipação de alta fidelidade, que aí o negócio já fica um pouco mais detalhado,
+
+fica visualmente mais bonito e aí você já coloca alguns enfeites no pavão, etc.
+
+E aí você também tem ferramentas avançadas para isso e é possível criar protótipos interativos, já
+
+que se assemelham muito ao produto final.
+
+Então aqui você já vai talvez definir tipo de letra, qual vai ser o tamanho, quais que vão ser as
+
+cores, onde que vai ficar o logotipo, qual vai ser o tamanho da tela, se vai ser o tipo de sistema.
+
+Responsivo ou não é tudo isso você consegue definir.
+
+Só que aí entra aquele contexto.
+
+Por ser de alta fidelidade, você acaba também tendo de dedicar mais tempo na construção.
+
+Acaba sendo um pouco mais complexo, um pouco mais demorado.
+
+E aí você também tem de ter a malícia.
+
+Da mesma forma que eu falei em aulas anteriores, aqui existe a malícia de saber quando que você consegue
+
+utilizar um e quando vai dar para utilizar o outro, geralmente por conta de falta de tempo por bem
+
+dizer.
+
+Então muitas tarefas falta de tempo, projeto em andamento tem que validar, tem que corrigir, tem
+
+que ver se na documentação tem que acompanhar cliente, tem que fazer brainstorm, tem que fazer entrevista,
+
+tem que colher feedback, tem que fazer teste, tem que ter essa ferramenta.
+
+Você acaba não tendo muito tempo.
+
+Então a maioria das vezes, na maioria dos casos, a prototipação de baixa fidelidade acaba sendo mais
+
+usada do que a alta.
+
+Mas se você tem uma equipe maior, cada pessoa que é dedicada como analista de processos ou analista
+
+de requisitos tem o seu papel, tem a sua casinha ali separada, aí as coisas ficam mais fáceis.
+
+Poxa, eu tenho três analistas de requisitos dentro do meu time.
+
+Todos eles estão tendo a participação no mesmo projeto.
+
+Vou definir tarefas.
+
+Então eu consigo, por exemplo, dedicar um analista de requisitos para fazer uma prototipação de alta
+
+fidelidade, enquanto os outros dois tocam outras coisas, por exemplo.
+
+Então, a comunicação, como já foi mencionado em aulas anteriores, é fundamental também, até no contexto
+
+interno, delegar tarefas, trocas de informações, passagens de bastões, conhecimentos e afins.
+
+É o quinto Benefícios e desafios do uso de ferramentas de modelagem e também das ferramentas de prototipação.
+
+Então.
+
+Benefícios Comunicação efetiva Análise Validação maior abstração, Feedback dos usuários, redução de
+
+riscos e também redução de custos.
+
+Beleza que nós somos beneficiados ao usar as modelagens e também ao fazer a usabilidade das prototipação.
+
+Agora, quais são os desafios?
+
+Esforço inicial para atender e dominar as ferramentas.
+
+Necessidade de atualizar os modelos e protótipos conforme os requisitos evoluem.
+
+Aqui entra a dor ou calo no pé da maioria das pessoas que atuam.
+
+Por que Já mencionei em aulas anteriores que é fundamental não apenas você fazer detalhado ou da forma
+
+devida no início do projeto, mas você ao decorrer do projeto, à medida em que ele é sendo tocado,
+
+fazer o acompanhamento, os ajustes, as validações.
+
+Então existe o conceito de version na documentação, ver cionar a modelagem do caso de uso.
+
+Então usuário ele retirou uma premissa, acrescentou outra.
+
+O escopo do projeto mudou tudo isso que tiver de alteração.
+
+Ao decorrer do projeto entrou nova funcionalidade, retirou outra e assim sucessivamente.
+
+É necessário atualizar nos documentos, então você não vai atualizar apenas no documento textual se
+
+também precisa fazer a atualização disso na modelagem, ou seja, no diagrama que você usou para fazer
+
+a ilustração disso.
+
+E você também vai precisar fazer a atualização na prototipação.
+
+Então, por quê?
+
+Se você criou um protótipo que tem um recurso e ele já não é mais existente, você tem que retirar ele
+
+de lá.
+
+Até porque, como eu já comentei, o usuário ele gosta muito de achar problema e principalmente na entrega
+
+do projeto falar que está faltando XP de coisas ou que a BCD não está funcionando da maneira que deveria
+
+ter.
+
+Então se você deixar algumas coisas que existiam e já não existe mais e chega lá no término ele acaba
+
+olhando, ele vai perguntar por que não tem.
+
+Poxa, mas tava no protótipo, por que não tem agora na versão final?
+
+Então você tem que ir atualizando tudo isso pra evitar esses gargalos também.
+
+Bom, então o uso das ferramentas de modelagem e prototipação são essenciais para garantir o sucesso
+
+do desenvolvimento de software, porque permite uma compreensão clara dos requisitos que possibilitam
+
+validação com os usuários e ajudam a evitar problemas e retrabalhos mais tarde no processo.
+
+Ao adotar essas ferramentas em prática.
+
+As equipes podem aumentar a eficiência, melhorar a colaboração entre membros e stakeholders e entregar
+
+produtos de software que atendam as expectativas dos usuários e os objetivos do negócio, ou seja,
+
+agregar valor para a empresa também.
+
+Bom galera, essa foi mais uma aula fechando mais um módulo do nosso curso de Análise de Levantamento
+
+de Requisitos de Software.
+
+Espero que vocês tenham entendido e principalmente que vocês estejam gostando.
+
+Me despeço por aqui.
+
+Fica com Deus.
+
+Até breve.
