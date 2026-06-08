@@ -1,0 +1,301 @@
+Olá Luna, ao aluno, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+Nesta aula nós falaremos um pouco sobre a importância da gestão de requisitos no sucesso do projeto.
+
+Ou nós vimos até aqui, de uma maneira geral, que gestão de requisitos desempenha um papel fundamental
+
+no sucesso de qualquer projeto, seja de desenvolvimento, criação de software, construção de produtos
+
+físicos ou outras iniciativas.
+
+Nós vimos também que a gestão dos requisitos envolve a identificação, documentação, organização e
+
+controle ao longo do ciclo de vida do projeto.
+
+Então, por isso que é muito importante nós fazermos o levantamento da maneira devida ou de forma mais
+
+eficaz possível.
+
+E aí nós sabemos também, né?
+
+E vimos ao decorrer das aulas que a falta da gestão de requisitos eficaz pode levar a problemas, atrasos
+
+e até mesmo ao fracasso do projeto.
+
+Então aqui nós vamos nesta aula bater alguns pontos que destacam a importância da gestão de requisitos,
+
+o sucesso do projeto ou, de certa forma, entender por que é necessário ou por que é importante gerir
+
+requisitos de uma forma eficaz.
+
+Tá bom, então separei por tópicos novamente.
+
+Alguns tópicos nós já vimos adentrando a fundo em detalhes.
+
+Outros tópicos ainda não foram vistos, então vou passar todos aqui para vocês.
+
+Então, o primeiro ponto sobre a importância da gestão de requisitos é que o alinhamento com as necessidades
+
+dos stakeholders precisam estar afinadas.
+
+Então, uma gestão de requisitos bem executada assegura que as necessidades e expectativas dos stakeholders
+
+sejam compreendidas e traduzidas em requisitos claros e mensuráveis.
+
+Por quê?
+
+Porque isso ajuda a evitar retrabalho, garantindo que o produto final atenda às reais demandas dos
+
+usuários e clientes.
+
+Então, não vou nem comentar sobre esse primeiro ponto, porque vimos isso muito em detalhe em aulas
+
+anteriores.
+
+Segundo, a compreensão do escopo do projeto.
+
+Então a gestão de requisitos define o escopo do projeto, estabelecendo limites claros e evitando expansões
+
+desnecessárias.
+
+E aí?
+
+O que ajuda?
+
+Ajuda a manter o foco e a evitar o chamado escopo em constante mudança, que pode prejudicar o prazo
+
+e também pode prejudicar os orçamentos.
+
+Então, aqui nós também vimos que os escopos deles precisam ser bem definidos.
+
+Eles precisam ser mensuráveis.
+
+Eles precisam ser ajustáveis para que isso seja viável, caiba dentro do orçamento do budget, caiba
+
+dentro do valor que o cliente espera pagar e também fique dentro do cronograma, seja algo mensurável
+
+por tempo e por desenvolvimento também.
+
+Então por isso que é bastante importante documentar tudo, ter tudo como evidência para quando lá na
+
+frente, como eu já mencionei muitas vezes aqui, quando lá na frente houver uma discussão de que era
+
+para ter tido isso ou que a ferramenta não tem aquilo e etc, você ter todas as documentações personalizadas
+
+atualizadas, todas as entrevistas mapeadas e realmente mostrar que aquilo que está pronto é o que realmente
+
+foi solicitado e o que não existe é porque não tem ou não foi para aquela ocasião.
+
+O número três.
+
+Redução de riscos e erros são os requisitos mal compreendidos, ambíguos ou mal documentados podem levar
+
+a erros de implementação.
+
+Nós já vimos isso aqui.
+
+Então, a gestão adequada dos requisitos ajuda a mitigar os riscos e a identificar potenciais problemas
+
+antecipadamente e evitar interpretações equivocadas.
+
+Então, aqui no início, você consegue já com torcer, tirar todos os impeditivos, colocar novamente
+
+o projeto na trilha em que ele deve seguir.
+
+Quatro uma comunicação eficaz.
+
+Então, uma documentação clara e detalhada dos requisitos facilita a comunicação entre equipe, stakeholders
+
+e desenvolvedores.
+
+Então, novamente, é isso.
+
+Eu também já bati muito com vocês anteriores.
+
+Isso reduz maus entendidos e alinha todas as partes interessadas em uma relação e expectativas do projeto.
+
+Número cinco Controle de Mudanças Gestão de requisitos permite um controle estruturado das mudanças
+
+ao longo do projeto que já mencionei.
+
+Também Versões Ver, cionar, acrescentar, retirar, Atualizar tudo aquilo que é, sendo pedido, proposto
+
+e tratado.
+
+Mudanças inesperadas podem ser avaliadas quanto a viabilidade e impacto antes de serem implementadas.
+
+Então você tem um escopo bem definido, com bastante aderência.
+
+Você com certeza vai conseguir mensurar se aquele pedido de última instância faz sentido.
+
+Não faz sentido.
+
+É muito complexo.
+
+Não dá tempo, não dá.
+
+Cabe no cronograma, não cabe, etc.
+
+Número seis Aumento da eficácia e produtividade.
+
+Então, novamente, a compreensão clara dos requisitos permite um planejamento mais eficaz e uma implementação
+
+mais suave.
+
+Então isso reduz retrabalho e a necessidade de correções tardias.
+
+Beleza número sete Cumprimento de prazos e orçamentos.
+
+Então, novamente, uma gestão adequada de requisitos ajuda a evitar atrasos causados por mudanças de
+
+última hora ou pela descoberta de requisitos não previstos.
+
+Isso contribui para manter o projeto dentro do prazo e do orçamento planejado.
+
+Número oito Satisfação dos clientes e usuários Atender os requisitos definidos garante que o produto
+
+final atenda às expectativas dos clientes e dos usuários finais.
+
+Então isso resulta em maior satisfação e aceitação do produto no mercado.
+
+Número nove.
+
+Adaptação a mudanças do mercado.
+
+Mas gestão flexível de requisitos permite que o projeto se adapte às mudanças, às demandas e às necessidades
+
+do mercado.
+
+Isso mantém o produto relevante e competitivo e número dez.
+
+A gestão de requisitos também envolve a avaliação contínua dos processos para melhorar a qualidade da
+
+documentação, a compreensão dos requisitos e a implementação ou.
+
+A conclusão final é que a gestão de requisitos é um pilar crucial para o sucesso do projeto, pois garante
+
+que todas as partes interessadas compartilhem uma compreensão comum e precisa dos objetivos, das funcionalidades
+
+e das características do produto final.
+
+Então, ao adotar as práticas sólidas da gestão de requisitos, as equipes podem minimizar riscos,
+
+evitar retrabalhos e construir produtos que atendam às expectativas dos clientes e dos usuários, no
+
+caso, os usuários finais, resultando em projetos bem sucedidos e em produtos de alta qualidade e de
+
+concorrência no mercado.
+
+Olha só galera, que bacana e quão importante é essa área, O quão importante é um profissional analista
+
+de requisitos?
+
+Olha o quanto de coisa ele consegue contribuir.
+
+Se ele fizer o trabalho dele de forma devida, de forma correta, de forma eficaz, com comprometimento.
+
+Com garantia de que tudo o que ele está fazendo tenha qualidade.
+
+Então, aqui são dez pequenos tópicos de todas as melhorias que uma boa gestão de requisitos consegue
+
+fazer dentro de um projeto.
+
+Claro que envolve muitas outras aqui.
+
+Tá bom.
+
+Mas acredito que essas dez aqui sejam as primeiras, as premissas, as mais importantes, por bem dizer.
+
+Então, aqui nós temos o entendimento do quanto nós conseguimos ajudar o projeto em si que está sendo
+
+tocado.
+
+Quando nós conseguimos ajudar a nossa equipe interna, se envolve os stakeholders envolvidos internamente,
+
+se envolve a diretoria, se envolve os custos da empresa, a área de negócio que gera valor, que agrega
+
+valor ao produto, se envolve, principalmente os desenvolvedores.
+
+De certa forma, também nós ajudamos os stakeholders externos.
+
+Então nós entendemos aqui que uma comunicação bem clara, uma documentação bem feita, tudo bem alinhado.
+
+Nós conseguimos mitigar, diminuir erros, diminuir imprevistos, diminuir principalmente distorções
+
+ou mal entendidos.
+
+E isso também facilita a boa comunicação.
+
+Acredito que também ao decorrer do projeto, isso também contribui muito para uma equipe e um relacionamento
+
+com o cliente.
+
+Bem leve, bem descontraído, sem muita pressão, sem muita cobrança, porque tanto ambos os lados vão
+
+na verdade saber que aquilo está sendo feito com qualidade, que existe documentação que existe evidências
+
+que existe desenhos, ilustrações, fluxogramas, que em qualquer ocasião, mal entendido, imprevistos,
+
+distorções, não entendimentos ou mudanças repentinas de última hora, vai haver uma personalização
+
+de todas as documentações, vai haver comparativos, vai ter cronograma, vai ter prazo, vai ter custo,
+
+tudo isso vai estar tudo bem alinhado.
+
+Então, tudo isso também contribui para uma boa relação com o cliente.
+
+Uma relação leve, uma relação descontraída e também faz parte dos requisitos.
+
+Faz parte do analista de requisitos ter toda esta ação, esse meio de campo.
+
+Então, aí isso novamente faz com que os usuários, os clientes, as pessoas em si que vai usar o produto
+
+final, tenha também uma satisfação naquilo que eles estão usando.
+
+Se tudo isso também foi feito de forma eficaz, com certeza um produto que vai ser criado vai ser um
+
+produto de qualidade, um produto que vai ter concorrência no mercado.
+
+Então adaptações a mudanças, aceitação de mercado também vai contribuir para isso.
+
+Ou melhor, isso vai contribuir para tudo que houver em relação a mercado, aceitação e etc.
+
+Então aqui são dez de 1000 e umas talvez contribuições que uma boa gestão de requisitos consegue contribuir
+
+dentro de um projeto.
+
+Você precisa decorar isso daqui?
+
+Não.
+
+Você precisa entender a importância.
+
+Você não precisa saber que a gestão, a boa gestão vai de certa forma, diminuir.
+
+Vai abrir, vai corrigir, vai compreender, vai controlar, vai dar eficácia.
+
+Não, você não precisa entender e.
+
+Decorar.
+
+Nada disso.
+
+Por quê?
+
+Porque à medida em que você faz um trabalho correto, um trabalho qualificado, todos esses tópicos
+
+aqui eles vêm como recompensa.
+
+Na verdade, é assim, uma certa colheita do plantio que você faz.
+
+Bom, espero que vocês tenham entendido que vocês tenham gostado dessa aula.
+
+Não foi muito detalhada, até porque a maioria dos tópicos nós já batemos nas aulas anteriores, mas
+
+acrescentando novamente com algumas contribuições a mais para vocês entenderem a importância como um
+
+todo, me despeço por aqui.
+
+Fica com Deus e até breve.
