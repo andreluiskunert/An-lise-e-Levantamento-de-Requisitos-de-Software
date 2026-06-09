@@ -1,0 +1,315 @@
+Olá aluna!
+
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos
+
+de Software.
+
+Nesta aula vamos abordar o assunto sobre rastreabilidade e impacto das mudanças dos requisitos, ou
+
+seja, garantindo a qualidade e a satisfação de um software.
+
+Bom, em aulas anteriores nós já falamos um pouco.
+
+Querendo ou não, já adentramos indiretamente em alguns assuntos no qual nós veremos aqui sobre rastreabilidade
+
+e sobre impacto, sobre controle, versionamento e gerenciamento de mudanças.
+
+Porém, essa aula é para nós falarmos um pouco mais a fundo sobre isso.
+
+Bom.
+
+A rastreabilidade de requisitos é uma prática essencial no desenvolvimento de software, como nós já
+
+vimos, porque visa estabelecer conexões claras entre os requisitos do sistema desde a sua origem,
+
+ou seja, desde o início do mapeamento até a entrega final, ou seja, até quando o produto realmente
+
+está pronto.
+
+Essa abordagem não apenas ajuda a entender a evolução dos requisitos ao longo do ciclo de vida do projeto,
+
+mas também desempenha um papel crucial na avaliação e gestão do impacto das mudanças nos requisitos.
+
+Nós vimos que ao decorrer dos projetos, ao decorrer dos produtos, ao decorrer dos processos, o ciclo
+
+de vida do projeto, se ele muda, os requisitos mudam e aí existe o papel de desempenho, que é crucial
+
+na avaliação dos impactos.
+
+Ou seja, qual é o impacto que eu tenho se eu mudar os requisitos, se eu retirar os requisitos que
+
+já existiam, se eu inserir novos requisitos, isso impacta em cronograma e valores, impacta na minha
+
+equipe, impacta em terceiros, impacta em stakeholders e assim sucessivamente.
+
+Então o primeiro de tudo aqui que nós veremos.
+
+Rastreabilidade de requisitos Um mapa para a qualidade.
+
+Rastreabilidade começa com identificação documentação completa de todos os requisitos do sistema.
+
+Se inclui requisitos funcionais, não funcionais e até mesmo requisitos de design.
+
+Então nós vimos ali nas primeiras aulas todos os tipos de requisitos.
+
+Aqui estamos.
+
+Estamos falando de três requisitos funcionais, não funcionais e requisitos de design.
+
+Pode ser entrado também como requisitos de interface, mas aí nós temos requisitos de desempenho, requisitos
+
+de segurança e assim sucessivamente, que também poderiam se enquadrar aqui como algumas premissas.
+
+Cada requisito então associado a uma identificação única e precisa, permitindo que ele seja rastreado
+
+ao longo de todas as fases do desenvolvimento.
+
+Então, todos os requisitos que forem levantados, independente de ser requisito funcional.
+
+Premissa para o sistema funcionar.
+
+Requisitos não funcionais Requisitos de interface de design Requisitos de usabilidade Requisitos de
+
+segurança.
+
+Todos eles precisam ter controle.
+
+Precisam ter versionamento desde o início até a entrega.
+
+E aí a rastreabilidade.
+
+Quando ela é bem feita, ela tem algumas vantagens.
+
+A primeira vantagem é a visibilidade.
+
+Por quê?
+
+A rastreabilidade oferece uma visão clara de como os requisitos estão interconectados.
+
+Isso ajuda os desenvolvedores e as equipes de criação a entenderem a relação entre diferentes partes
+
+do sistema.
+
+Ou seja, aqui eu estou falando de duas equipes.
+
+Ou eu estou falando de dois times, ou talvez eu esteja falando de dois profissionais que estão dentro
+
+de uma mesma squad, por exemplo.
+
+Só fala o desenvolvedor.
+
+Aquele cara que vai programar o software, vai executar os códigos, criar funções e etc.
+
+E eu estou falando dos guias.
+
+Nós podemos entender aqui que é uma espécie de analista de qualidade ou um analista de teste que vai
+
+estressar todo o sistema, tudo aquilo que o desenvolvedor fizer e fazer um der para um comparativo,
+
+se aquilo realmente está de acordo com o que foi proposto, de acordo com a documentação, de acordo
+
+com as especificações técnicas, com as regras, se não existe bug e etc.
+
+Então, quando nós falamos da visibilidade, nós estamos falando também que isso dá uma visão muito
+
+clara, muito ampla, muito detalhada para esses profissionais poderem trabalhar também.
+
+Segundo controle de mudanças.
+
+Ao vincular requisitos às partes específicas do código fonte e as respectivas partes dos testes, as
+
+mudanças podem ser gerenciadas de formas mais eficaz.
+
+Isso permite uma análise mais precisa dos impactos de possíveis alterações nos requisitos.
+
+Então, se, por exemplo, o desenvolvedor criou o analista de teste, ele realizou os estresses necessários
+
+na ferramenta?
+
+Encontrou alguma mudança que precisava ser feita ou alguma brecha de segurança que precisa ser melhorada?
+
+Algum burguesinho ou qualquer outra coisa do tipo É necessário fazer a mudança.
+
+E esse controle de mudança também acaba sendo mais fácil e mais preciso para essas mudanças que forem
+
+necessárias acontecer.
+
+Terceiro rastreamento de progresso.
+
+Ou seja, rastreabilidade também auxilia na medição do progresso do desenvolvimento, permitindo que
+
+as equipes vejam facilmente quais requisitos foram implementados, testados e entregues.
+
+Então, aqui nós estamos falando de percentual de projeto.
+
+Então, quanto tempo ainda falta para ser entregue dentro desse tempo?
+
+Quantos por cento do projeto ou que parte do projeto já foi entregue?
+
+Que parte do projeto está em desenvolvimento?
+
+Que parte do projeto está em teste?
+
+Que parte do projeto ainda está em homologação, mas vai ter deploy e enfim, nós temos uma rastreabilidade
+
+para isso, que é o que é a medição de progresso.
+
+Então eu posso falar por percentual nessa ocasião.
+
+Olha, sei lá, 80% do projeto foi entregue e falta 20% restante.
+
+Ou eu posso falar por etapas, né?
+
+Módulos foram entregue, porém outros módulos ainda não.
+
+Enfim, isso cabe a cada equipe, cada gestor, cada analista, cada produtor owner é muito variável
+
+também, até conforme cultura de empresa, Beleza.
+
+Bom sobre impactos das mudanças nos requisitos.
+
+Um quebra cabeça complexo.
+
+Vamos lá.
+
+A medida que um projeto de software evolui, é inevitável que os requisitos mudem.
+
+Então, olha só essa primeira frase aqui é inevitável que os requisitos mudem.
+
+Então, independente do projeto, independente da complexidade, independente do tamanho do tempo,
+
+todos os projetos possuem requisitos que serão mudados.
+
+Não existe um projeto que levantaram os requisitos iniciais e foram aqueles mesmos requisitos até o
+
+término.
+
+Não existe.
+
+Sempre vai ter uma mudança, seja pequena ou grande.
+
+Isso pode acontecer devido ao feedback dos stakeholders, mudança nas prioridades ou até mesmo uma melhor
+
+compreensão das necessidades dos usuários.
+
+Então, nós já falamos muito sobre isso, sobre as entrevistas, sobre os roadmap e etc.
+
+Brainstorm também.
+
+Então, o que acontece aqui é o seguinte conforme você vai falando com o usuário final, com os stakeholders,
+
+conforme você vai acompanhando o modo no qual eles utilizam o que eles trabalham diariamente, vocês
+
+vão tendo uma compreensão maior, mais detalhada ou mais precisa das necessidades que eles possuem.
+
+E às vezes, aquilo que eles acabam dizendo que eles acabam solicitando talvez seja só metade ou uma
+
+pequena parte realmente de um todo que é bem maior.
+
+Então, essas compreensões no qual você tem ao decorrer desse período, também pode acabar impactando
+
+nessas mudanças de requisitos.
+
+Dando continuidade.
+
+No entanto, cada mudança traz consigo a possibilidade de impactos negativos na qualidade do software.
+
+Só que é interessante nós prestarmos atenção porque falar sobre impactos negativos?
+
+Por que falar apenas de impactos negativos e não positivos?
+
+Nós podemos entender que podemos mudar um requisito para uma melhoria do sistema, uma melhoria de qualidade,
+
+uma melhoria na comunicação, no desempenho, uma melhoria na segurança, uma melhoria na usabilidade,
+
+na interface para ficar mais visível visualmente melhor, mais interativo.
+
+Mas por que aqui nós estamos falando especificamente sobre a parte negativa da coisa?
+
+Porque todas as mudanças que são feitas, elas afetam o time como um todo.
+
+Ela afeta o tempo do desenvolvimento.
+
+Ela afeta, de certa forma o cronograma.
+
+Dependendo do requisito da complexidade, afeta muito a parte de valor, então muitas vezes acaba saindo
+
+mais caro para o cliente e para o stakeholder.
+
+E aí acontecem outras coisas por baixo.
+
+Entra a equipe de comercial, tenta renegociar e uma série de finalidades que envolvem essa chave.
+
+Sobre a parte negativa, quando os requisitos eles são mudados e aí eu coloquei aqui alguns pontos chaves
+
+sobre o impacto que essas mudanças acontecem.
+
+Então, o primeiro é a avaliação cuidadosa.
+
+Antes de implementar qualquer mudança, é importante avaliar seu impacto em todo o sistema.
+
+Rastreabilidade entra em cena nesse momento, permitindo que as equipes identifiquem todos os componentes
+
+afetados pelo requisito em questão.
+
+Então, aqui nós estamos falando sobre a rastreabilidade e sobre o controle.
+
+Qual é o impacto que terá no sistema se essa mudança acontecer tanto positiva quanto negativa?
+
+Segundo custo e prazo Mudanças de requisitos podem influenciar o cronograma do projeto e o orçamento.
+
+Com uma rastreabilidade adequada, é possível estimar de forma mais precisa o esforço necessário para
+
+implementar a mudança e ajustar o planejamento conforme o necessário.
+
+Terceiro teste de qualidade.
+
+Mudanças nos requisitos frequentemente implicam em novos cenários de testes e possíveis pontos de falha.
+
+Rastreabilidade ajuda a identificar quaisquer partes do software que precisará ser testada novamente,
+
+garantindo que a qualidade geral não seja comprometida.
+
+Ou seja, se eu tenho um controle de mudança, eu também consigo ter um controle onde precisa testar
+
+e testar, ou seja, aonde mudou, aonde impactou e aonde precisa ter um cuidado, uma cautela maior.
+
+Número quatro.
+
+Comunicação eficiente Uma rastreabilidade sólida promove uma comunicação mais eficiente entre as equipes.
+
+Os stakeholders podem entender rapidamente os efeitos de uma mudança e tomar decisões informadas.
+
+Então, aqui nós também temos uma comunicação mais clara, mais objetiva, com todas as partes interessadas
+
+do projeto.
+
+Resumo geral sobre esta aula Rastreabilidade Requisitos é uma ferramenta fundamental para garantir a
+
+qualidade do software e faze das mudanças inevitáveis os requisitos.
+
+Como eu mencionei, não existe projeto que vai iniciar e terminar com os mesmos requisitos que foram
+
+levantados lá no início.
+
+Ela fornece clareza, controle e previsibilidade ao processo de desenvolvimento, ajudando as equipes
+
+a gerenciar eficazmente o impacto das mudanças e entregar um produto final que atenda às expectativas
+
+dos usuários e as partes interessadas.
+
+Ou seja, um produto de valor no mercado.
+
+Produto que seja funcional, que tire as dores do cliente, que automatize as funções, as tarefas,
+
+os deveres das pessoas que vão utilizar, que ao mesmo tempo tenha qualidade e tenha segurança, seja
+
+muito bem visado no mercado, que com certeza gere valor e agregue lucro à empresa.
+
+Bom, essa foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos.
+
+Espero que vocês tenham entendido, que vocês estejam gostando.
+
+Que vocês consigam absorver e colocar em prática no dia a dia.
+
+Me despeço por aqui, Fica com Deus e até breve.

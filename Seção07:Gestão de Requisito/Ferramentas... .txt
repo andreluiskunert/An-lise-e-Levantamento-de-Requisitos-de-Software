@@ -1,0 +1,221 @@
+Olá aluna!
+
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos
+
+de Software.
+
+Nesta aula falaremos um pouco sobre ferramentas de gestão de requisitos, ou seja, potencializando
+
+o acompanhamento e controle dos projetos.
+
+Então galera, de uma forma bem resumida, aqui nós veremos ferramentas plataformas que possibilitam
+
+o controle de todas as etapas, de todas as formas de requisitos, documentações e etc que nós temos
+
+dentro da análise de requisitos.
+
+Bom.
+
+No mundo complexo do desenvolvimento de software, a gestão eficaz de requisitos é fundamental para
+
+o sucesso de um projeto.
+
+E nós já vimos em muitas aulas anteriores o porquê.
+
+Ferramentas de gestão de requisitos desempenham um papel crucial ao facilitar o acompanhamento e o controle
+
+de todo o processo, desde a captura inicial dos requisitos até a entrega final do produto.
+
+Então, aqui nós vamos explorar algumas ferramentas que podem ser utilizadas para aprimorar a gestão
+
+de projetos.
+
+Bom.
+
+Qual é o papel das ferramentas de gestão de requisitos?
+
+Ferramentas de gestão de requisitos são aplicativos projetados para auxiliar equipes de desenvolvimentos
+
+e este que holders a definir, rastrear, gerenciar e documentar requisitos durante todo o ciclo de
+
+vida do projeto.
+
+Elas proporcionam um ambiente centralizado, onde todos os aspectos relacionados aos requisitos podem
+
+ser registrados e acompanhados.
+
+Ou seja, uma boa possibilidade de você centralizar tudo o que você precisa em um local só para ter
+
+uma facilidade maior de acompanhamento e de gerenciamento em si.
+
+Bom utilização, acompanhamento e controle.
+
+Olha só.
+
+Primeiro é capture documentação precisa.
+
+As ferramentas de gestão de requisitos permitem capturar requisitos de maneira estruturada, atribuindo
+
+lhes identificadores únicos, descrições detalhadas e outras informações relevantes.
+
+Você estabelece uma base sólida para todo o processo subsequente, Então, então tudo o que vier após
+
+vai ter uma base bem sólida, pois toda a captura e documentação precisa foi bem unificada.
+
+Segundo rastreabilidade abrangente.
+
+Falamos isso em aula anterior.
+
+Uma das principais vantagens dessas ferramentas é a capacidade de estabelecer conexões entre diferentes
+
+requisitos, bem como entre requisitos e outras partes do projeto, como casos de testes, código fonte
+
+e até mesmo alteração em versões.
+
+Isso facilita a compreensão das interdependências e ajuda a gerenciar o impacto das mudanças.
+
+Terceiro, gestão de mudanças Quando os requisitos mudam, as ferramentas de gestão permitem que as
+
+equipes avaliem o impacto dessas mudanças em todo o projeto.
+
+Isso é essencial para evitar surpresas indesejadas no desenvolvimento e para ajustar o planejamento
+
+conforme necessário.
+
+Então, quando você tem uma rastreabilidade abrangente, com certeza sua gestão de mudanças também acaba
+
+sendo bem melhor.
+
+Quarto monitoramento do progresso.
+
+Também falamos na aula anterior, então ao longo do projeto é possível monitorar os status de cada requisito.
+
+Isso inclui informações sobre se o requisito foi implementado, testado e entregue.
+
+Essa visibilidade ajuda a identificar atrasos ou gargalos no desenvolvimento.
+
+Ajuda também a tirar impeditivos da pessoal.
+
+Quinto Comunicação eficiente As ferramentas de gestão de requisitos facilitam a comunicação entre as
+
+equipes e os stakeholders.
+
+Todos têm acesso às informações atualizadas sobre os requisitos, evitando os maus entendidos e garantindo
+
+que todos estejam alinhados.
+
+Ou seja, essas ferramentas permitem uma visibilidade para toda a equipe.
+
+Então não é só aquele documento que vai ficar na sua máquina e que você talvez vai atualizar e esquecer
+
+de enviar para as pessoas.
+
+Aqui é uma ferramenta que vai permitir acesso on line a todo mundo que tiver o link que tiveram acesso,
+
+que tiver a permissão de visualizar e todo mundo vai acompanhar todas as alterações, mudanças, inserções,
+
+edições, exclusões do que for feito lá dentro.
+
+E sexto geração de relatórios.
+
+Essas ferramentas geralmente oferecem a capacidade de gerar relatórios personalizados sobre os status
+
+dos requisitos, a evolução do projeto e outras métricas que são consideradas relevantes também.
+
+Isso é valioso para apresentações e stakeholders ou para tomada de decisões baseadas em dados concretos.
+
+E aí nós temos também um papel de como escolher a ferramenta certa.
+
+No mercado, nós temos inúmeras ferramentas com esse papel, com esse propósito, vocês podem até pesquisar.
+
+Vão existir ferramentas freemium, que são ferramentas pagas.
+
+E aí existem ferramentas que são pagas para acesso de usuários.
+
+Existem ferramentas que são free, as ferramentas gratuitas.
+
+Existem inúmeras variedades, tá pessoal?
+
+Então nós vamos ver aqui algumas coisinhas sobre isso.
+
+Olha só.
+
+Existem várias opções de ferramentas de gestão de requisitos disponíveis no mercado, com diferentes
+
+recursos e complexidades.
+
+Ao escolher uma ferramenta, é importante considerar as necessidades específicas do projeto, a facilidade
+
+de uso, a escalabilidade, a integração com outras ferramentas utilizadas pela equipe.
+
+Em resumo, as ferramentas de gestão de requisitos são aliadas poderosas no acompanhamento e controle
+
+de projetos de desenvolvimento de software.
+
+Mas proporciona um ambiente estruturado para a captura, rastreabilidade e gerenciamento de requisitos,
+
+permitindo que as equipes tomem decisões informadas, garantam a qualidade e a entrega dos produtos
+
+e que atendam às expectativas dos stakeholders.
+
+Bom pessoal, eu separei algumas ferramentas que são bem utilizadas no mercado atualmente para que vocês
+
+tenham uma visibilidade maior que também se necessário vocês se não tiverem conhecimento, pesquisem,
+
+procurem vídeos, YouTube, vai ter muito para vocês entenderem sobre cada uma, se necessário.
+
+Ter experiência, ter o conhecimento, uma certificação, buscar um curso voltado a elas também que
+
+ajuda muito no currículo.
+
+Atualmente está bom.
+
+Então, a primeira ferramenta, acredito que a maioria conhece ao Jira.
+
+Nós temos uma segunda que chama com fluência a que não está por ordem de mais usada ou de melhor, ou
+
+de mais caro ou mais barato.
+
+É simplesmente uma ordem que eu atribuir aqui.
+
+E aí é questão de gosto, questão de conhecimento em questão, de preferência de cada um de vocês.
+
+Então tem gente que prefere o Jira, tem gente que prefere, por exemplo, a quarta, que é o Azure.
+
+Enfim, aqui são alguns que vocês podem estar buscando, se especializando, conhecendo, testando,
+
+principalmente saber qual mais se adapta, qual é melhor, qual tem mais recurso, qual é mais visível,
+
+mais fácil de usar e etc.
+
+Mas vamos lá.
+
+Eu tenho dez aqui que é a gira.
+
+A confluência tem a da IBM e também a quarta.
+
+Como eu já mencionei, a Azure DevOps tem a Tulip, tem a Helix de A Reta de Arcanos e a de Spencer
+
+e também tem a Calibre aqui são algumas no qual eu conheço que eu já tive a oportunidade de utilizar.
+
+Não também que eu saiba, e seja expert em todas elas, mas em algumas empresas já teve a necessidade
+
+de usar, de conhecer, então tive que ir atrás e buscar ao menos o básico para elas.
+
+E além dessas aqui existem 1001 outras no mercado.
+
+Tá bom?
+
+Então o que vocês precisam ter em mente é que essas ferramentas aqui são ferramentas no qual nós estamos
+
+falando nessa aula.
+
+Então todas essas ferramentas aqui, elas foram construídas de certa forma para melhorar a gestão de
+
+projetos, para melhorar a gestão de requisitos, para melhorar o controle das etapas que são construídas
+
+dentro de um projeto.
+
+Bom, espero que vocês tenham entendido o que vocês estejam gostando e despeço por aqui.
+
+Fica com Deus e até breve.
