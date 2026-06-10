@@ -1,0 +1,503 @@
+Olá aluno ao alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento
+
+de Requisitos de Software.
+
+Entrando no novo módulo nós falaremos um pouco sobre comunicação e colaboração.
+
+Demos a nossa primeira aula sobre técnicas de comunicação eficaz com os stakeholders.
+
+Bom, de forma bem resumida, nós já vimos em aulas anteriores até aqui que os stakeholders, de certa
+
+forma, eles são todas as partes interessadas ou envolvidas nos projetos, nos produtos, desde pessoas
+
+que são internas a nossa empresa, até mesmo fazem parte do cotidiano do dia a dia do nosso time, como
+
+também partes interessadas em relação a patrocinadores, investidores, empresários e também os usuários
+
+finais.
+
+E na minha opinião é um dos stakeholders mais importantes, pois eles quem farão a utilização da ferramenta,
+
+do produto, das funcionalidades que serão desenvolvidas.
+
+E aí, o que acontece?
+
+Existem técnicas de comunicação que de certa forma, funcionam de maneira mais eficaz para os stakeholders,
+
+principalmente porque, dependendo do produto, dependendo do projeto, dependendo da ferramenta, dependendo
+
+do que vai ser entregue às pessoas, elas não vão ter o conhecimento devido, não vão ter a expertise
+
+técnica, o entendimento técnico e é necessário saber se comunicar com essas pessoas de uma forma bem
+
+leve, bem descontraída, bem direta, que as pessoas consigam entender e que elas consigam absorver
+
+e caso também consigam, passar para a gente a partir dessa comunicação.
+
+Então a que nós vamos explorar nesse tal?
+
+Algumas técnicas que são fundamentais para que você consiga utilizar em qualquer um desses stakeholders,
+
+seja ele stakeholders técnicos ou não.
+
+Beleza.
+
+Então eu separei dez tópicos aqui.
+
+Nós vamos passar 1A1.
+
+Então.
+
+O primeiro é identificação dos stakeholders, ou seja, identifique os stakeholders.
+
+Por que todas as partes interessadas relevantes para o projeto da organização e inclui pessoas que possuem
+
+interesse direto ou indireto.
+
+Ou seja, crie uma lista abrangente de todos os grupos de indivíduos envolvidos.
+
+Então, eu tenho um stakeholder que tem participação direta e indireta.
+
+Eu tenho um stakeholder que tem um impacto direto e indireto.
+
+Eu tenho de fazer uma lista para que eu tenha uma melhor organização e eu saiba quem é quem.
+
+Tá bom, então crie uma lista abrangente de todos os grupos de envolvidos e isso vai ser bastante importante
+
+para você facilitar a comunicação entre eles.
+
+Até porque, se você precisar um exemplo, fazer uma entrevista, um brainstorming com pessoas que são
+
+mais técnicas, você tem uma lista dessas pessoas?
+
+Você sabe quem chamá las?
+
+Se você precisa de falar com pessoas que são especialistas no assunto, um exemplo Pessoas que trabalham
+
+diretamente com a logística e você precisa entender melhor o processo cotidiano diário dessas pessoas.
+
+Você vai ter uma lista propícia pra essas pessoas e aí você até mesmo não vai precisar misturar essas
+
+pessoas, talvez de forma errônea ou indevida.
+
+Quando você precisar escalar pessoas específicas, então as listas, elas vão ser fundamentais para
+
+isso.
+
+Então é por isso que existe a identificação dos stakeholders e as listas para as organizações desses
+
+stakeholders.
+
+Tá bom?
+
+Segundo, compreenda as necessidades e interesses.
+
+Para se comunicar eficazmente, é crucial entender as necessidades, interesses e preocupações de cada
+
+grupo de stakeholder.
+
+Se envolve realização de pesquisas, reuniões e diálogos para coletar informações valiosas.
+
+Como eu já comentei, existem.
+
+Sei que holders que vão estar preocupado em valores.
+
+Existem stakeholders que vão estar preocupados com entregas.
+
+Existem stakeholders que vão estar preocupados com funcionalidade.
+
+Existem outras que vão estar preocupados com retirada de impeditivos ou diminuição da dor cotidiana.
+
+Então você tem que saber se comunicar e entender que cada stakeholder vai ter uma premissa, um interesse
+
+ou uma necessidade.
+
+Então você tem de necessariamente saber separar essas pessoas.
+
+Saber separar cada necessidade de cada interesse de cada uma dessas pessoas para você melhor se comunicar
+
+com elas de forma mais eficaz.
+
+Então, necessário é premissa ter essa compreensão também.
+
+Terceiro, estabeleça os canais de comunicações adequados, que são os canais de comunicação.
+
+São os meios de conversação, de trocas de informações e isso envolve, na maioria das vezes, principalmente
+
+no mundo cotidiano, com a tecnologia.
+
+Então, escolha os canais de comunicação mais apropriados para cada grupo de stakeholders.
+
+Alguns podem preferir comunicação por e-mail, outros por meio de reuniões presenciais, redes sociais,
+
+reuniões remotas, relatórios periódicos ou outros meios.
+
+Então, adapte a sua abordagem de acordo com as preferências de cada parte interessada.
+
+Então aqui, pessoal, a gente precisa entender que os stakeholders, eles precisam saber e entender
+
+de tudo o que está acontecendo, todas as premissas, mapeamentos, mudanças, entregas, cronogramas
+
+e etc.
+
+Só que o que acontece?
+
+Como o próprio texto menciona, algumas pessoas têm algumas preferências em específico.
+
+Você vai fazer um método para cada pessoa, um método para cada stakeholder.
+
+Não, porque aí quem vai ficar encavalitado é você.
+
+Imagina você ter que mandar a mesma informação pelo WhatsApp, a mesma informação em um arquivo PDF,
+
+a mesma informação por e-mail, a mesma informação pelo tins, a mesma informação por qualquer outro
+
+canal de comunicação.
+
+Então, se eu estou falando da mesma informação, só que enviando ela de forma separada e por canais
+
+diferentes, cinco vezes diferentes, então é necessário fazer um mapeamento e uma concordância com
+
+esses stakeholders.
+
+Então, aqui, quando a gente fala de escolha dos canais de comunicação mais apropriados, não é que
+
+você vai decidir sozinho e vai falar olha e o vou mandar por aqui, então você tem de ter essa ferramenta.
+
+Não é bem por aí.
+
+E se você tivesse uma voz de mandato maior, você até pode fazer determinadas exigências, mas o mais
+
+adequado é que você, em meio a essas pessoas, a esses stakeholders, você na verdade entre em consenso
+
+com eles e tenham entendimento e uma concordância, pelo menos com a maioria.
+
+Talvez não vá ser todo mundo, mas uma concordância, pelo menos com a maioria de qual meio é o mais
+
+viável.
+
+Se criar um grupo no WhatsApp com as pessoas, vai ser bacana.
+
+Se as pessoas vão conseguir misturar o número pessoal com o profissional ou se a empresa que elas trabalham
+
+disponibilizam um número profissional pra isso.
+
+Se é possível fazer esse meio de campo pelo WhatsApp, se ter a permissão de mandar mensagem por lá,
+
+se não, se todo mundo vai ter acesso a e-mail, etc.
+
+Então é mais uma concordância que acontece aqui e aí com o entendimento concordância da maioria, você
+
+escolhe canais de comunicação mais apropriados.
+
+Tá bom?
+
+Bom, o quarto tópico é mantenha a transparência que quer manter a transparência e ser sincero e ser
+
+fiel e principalmente ter premissa nas coisas.
+
+Então, olha só.
+
+Transparência é fundamental para construir confiança, compartilhar informações relevantes de forma
+
+aberta e honesta, mesmo quando a notícia não for boa.
+
+Se os stakeholders perceberem que você está escondendo informações ou sendo invasivo, isso pode prejudicar
+
+a sua relação entre eles.
+
+Então aqui entra esse contexto, principalmente na parte da entrega cronograma.
+
+Imagina que talvez você precisasse fazer uma entrega hoje e por um acaso acontecer algum impeditivo.
+
+Talvez o desenvolvedor ficou doente e não pôde atuar ou em cavalo.
+
+Ele não conseguiu resolver o problema, Teve que talvez levar o filho no médico.
+
+Faltou trabalho, faltou recurso, faltou dinheiro, enfim, imagina qualquer tipo de problema que tem
+
+um atraso no cronograma.
+
+E aí você inventa 1001 desculpas para os stakeholders que vai perguntar para você porque houve o atraso.
+
+Então, nessas partes é interessante ser o quê?
+
+Ser transparente?
+
+Olha, olha, realmente teve um atraso.
+
+A gente não gostaria que tivesse.
+
+Aconteceu um imprevisto.
+
+Aconteceu de forma x pior, Foi assim, assim, assado.
+
+Enfim, seja transparente com as informações, mas também coloque o seu lado de que olha, estamos trabalhando
+
+pra resolver, Estamos nos esforçando mais para tentar fazer com que esse atraso ou com que o gargalo
+
+desse impeditivo seja solucionado o quanto antes para a gente conseguir adiantar as coisas ou pra que
+
+a gente consiga alcançar as metas conforme o período dos cronogramas.
+
+Pode explicar?
+
+Olha, aconteceu um atraso aqui, mas a gente vai tentar adiantar alguma outra coisa lá na frente,
+
+pra que fique meio a meio, pra que a gente consiga equilibrar as coisas.
+
+Mas a transparência do por que que as coisas aconteceram?
+
+Por que as informações são da.
+
+Ela forma de relevância boa ou ruim.
+
+É importante você colocar em mesa, mesmo que não seja tão agradável.
+
+Bom, o quinto tópico é adapte a sua mensagem.
+
+Lembre se que diferentes e sei que holders têm diferentes níveis de conhecimento e interesse em seu
+
+projeto ou organização.
+
+Adapte sua mensagem e o nível de detalhe de acordo com o público alvo.
+
+Evite jargões técnicos que possam não ser compreensíveis para todos.
+
+Aqui entra o que eu já falei lá no início do curso as pessoas, elas não têm obrigatoriedade de ter
+
+o conhecimento de tudo, principalmente se for técnico ou voltado a tecnologia.
+
+Vão haver pessoas que são muitas vezes da parte da produção da coisa, então elas apenas usam a ferramenta
+
+e não entende o contexto por trás ou por baixo de como funciona ou por que é daquela forma.
+
+Elas não tem a obrigatoriedade de entender sobre API's, por exemplo, sobre requisições, sobre segurança.
+
+Elas não têm a necessidade de entender sobre a linguagem de programação, por que o banco de dados deu
+
+problema e nem nada do tipo.
+
+Então, quando você for fazer as suas mensagens, os envios somente.
+
+Se você está numa cultura de empresa que faz muitos termos técnicos, tenta evitar esses termos, ou
+
+se você utilizar, você coloca ali entre parênteses a explicação para cada uma daquelas coisas que você
+
+está dizendo que são os jargões Tá bom?
+
+Outra coisa, é interessante também você sempre detalhar de forma como se você literalmente estivesse
+
+explicando para uma criança.
+
+Isso já é uma dica que eu dou para vocês, que eu em particular utilizo, porque se você está explicando
+
+para uma criança e ela não conhece, ela não entende, não tem entendimento, é você explicando de uma
+
+determinada forma, ela consegue entender do que e o que se trata, então com certeza qualquer outra
+
+pessoa vai conseguir ter o entendimento também.
+
+Então imagina que você estivesse explicando de uma forma mais jovial para uma pessoa que literalmente
+
+está começando a viver.
+
+Então, se você levar isso como um assunto para profissionais também, você com certeza vai conseguir
+
+comunicar com essas pessoas de maneira que elas também têm um entendimento.
+
+Tá bom?
+
+Número seis ou sexto tópico.
+
+Defina metas claras de comunicação.
+
+Estabeleça metas e objetivos claros para a comunicação com os stakeholders.
+
+Isso pode incluir a criação de uma estratégia de comunicação específica para cada grupo e a definição
+
+de indicadores chave de desempenho, que são os capitais para avaliar o sucesso, as metas de comunicação
+
+e, literalmente, medição de informações para que você consiga fazer apresentações ou conversar com
+
+os stakeholders a partir de informações que você consiga exibi las.
+
+Tá aqui.
+
+Então estamos dando exemplos de capitais, mas pode ser usado gráficos ou qualquer outra coisa que sirva
+
+para fazer medições ou ilustração daquilo que você está querendo exibir.
+
+Beleza?
+
+Sétimo tópico Ouça ativamente o que quer ouvir ativamente.
+
+Comunicação eficaz não é apenas sobre transmitir informações, mas também sobre ouvir atentamente.
+
+Esteja disposto a ouvir as preocupações e as opiniões dos stakeholders, fazer ajustes em suas abordagens
+
+com base no feedback recebido.
+
+Então entra o papel de não apenas falar, mas também ouvir e saber entender.
+
+Então, essa parte aqui é bem bacana, porque muitas vezes vão falar coisas pra você que não tem muita
+
+importância ou não tem muita relevância, ou principalmente, não tem nada a ver com o que está sendo
+
+tratado, mas é legal e é importante você dar a atenção para isso e até mesmo entrar no contexto para
+
+a pessoa também, às vezes até poder entender que que ela está falando ou que ela está esclarecendo
+
+não tem muito sentido naquela ocasião.
+
+Então, ouça atentamente tudo o que você precisa ouvir, tudo o que as pessoas precisam passar, porque
+
+muitas vezes essas informações elas vão ser bem úteis lá na frente também.
+
+Oitavo tópico resolva conflitos de forma construtiva.
+
+Então todos os projetos vão ter conflitos, todos os projetos Vai ter principalmente conflito entre
+
+a equipe interna, a empresa no qual você atua, com alguns responsáveis externos, alguns stakeholders
+
+externos, alguns clientes.
+
+Às vezes bate cabeça.
+
+Um exemplo às vezes bate cabeça.
+
+Equipe do T.I.
+
+Da sua empresa com a equipe do TI que é do cliente.
+
+Por quê?
+
+Às vezes você vai precisar fazer amarração no sistema, fazer integração de sistema, desenvolver API
+
+para a comunicação de um lado com o outro.
+
+E às vezes as pessoas, elas não vão ter ali uma vontade ou uma entrega da maneira que você tenha.
+
+Às vezes elas vão fazer corpo mole, às vezes elas vão se fazer de sonsa, literalmente.
+
+Então, assim, algumas coisas vai acabar fazendo conflitos.
+
+Isso quando não tem também interno, mas é interessante saber resolver de forma construtiva, Então
+
+os conflitos eles podem surgir de qualquer relacionamento com esse tema que outros.
+
+Eu dei o exemplo aqui, bem específico entre as equipes de TIs aqui, mas pode ser com quaisquer pessoas.
+
+Então, em vez de evitá los, aborde os de maneira construtiva e busque soluções que beneficiem todas
+
+as partes envolvidas.
+
+Então essas pessoas elas estão insatisfeitas ou estão reclamando de alguma coisa?
+
+Tentar conversar, entender o lado da pessoa, expor o seu lado também, expor as necessidades, deixar
+
+tudo transparente, tudo em mesa.
+
+E aí entra num acordo de como as coisas vão funcionar.
+
+Então, por exemplo, às vezes pedir uma funcionalidade.
+
+Só que quando a funcionalidade foi desenvolvida, acabou não gostando.
+
+Quer fazer alteração só que por escopo?
+
+Não pode fazer a alteração agora porque vai impactar toda a produtividade entrega do que está vindo
+
+a seguir.
+
+Então o que vai acontecer?
+
+A pessoa vai ficar satisfeita?
+
+A pessoa vai começar a falar mal da ferramenta, falar mal da equipe, falar mal da empresa, vai começar
+
+a bater o pé lá, que quer cancelar projeto, acontece uma série de coisas.
+
+Então é sempre legal fazer a construção dessa comunicação para que se resolva tudo e fique em mesa e
+
+de forma bem clara, para que não tenha mais esse bate de cabeça.
+
+Bom, o nono tópico é mantenha a consistência.
+
+Mandei uma mensagem e uma imagem consistente em todas as interações com os stakeholders.
+
+Isso ajuda a construir uma marca sólida e confiável, que é manter a consistência literalmente sempre
+
+se importar.
+
+De maneira que é devida, né?
+
+Então, ser ali o profissional mais profissional entre aspas que você possa ser.
+
+Por que eu digo isso?
+
+Porque isso vai trazer a confiança para as pessoas.
+
+As pessoas vão ver que você tem interesse na participação do projeto.
+
+As pessoas vão entender que você tem o interesse em realizar entregas.
+
+As pessoas vão entender que você tem comprometimento, que você tem objetividade.
+
+As pessoas vão entender que você tem sinceridade, que você tem firmeza e principalmente confiança,
+
+e assim sucessivamente.
+
+Então a consistência no que você faz é o que vai trazer uma solidificação e uma confiança maior para
+
+as pessoas sobre você.
+
+O décimo tópico é o último desta aula.
+
+Avalie e ajuste continuamente.
+
+Periodicamente avalia a eficácia de suas estratégias de comunicação com os stakeholders e esteja disposto
+
+a fazer ajustes conforme necessário.
+
+A adaptação constante é fundamental para manter relacionamentos saudáveis e produtivos.
+
+Então entra aquele lance de que se as pessoas não estão gostando da maneira que você está fazendo abordagens
+
+ou da maneira que você está escrevendo as mensagens que você está enviando para elas nos canais de comunicação.
+
+Se elas não estão entendendo o método que você fala, a forma técnica que você conduz as coisas, adapte.
+
+Então é mais fácil você se adaptar e as pessoas entenderem do que literalmente virar uma bola de neve
+
+e acabar sobrando no final até para você.
+
+Porque se a maioria das pessoas não estão entendendo o que você está querendo transmitir, então provavelmente
+
+o problema não está na maioria das pessoas, mas sim em uma única que talvez seja você.
+
+Então a mudança, a adaptação é constante e necessária também.
+
+Resumo geral da aula.
+
+Comunicação eficaz com o exterior é essencial para o sucesso de qualquer organização ou projeto.
+
+Ao identificar as partes interessadas, entender as suas necessidades e interesses, abordar uma abordagem
+
+transparente e adaptar a sua mensagem.
+
+Você pode construir relacionamentos sólidos e garantir o apoio contínuo de todos os envolvidos em sua
+
+iniciativa.
+
+Então, se você tecnicamente é querido, gostado, bem quisto por todos.
+
+Você com certeza tem um trabalho mais leve e uma abrangência maior.
+
+As pessoas não vão ficar tanto no seu pé pedindo entregas, nem batendo cabeça sobre algumas coisas.
+
+Bom, essa foi mais uma aula no nosso curso de Análise de Requisitos de Software.
+
+Espero que vocês tenham entendido e principalmente vocês estejam gostando.
+
+Me despeço por aqui, Fica com Deus e até breve.
