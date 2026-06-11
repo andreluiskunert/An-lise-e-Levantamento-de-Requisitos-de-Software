@@ -1,0 +1,383 @@
+Olá Luna.
+
+Olá aluno!
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+Falaremos um pouco nesta aula sobre trabalho em equipe Colaboração durante o processo de análise de
+
+requisitos.
+
+Anterior Nós falamos bastante sobre a parte da comunicação.
+
+Aqui nós falaremos um pouco sobre a colaboração em equipe e por que ela é tão importante no nosso cotidiano.
+
+Bom, vamos lá novamente.
+
+Nós temos dez tópicos.
+
+Alguns são semelhantes porque de forma direta ou indireta, tem relação com comunicação que nós vimos
+
+na aula anterior.
+
+Mas de certa forma, aquilo que nós já vimos eu não vou adentrar a fundo, tá bom?
+
+Então, para que nós possamos ter ali um trabalho em equipe, uma colaboração de uma melhor maneira
+
+possível.
+
+Durante o nosso processo de análise de requisitos, nós temos aqui algumas coisinhas que é interessante
+
+de se atentar.
+
+A primeira é o quê?
+
+Compreender a importância da colaboração, então, já começa adentrando bem pelo título da nossa aula.
+
+Por que é importante ter uma colaboração?
+
+Por que é importante você entender sobre colaboração?
+
+Reconheça desde o início que a colaboração é essencial para a análise de requisitos bem sucedida.
+
+Se é possível obter uma visão completa e precisa das necessidades do projeto sem o envolvimento de todas
+
+as partes interessadas relevantes, então a colaboração entra nesse contexto, porque as pessoas, quando
+
+querem colaborar, te dão as informações que você precisa e muitas vezes te dão mais informações até
+
+do que deveria.
+
+Então, a colaboração nesse conceito e nesse contexto, para um analista de requisitos é bem importante.
+
+Por quê?
+
+Porque é o analista de requisitos que precisa levantar e mapear tudo o que é necessário, de forma direta,
+
+indireta, funcional ou não, funcional, essencial ou não essencial.
+
+Então, a colaboração para nós que trabalhamos, que atuamos com isso, é de extrema premissa.
+
+Segundo, forme uma equipe multidisciplinar.
+
+Monte uma equipe que inclua membros de diversas habilidades e conhecimentos.
+
+Isso garante que diferentes perspectivas sejam consideradas durante a análise, o que pode levar a melhores
+
+soluções.
+
+Então, aqui nós estamos falando de uma equipe com vários nichos, de vários conhecimentos, com várias
+
+expertises, várias soft skills e hardwares e skills também.
+
+Então isso vai ajudar você no cotidiano.
+
+Muitas vezes você vai até de levar alguma dessas pessoas ou a maioria dessas pessoas junto com você,
+
+dependendo da ocasião ou do projeto do produto que está sendo desenvolvido.
+
+Terceiro, estabelece um ambiente aberto e inclusivo, cria um ambiente de trabalho onde todos os membros
+
+da equipe se sintam à vontade para contribuir com as suas idéias e opiniões.
+
+Isso pode envolver a promoção de uma cultura de respeito e inclusão, onde todos têm voz.
+
+Então, aqui não existe mais aquela parte de hierarquia, degraus.
+
+Estou falando com o analista de suporte depois da implementação, depois o desenvolvedor, depois um
+
+gestor, depois um produtor, depois um diretor e nada do tipo.
+
+Aqui eu estou falando de algo horizontal.
+
+Todo mundo tem voz, todo mundo precisa ser ouvido, todo mundo possui idéias, todo mundo possui sugestões.
+
+Então, quando você faz um ambiente inclusivo, as pessoas se sentem abertas e, principalmente, se
+
+sentem confiantes de expor aquilo que elas estão pensando ou que elas estão querendo sugerir.
+
+Tá bom.
+
+Quarto tópico Defina os papéis e responsabilidades claros.
+
+Certifique se de que cada membro da sua equipe entenda o seu papel e responsabilidades durante a análise
+
+de requisitos.
+
+Isso pode ajudar a evitar conflitos e garantir que todas as tarefas sejam atendidas.
+
+Bom, aqui estamos falando de análise de requisitos, mas eu vou colocar em um contexto mais genérico.
+
+Mas já que você tem um time de de TI e aí existe a pessoa que faz a implantação do sistema.
+
+Existe a pessoa que faz a curadoria do sistema.
+
+Existe a pessoa que faz a correção do sistema, a sustentação do sistema.
+
+E existe você.
+
+Então, cada uma dessas pessoas, inclusive você tem as responsabilidades, tem os papéis, tem os deveres,
+
+tem as tarefas, tem as necessidades do que precisa realizar.
+
+Então, quando você define papéis e responsabilidades claros para cada um, essas pessoas, elas vão
+
+abraçar aquilo que elas possuem.
+
+Elas vão facilitar as coisas.
+
+Então você não vai precisar ter a preocupação de, por exemplo, ficar toda hora no pé da pessoa perguntando
+
+se foi feito, quando que vai fazer ou se foi corrigido, se realmente teve teste, se vai confiar no
+
+seu time.
+
+Então as definições dos papéis e responsabilidades permite que você tenha uma confiança maior na sua
+
+equipe também.
+
+Quinto tópico utilize técnicas de facilitação.
+
+Considero a utilização de um facilitador ou uma lista de requisitos experiente para conduzir reuniões
+
+e workshops.
+
+Eles podem ajudar a manter o foco, mediar conflitos e garantir que os objetivos da análise sejam atingidos.
+
+Então, as partes que nós falamos aqui sobre listas dos deveres, nós na verdade já falamos em aulas
+
+anteriores, mas para vocês recapitular.
+
+Então, quando nós vamos para reuniões, workshops, brainstorms e etc, é bom sempre nós termos um
+
+facilitador, um analista, para fazer a ponte de comunicação entre as pessoas, principalmente se é
+
+um assunto ou um tipo de tarefa que você não tem uma expertise ou não tem um conhecimento amplo.
+
+Então é sempre legal você levar uma pessoa para fazer esse meio de campo para intermediar entre as duas
+
+pontas, tá bom?
+
+Claro que quando a gente fala de analista de requisitos, muitas vezes o intermediador ou a ponte,
+
+ela vai ser você.
+
+Por quê?
+
+Porque você é a pessoa que tem a expertise de ouvir, de entender, de mapear, de escrever e de passar
+
+essas informações que você entendeu que veio de uma outra pessoa adiante.
+
+Então o facilitador muitas vezes vai ser você.
+
+Então, sempre considere que você vai ajudar a manter o foco, mediar conflitos e garantir que os objetivos
+
+das análises sejam atingidos.
+
+Número seis ou sexto tópico.
+
+Realize reuniões regulares.
+
+Falamos isso na aula anterior.
+
+Envolve comunicação.
+
+Agende reuniões regulares com a equipe de análise de requisitos para discutir o seu progresso, identificar
+
+desafios e tomar decisões importantes.
+
+Certifique se de que essas reuniões sejam bem documentadas, então criadas.
+
+Crie relatórios, crie versionamento dessas informações, principalmente se houverem mudanças nos requisitos
+
+dos mapeamentos.
+
+Para você ter uma organização e ter também uma regularidade, então sempre tentar definir horários para
+
+essas reuniões, principalmente se forem deles horários de início de turno ou de término de turno.
+
+Não coloque para fazer reuniões, sei lá, duas horas, 03h00 a tarde.
+
+E as pessoas?
+
+Elas estão focada em alguma outra tarefa que elas tenham e elas muitas vezes vão deixar de entrar na
+
+sua reunião para continuar fazendo o que elas têm para fazer.
+
+Então, o que é legal de definição de reunião aqui é faça reuniões no início do período Turno da manhã
+
+oito nove máximo 10h00, que é onde as pessoas estão começando a atuar.
+
+De certa forma, se elas não engatilhar ou não seus deveres de uma forma mais precisa ou no terno do
+
+dia.
+
+04h30, 05h30, seis Enfim, um horário que você sabe que as pessoas já estão terminando o expediente,
+
+já estão querendo deixar as coisas que elas fizeram durante o dia todinho de lado e aí você consegue
+
+bater um papo com elas.
+
+Eu, em particular, prefiro fazer de manhã.
+
+Por quê?
+
+Porque muitas vezes as reuniões elas são estendidas, Não.
+
+Principalmente se você está trabalhando presencial.
+
+Você marca uma reunião 05h30 disposto a acabar seis e não acaba.
+
+Estica 06h10, 06h15, 06h30.
+
+Você vai ver pessoas bravas com você.
+
+Aí você cria inimigos também.
+
+Então é interessante você se atentar a isso.
+
+Então, premissas sobre esses horários também.
+
+Entenda com as pessoas qual que é a disponibilidade delas, o que elas preferem.
+
+Às vezes, a maioria prefere um algo que você talvez nem queira mais.
+
+Você, por obrigatoriedade da maioria, vai precisar fazer.
+
+Sétimo tópico Documente de forma clara e concisa.
+
+Nós viemos falando o curso inteiro sobre importância de documentação de forma clara, objetiva, concisa
+
+e etc.
+
+Então certifique que todos os requisitos, decisões e informações relevantes sejam registrados de maneira
+
+clara, concisa, para que todos os membros da equipe possam acessá los facilmente.
+
+Facilidade de escrita, facilidade de oratória, facilidade de interpretação, facilidade de busca.
+
+Então, se você usa uma ferramenta, um local que as pessoas achem com facilidade e etc.
+
+O oitavo tópico fomente a comunicação aberta.
+
+Estimule a comunicação constante entre os membros da equipe.
+
+Você pode incluir o uso de ferramentas de colaboração on line, como mensagens instantâneas e compartilhamento
+
+de documentos para manter todos atualizados.
+
+Então, aqui eu tenho uma equipe e eu sei as pessoas que fazem parte daquele determinado projeto.
+
+O que eu vou fazer para manter as pessoas em comunicação?
+
+Manter as pessoas atualizadas, manter as pessoas por dentro de tudo que está acontecendo?
+
+Eu vou enviar a mensagem de um em um.
+
+Vou escrever a mensagem para o Joãozinho, copiar, colar a mensagem para a Mariazinha e etc.
+
+Não.
+
+Eu vou criar um grupo com essas pessoas em canais de comunicação.
+
+Se você está atuando e usando ferramentas de comunicação X e etc, faz um grupo ali dessas pessoas.
+
+Tudo o que precisar ser mandado, solicitado, solucionado, impeditivos, conflitos, reuniões, muitas
+
+vezes bate papo que acontece de última hora.
+
+Manda por ali.
+
+Todas as pessoas vão ver, todas as pessoas vão ficar a par.
+
+Se as pessoas não conseguirem olhar de imediato, pelo menos vai ter um histórico.
+
+Se a pessoa bateu o pé, que não falou, que enviou, que não recebeu, etc.
+
+Você vai ter um local que você vai conseguir mostrar que realmente foi enviado e a maioria das pessoas
+
+também vai apoiar.
+
+Você falou não, a fulano enviou sim e eu consegui receber, Você também está no grupo e etc.
+
+Então, comunicação aberta é premissa também.
+
+Nono tópico resolva conflitos de maneira construtiva.
+
+Falamos isso na aula anterior.
+
+Envolve comunicação, então saber falar, saber expor, saber ouvir e entrar no que?
+
+Num consenso e entender o que é melhor para ambos os lados, para ambas as partes.
+
+Novamente os conflitos podem surgir no processo de análise de requisitos.
+
+Aborde esses conflitos de maneira construtiva, incentivando o diálogo e a busca de soluções que atendam
+
+os interesses das partes interessadas.
+
+Então, o que eu mencionei na aula anterior?
+
+Décimo tópico Valide continuamente com os stakeholders, Então não deixe de envolver os stakeholders
+
+relevantes para validar os requisitos à medida que os projetos ou os produtos são desenvolvidos.
+
+Isso ajuda a garantir as necessidades reais e, principalmente, as expectativas.
+
+Se elas estão sendo alinhadas com o que está sendo pedido, estão sendo atendidas ou não.
+
+Ou seja, evita retrabalhos no futuro.
+
+Tá bom.
+
+O pessoal.
+
+Resumo geral da aula.
+
+A colaboração eficaz é essencial durante o processo de análise de requisitos para garantir que todas
+
+as partes interessadas tenham as necessidades atendidas e que os requisitos sejam bem compreendidos
+
+e documentados.
+
+Falando o curso inteiro sobre isso, não preciso adentrar uma equipe multidisciplinar.
+
+Comunicação aberta e um ambiente de trabalho inclusivo são elementos chave para o sucesso deste estágio
+
+crítico no desenvolvimento de projetos ou produtos.
+
+Beleza.
+
+Então, quando você tem uma equipe que sabe se comunicar, entende o seu lugar, entende seu papel,
+
+entende seus deveres, que a comunicação é não só aberta, mas ela é leve, saudável, construtiva e
+
+o ambiente lhe ajuda, porque você tem pessoas que sabem os seus papéis, os seus deveres.
+
+Você sabe que essas pessoas também se comunicam de forma aberta, sugestiva, sempre que necessário.
+
+Você também tem um ambiente bem inclusivo.
+
+Tudo isso é o elemento chave.
+
+São três pilares de elementos chave para você ter um sucesso de estágio crítico do desenvolvimento dos
+
+projetos.
+
+Então mais uma aula sobre a parte de comunicação.
+
+Essa aula específica para falar um pouco sobre a equipe.
+
+Então nós estamos falando aqui sobre comunicação, já não tanto com os stakeholders, as pessoas como
+
+um todo, mas as pessoas que mais estão perto, próximo de você no cotidiano, as pessoas que vão te
+
+ajudar no dia a dia a construir, a trabalhar, a solucionar, a resolver e etc.
+
+Espero que vocês tenham entendido o que vocês estejam gostando.
+
+Me despeço por aqui.
+
+Fica com Deus.
+
+Até breve!
