@@ -1,0 +1,379 @@
+Olá Luna! Olá alunos, sejam muito bem vindos
+
+a mais uma aula do nosso curso
+
+de Análise Levantamento de Requisitos de Software.
+
+Esta aula nós falaremos um pouco sobre os desafios comuns
+
+e as melhores práticas para lidarmos com requisitos de software.
+
+Então, aqui nós na verdade veremos alguns tópicos de algumas dificuldades desafios que
+
+nós enfrentamos no cotidiano ao decorrer do ciclo de vida de um projeto.
+
+Ciclo de vida, de um produto e etc.
+
+Então, o primeiro desafio ou a primeira dificuldade que
+
+nós temos como analistas de requisitos é a ambiguidade.
+
+Você sabe o que é
+
+uma ambiguidade? Vamos lá.
+
+Ambiguidade é um dos problemas mais persistentes na análise de requisitos.
+
+Os requisitos ambíguos.
+
+Eles podem levantar as interpretações divergentes e, consequentemente, há erros de implementação.
+
+Essa ambiguidade pode ocorrer devido à falta de clareza
+
+na linguagem usada ou na ausência de detalhes específicos.
+
+Elaborei aqui para vocês terem entendimento do que é um requisito ambíguo, algumas situações, algumas adversidades
+
+para vocês terem o entendimento do que não é preciso escrever, levantar ou dar atenção.
+
+Assim, por bem dizer tá bom.
+
+Ou o que pode ser considerado como um requisito.
+
+Amém.
+
+Vamos lá.
+
+O sistema deve ser rápido.
+
+Sistema rápido é um requisito amigo.
+
+Por quê? O que significa realmente ou o
+
+que significa exatamente um sistema rápido? Qual é
+
+o critério para medir a velocidade, por exemplo?
+
+Para alguns, rápido pode significar uma resposta em
+
+milissegundos, enquanto para outros pode significar por segundos.
+
+Então, o que pode ser rápido para mim, talvez não seja rápido
+
+para você, então isso poderia ser um requisito ambíguo, por exemplo.
+
+O segundo tipo de requisito.
+
+O aplicativo deve ser fácil de usar que constitui o fácil de usar, o que é um sistema fácil de usar.
+
+Isso pode variar amplamente entre diferentes usuários e não fornece uma
+
+orientação específica sobre como avaliar o medir a facilidade de uso.
+
+Talvez um sistema para mim pode ser fácil de uso, mas para você pode ser difícil.
+
+Talvez você tenha dificuldade de acesso a algo, por exemplo.
+
+Um terceiro tipo de requisito o amigo.
+
+O sistema deve ser seguro.
+
+Segurança é um conceito amplo e genérico.
+
+Quais são as ameaças específicas que o sistema
+
+deve proteger? Deve proteger dados, deve proteger relatórios.
+
+Deve proteger o login Senha.
+
+Quais as medidas de segurança são necessárias? Então,
+
+é encarado como um requisito ambíguo também.
+
+Um outro tipo de requisito.
+
+Amigo, O software deve ser compatível com sistemas operacionais
+
+populares ou um software ou um sistema operacional popular.
+
+Ele pode variar de situação a situação de pessoa para pessoa.
+
+O sistema operacional popular pode ser o Windows 11, que é o mais recente para
+
+alguns que gostam do Windows dez, pode ser o Windows dez, que é bem utilizado.
+
+Se você perguntar para hackers, eles com certeza vão falar
+
+sistemas operacionais em Linux, Debian, Ubuntu, talvez um Mackintosh.
+
+Então, assim, qual é a premissa? O que é considerado
+
+um sistema operacional popular, por exemplo? Isso pode variar ao
+
+longo do tempo e diferente contexto, pessoa ou situação.
+
+Então, aqui a gente também coloca isso como, de certa forma, um tipo de requisito que ele é ambíguo.
+
+O nosso quinto é o que o sistema deve ter um desempenho aceitável.
+
+O que é a ambiguidade
+
+aqui? O sistema deve ter
+
+um desempenho aceitável? Bom.
+
+O que é considerado aceitá lo? Novamente,
+
+isso não fornece critérios claros para avaliação.
+
+Um desempenho aceitável.
+
+Ele está sendo referente ao que a velocidade, a usabilidade, a talvez soluções.
+
+Qual sistema ele apresenta? Enfim, tem vários contextos, Então
+
+aqui a gente coloca como um ambíguo também.
+
+Bom, os relatórios devem ser visualmente atraentes.
+
+A atratividade visual é subjetiva e pode variar de pessoa para pessoa
+
+que é atraente para um usuário, pode não ser atraente para outro.
+
+Então, o que é considerado visualmente atraente para mim pode ser um sistema que
+
+seja branco e azul claro, com a letra preta para uma outra pessoa atraente
+
+pode ser o fundo preto com a letra amarela e um contorno verde caneta.
+
+Entende? Então aqui são
+
+requisitos ambíguos também.
+
+Nosso sétimo sistema deve ser compatível com navegadores da web.
+
+Modernos são os navegadores da web modernos.
+
+Isso não especifica versões específicas de nenhum tipo de navegador no qual ele precisa ser suportado.
+
+Quais são os navegadores modernos? Se
+
+eu falar Google Chrome, Google Chrome
+
+e um navegador moderno? Depende.
+
+Por quê? Porque depende
+
+de sua versão.
+
+Se você pesquisar no Google, quando o Google Chrome for
+
+lançado, você vai ver que tem mais de dez anos.
+
+Então, como que eu posso falar que o
+
+Google Chrome é o navegador moderno? Entende? Então
+
+é um tipo de requisito ambíguo também.
+
+O sistema deve ser fácil de manter.
+
+Que é fácil de manter.
+
+Isso não fornece orientações sobre as atividades específicas de manutenção que devem ser
+
+facilitadas assim que é fácil de manter uma codificação que possa ser reaproveitada.
+
+É algum tipo de amarração, uma construção em sistema em MVC, por exemplo.
+
+Um dia eu consigo reaproveitar a tela, reaproveitar código, reaproveitar API.
+
+Então, assim, de certa forma também ele é bem ambíguo.
+
+O aplicativo deve ser acessível a acessibilidade.
+
+Ela envolve muitos aspectos, como acessibilidade para pessoas
+
+com deficiência visual, auditiva ou de mobilidade.
+
+Esse requisito não especifica qual aspecto da acessibilidade está sendo abordado.
+
+Então beleza.
+
+Vou falar assim que o aplicativo deve ser acessível, tá?
+
+Mas eu tenho que pensar em qual tipo de acessibilidade.
+
+Se eu estou falando para uma pessoa que é deficiente visual, eu tenho
+
+que elaborar um aplicativo que disponibilize soluções para quem tem deficiência visual.
+
+Agora, se é uma pessoa que talvez não tenha uma mão, não tem um braço, eu tenho que
+
+disponibilizar um aplicativo que tenha soluções para uma pessoa que tenha deficiência física da mesma forma auditiva.
+
+Então, assim, o que é considerado acessível? Eu vou pensar em
+
+um único contexto ou eu vou generalizar da mesma maneira
+
+que está sendo dito no texto? É o nosso décimo.
+
+Que é o quê? O
+
+sistema deve ser amigável.
+
+Esse daqui eu acho que é o pior, já que é um sistema amigável.
+
+Bom, é uma descrição subjetiva que pode ter significados diferentes para pessoas diferentes.
+
+Não está claro quais características ou comportamentos tornariam o sistema amigável.
+
+O que é um sistema amigável ou um sistema que disponibiliza
+
+pops mensagens conforme eu clico em menus submenus conforme realiza ações.
+
+O sistema amigável é aquele que fica mandando áudio,
+
+faz toquezinho, o barulhinho, enfim, o que que é
+
+um sistema amigável? Então, aqui são tipos de requisitos.
+
+Amigos que em quase toda a sua vida que você atuar como um analista de requisitos, você vai
+
+estar vendo, vai estar presente nos projetos, nos ciclos de vida dos produtos e assim tem que
+
+ter muita atenção pra não entrar nesse contexto, não levar isso daqui como um critério, uma premissa.
+
+Tá bom.
+
+Então, assim, sempre que observar que um requisito, ele tem uma característica ambígua tentar retirá lo
+
+dali e tentar fazer com que ele não seja visto, lembrado ou adentrado dentro do projeto,
+
+tá bom? E esse só é o primeiro desafio do que o analista de requisitos passa.
+
+Então aqui eu dei dez exemplos de tipos ambíguos.
+
+Então, o primeiro desafio é a ambiguidade.
+
+Segundo, utilize técnicas de elicitação de requisitos.
+
+Vamos lá? Utilize técnicas como entrevistas,
+
+workshops, questionários e prototipagem para coletar
+
+requisitos de forma mais abrangente.
+
+Diversificar as técnicas de elicitação ajuda a capturar diferentes perspectivas e minimiza a ambiguidade.
+
+Beleza, então, esse carinha aqui é um certo descritivo para aquilo que nós vimos anteriormente.
+
+Vamos lá!
+
+Próximo.
+
+Priorize requisitos e mantenha um registro de mudança.
+
+Então aqui nós estamos falando de requisitos funcionais, premissas
+
+funcionais, funcionalidades ou funcionabilidade que são obrigatórios existir.
+
+Tá bom.
+
+E registros de mudanças? E o
+
+que seriam ali? As documentações, os
+
+controles? Os versionamento? Toda vez que
+
+acontece alguma mudança ao decorrer
+
+do projeto, seja escopo, seja
+
+contexto, seja cronograma e afins.
+
+Então, de certa forma, estabeleça um processo para priorizar requisitos e gerenciar mudanças.
+
+Isso ajudará a manter o foco no escopo essencial do projeto e a lidar eficazmente com alterações inevitáveis.
+
+Então, à medida em que o projeto acontece, nós já vimos em aulas anteriores que
+
+existem alterações que são obrigatórias fazer à medida em que o projeto vai acontecendo.
+
+Requisitos que não foram enxergados no momento inicial do levantamento
+
+dos requisitos que vêm aparecendo no decorrer do projeto.
+
+Então tudo isso é levado em consideração.
+
+Valide e verifique requisitos.
+
+O que é uma validação de requisitos Aqui eu não estou falando só de documentação
+
+pessoal, mas sim existe a validação de requisitos, que é aquela que você realmente
+
+mapeia e faz um de para com os stakeholders, saber se está aderente, etc.
+
+Mas existe a validação de requisitos sistêmica.
+
+Então assim, você já fez uma validação de requisitos do documento, teve o aceite a
+
+liberação para desenvolver, aí entrou para o desenvolvedor fazer o desenvolvimento e aquilo ficou pronto.
+
+Você precisa fazer o quê? Você precisa validar o que o
+
+desenvolvedor fez, então você precisa fazer uma validação agora, na prática,
+
+para saber se o que o desenvolvedor criou está aderente com
+
+o que está descrito na documentação com os requisitos documentados.
+
+Então esse tipo de validação aqui entra nesses dois contextos o validação da documentação e o
+
+validação do produto, do sistema, da funcionalidade do serviço que já foi liberado para teste.
+
+Tá bom então por.
+
+Todavia, certifique se de que os requisitos sejam validados e
+
+verificados por meio de revisões por pares e testes funcionais.
+
+Isso ajuda a garantir que os requisitos estejam completos, corretos e atendam às necessidades do cliente.
+
+Beleza.
+
+Outro ponto.
+
+Nós já vimos isso em aulas anteriores e documentação, então documente de forma clara e organizada.
+
+Utilize modelos de documentação claros e estruturados para descrever os requisitos.
+
+Mantenha a documentação atualizada à medida que os requisitos evoluem e
+
+forneça rastreabilidade entre os requisitos e os casos de teste.
+
+Beleza, Então aqui entra tudo o que nós já falamos em aulas anteriores sobre não apenas
+
+fazer a documentação, mas a maneira no qual você escreve também é um divisor de águas,
+
+então evita de usar contextos técnicos, de usar palavras difíceis se de alguma forma precisar
+
+usar, sempre colocar um descritivo do que aquilo significa, o que aquilo sugere e etc.
+
+Pessoal, essa foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Espero que vocês tenham entendido o que vocês consigam absorver
+
+e transcrever isso para a prática, para o cotidiano.
+
+Principalmente essa parte, esse ponto que nós estamos levantando pela primeira vez sobre a ambiguidade.
+
+Tá bom, então prestem bastante atenção nos requisitos, as formas no qual eles estão
+
+sendo ditos para que vocês tenham o entendimento e também consigam mensurar a complexidade
+
+dele, saber se ele se enquadra como um requisito de ambiguidade ou não.
+
+Me despeço por aqui.
+
+Fica com Deus e até breve.
