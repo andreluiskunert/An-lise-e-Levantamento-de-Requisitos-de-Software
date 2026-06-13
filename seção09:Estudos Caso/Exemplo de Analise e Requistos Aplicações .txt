@@ -1,0 +1,389 @@
+Olá Luna aula alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+Nosso segundo exemplo dos estudos de caso.
+
+Nós falaremos um pouquinho hoje sobre um outro levantamento de requisitos, o qual eu montei, que é
+
+um aplicativo de entrega de alimentos.
+
+Beleza, Acredito que esse aqui seja um pouco mais moderno, mais apto a todas as pessoas.
+
+Acredito que todo mundo utiliza e de certa forma um aplicativo, o iFood ou qualquer outro não entendimento
+
+aqui acredito que também seja melhor do que o anterior do sistema de gerenciamento de livros.
+
+Tá bom então, o primeiro desafio que nós teremos aqui para o aplicativo de entrega de alimentos, a
+
+startup de entrega de alimentos enfrentou desafios na análise de requisitos do seu aplicativo.
+
+Eles queriam criar um aplicativo que se destacasse no mercado competitivo de entrega de alimentos,
+
+mas tinham dificuldade em definir funcionalidades essenciais.
+
+Beleza.
+
+Olha só.
+
+Diferente do contexto anterior.
+
+Aqui nós estamos criando, de certa forma, um produto do zero.
+
+Então vamos prestar atenção no seguinte exemplo da aula passada.
+
+Nós falamos um pouco do sistema de gerenciamento, no qual já existia um sistema, porém era obsoleto,
+
+mas que nós tivéssemos ou que nós tínhamos de certa forma, um embasamento por onde seguir, ali já
+
+tinham requisitos essenciais, já tinham premissas e nós tínhamos que montar ou remodelar a partir daquilo
+
+que eles já utilizavam.
+
+Beleza.
+
+Só que agora, para esse contexto do aplicativo aqui ele é bem diferente.
+
+Por quê que o aplicativo ele não existe?
+
+Não existe model, não existe MVP nem nada do tipo.
+
+A startup quer criar um aplicativo, só que eles estão com uma dificuldade em definir as funcionalidades.
+
+Então aqui entra um papel fundamental do analista de requisitos, que é o que definir os requisitos,
+
+o que é um requisito essencial ou o que é um requisito opcional, o que é premissa e o que pode deixar
+
+para depois?
+
+O que a gente vai conseguir absorver de tudo isso?
+
+Vamos lá então.
+
+O desafio aqui é esse.
+
+A startup quer criar um aplicativo que se destaca no mercado, no mercado de alimentos.
+
+Então nós já temos aqui uma chave inglesa, que é o mercado de alimentos.
+
+Só que eles não sabem quais funcionalidades devem conter ali.
+
+Então a primeira coisa que a gente deve fazer é criar um plano em cima do quê?
+
+De um aplicativo de entrega de alimentos.
+
+Tá bom, não é um aplicativo de entrega de sorvete, não é aplicativo de entrega de roupa, não é aplicativo
+
+de entrega de TV, nem nada do tipo.
+
+Um aplicativo de entrega de alimentos.
+
+Então aqui tem que ter requisitos essenciais, propícios para alimentício, beleza, voltado ao alimentício.
+
+Então, aqui o contexto chave que a gente deve começar a mapear é a partir do alimento entrega de alimento.
+
+Beleza?
+
+Então, qual que foi a solução de você como analista de requisitos ao fazer todos os mapeamentos necessários?
+
+Olha só.
+
+A equipe de Análise de Requisitos realizou pesquisas de mercado e entrevistas com restaurantes, parceiros
+
+e usuários finais.
+
+Então, aqui nós já estamos falando dos stakeholders, não além dos stakeholders, mas também pesquisa
+
+de mercado, que é uma pesquisa de mercado e você fazer comparativos, entender o que você tem no mercado
+
+atualmente, o que os concorrentes utilizam, o que a maioria dos aplicativos possuem e etc.
+
+Então você vai lá, abre o iFood, abre o aplicativo do McDonald's, abre o aplicativo do BK, abre
+
+o aplicativo do Habib's e por aí vai, entende?
+
+Então você vai começar a verificar nos aplicativos o que contém, o que existe, o que pode ser legal
+
+de utilizar, o que não pode, o que é premissa, o que não é, o que é um enfeitar pavão, o que não
+
+é e etc.
+
+Beleza.
+
+Então, além da pesquisa do mercado, você falou com os stakeholders.
+
+Quem são os stakeholders aqui?
+
+Restaurantes, parceiros.
+
+Então, se você tem um aplicativo, obviamente você tem que ter parceiros para você conseguir colocar
+
+no seu aplicativo.
+
+Beleza?
+
+Então você falou com as partes interessadas aqui que talvez quisessem vender mais através do aplicativo.
+
+Você falou com os restaurantes parceiros, também falou com os usuários finais, quem seriam os usuários
+
+finais nesse contexto aqui, se a gente não tem o aplicativo, não é um usuário final que usa o aplicativo.
+
+Aqui a gente está falando dos talvez frequentem antes dos restaurantes, por exemplo.
+
+Eles seriam usuários finais ali.
+
+Então, são pessoas que frequentam determinados locais de comida ou que pedem comida e que a gente conversou
+
+para saber o que eles acham que deveria ter, o que é necessário, o que faz falta, o que não contem.
+
+Nos aplicativos atuais, isso é muito bom de levantar também.
+
+Às vezes surge uma ideia bem bacana e única e aí, a partir disso, damos.
+
+E aí, a partir disso, nós damos continuidade.
+
+Vamos lá.
+
+Então olha só eles ou no caso você, que é o analista de requisitos, identificou os recursos mais solicitados,
+
+como o rastreamento de pedidos em tempo real, avaliações e comentários de restaurantes e opções de
+
+pagamentos diversificadas.
+
+Olha só, teve bastante requisito aqui, né pessoal?
+
+Só que vamos entender o contexto de aulas anteriores a que eu passei para vocês, o que é um requisito
+
+opcional, que é o requisito essencial.
+
+Se a gente olhar para todos os requisitos que está escrito aqui no texto, todos eles, realmente é
+
+necessário.
+
+Todos eles realmente precisam existir.
+
+Todos eles realmente precisam estar lá para que o aplicativo funcione?
+
+Ou são sugestões que as pessoas deram para deixar o sistema ou aplicativo mais bonitinho e etc.
+
+Vamos lá, Nós temos distinções aqui, então o pedido de tempo real, ele de certa forma não é necessário
+
+para o meu aplicativo ele existir, poder existir entregas e recebimento dos pedidos de alimentos.
+
+Eu não preciso ter um pedido em tempo real, um rastreamento de pedido em tempo real.
+
+Isto aqui é o que é uma sugestão do usuário para ele sempre saber como que está a situação do pedido
+
+que ele fez, se o pedido está em preparo, se o pedido já foi feito, se o pedido está, entrega se
+
+o pedido.
+
+Ele teve tentativa de entrega, mas ninguém atendeu e ele foi retornado.
+
+Beleza, Mas para o meu aplicativo existir ele consegui fazer entrega e recebimento.
+
+Eu não preciso disso, então eu posso classificar esse requisito, por exemplo, como um requisito opcional.
+
+Beleza.
+
+Agora, avaliações e comentários de restaurantes é necessário?
+
+Sim.
+
+Por que é premissa?
+
+Porque se eu não tiver comentários e avaliações dos meus restaurantes, eu não consigo passar uma confiança
+
+para os usuários para que eles consigam fazer pedidos dos alimentos ali naqueles determinados estabelecimentos,
+
+por exemplo.
+
+Então, por exemplo, como eu vou indicar o Habib's para a pessoa comprar esfirra se não tem avaliação
+
+e não tem comentário de ninguém, como a pessoa vai saber se o produto é de qualidade, se o produto
+
+é confiável, se existe uma qualidade, se existe higiene e etc.
+
+Então aí eu entro como comentários e avaliações para os restaurantes, porque sim, é premissa.
+
+Tendo um aplicativo para mim saber ranquear qual é o melhor e qual é o menos pior, Tá bom?
+
+Opções de pagamentos diversificados aqui é de extrema importância.
+
+Por quê?
+
+Porque todas as pessoas que existem que vão fazer a usabilidade, de certa forma, muitas vezes vão
+
+pagar de forma diferente e pessoas que usam crédito.
+
+Tem pessoas que usam débito, ter pessoas que fazem picks e pessoas que geram boleto e por aí vai.
+
+Aí muitas vezes entra a questão de segurança, desconfiança.
+
+Então a pessoa as vezes ela prefere gerar um boleto porque aí demora, ela tem prazos para pagar, outra
+
+já quer pagar e se livrar de imediato, já lança um PIX.
+
+Então aqui eu tenho que ter variações para que eu diversifique as opções e os meus usuários se sintam
+
+confortável em fazer o melhor tipo de pagamento que eles possuam.
+
+Eu não vou colocar lá que só aceita dinheiro, só aceita dinheiro em papel por motoboy.
+
+E aí pessoas que nem tem mais dinheiro em casa e eu em particular não tenho dinheiro em casa e cartão.
+
+Se um motoboy vir aqui e quiser um papelzinho, esquece.
+
+Ele vai ter que voltar e buscar a maquininha.
+
+Então assim são determinadas situações.
+
+Então eu sempre tenho de diversificar e a pessoa voltar com aquilo que ela melhor se adapta, ou melhor,
+
+para a ocasião em que ela se encontra no momento.
+
+Beleza, então aqui é um requisito necessário e um requisito essencial.
+
+Beleza.
+
+Bom para garantir a escalabilidade, colaborarão com uma equipe técnica para desenvolver a arquitetura
+
+flexível e preparada para o crescimento.
+
+A equipe também considerou a integração de serviços de entrega de terceiros, como entregadores independentes,
+
+para expandir a base de entregadores do aplicativo.
+
+Então, aqui foi pensado também no tipo de entrega.
+
+Por quê?
+
+Bom, como que eu vou fazer a entrega para as pessoas até qual quilometragem o meu aplicativo entrega?
+
+Eu tenho todas essas premissas para mim pensar também.
+
+Eu estou localizado no centro de São Paulo.
+
+Eu vou entregar somente no centro de São Paulo.
+
+Eu vou me deslocar mais para o lado leste, mais para o lado oeste, mais para o norte de São Paulo.
+
+Eu vou fazer o quê?
+
+Aí tem uma série de avaliações que é possível fazer onde mais há pedido, onde mais as pessoas solicitam
+
+o aplicativo, onde mais pessoas acessam e etc.
+
+Mas aqui eu também consigo pensar pela locomoção, ou seja, eu consigo pensar nos entregadores.
+
+Podem ser motoboys se eu estou fazendo, por exemplo, confeitaria, um bolo de aniversário, obviamente
+
+eu não vou entregar numa moto, mas vai um carro até o local é mais seguro e mais espaçoso.
+
+O bolo não amassa, não cai, não quebra nem nada do tipo.
+
+Mas eu consigo pensar numa variedade de terceiros que podem trabalhar de certa forma, de forma independente,
+
+no caso, para fazer as entregas para mim.
+
+Então eu posso colocar um valor do meu produto e ir até determinada distância, um determinado valor
+
+de frete.
+
+E as pessoas?
+
+Elas trabalham por conta de forma independente para ganhar aquele frete que é o valor da entrega.
+
+Então, quanto mais distante, obviamente, mais caro.
+
+Quanto mais perto, obviamente, mais barato.
+
+E aí eu consigo deslocar pessoas e vai ser uma certa forma de expansão para o meu aplicativo.
+
+Uma expansão de alcance.
+
+Principalmente porque se a pessoa está disposta de atravessar uma cidade até a outra para entregar o
+
+produto porque a pessoa gosta de pedir por aqui, ela vai ter um ganho enorme de frete e obviamente
+
+ela vai conseguir deslocar até lá.
+
+Então assim, são coisas que nós também precisamos pensar, não só dentro do aplicativo, como vai funcionar
+
+o pedido, como que vai gerar, como que vai ficar no carrinho, como vai ser o pagamento e etc.
+
+Mas na maneira de entregar, isso também é bem fundamental.
+
+Tá bom.
+
+Então, essa foi a solução proposta.
+
+O que nós tiramos de lição daqui?
+
+Uma compreensão profunda do mercado e das necessidades do cliente foi crucial para o sucesso deste projeto.
+
+Então, como eu mencionei lá no início da aula, teve necessidade de análise de mercado, de verificação
+
+dos concorrentes, de usar, estressar bastante aplicativos que já são existentes e conhecidos no mercado
+
+para ter um entendimento do que e de como faz, do por que existe aquilo.
+
+E isso foi crucial para o sucesso do projeto em questão.
+
+A equipe percebeu também que, ao fornecer recursos que atendiam às expectativas dos usuários e ao garantir
+
+uma experiência conveniente, poderiam se destacar no mercado como saturado.
+
+Então aqui entra aquele requisito que eu falei anteriormente o requisito de rastreabilidade.
+
+Ele é o requisito necessário.
+
+Não é um requisito necessário para o meu aplicativo.
+
+Só que ele é um requisito opcional que as pessoas fazem questão de ter, porque elas querem ter o acompanhamento
+
+do pedido.
+
+Então, aqui, nesse contexto, foi o que nós implementamos a verificação da rastreabilidade do pedido.
+
+Então, aqui nós estamos falando o quê?
+
+Que ao atender as expectativas dos usuários, porque foram eles que solicitaram isso dentro do aplicativo.
+
+Nós garantimos uma experiência mais conveniente e uma satisfação melhor do aplicativo no mercado, e
+
+isso faz com que o produto não fique saturado que as pessoas utilizem ao invés de deixar o de canto.
+
+Tá bom.
+
+E por fim, uma outra lição aprendida.
+
+A colaboração estreita entre a equipe de análise de requisitos e a equipe técnica garantiu que os requisitos
+
+fossem traduzidos de forma eficaz e funcionalidades reais do aplicativo.
+
+Então você, como analista de requisitos, você mapeou tudo o que era necessário, você exemplificou,
+
+você ilustrou em fluxograma, você pressionou documentações, você tirou todas as dúvidas, teve o entendimento
+
+bem amplo, bem concreto, de todas as partes interessadas, de todos os stakeholders e isso facilitou
+
+na hora dos desenvolvedores transcrever tudo isso para dentro do aplicativo.
+
+Esse foi mais um exemplo.
+
+Eu acredito que um exemplo mais moderno em comparação ao anterior.
+
+Espero que vocês consigam.
+
+Da mesma forma que eu mencionei na aula anterior, vocês peguem isso daqui como lição, transcreva um
+
+em papel e caneta, acrescentem mais coisas, Detalhe em Aprofundem.
+
+Que isso, de certa forma, é um exercício para que vocês consigam ter uma percepção do cotidiano no
+
+dia a dia, como que faz o que precisa e etc.
+
+E que vocês, além disso, absorvam e consigam passar para o dia a dia.
+
+Me despeço por aqui, fica com Deus e até o próximo exemplo.
