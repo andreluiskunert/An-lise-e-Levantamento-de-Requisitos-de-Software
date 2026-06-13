@@ -1,0 +1,295 @@
+Olá aluna, ao alunos, sejam muito bem vindos a mais uma
+
+aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+Estamos entrando num novo módulo, o módulo de Estudo de Casos.
+
+Nós daremos início à aula de Análise de Casos reais de Análise de requisitos de software.
+
+Bom, esta aqui.
+
+Na verdade eu vou trazer pra vocês três situações que eu montei situações fictícias,
+
+então é bem provável que eu vá separar esta aula em outras duas.
+
+Então serão três aulas separadas, no qual cada aula vai
+
+ter ali o exemplo especifico e comentar os detalhes.
+
+Vamos adentrar ali profundamente em todos eles, tá bom? Então o que
+
+acontece aqui é o primeiro exemplo que eu separei para vocês.
+
+É um sistema de gerenciamento de bibliotecas.
+
+Tá bom? Então se imagine na
+
+situação de um analista de requisitos.
+
+Você já tem uma equipe montada, tem os key users, tem os Scrum Masters,
+
+os gestores de projeto, tem ali os guias que são as pessoas de testes,
+
+desenvolvedores e tudo o que precisar para fazer esse sistema de gerenciamento de bibliotecas.
+
+Tá bom? Então a pessoa responsável entrou em contato com o cliente e
+
+o cliente passou de certa forma, a dor que ele possui no momento
+
+para aquilo que ele vende ou que ele tenha, que é a biblioteca.
+
+Então ele pode tanto vender quanto alugar ou disponibilizar livros.
+
+Tá bom? Então, o exemplo aqui é o seguinte olha
+
+só, a Biblioteca Municipal tinha um sistema de gerenciamento
+
+obsoleto que não atendia mais às necessidades dos usuários.
+
+Então, assim, já existia um sistema.
+
+Só que esse sistema ele era obsoleto, estava defasado, antigo, talvez
+
+ultrapassado, e já não atendia mais às expectativas necessidades dos usuários.
+
+Talvez já não seria mais compatível com a tecnologia atual e etc.
+
+Beleza.
+
+Olha só, os bibliotecários enfrentavam dificuldades na localização de livros e
+
+os usuários não tinham acesso a um catálogo on line.
+
+Então olha que dificuldade tinha que para o gerenciamento dessa biblioteca.
+
+Nem os próprios bibliotecários conseguiam localizar determinados livros com exatidão.
+
+Então talvez o livro não tivesse cadastrado ou se tivesse cadastrado na
+
+hora de estar realmente na prateleira no devido lugar, não estava lá.
+
+Então tinha ali muita confusão e os próprios usuários também não tinham uma noção
+
+moral geral de quantos livros tinham, quais eram os disponíveis, nem nada do tipo.
+
+Eles não tinham acesso a um catálogo on line, por exemplo.
+
+Então, qual era o desafio aqui? O principal desafio era
+
+modernizar o sistema sem interromper o funcionamento da biblioteca.
+
+Então, a primeira coisa a se pensar aqui para essa premissa
+
+é eu preciso desenvolver um novo sistema de gerenciamento da biblioteca.
+
+Só que eu não posso interromper o funcionamento dela.
+
+Eu não posso pausar, Eu não posso parar.
+
+Eu não posso fazer com que as pessoas que estão indo atrás dos livros parem
+
+de procurar livros, parem de alugar livros, parem de pegar livros para que aí eu
+
+possa ter um controle 100% de todos os livros que tem ali e etc.
+
+Para mim, poder de certa forma desenvolver o novo sistema de gerenciamento.
+
+Então o primeiro papel aqui é esse Como que eu
+
+vou fazer um novo sistema? Como que eu vou ter
+
+controle e acesso a todos os livros? Como eu vou
+
+saber quais livros estão, com quais pessoas? Quando que vai
+
+ser entregue ou quando que foi retirado? Como que eu
+
+vou ter o controle geral de tudo isso daqui sem
+
+interromper o funcionamento da biblioteca no contexto geral? Vamos lá.
+
+Qual foi a solução aqui? A equipe de
+
+Análise de Requisitos, ou seja, você um
+
+analista de requisitos, começou conduzindo entrevistas detalhadas.
+
+Mas entrevistas com quem? Então vamos pegar ali tudo o que
+
+nós já estudamos em aulas anteriores ao decorrer do curso.
+
+Até aqui, todos os stakeholders estão aqui para.
+
+Sistema de gerenciamento da biblioteca ou para o contexto geral da biblioteca.
+
+Quem são os stakeholders? Olha só bibliotecários, funcionários e frequentadores
+
+da biblioteca, ou seja, os usuários, as pessoas que vão
+
+atrás dos livros para fazerem as leituras e etc.
+
+Então, o primeiro papel do analista aqui foi o que conduzir as entrevistas, brainstormings e etc.
+
+Para que mapear todas as informações, detalhes necessários e possíveis de todas
+
+as pessoas que compartilham daquilo de forma direta ou indireta, para ter
+
+um mural do que que ele está tendo, quais as dificuldades, etc.
+
+Beleza.
+
+Olha só eles.
+
+Ou no caso, você mapeou o fluxo de trabalho existente desde o
+
+cadastramento de novos livros até o processo de empréstimo e devolução.
+
+Você marcou ali as etapas de como funciona a biblioteca, como que está
+
+sendo feito o gerenciamento da biblioteca, Como que são cadastrados os livros, Como
+
+que os livros são emprestados para as pessoas? Quais são as regras? Talvez
+
+as pessoas dão nomes se elas dão o telefone, se tem um tempo
+
+mínimo e um tempo máximo para a pessoa ficar com aquele determinado
+
+livro, quando que ela vai fazer essa devolução? E por aí vai.
+
+Beleza, Então você, como analista, conversou com as pessoas necessárias e começou a mapear isso.
+
+Só que, além disso, olha só, você, no caso, também identificou
+
+requisitos específicos, como que com a necessidade de um catálogo online.
+
+O sistema de gerenciamento de estoque é um sistema de empréstimo automatizado.
+
+Então você viu que já existia no sistema e você percebeu falta de algumas coisas
+
+que talvez fosse bem produtivo de ter fosse necessário que automatizar se o cotidiano.
+
+Então, aí você identificou esses requisitos específicos.
+
+Um catálogo online seria bacana por que quer as pessoas, elas não
+
+necessariamente precisam ir até a biblioteca para saber quais livros existem ali.
+
+Ela consulta o catálogo.
+
+Se ela achar um livro ou um conteúdo que ela goste,
+
+ela consegue saber sem precisar se deslocar até o local.
+
+O sistema de gerenciamento de estoque para ter um controle de entrada e saída e, obviamente, um
+
+empréstimo automatizado ali, que é onde você vai ter todas as regrinhas de entrada e saída.
+
+Tá bom? E aí, o
+
+que acontece? Tudo isso daqui
+
+vocês documentaram em detalhes.
+
+Então, o que vocês criaram? Vocês criaram um
+
+fluxo de processos e modelos de dados.
+
+Beleza.
+
+Então criou ali um fluxograma, documento textual e etc.
+
+A partir desses documentos, puderam selecionar uma solução
+
+de software que atendesse às necessidades da biblioteca.
+
+Então, depois de todos os requisitos levantados, de tudo mapeado, teve o entendimento do que era necessário,
+
+do que era premissa, do que talvez fosse opcional, do que não era necessário e afins.
+
+Bom.
+
+O sistema inclui um catálogo online, leitores de códigos de barra para automatizar o empréstimo
+
+e devolução dos livros e a interação com o sistema de estoque e compras.
+
+Então olha só, aqui nós temos um lado para automatizar ou
+
+para melhoria do usuário, que é o catálogo on line.
+
+Nós também tivemos um lado para os funcionários, que é o que os leitores dos
+
+códigos de barras, tanto para a automação dos empréstimos quanto para devolução dos livros.
+
+Então a pessoa lá bip código de barras já consegue saber ali.
+
+Beleza.
+
+E também o que uma interação com o sistema de estoque compras.
+
+Então, aqui nós temos também o que uma integração entre sistemas.
+
+E aí pode ser definido o uso de API ou qualquer outra coisa que a gente está acostumado no dia a dia.
+
+Beleza.
+
+Qual foi a lição que nós tiramos daqui, por exemplo?
+
+A colaboração próxima com os usuários finais é uma documentação
+
+precisa dos requisitos foram fundamentais para o sucesso deste projeto.
+
+Isso permitiu que a equipe de desenvolvimento criasse uma
+
+solução que realmente atendesse as necessidades da biblioteca.
+
+A migração de dados de sistemas antigos também foi um processo delicado que
+
+exigiu uma cuidadosa validação para garantir que nenhum dado fosse perdido no processo.
+
+Então aqui, de certa forma, nós implantamos o novo sistema de gerenciamento da biblioteca
+
+sem que nós tivéssemos a necessidade de parar o sistema de gerenciamento antigo.
+
+Beleza.
+
+Então, todo o mapeamento, toda a solução que foi feita desde aqui, do nosso desafio até a
+
+nossa solução, foi tratada pelo Analista de Requisitos, ou seja, por você que está acompanhando esse curso.
+
+E aí tem todas as etapas que nós já falamos ao decorrer das aulas.
+
+Então tentei transformar tudo o que nós já vimos ao decorrer do curso
+
+de todas as aulas aprendizados até aqui e transformei numa situação que talvez
+
+fosse mais fácil de exemplificar, de montar, de modelar, de imaginar como seria.
+
+Claro que aqui, galera, está um pouco superficial, aqui daria pra gente
+
+de certa forma aprofundar muito ainda mais, detalhar mais, acrescentar mais informações.
+
+E aí há um algo que eu quero que vocês façam.
+
+Então pega esse exemplo aqui.
+
+Já imagina essa situação que eu já falei, o que está escrito,
+
+essa parte do conteúdo textual e tenta acrescentar mais algumas coisas.
+
+Então, se possível, pega no caderno mesmo.
+
+E caneta.
+
+Eu acredito que é melhor a fixação Quando a
+
+gente escreve e tenta detalhar, adentrar, acrescentar mais coisas.
+
+Vai praticando, vai absorvendo e aí lá na frente vocês terão uma aptidão melhor.
+
+Beleza.
+
+Bom, esse foi o nosso primeiro exemplo, então, como eu mencionei, vou dividir em outros dois.
+
+Espero que vocês tenham entendido e principalmente vocês estejam gostando.
+
+Me despeço por aqui, fica com Deus e até o próximo exemplo.
