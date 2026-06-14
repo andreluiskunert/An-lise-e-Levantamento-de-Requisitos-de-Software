@@ -1,0 +1,441 @@
+Olá Luna ao aluno, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+No nosso terceiro caso aqui dos estudos de caso, nós falaremos um pouco sobre sistema de gestão empresarial.
+
+Olha aqui eu estou dando um exemplo.
+
+Acredito que a maioria das empresas necessitam.
+
+Se não tem, ainda terão.
+
+Então acredito que é um exemplo bem bacana para mostrar para vocês.
+
+Tá bom?
+
+Então qual é o desafio desta aula?
+
+Olha só.
+
+Uma empresa de médio porte decidiu substituir o seu sistema de gestão empresarial, que está desatualizado
+
+para um sistema mais moderno e eficiente.
+
+Às vezes está defasado pela linguagem de programação que foi utilizada.
+
+As vezes a linguagem de programação ela já não tem mais suporte, as vezes já não encontra mais profissional
+
+que trabalha com aquilo e o sistema ficou guardado as traças.
+
+Então a empresa ela necessita de um sistema mais moderno, não só em questão visual, mas principalmente
+
+em questão técnica.
+
+Então questão de linguagem, de programação, manutenção, versionamento, atualizações quando necessário
+
+e etc.
+
+Beleza?
+
+Quais que seriam os desafios aqui?
+
+O desafios incluíram a integração com sistemas legados, a migração de dados complexos e a necessidade
+
+de personalização para atender diferentes necessidades de departamentos, como vendas, finanças e produção.
+
+Então aqui está bem complicado de a gente fazer esse novo sistema de gestão em pessoal.
+
+Por quê?
+
+Primeiro, eu preciso de uma integração com o sistema legado.
+
+O que vocês sabem sobre sistema, legado, sistema, Legado, para quem não sabe, é o sistema que é
+
+próprio da empresa e que é um sistema já bem obsoleto, bem antigo e literalmente ficou um legado pra
+
+empresa.
+
+A empresa se amarrou tanto, tem tanta informação ali dentro que ela não consegue tirar.
+
+Ela acabou ao passar dos anos, deixando aquele sistema ali e usando ele da forma que está, do jeito
+
+que é, com os problemas que tem e por aí vai.
+
+Isso é um sistema legado, Tá bom?
+
+Então o que nós precisamos fazer aqui?
+
+Nós precisamos de uma integração desse novo sistema com o sistema legado, porque nesse sistema legado,
+
+provavelmente aonde está todas as informações ou a maioria das informações da empresa, e aí nós também
+
+temos de fazer a migração de dados complexos e a necessidade de personalização para atender departamentos.
+
+Então, dentro do meu novo sistema, eu terei a necessidade de criar.
+
+Algo que seja propício de forma visual e de forma produtiva para o departamento de vendas.
+
+Algo que seja de forma visual e produtiva para as finanças e também para a produção.
+
+Então vamos imaginar que eu tenho um sistema e que eu terei dentro desse sistema determinados módulos,
+
+no qual eu posso abrir esses módulos só para aqueles departamentos em questão.
+
+E aí módulos de vendas, por exemplo, terei tudo o que é necessário e premissa para o que é relacionado
+
+a vendas, o que é para finanças da mesma forma e produção também.
+
+Beleza.
+
+Como que foi feito a solução?
+
+Como que foi feito o trabalho para que esse sistema moderno fosse criado, tivesse a integração com
+
+o sistema legado, que houvesse ali o compartilhamento de informações, que tivessem esses módulos nesses
+
+informativos propícios de cada departamento.
+
+Vamos lá.
+
+A equipe de análise de requisitos ou você, como Analista de requisitos, começou organizando workshops
+
+com representantes de cada departamento da empresa.
+
+Olha só se começou ali com o workshop, pegou ali os responsáveis, fez aquela reuniãozinha básica Tá
+
+bom.
+
+E aí eles mapearam os processos existentes, desde o registro de pedidos até a gestão de estoque, contabilidade.
+
+Então todo o mapeamento, desde o cadastro, registro do pedido até a gestão de estoque, controle de
+
+saída e entrada e a contabilidade que é o faturamento foram passados para você.
+
+Então você ali, caneta, tudinho, anotou, documentou, desenhou e por aí vai.
+
+Beleza!
+
+E, em colaboração com os usuários, identificaram requisitos específicos para cada departamento.
+
+Por quê?
+
+Departamento de Vendas vai trabalhar com números com proporções relacionadas a vendas.
+
+Departamento produtivo vai trabalhar com coisas e documentações relacionadas a produção e por aí vai.
+
+Então, aqui você fez o que?
+
+Entrevistas com os usuários finais nas pessoas que usam o sistema.
+
+Só que são as pessoas de cada departamento em específico.
+
+Beleza.
+
+E aí cada pessoa fez o que identificou requisitos específicos de cada departamento em questão.
+
+Então você conversou com a pessoa de vendas, falou sobre requisitos necessários que é necessário ter
+
+para o módulo de vendas ou com a pessoa da produção, requisitos e necessidades para o módulo de produção
+
+e por aí vai.
+
+E aí, quais foram os requisitos?
+
+Relatório Personalizado Painel de controle e integração com sistemas externos como bancos e fornecedores.
+
+Então, por quê?
+
+Bom, primeiramente, relatório porque a gente precisa ter inúmeros tipos de apresentações para diferentes
+
+áreas da empresa.
+
+Então, o relatório personalizado para o quê?
+
+Para exibir informações específicas para as áreas específicas.
+
+Painel de controle Para o quê?
+
+Para ter um controle do que está sendo feito da produtividade em questão de cada departamento.
+
+E a integração com sistemas internos?
+
+Porque em sistemas internos, se eu estou mexendo com valores, vendas, eu estou mexendo com contabilidade,
+
+etc.
+
+Eu tenho com certeza a integração com bancos para fazer controles de valores, entrada, saída, pagamento
+
+de funcionários e por aí vai.
+
+E com fornecedores para o módulo de produção.
+
+É um módulo, talvez que tenha ali o controle da entrada de saída de produtos, acesso a estoque, etc.
+
+Então eu tive a necessidade de ter integrações com todos esses sistemas, Então provavelmente eu tive
+
+a necessidade de entrar em contato com os os representantes ou os responsáveis desses sistemas que tem
+
+integração.
+
+Eu precisei entrar em contato para fazer o mapeamento, entender as tecnologias que eles utilizam,
+
+fazer ali um manual de como essa integração seria feita, se seria feita por API, se o meu sistema,
+
+quem enviaria as informações para eles ou se o meu sistema, quem pegaria as informações deles, Como
+
+seria feito as atualizações?
+
+Seria feito um update todo final do dia ou se fariam o update semanal, se fariam o update de hora em
+
+hora para as atualizações, as informações sempre ficarem ali e em real time.
+
+Então tudo isso eu tive de me concentrar e de fazer quando eu de certa forma, entrei em contato com
+
+os representantes ou os responsáveis desses sistemas que eu preciso de integração.
+
+Tá bom, vamos lá.
+
+A equipe também se concentrou na escalabilidade do sistema e na garantia de que ele pudesse acomodar
+
+as necessidades futuras da empresa à medida que ela crescesse.
+
+Então, aqui eu já estou falando de um sistema moderno no qual eu consigo fazer atualizações, eu consigo
+
+fazer novas versões, eu consigo acrescentar novos módulos, eu consigo acrescentar novas ferramentas,
+
+Eu consigo fazer o quê?
+
+Um mapeamento para a medida em que a empresa for crescendo e for tendo necessidades, eu consiga incrementar
+
+isso dentro do sistema.
+
+Diferente do sistema obsoleto que eles usam, que já virou legado e não tem mais o que fazer.
+
+Bom.
+
+E a migração de dados foi custosamente planejada e envolveu a limpeza, transformação e validação dos
+
+dados legados para garantir que fossem consistentes e precisos no novo sistema.
+
+Vamos lá, Vamos entender o que é isso aqui, né?
+
+O que é limpeza, transformação e validação dos dados legados?
+
+Vamos lá.
+
+Eu já tenho um sistema que ele é obsoleto e ele foi construído há 20 anos atrás.
+
+Tá bom, vamos colocar nesse contexto aqui.
+
+Imagina que 20 anos atrás a arquitetura de software ela era de uma forma.
+
+Ela pensava e agia de uma forma.
+
+Toda a estrutura, todo o mapeamento foi feito de uma forma.
+
+Então imagine um banco de dados.
+
+Nós temos lá todas as colunas pra gravar as informações, nome, CPF, todos os dados necessários tanto
+
+para pessoas quanto para produtos ou para informações no contexto geral da empresa.
+
+Tá bom.
+
+Então, quando a gente fala da limpeza, nós vamos imaginar que alguns funcionários talvez já tenham
+
+sido descartados, já tenham sido demitidos há muitos anos, Só que não pensaram.
+
+E na época, um exemplo não pensaram que o sistema deveria ter uma opção de excluir dados.
+
+Então, quando o funcionário fosse desligado, seria excluído o dado dele.
+
+Não, não tem essa opção lá.
+
+Então o funcionário foi desligado, foi demitido já tem 15 anos e há 15 anos o dado dele ainda continua
+
+lá.
+
+Poderia fazer uma limpeza desse dado?
+
+Por que o funcionário que já não existe mais, ele já não colabora mais conosco, Já não tem a necessidade
+
+de eu gravar essas informações, de eu ocupar espaço, usar dados para essa pessoa em questão.
+
+Então eu faço uma limpeza, tá bom?
+
+E aí eu estou falando assim, no contexto de que é um funcionário que foi demitido, poderia falar sobre
+
+produtos.
+
+A empresa já não usa mais o produto x CPTM já há dez anos, mas o produto ainda está cadastrado ali.
+
+Faço a limpeza de produtos, fornecedor Empresa já não tem mais parceria com o fornecedor X Peter há
+
+cinco anos, mas os dados do fornecedor ainda tá ali.
+
+Faço a limpeza do fornecedor, então assim eu vou fazendo limpezas de dados que já não são mais usados,
+
+tá bom?
+
+E aí a transformação e validação dos dados são dos dados que ficarem restantes, no qual eu vou transformá
+
+los.
+
+Não que eu vá refazer os dados, tá?
+
+Mas de certa forma eu vou transformar o armazenamento dele no meu novo sistema para que fique mais fácil
+
+a manutenção.
+
+Por exemplo.
+
+Vou colocar de novo o contexto aqui do nome.
+
+Vamos imaginar que lá no sistema Legado, nome e sobrenome da pessoa eram gravados in na mesma input,
+
+no mesmo campo.
+
+Tem a necessidade de ter nome e sobrenome no mesmo campo, não tem.
+
+Então, no meu novo sistema, por exemplo, eu posso dividir nome e sobrenome, ou seja, nome em um
+
+campo, sobrenome no outro campo.
+
+E aí eu consigo também facilitar isso na hora de usar os dados, porque quando eu precisar fazer uma
+
+busca eu vou ter dois tipos de consulta, eu vou poder consultar pelo o nome da pessoa.
+
+Vamos lá, Quero consultar o João.
+
+Putz, consultei o João o nome nossa apareceu 60 João na base de dados.
+
+Como que eu vou achar todos os João Pera aí, vou consultar pelo sobrenome, porque eu sei o sobrenome
+
+do João João da Silva, Então consultei pelo sobrenome e fiz um filtro pelo sobrenome.
+
+Por João da Silva só tem um, então achei a pessoa necessária aqui.
+
+Então a transformação e a validação dos dados são fundamentais também para que você consiga, de certa
+
+forma, na hora da construção da ferramenta, na hora da construção do sistema, dar funcionalidades
+
+de acordo com as necessidades.
+
+Dei o exemplo aqui do nome sobrenome, mas eu poderia dar em outros exemplos, então eu poderia dar
+
+exemplo de estoque de produtos e por aí vai.
+
+Então, a transformação e validação dos dados seriam justamente para fazer essas melhor acomodações,
+
+melhores armazenamentos.
+
+Em relação a arquitetura dos dados, tá bom.
+
+Beleza.
+
+Então, tudo isso daqui foi, de certa forma, a solução que foi encontrada para esse novo sistema de
+
+gerenciamento dessa empresa de médio porte.
+
+Beleza.
+
+Então ela, depois de algum tempo, vai deixar de usar o sistema Legado para conseguir fazer a utilização
+
+desse sistema atual.
+
+Então por que eu digo isso?
+
+Porque como teve integração com o sistema legado, então de certa forma vai haver integração das informações
+
+ao passar dos dias, dos meses, talvez até dos anos.
+
+De todas as informações que estão no sistema legado para o sistema atual.
+
+E aí vai chegar 01h00, uma certa ocasião, que não vai ter mais dados para ser passado, porque as
+
+pessoas agora estão utilizando o novo sistema.
+
+Então, o sistema legado, o sistema antigo, ele não está sendo alimentado com novos dados no cotidiano.
+
+Então vai ser 01h00 que ele vai parar de conter novos dados e vai ser 01h00 que a integração vai conseguir
+
+pegar todas essas informações, jogar para o novo e um dia esse sistema, ele literalmente vai ser deixado
+
+de lado.
+
+Beleza.
+
+Bom conclusão geral, de certa forma, essa daqui.
+
+Lições aprendidas.
+
+Vamos lá.
+
+Este caso real destacou a importância da colaboração interdepartamental e da consideração da flexibilidade
+
+na análise de requisitos.
+
+Aqui nós tivemos aqui um aprendizado sobre qual é a importância da colaboração interdepartamental nas
+
+pessoas se reunirem e falarem sobre o que é necessário.
+
+Cada departamento tinha necessidades únicas e a equipe de análise de requisitos ou você, como analista
+
+de requisitos teve garantir que o sistema atendesse todas elas.
+
+Então você pensou e mapeou de certa forma tudo o que era necessário.
+
+Além disso, a migração de dados foi um processo demorado e crítico que não pode ser subestimado, exigindo
+
+cuidado e planejamento minucioso, que foi o que eu comentei, a migração dos dados ali, principalmente
+
+se a empresa já tem muitos anos de uso daquele sistema, vai ter milhões e milhões ou milhares de milhões
+
+de informações ali e vai levar um tempo.
+
+Então é sempre necessário ter o acompanhamento, por que talvez a API pode ficar fora do ar.
+
+Às vezes uma pessoa vai falar assim isso.
+
+Vou colocar o exemplo de cotidiano de funcionários.
+
+Às vezes o funcionário, principalmente se for funcionário, que tenha um carguinho um pouco alto.
+
+Vou colocar aqui o exemplo de um encarregado.
+
+Talvez o encarregado vai falar assim Ah, eu estou acostumado com o sistema antigo, então vou continuar
+
+alimentando no sistema antigo.
+
+Ele vai deixar de usar o novo sistema, vai continuar colocando informações lá no sistema antigo, sistema,
+
+legado.
+
+Isso vai fazer o quê?
+
+Com que sempre informações sejam acrescentadas lá.
+
+E a migração nunca vai terminar.
+
+Então é sempre necessário ter essas avaliações, saber se está entrando um novo dado no sistema legado,
+
+acompanhar a marca ou o último dado que entrou no dia X hora Y, pôs se depois de um mês.
+
+Tem outros dados ali dentro, alguém está colocando e aí tem que ir atrás e explicar a situação, fazer
+
+a pessoa largar aquilo, entende?
+
+Então eu espero que vocês tenham entendido, que vocês estejam gostando, principalmente.
+
+E novamente, já falei nas duas aulas anteriores.
+
+Peguem esse exemplo aqui.
+
+Caneta, eles, papel e caneta na mão.
+
+Tenta destacar, detalhar, se aprofundar ainda mais que quanto mais vocês praticarem, mais vocês vão
+
+entender, mais vocês vão absorver e no dia a dia, mais vai ficar fácil para vocês fazerem isso.
+
+Em relação a profissão de vocês, me despeço por aqui, fica com Deus e até breve.
