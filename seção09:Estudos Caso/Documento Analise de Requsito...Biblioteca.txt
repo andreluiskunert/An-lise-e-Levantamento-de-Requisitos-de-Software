@@ -1,0 +1,333 @@
+La Luna ao aluno.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Falando um pouco ainda sobre o módulo de Estudos de caso, trazendo para vocês agora alguns exemplos
+
+práticos sobre elicitação de requisitos.
+
+Bom, nas três aulas anteriores nós falamos um pouco sobre alguns casos.
+
+Alguns exemplos fictícios falamos um pouco sobre o sistema de gerenciamento de biblioteca, sobre o
+
+aplicativo de alimentação e também sobre o sistema de gerenciamento empresarial.
+
+Então nós vimos ali quais que eram os desafios, como foi a solução, o que nós tivemos de aprendizado
+
+sobre cada um deles.
+
+E aí, o que eu fiz?
+
+Eu resolvi transformar cada um desses que nós já vimos em realmente uma documentação, uma maneira descritiva
+
+para vocês terem o entendimento de como que é montado.
+
+Claro que isso vai variar de empresa para empresa, de analista para analista.
+
+Tem pessoas que gostam de escrever em primeira pessoa, outras em terceira pessoa.
+
+Isso também é cultural da empresa.
+
+Às vezes a empresa fazem exigências específicas.
+
+Modelo de documentação também é muito variável.
+
+Pode ser dentro do Word, pode ser transformada em PDF e por aí vai.
+
+Mas o que eu quero que vocês prestem atenção é na hierarquia, na maneira que está montado.
+
+Não precisa ser muito atento a como está escrito, porque isso é pessoal de cada um.
+
+Tá bom, mas vocês consigam entender qual é a hierarquia, como que está montado, qual que é o contexto
+
+num geral.
+
+Porque eu quero que vocês exercitem em casa.
+
+Então eu quero que vocês peguem aquelas aulas que nós já vimos que vocês tentem fazer o de vocês do
+
+zero.
+
+Claro que vocês podem olhar esse daqui e os outros dois que serão postados posteriormente também, mas
+
+de preferência que vocês tentem iniciar do zero.
+
+E aí talvez se tiver alguma dúvida ou alguma dificuldade, dá uma olhadinha aqui, outra ali para ter
+
+uma absorção melhor.
+
+Beleza, Então aqui vai ser simplesmente uma leitura pessoal, não tem o que explicar, então é literalmente
+
+mostrar como que isso daqui é documentado, como que a introduzir o por que cada um está sendo existente
+
+aqui, mas não tem muito do que ensinar que tá bom.
+
+Então, de certa forma bem resumida e bem macro, eu peguei o exemplo do gerenciamento de biblioteca.
+
+Primeira aula que nós tivemos.
+
+Dos exemplos práticos, transformei numa documentação, está numa elicitação.
+
+No contexto geral, é o primeiro de tudo que nós temos dentro da documentação e a nossa introdução,
+
+que é a nossa introdução, é um breve resumo do que está abordando aqui dentro do nosso documento.
+
+Então a gente vai resumir e transcrever de uma maneira muito curta e objetiva, sem encheção de linguiça.
+
+Tá bom?
+
+Sistema de gerenciamento de bibliotecas é uma solução projetada para modernizar e otimizar o funcionamento
+
+da Biblioteca Municipal, que enfrentava desafios decorrentes de um sistema obsoleto.
+
+O principal objetivo é melhorar a eficiência no gerenciamento de livros.
+
+Oferecer aos usuários um catálogo online e automatizar o processo de empréstimo e devolução dos livros
+
+sem interromper as operações da biblioteca.
+
+Então, aqui dentro da introdução, eu estou colocando o objetivo principal quais que são as propostas
+
+de solução e também as dificuldades que estão sendo encontradas no momento.
+
+Beleza.
+
+Após a introdução, nós temos aqui os requisitos.
+
+Então os mapeamentos de todos os requisitos funcionais que foram levantados ao conversar com as pessoas
+
+necessárias, com os stakeholders.
+
+Então, o primeiro requisito funcional que nós tivemos lá no sistema de gerenciamento Cadastro de Livros,
+
+O sistema deve permitir o cadastramento de novos livros, incluindo informações como título, autor,
+
+editora, ano de publicação e número de exemplares disponíveis.
+
+Os bibliotecários devem poder editar e atualizar informações de livros existentes.
+
+Então aqui eu estou falando especificamente sobre os cadastros dos livros.
+
+Tá bom.
+
+Segundo requisito funcional Catálogo on line aqui já é pra usuário.
+
+O sistema deve disponibilizar um catálogo on line acessível aos usuários, onde eles possam pesquisar
+
+livros por título, autor, categoria e disponibilidade.
+
+Os resultados das pesquisas devem mostrar informações detalhadas sobre os livros, incluindo capa,
+
+sinopse e disponibilidade, ou seja, se está alugado ou se está disponível.
+
+Terceiro requisito funcional Empréstimo e devolução.
+
+Deve ser possível aos bibliotecários registrar empréstimos e devoluções de livros do sistema.
+
+O sistema deve permitir a associação de livros aos usuários por meio de um leitor de código de barras.
+
+Deve ser gerado uma notificação automática para os usuários quando o prazo de devolução se aproximar
+
+ou quando o livro estiver atrasado.
+
+Então, o sistema que fica dentro da biblioteca, ele está integrado ao aplicativo que o usuário tem
+
+e os dois conversam.
+
+Os dois trocam informativos.
+
+Beleza.
+
+Quarto requisito Gerenciamento de Estoque O sistema deve manter um registro atualizado do estoque de
+
+livros, incluindo informações sobre quantidades disponíveis e quantidades emprestadas.
+
+Os bibliotecários devem receber notificações quando o estoque de um livro estiver baixo, facilitando
+
+a reposição.
+
+Então, aqui é para ter um controle de entrada e saída.
+
+É o quinto requisito, que é funcional também.
+
+Relatórios e estatísticas O sistema deve ser capaz de gerar relatórios sobre o uso da biblioteca, incluindo
+
+estatísticas de empréstimos, frequência de usuários e livros mais populares.
+
+Os relatórios devem estar disponíveis nas consultas pelos bibliotecários.
+
+Então, aqui é mais para ter um controle, um entendimento maior do que está mais sendo emprestado ou
+
+do que está sendo mais comprado.
+
+O que está sendo mais em falta é qual é o tipo e a categoria do livro.
+
+Se é um livro voltado a romance, a terror, a ficção e por aí vai.
+
+E aí todos esses cinco requisitos aqui eles são funcionais, ou seja, são premissas.
+
+É necessário existir dentro do sistema, dentro do aplicativo, para que possa ser feito toda a gestão
+
+no contexto geral.
+
+Beleza.
+
+E aí nós temos os requisitos não funcionais dentro dos requisitos não funcionais.
+
+Eu dividi em três categorias, que é o que o requisito de usabilidade, requisito de desempenho e o
+
+requisito de segurança.
+
+Bom, sobre usabilidade, a interface do sistema deve ser intuitiva e de fácil utilização por parte
+
+dos bibliotecários.
+
+O catálogo online deve ser acessível e amigável para os usuários da biblioteca.
+
+Então, aqui eu estou falando de dois tipos de interface.
+
+De certa forma, são duas funcionalidades, dois sistemas ou duas ferramentas.
+
+Estou falando do sistema que fica dentro da biblioteca, que é o sistema de gerenciamento, e eu estou
+
+falando do aplicativo que vai ficar no celular do usuário.
+
+Beleza, Então são duas interfaces no qual eu tenho de pensar.
+
+Ambas tem de ser intuitivas, fácil de utilizar, fácil utilização.
+
+No caso, é amigável, acessível a todos.
+
+Então, estou pensando aqui no contexto de usuário e de bibliotecário também.
+
+Agora sobre desempenho, o sistema deve ser capaz de lidar com múltiplos acessos simultâneos, garantindo
+
+o tempo de resposta rápido.
+
+Então, aqui eu estou colocando uma premissa de que talvez possa ser que mais de 100, mais de 200 pessoas
+
+façam acesso ou consultas dentro do aplicativo em uma única vez ou no mesmo tempo.
+
+Então eu estou colocando aqui que o desempenho deve suportar a quantidade máxima de pessoas que estão
+
+logada ou utilizando o aplicativo, ou fazendo consultas de algum livro da melhor forma possível ou
+
+com o máximo de tempo possível, o melhor tipo de respostas e por aí vai.
+
+É sobre a segurança.
+
+O acesso aos dados do sistema deve ser controlado por autenticação e autorização, protegendo informações
+
+sensíveis dos usuários e da biblioteca.
+
+Então, as pessoas que tiverem acesso ao sistema de gerenciamento, elas vão precisar de uma autorização,
+
+um tipo de autenticação, um token, talvez um código chave que chega por SMS, por e-mail.
+
+Isso vai ser assim.
+
+É algo mais técnico, mais detalhado, mais decidido, mais aprofundado, mas que eu tentei colocar
+
+aqui E de certa forma, aqui nós precisamos pensar sempre na segurança, no vazamento de dados e por
+
+aí vai.
+
+Então, esse tipo de documentação aqui ele está bem superficial, está bem simples.
+
+Vocês podem até pegar isso daqui, aperfeiçoar, aprofundar ainda mais, mas é o que eu quero que vocês
+
+entendam como que é feito a estrutura.
+
+E aí nós temos também o processo de verificação e de validação de tudo o que foi desenvolvido, de tudo
+
+que está sendo entregue do projeto no contexto geral.
+
+Como que isso será feito?
+
+A equipe de Análise de Requisitos conduzirá testes de validação após a implantação do sistema, verificando
+
+se ele atende todos os requisitos definidos.
+
+Então você, como analista de requisitos, vai fazer parte dos testes de implantação para fazer a verificação
+
+Se todos os requisitos que você definiu que você mapeou está sendo aderente.
+
+Beleza.
+
+Os bibliotecários e frequentadores da biblioteca participaram de testes de aceitação para validar a
+
+usabilidade e a eficácia do sistema.
+
+Então, dentro da reunião no Go Live, terá alguns bibliotecários presentes também para falar se o sistema
+
+está sendo viável, se dá pra mexer, o que pode mudar, o que ficou bonito e por aí vai.
+
+O sistema será submetido a revisões técnicas internas para garantir a aderência aos requisitos não funcionais,
+
+como desempenho e segurança.
+
+Então, aqui é a equipe interna quem faz as validações.
+
+Não tem necessidade do usuário final participar, nem muito menos os bibliotecários.
+
+Isso daqui é algo técnico, então no máximo é um analista de requisitos, um key user que talvez vai
+
+ser um gerente de projetos.
+
+Os desenvolvedores e o que há aqui é um analista de testes que vai fazer todo esse papel.
+
+Beleza.
+
+E aí, de certa forma, tem uma conclusão geral, um determinado resumo da documentação.
+
+Tá bom.
+
+Se o documento de requisitos definir os principais aspectos do sistema de gerenciamento de bibliotecas,
+
+fornecendo uma base sólida para o desenvolvimento da solução.
+
+Ele reflete as necessidades identificadas pela equipe de Análise de Requisitos e pelos stakeholders
+
+das bibliotecas, ou seja, pelo usuário final, pelo bibliotecário e por aí vai, garantindo que o
+
+sistema modernizado atenda as as expectativas e os desafios enfrentados pela Biblioteca Municipal.
+
+Então aqui eu coloquei todo o contexto.
+
+Então se vocês quiserem fazer comparativo, vocês podem voltar lá na aula do exemplo de caso do sistema
+
+de gerenciamento da biblioteca, fazer algumas verificações, se está batendo, se está aderente ou
+
+não.
+
+Beleza, Mas resumo de tudo o que eu quero que vocês entendam, é desta forma que é de certa forma escrito
+
+a documentação desta forma que é é dentado ou hierarquizado?
+
+Vamos colocar assim.
+
+E ainda assim faltam muitas coisas para essa documentação ficar completa.
+
+Tá bom, eu poderia ter colocado um sumário, Eu poderia ter colocado muitas outras coisas aqui, poderia
+
+ter colocado participação de equipes, nome das pessoas, dos interessados, das partes interessadas,
+
+dos stakeholders.
+
+Se pudesse ou tivesse a necessidade de integração com terceiros, colocar o nome das empresas, os responsáveis,
+
+o que está sendo comprado ou o que está sendo alugado, daqueles responsáveis, daqueles terceiros e
+
+por aí vai.
+
+Mas como é algo mais para vocês terem um entendimento, resolvi trazer mais superficial possível, só
+
+para vocês realmente entenderem, absorverem e a medida que vocês forem praticando vocês por conta própria
+
+vão conseguindo adentrar, aprofundar e acrescentar mais coisas.
+
+Tá bom?
+
+Espero que vocês tenham entendido e principalmente vocês tenham gostado.
+
+Me despeço por aqui, fica com Deus e até o próximo exemplo.
