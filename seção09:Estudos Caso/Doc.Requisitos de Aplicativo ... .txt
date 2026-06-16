@@ -1,0 +1,297 @@
+Olá Luna, ao aluno, sejam muito bem vindos ao nosso curso de Análise de Requisitos de
+
+Software, Um curso que é um dos módulos que se enquadra em Engenharia de Software.
+
+E antes de mais nada, eu gostaria de agradecer a cada um de vocês pela aquisição do curso.
+
+Claro, principalmente por depositar essa confiança de aprendizado em mim.
+
+Bom, pra quem não me conhece, eu me chamo Wesley, Eu já tenho alguns cursos aqui
+
+dentro da Udemy, então me apresentando brevemente, até para não tomar muito tempo de vocês.
+
+Eu atuo na área do TI já há mais de 11 anos.
+
+Eu sou formado em Análise e Desenvolvimento de Sistemas, sou pós graduado em Gestão de
+
+Produtos e também cursando uma pós graduação em Análise de Dados e tenho aqui algumas
+
+experiências em algumas áreas voltada a tecnologia, desde a área de suporte, área de webdesigner,
+
+área de desenvolvimento, área de desenvolvimento de chatbot, área de gestão de produtos, análise e
+
+levantamento de requisitos e processos de TI e também a parte de Product Owner.
+
+Bom, eu serei o instrutor de vocês dentro deste curso e eu espero de verdade que
+
+comigo vocês consigam aprender e absorver o máximo possível do que eu vou passar aqui.
+
+Claro, se ao decorrer do curso surgir alguma dúvida, você
+
+também pode enviar uma mensagem com a sua dúvida.
+
+Pode ser no comentário ou uma mensagem privada e a medida do possível em que eu conseguir
+
+eu vou responder e tentar trazer o máximo de solução para você daquela dúvida em questão.
+
+Beleza? Bom, é o que nós vamos aprender
+
+a medida em que o curso acontecer.
+
+Vamos lá! Você aprenderá os conceitos fundamentais e
+
+as melhores práticas para identificar, documentar e gerenciar
+
+requisitos de software de forma eficaz e eficiente.
+
+No caso, nós vamos mergulhar no mundo de análise de requisitos e explorar as etapas, as
+
+técnicas e ferramentas envolvidas nesse processo, que é crucial para um desenvolvimento de software bom.
+
+Dentre tudo o que nós vamos abordar, eu dividi na verdade por módulos
+
+e cada módulo terá em média de duas a três ou mais aulas.
+
+Tá bom, então.
+
+O nosso primeiro módulo será a introdução Análise de requisitos de software, no qual
+
+nós veremos o que são os requisitos de software e qual a sua importância.
+
+Veremos também qual o papel de um analista de requisitos.
+
+Então, sobre o ciclo de vida de um software.
+
+Qual é o papel do analista de requisitos em questão?
+
+Nós veremos também quais são os diferentes tipos de requisitos.
+
+Nós temos dois grupos principais São considerados requisitos funcionais e não funcionais, e dentre eles
+
+nós temos subdivisões e nós vamos entender a medida em que nós formos estudando.
+
+Já no nosso módulo dois, nós falaremos um pouco sobre elicitação
+
+de requisitos e dentro desse módulo nós veremos técnicas de elicitação.
+
+No caso seriam as entrevistas, workshops, brainstormings, prototipação, entre outras.
+
+Nós também teremos uma compreensão das necessidades de stakeholders e
+
+captação de requisitos de forma clara, precisa e objetiva.
+
+E para quem não sabe o que é um stakeholders, não tem problema.
+
+À medida em que for acontecendo, eu vou explicando em detalhes o que é,
+
+o que significa, qual que é o termo, por que ele existe, etc.
+
+Beleza.
+
+Ainda dentro do módulo dois, nós veremos também a análise
+
+de documentação existente e interação com especialistas do domínio.
+
+Como assim? Have? Só
+
+para adiantar e você
+
+não ficar perdido.
+
+Quando você vai levantar um requisito de um determinado projeto ou
+
+de um determinado software, geralmente ele é para uma área X.
+
+Então, esta análise de documentação e interação com o especialista seria falar com
+
+uma pessoa que realmente entende do assunto ou que realmente entende da área.
+
+E nós teremos muito a falar isso daqui em específico, tá? Dando
+
+continuidade no módulo três, nós falaremos um pouco sobre análise e documentação
+
+de requisitos, então nós veremos a identificação de requisitos essenciais e opcionais.
+
+Então nós veremos que existem requisitos que são obrigatórios e outros não são.
+
+Mas se necessário, nós podemos colocar ou para ter
+
+mais detalhamento ou para englobar mais a nossa documentação.
+
+Nós falaremos também sobre documentação de requisitos utilizando a linguagem natural, diagramas de
+
+modelagem que é o ML e outras técnicas que também são necessárias.
+
+Nós falaremos também sobre especificação de requisitos de forma clara, consistentes e sem ambiguidades.
+
+Já no nosso módulo quatro nós falaremos sobre verificação e validação desses requisitos
+
+que foram levantados, então existem técnicas para verificar a qualidade desses requisitos.
+
+Também teremos validação dos requisitos com os stakeholders para garantir que eles atendam às expectativas.
+
+Nós falaremos também sobre o gerenciamento de mudanças e rastreabilidade dos requisitos ao longo do ciclo
+
+de vida do projeto, ou seja, a medida em que o software vai sendo desenvolvido.
+
+No módulo cinco nós falaremos sobre técnicas de modelagem e prototipação, então nós veremos.
+
+Modelagem de requisitos usando diagramas de caso de uso, diagramas
+
+de sequência, dentre outros 14 tipos de diagramas existentes.
+
+Nós falaremos também sobre a prototipação rápida para fazer a validação dos requisitos
+
+com os usuários finais, ou seja, quem vai usar durante o dia
+
+a dia aquele determinado software, aquele determinado serviço ou aquela determinada ferramenta.
+
+Nós também veremos ferramentas de modelagem e prototipação para auxiliar no processo.
+
+Já no módulo seis nós falaremos especificamente sobre gestão de requisitos, então
+
+veremos a importância da gestão dos requisitos no sucesso dos projetos.
+
+A rastreabilidade e o impacto das mudanças nos requisitos.
+
+Nós falaremos também sobre ferramentas de gestão de requisitos
+
+e a sua utilização no acompanhamento e no controle.
+
+Já no módulo sete nós falaremos sobre comunicação e colaboração.
+
+Então, existem técnicas de comunicação que são eficazes com os stakeholders sobre trabalho
+
+em equipe, colaboração durante o processo e análise de requisitos sobre o uso
+
+de ferramentas colaborativas para facilitar a comunicação e o compartilhamento das informações.
+
+Tudo isso será dentro do nosso módulo de comunicação.
+
+Já no módulo oito falaremos sobre estudo de caso e exemplos práticos e então
+
+falaremos sobre a análise de casos reais de análise de requisitos de software.
+
+Ficou meio confuso, mas quando chegar a hora você vai entender.
+
+Falaremos sobre exemplos práticos de elicitação, documentação, verificação e validação de requisitos.
+
+Discussão de desafios comuns e melhores práticas para lidar com eles.
+
+E no módulo nove teremos técnicas avançadas de análise de requisitos.
+
+Teremos técnicas orientadas a objetos e também teremos a análise de requisitos usando história de usuários
+
+ou user histories, que são alguns métodos ágeis que se enquadram também no nosso cotidiano.
+
+Falaremos também, ainda neste módulo sobre análise de requisitos
+
+não funcionais e as suas importâncias no projeto.
+
+Então, como eu comentei no módulo um, teremos análise funcional e não funcional.
+
+Aqui nós veremos com mais detalhes as não funcionais e as suas importâncias de se ter dentro de um projeto.
+
+Beleza? No nosso décimo módulo Integração de requisitos
+
+com o processo de desenvolvimento de software.
+
+Então, aqui nós temos a integração dos requisitos com
+
+etapas de design, desenvolvimento, teste e implantação de software.
+
+Então, aqui nós teremos, de certa forma, uma comunicação
+
+com outras áreas, com outros departamentos, com outros profissionais.
+
+Então, aqui tem uma dependência de função, de tarefas.
+
+Nós vamos entender a fundo sobre o que se trata.
+
+Teremos também a colaboração entre a equipe de Análise de
+
+requisitos e outras equipes envolvidas no processo do desenvolvimento.
+
+Então, nós sabemos que o analista de requisitos é quem vai fazer o mapeamento,
+
+Vai literalmente transcrever todos os requisitos, mas quem vai fazer será o desenvolvedor.
+
+Quem vai fazer de repente? Se for o
+
+layout, vai ser ele um designer, por exemplo.
+
+Enfim.
+
+Sobre gerenciamento de mudanças e a evolução dos requisitos ao longo do ciclo de vida do projeto.
+
+Também nós teremos aulas específicas para falar em detalhes a respeito.
+
+Nosso 11.º módulo Módulo 11 Ferramentas e Tecnologias para Análise de Requisitos.
+
+Visão geral das ferramentas disponíveis para auxiliar na análise dos
+
+requisitos ferramentas de modelagem, prototipação e gestão de requisitos.
+
+O uso de tecnologias com inteligência artificial e aprendizado de máquina de análise de requisitos.
+
+12.º módulo Desafios e Soluções Na análise de Requisitos teremos aulas sobre
+
+desafios comuns enfrentados na análise de requisitos e como superá los.
+
+Estratégias para lidar com requisitos vagos, conflitantes ou mal definidos
+
+e também a resolução de conflitos e negociação com stakeholders.
+
+13.º módulo Melhores práticas e tendências na análise de requisitos são as melhores
+
+práticas para aprimorar a qualidade dos requisitos e aumentar a satisfação dos stakeholders.
+
+Tendências atuais na análise de requisitos como inteligência
+
+artificial, análise preditiva e análise de dados.
+
+Atualizações e novidades na área de análise de requisitos
+
+de software também nós veremos nesse 13.º módulo.
+
+E por fim, nós teremos o 14.º módulo, que seria Exercícios e Avaliações.
+
+Nesse caso aqui seriam exercícios práticos para reforçar o aprendizado e aplicar
+
+os conceitos que nós vemos das aulas anteriores dos módulos anteriores.
+
+É uma avaliação para testar o seu conhecimento e acompanhar o seu progresso ao decorrer do curso.
+
+Bom, era a princípio que nós teremos ao decorrer do curso.
+
+Seriam esses 14 módulos, dentre eles 13 módulos de aprendizagem e o
+
+último módulo seria como o módulo de fixação, exercícios e testes para
+
+que nós possamos reforçar aquilo que nós vemos ao decorrer do curso.
+
+Ou eu espero que cada um de vocês tenham muita fome de aprendizagem.
+
+Nós temos muita coisa para ver, muito conteúdo para ser estudado, para ser aprendido mais uma vez.
+
+Se ao decorrer do curso surgir alguma dúvida, por mais simples que seja, não deixe de mandar mensagem.
+
+Pode ser por comentário, pode ser mensagem no privado, você escolhe.
+
+Eu assim que tiver um tempo garanto que vou responder e tentar detalhar e ser o
+
+mais objetivo possível para sanar a sua dúvida e facilitar ainda mais o seu aprendizado.
+
+E mais uma vez, eu desejo muito a você um ótimo curso, que você consiga absorver muitas
+
+coisas boas e principalmente que você consiga colocar em prática aquilo que você vier a aprender aqui.
+
+E se você está buscando uma oportunidade na área, se você é um estudante ou
+
+algo do gênero, que esse curso sirva de uma porta de abertura para um mercado
+
+de trabalho futuro para você em alguma área no qual você deseja que seja
+
+relacionado a tecnologia, principalmente voltado à engenharia de software? Eu me despeço por aqui.
+
+Fica com Deus e até a nossa primeira aula.
