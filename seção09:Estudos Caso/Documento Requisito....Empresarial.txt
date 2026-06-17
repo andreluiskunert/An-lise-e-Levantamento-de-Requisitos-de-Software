@@ -1,0 +1,317 @@
+Olá Luna, alunos sejam muito bem vindos a mais uma aula do nosso curso de
+
+Análise e Levantamento de Requisitos de Software, trazendo a vocês nesta aula a documentação
+
+do terceiro exemplo de caso que nós tivemos e o sistema de Gestão Empresarial.
+
+Então, assim como as duas últimas aulas, nós vimos como é feito a documentação e hierarquia.
+
+Estrutura esta daqui eu simplesmente farei a leitura.
+
+Beleza.
+
+Introdução Sistema de Gestão Empresarial foi desenvolvido para atender às necessidades de uma empresa
+
+de médio porte que enfrentava desafios com seu sistema de gestão empresarial desatualizado.
+
+O objetivo era substituir o sistema por um mais moderno e
+
+eficiente, capaz de integrar sistemas legados, migrar dados complexos e
+
+personalizar funcionalidades para diversos departamentos, como vendas, finanças e produção.
+
+Quais foram os requisitos funcionais que nós levantamos lá no exemplo de caso, quando
+
+conversamos com os stakeholders, com os usuários, com as partes interessadas no geral.
+
+Primeiro, a integração com os sistemas legados.
+
+O sistema deve ser capaz de integrar se com os sistemas legados
+
+da empresa, incluindo sistemas de gerenciamento de estoque, contabilidade, recursos humanos.
+
+Deve permitir a troca de dados em tempo real e a sincronização com os sistemas externos.
+
+Segundo requisito Mapeamento de processos.
+
+A equipe de Análise de Requisitos deve conduzir workshops com representantes
+
+de cada departamento para mapear os processos de negócios existentes.
+
+Os processos, desde os registros dos pedidos até a gestão de estoque e
+
+contabilidade devem ser documentadas em detalhes e um mapeamento aqui de como funciona
+
+toda a tratativa, todo o trabalho, todas as tarefas, os departamentos necessários.
+
+Tá bom? Terceiro requisito
+
+a personalização por departamento.
+
+O sistema deve ser personalizado para atender às diferentes necessidades
+
+de cada departamento, incluindo vendas, finanças, produção e recursos humanos.
+
+Cada departamento deve ter acesso a relatórios personalizados, painéis de
+
+controles e fluxos de trabalhos adaptados às suas operações.
+
+Quatro Escalabilidade O sistema deve ser projetado com uma arquitetura escalável que
+
+possa acomodar o crescimento da empresa e as suas necessidades futuras.
+
+Deve ser capaz de lidar com o aumento no volume de transações, usuários e dados.
+
+Quinto.
+
+Migração de dados.
+
+A migração dos dados do sistema para.
+
+Tem um errinho.
+
+Gramatical Aqui acontece.
+
+A migração de dados do sistema legado deve ser cuidadosamente planejada e executada.
+
+Tá bom.
+
+Os dados legados devem ser limpos, transformados e validados para
+
+garantir que sejam consistentes e precisos no novo sistema.
+
+Deve haver um plano de contingência para lidar com eventuais problemas durante a migração.
+
+Então aqui observa que tudo o que eu estou comentando, tudo que eu escrevi,
+
+tudo que eu coloquei como mapeamento, eu estou colocando como uma certa exigência.
+
+Olha só, deve haver um plano.
+
+Beleza, Então os dados legados devem ser eu estou impondo, ele tem que ser dessa forma.
+
+Ele é desse jeito.
+
+Tá bom.
+
+Oh! A migração deve
+
+ser cuidadosamente planejada.
+
+Se nós subirmos, o sistema de escalabilidade deve ser capaz, com aumento, lidar com o aumento.
+
+O sistema deve ser projetado.
+
+Eu estou fazendo imposições, tá? Então, a maneira no qual
+
+nós escrevemos quando é um requisito funcional obrigatório, premissa que
+
+ele deve ser imposto, ele deve ser dessa maneira.
+
+E ele é exatamente desse jeito.
+
+Tá bom, então se vocês observarem os detalhes, por
+
+mais imperceptível que pareça, faz total diferença numa documentação.
+
+Oh, o sistema deve ser capaz.
+
+O sistema deve permitir a troca de dados.
+
+A equipe de análise de Requisitos deve conduzir workshops que não tenham.
+
+Talvez a equipe de análise de
+
+requisitos talvez faça o workshop? Não.
+
+Ela deve fazer um workshop.
+
+Então tudo isso daqui tem que ser levado em consideração na hora de vocês
+
+comentarem, tá? Claro que, como eu já falei em aulas anteriores, isso aqui é
+
+variável de empresa para empresa, de cultura para cultura, de analista pra analista.
+
+Então tem empresa que é mais.
+
+Então tem empresa que é mais variável, mais aberta, às vezes permite até
+
+escrita de documentações de forma diferente, que de certa forma é uma desorganização.
+
+Não encara isso como algo bom, porque aí você abre
+
+documentações que muitas vezes fazem parte do mesmo projeto.
+
+Cada uma está escrito de uma maneira, uma em terceira pessoa, outra em primeira pessoa.
+
+Acaba não sendo legal pra entender, mas isso é bem cultural.
+
+Tem pessoas, empresas que gostam de ler ou de escrever em terceira pessoa, outras como primeira pessoa.
+
+Então tem pessoas que conseguem e gostam de escrever como um usuário.
+
+Então um exemplo eu como usuário acesso o endereço www.
+
+Ponto google.com.br.
+
+Eu como usuário clico no botão Gmail, Eu como usuário insiro o meu e-mail no campo de e-mail.
+
+Eu como usuário insiro a minha senha no campo de senha.
+
+Eu como usuário clico no botão de login após ter inserido e-mail
+
+e senha, então se colocando como um usuário também é bem bacana.
+
+Então como eu falei, varia muito, ocasiões e ocasiões,
+
+tá bom, Mas dando continuidade aqui, olha só.
+
+Requisitos não funcionais usabilidade, desempenho e segurança, assim como o
+
+sistema de gerenciamento de biblioteca que nós vimos anteriormente.
+
+Então, sobre a usabilidade, sistema de interface do sistema deve ser
+
+intuitiva e de fácil utilização, mesmo para os usuários não técnicos.
+
+Então lembra que eu falei ao decorrer do curso que em todas as ocasiões as pessoas
+
+que não tem conhecimento técnico não tem obrigatoriedade de saber nem muito menos de aprender.
+
+E nós devemos sempre deixar as coisas da melhor maneira possível pra eles.
+
+Então um exemplo a pessoa que trabalha no estoque de uma empresa voltada a logística,
+
+ela não tem que saber o TI, a parte técnica, mas ela tem que
+
+conseguir usar a ferramenta que o TI disponibiliza para ela fazer o trabalho dela.
+
+Diário Então aqui entra esse contexto.
+
+A interface do sistema deve ser intuitiva e de fácil utilização, mesmo para usuários não técnicos.
+
+Beleza.
+
+Os painéis de controle relatórios devem ser de fácil compreensão e personalizáveis para cada departamento, então
+
+os dados tem que estar legíveis, tem que estar de fácil acesso, fácil entendimento e etc.
+
+Sobre o desempenho.
+
+O sistema deve oferecer desempenho rápido e responsivo, garantindo
+
+o tempo de respostas mínimos que é responsivo.
+
+Sistema que ele consegue se adaptar a diferentes tipos
+
+de plataformas ou diferentes tipos de aparelhos tecnológicos.
+
+No seu lugar no sistema dentro do meu smartphone.
+
+Ele vai aparecer ali como um menu mobile com opções e mobile.
+
+Já seu lugar dentro do meu desktop, do meu notebook.
+
+Ele vai aparecer com outro tipo de modelo, mas que tenha e consiga
+
+manter as mesmas funcionalidades, o mesmo desempenho e um tempo mínimo de resposta.
+
+Porque quanto menos tempo de resposta nós temos para consultas, indica que mais rápido é o nosso sistema.
+
+É sobre segurança.
+
+A segurança dos dados e o controle de acesso devem
+
+ser rigorosos com criptografia forte e auditorias de segurança regulares.
+
+Porque nós temos dados pessoais de funcionários, temos dados que são
+
+relacionados a terceiros, parceiros, fornecedores, valores e por aí vai.
+
+Então, criptografia dentro dos dados, segurança para não ter quebra vazamento nem invasão.
+
+Beleza.
+
+E aí, por fim, tem a verificação e a validação que envolve as
+
+pessoas responsáveis, equipe técnica e stakeholders, usuários finais e por aí vai.
+
+A equipe de Análise de Requisitos realizará testes de validação após a implantação do
+
+sistema, garantindo que atenda a todos os requisitos funcionais e não funcionais definidos.
+
+Representantes de cada departamento da empresa participaram de testes de
+
+aceitação para validar a usabilidade e eficácia das personalizações.
+
+Então, representante do Departamento de RH vai
+
+participar representante do Departamento de Contabilidade
+
+Vai participar? E por aí vai.
+
+Os responsáveis são pessoas que muitas vezes têm o entendimento amplo e concreto e concreto
+
+de tarefas, de deveres, de funções, do que aquele departamento faz no dia a dia.
+
+Beleza, então é literalmente para saber se a ferramenta vai ser aderente,
+
+se aquilo está cumprindo com o que é proposto e tudo mais.
+
+Bom.
+
+A equipe de imigração de dados será responsável por garantir que os dados
+
+legados sejam migrados de plataforma precisa e consistente, seguindo os procedimentos definidos.
+
+Então tem aqui a parte da migração dos dados para ter uma
+
+equipe responsável para isso das vezes e pessoas administradoras de banco.
+
+Então DBR, um cientista de dados, um analista de criar e por aí vai.
+
+Arquiteto de dados, engenheiro de dados também envolve muito estudar, não se esquecendo deles.
+
+E aí temos o resumo.
+
+Assim como todos os outros dois anteriores, este documento de requisitos define os principais
+
+aspectos do sistema de gestão empresarial, refletindo a solução desenvolvida pela equipe de Análise
+
+de Requisitos após o mapeamento de processos, personalizações por departamentos e integração com
+
+sistemas legados e migração dos dados cuidadosamente planejado, a escalabilidade e usabilidade foram
+
+consideradas para garantir que o sistema possa atender as necessidades futuras da empresa.
+
+Então, todo o planejamento, validação, pensamento onde lá no futuro foi mapeado, então tudo foi pensado
+
+e desenvolvido para que aconteça e não tenha problemas, não tenha danos nem nada do tipo.
+
+Mais uma vez.
+
+Isso daqui é uma parte superficial de uma documentação e envolvem mais coisas.
+
+Porém aí ficaria maior, ficaria mais massivo, ficaria entre aspas, mais chato porque é só leitura.
+
+Mas quero que vocês usem como exemplo.
+
+Vocês tiram a melhor absorção possível daqui.
+
+Como eu mencionei na aula anterior, vocês podem
+
+também imaginar exemplos, problemas e tentar achar soluções.
+
+E com base nessas seis últimas aulas que foram feitas
+
+dentro deste módulo, desde os três exemplos de caso.
+
+E agora esses três exemplos de documentação, vocês mesmos começarem a galgar, garimpar e
+
+criar os próprios problemas, os próprios casos, próprias definições e próprias soluções de vocês.
+
+Bom, se existir alguma dificuldade, alguma dúvida, vocês consultem o material, vejam e visitem.
+
+E por aí vai.
+
+Me despeço por aqui, Fica com Deus e até breve.
