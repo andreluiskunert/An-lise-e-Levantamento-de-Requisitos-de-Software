@@ -1,0 +1,319 @@
+Olá aluna, ao alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+Estou trazendo a vocês nesta aula um conteúdo sobre as dificuldades e os desafios que são levados em
+
+consideração no momento de mapear ou de levantar os requisitos.
+
+Tá bom?
+
+E aí, dentro de tudo isso também?
+
+Qual que é a solução?
+
+Qual que é a melhor abordagem?
+
+O que é necessário fazer para tirar esses impeditivos que surgem ao decorrer dos projetos?
+
+Então, nesse contexto, aqui, nós vamos levar em consideração as dificuldades e desafios que surgiram
+
+para o mapeamento dos requisitos para o sistema de gerenciamento da biblioteca.
+
+Então, nós tivemos aulas anteriores, no qual foi falado qual que era a necessidade dessa biblioteca,
+
+o que precisava ser feito, como isso ia ser construído.
+
+Existia um sistema que já era antigo e não poderia parar, então nós deveríamos fazer um outro a medida
+
+em que esse ainda ia rodando.
+
+E também vimos uma aula específica sobre a documentação desse sistema de biblioteca para entender os
+
+objetivos, o que os stakeholders pediam e etc.
+
+Agora, nesta aula, nós vamos entender um pouquinho o que foi levado em consideração como um desafio,
+
+o impeditivo, uma complicação e qual é a solução que foi adotada para isso.
+
+Tá bom.
+
+O cenário em que uma biblioteca municipal enfrentar a modernização do seu sistema de gerenciamento é
+
+um desafio complexo.
+
+Nós vimos que era um desafio um pouquinho complexo mesmo, então foi necessário mapear e levantar requisitos
+
+para uma situação como que envolve várias dificuldades.
+
+Então, uma das primeiras era entender a compreensão profunda das necessidades do sistema, ou seja,
+
+qual que era o desafio nesse entendimento?
+
+A primeira dificuldade é compreender profundamente as necessidades dos usuários, dos bibliotecários
+
+e dos administradores da biblioteca, ou seja, dos stakeholders no geral.
+
+E aí o que foi necessário requer identificação, precisa dos problemas do sistema antigo e as expectativas
+
+em relação ao novo sistema.
+
+Então, aqui o desafio maior foi entender.
+
+Você como um analista de requisitos, não apenas no seu contexto, na sua visão de analista e o que
+
+era de problema no sistema antigo e quais as soluções deviam ser acrescentadas no novo sistema, mas
+
+também colher os feedbacks dos stakeholders do usuário como um usuário final do bibliotecário, como
+
+um funcionário no caso, e dos administradores da biblioteca, como os donos ou algo do tipo, que muitas
+
+vezes é a pessoa que vai investir o dinheiro tem um recurso ali para o desenvolvimento.
+
+Então precisava entender também 12 stakeholders o que faltava para eles como sendo stakeholders, usuários,
+
+funcionários e administradores do sistema antigo e o que deveria ser trazido ou o que teria de ter de
+
+solução para esse novo sistema.
+
+E aí a solução, no caso foi o quê?
+
+Realizar entrevistas detalhadas e grupos focais com todos os envolvidos e era de extrema importância.
+
+Foi fundamental, então, ouvir as suas opiniões, no caso, a dos stakeholders, desafios diários e
+
+expectativas, que ajuda a criar um panorama completo.
+
+Bom galera, então aqui nesse caso, neste contexto, o primeiro desafio do sistema foi o entendimento
+
+das necessidades, então foi necessário fazer o mapeamento Você com uma visão analítica, como a visão
+
+de um analista.
+
+Mas também foi necessário entender e ter uma visão de todos os stakeholders para fazer o mapeamento
+
+devido e ter uma profunda amplitude ou um profundo clareamento de enxergar quais eram as necessidades
+
+reais.
+
+Segundo e o que minimizar interrupções.
+
+Desafio Modernizar um sistema de bibliotecas sem interromper o funcionamento.
+
+É um desafio significativo, uma vez que a biblioteca deve continuar a atender os usuários durante o
+
+processo.
+
+Ou seja, não poderia parar de rodar o sistema antigo para poder desenvolver o novo, ou seja, livros
+
+que estavam alugados.
+
+Toda essa parte Em relação a estoque, por exemplo, há controle de entrada e saída de livros, tanto
+
+de aluguel quanto de vendas.
+
+Era um processo em que existia a necessidade de mapeamento, porém não poderia ter interrupções.
+
+Então o desafio era esse criar algo separado, sem interromper o que já está rodando.
+
+Solução foi o quê?
+
+Implementar a modernização de forma incrementado.
+
+Foi uma abordagem ágil e significa que dividir o projeto em fases e introduzir as melhorias gradualmente
+
+foi o que foi decidido.
+
+Além disso, planejar cuidadosamente os momentos de menor atividade como fora do horário de pico para
+
+realizar mudanças críticas, minimizando o impacto.
+
+Então, aqui foi necessário ter uma avaliação de como a gente minimizaria as interrupções no sistema
+
+atual.
+
+Então, nunca fazer nada que fosse necessário em horários de pico.
+
+Os horários de maiores movimentos, necessidades de implantação, incrementação, integração fora de
+
+horário de pico, muitas vezes até fora do horário do funcionamento, às vezes até em atuação no final
+
+de semana.
+
+Se a casa.
+
+Essa biblioteca não funciona em final de semana, para que minimizar interrupções então?
+
+Para que o sistema em que está atuando no momento fique no ar o máximo de tempo possível?
+
+Capture o máximo de informações possíveis.
+
+Beleza.
+
+Terceiro, a documentação precisa.
+
+Qual era o desafio?
+
+A documentação precisa.
+
+Precisa de requisitos e é frequentemente subestimada, mas é fundamental para garantir que todas as
+
+partes envolvidas tenham uma visão clara do que está sendo desenvolvido.
+
+Ou seja, fazer uma documentação que contenha todas as necessidades, todo o mapeamento era uma dificuldade.
+
+Solução Utilizar ferramentas de documentação adequadas, como diagramas de fluxos de processos, diagramas
+
+de caso de uso e documentação textual foi essencial, Tanto que na aula anterior passei uma documentação
+
+para vocês analisarem.
+
+Bom garantir que todas as informações estejam disponíveis e sejam atualizadas à medida em que o projeto
+
+avança é fundamental.
+
+Ou seja, o problema do versionamento das documentações.
+
+Muitas pessoas têm dificuldade de manter as documentações atualizadas, então isso também acaba sendo
+
+um desafio.
+
+E aí entra como solução tentar deixar tudo o mais mencionado possível.
+
+Quatro Migração de dados Sensível Qual que era o desafio?
+
+Migrar os dados de um sistema antigo para um novo, sem perder informações valiosas.
+
+É um desafio técnico e operacional.
+
+Qual foi a solução?
+
+Planejamento minucioso e validação rigorosa dos dados durante a migração foram essenciais.
+
+Inclui a limpeza, transformação e validação dos dados legados para garantir que estejam consistentes
+
+e precisos no novo sistema, ou seja, dados que não estão sendo mais usados serem deletados e exclusos.
+
+Limpar dados para que os dados atuais que são usados no momento sejam considerados dentro do novo sistema.
+
+Então teve toda esta análise e mapeamento em cima.
+
+Qual foi a dificuldade e desafio aqui?
+
+Migrar os dados após a limpeza?
+
+Beleza.
+
+E aí?
+
+As melhores práticas e soluções que foram seguidas durante todo o percurso do projeto num contexto geral.
+
+Você, como analista de requisitos, deve saber em detalhes.
+
+Então olha só para enfeitar.
+
+Para enfrentar todos os desafios foram mencionados anteriormente.
+
+É importante adotar as melhores práticas e soluções adequadas, ou seja, envolvimento dos stakeholders.
+
+Manter uma comunicação constante com os bibliotecários, usuários e administradores é crucial.
+
+Isso garante que todas as necessidades e preocupações sejam consideradas ao mapear os requisitos segundo
+
+a abordagem incremental.
+
+Dividir o projeto em fases e priorizar as melhorias críticas permite uma modernização contínua, sem
+
+interromper o funcionamento da biblioteca.
+
+Então, aqui nós estamos falando de uma abordagem incremental.
+
+Muitas vezes aqui a gente entra no contexto de modelagem, trabalhar de forma ágil, usar Scrum, metodologia
+
+ágil.
+
+Beleza.
+
+Aonde nós temos backlog e dentro do backlog nós temos ali o que é crítico e o que não é, o que tem
+
+que ser feito agora, o que pode ser esperado.
+
+Então isso daqui é muito necessário saber pessoal.
+
+Terceiro, documentação detalhada usar ferramentas de documentação apropriadas e manter um registro
+
+atualizado dos requisitos ajuda a garantir uma compreensão clara do escopo do projeto.
+
+Não só versionamento, mas desenhos ilustrativos também ajuda bastante e isso também mostra se houver
+
+alterações, mudanças de escopo, você vai ter também toda uma trilha que você vai acabar seguindo.
+
+Tá bom?
+
+Quarto Testes e validação constantes Realizar testes frequentes para verificar se os requisitos estão
+
+sendo atendidos e garantir que os dados migrados sejam precisos e completos.
+
+Que nós estamos falando de testes de validação após ou à medida em que o desenvolvimento vai acontecendo?
+
+Para o quê?
+
+Para fazer um Dê para se o que está indo para o ar está batendo ou se está de acordo, está aderente
+
+com o que foi mapeado, com o que é considerado como os requisitos Beleza.
+
+Quinto Treinamento e capacitação Preparar os bibliotecários e usuários para o novo sistema, oferecendo
+
+treinamento e suporte adequados é essencial para uma transição suave.
+
+Ou seja, pessoas capacitadas que tenham entendimento, entende as regras e entende as funcionalidades.
+
+Tirar um tempo e fazer o que?
+
+Um treinamento com quem vai fazer a utilização do sistema?
+
+Quem vai ser o usuário para que tenha uma migração, uma passagem de sistema de uma forma leve, mais
+
+tranquila, com um entendimento maior.
+
+Aqui entra muitas vezes como um analista de requisitos por saber o que as regras de negócio por trás
+
+do projeto, por saber o que que é crítico, por entender as funcionalidades.
+
+Então, muitas vezes o próprio analista de requisitos é quem é o responsável por aplicar os treinamentos.
+
+Isso é variável de empresa para empresa, mas em algumas ocasiões acontece ele em particular.
+
+Já fiz muitos testes, como um papel de analista de requisitos.
+
+Pode ser que tenha um que juntamente a você é um analista de qualidade, um analista de teste, mas
+
+muitas vezes é você mesmo que vai acabar fazendo o teste.
+
+O monitoramento pós implantação após a modernização, monitorar continuamente o sistema e coletar feedback
+
+dos usuários ajuda a identificar problemas e fazer ajustes se necessário.
+
+Fazer encontros de bugs, entender qual é o desempenho da ferramenta, se ela está travando ou não,
+
+se precisa incrementar algo, se está faltando funcionalidade, então tudo isso é um acompanhamento
+
+pós go live que nós chamamos.
+
+Existem acompanhamentos que duram meses, existem acompanhamentos que duram apenas um mês, outros são
+
+quinzenal, outros duram apenas uma semana.
+
+Isso é bem variável, de acordo com o projeto, Criticidade, Empresa, cultura e por aí vai.
+
+Beleza, Mas num contexto geral, tudo isso daqui você precisa entender.
+
+Claro que não é necessário saber, não é necessário decorar, mas precisa entender a necessidade de
+
+como fazer a retirada de determinados problemas, de como superar determinados desafios, de como limpar
+
+determinados impeditivos.
+
+Beleza, Vou tentar trazer para vocês outros exemplos e eu me despeço por aqui.
+
+Fica com Deus e até breve.
