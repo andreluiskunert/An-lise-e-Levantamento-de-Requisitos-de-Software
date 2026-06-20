@@ -1,0 +1,603 @@
+Olá aluna ao alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento
+
+de Requisitos de Software.
+
+A partir desta aula nós vamos entrar num novo módulo que é o módulo de Técnicas Avançadas Análise de
+
+Requisitos.
+
+Acredito que é um dos módulos mais importantes até aqui, se não o módulo mais importante, o módulo
+
+que nós veremos muitas coisas na prática.
+
+Só que antes de nós adentrarmos em detalhes e ver o que vamos estudar, vamos precisar passar por um
+
+conceito no qual a área do TI, pelo menos na maioria das áreas, levando em consideração análise de
+
+requisitos, desenvolvimento.
+
+O área de design olha bastante que é a orientação a objetos ou Oh.
+
+Então, se você já fez uma graduação somente análie Desenvolvimento de sistemas.
+
+Você já ouviu falar de programação orientada a objetos que é a p?
+
+O, Mas em questão existe a orientação de objetos num contexto geral e a parte da área de análise de
+
+requisitos utiliza bastante o conceito orientado a objetos.
+
+Então eu decidi passar isso daqui pra vocês, mesmo que de uma forma superficial, porque se for adentrar
+
+em detalhes sobre orientação a objetos, vai dar um curso separado sobre isso, então assim não convém
+
+e nem me cabe passar em detalhes para vocês e infelizmente não há tempo para isso.
+
+Mas futuramente eu pretendo fazer um curso só sobre a orientação a Objetos para trazer de uma abordagem
+
+mais detalhada, mais robustas e, claro, mais aprofundada.
+
+Tá bom, mas o que eu preciso que vocês entendam antes de nós entrarmos na parte prática é justamente
+
+sobre o que é orientação objetos, por que ela é dita dentro da área de TI, é claro.
+
+Por que a análise de requisitos utiliza esse conceito e esse tipo de técnica.
+
+Tá bom?
+
+Bom, vamos lá.
+
+A orientação a objetos, como eu mencionei, a OH é um paradigma de programação fundamental.
+
+É uma abordagem de design de software que revolucionou a forma como os desenvolvedores de sistemas de
+
+software constrói, os sistemas programam e por aí vai.
+
+Ela se baseia no conceito de objetos como entidades fundamentais para representar dados e funcionalidades
+
+de um programa.
+
+Então, aqui neste trecho a gente já consegue entender por que a análise de Requisitos utiliza esse
+
+conceito.
+
+Bom, o que que é análise de requisitos?
+
+Trabalha, Trabalha com funcionalidades?
+
+Nós viemos falando desde o início do curso sobre funcionalidades opcionais, funcionalidades essenciais,
+
+funcionalidades de usabilidade, funcionalidades de desempenho, funcionalidades de segurança.
+
+Então, aqui o conceito.
+
+Ele se baseia em representar dados ou funcionalidades de um programa.
+
+Então, por isso que o Analista de requisitos ele precisa saber sobre isso daqui.
+
+Claro que não entender a fundo, mas ele precisa entender o mínimo superficial para que ele consiga
+
+construir ou utilizar técnicas que sejam orientadas a objetos.
+
+Tá bom, então nós vamos entender aqui que o analista de requisitos ele utiliza o conceito de orientação
+
+a objetos justamente para representar dados, representar funcionalidades de um programa, de um sistema,
+
+de um serviço legal.
+
+Bom, o que são objetos na orientação de objetos?
+
+Então nós precisamos entender isso.
+
+Tá, a gente sabe que a Orientação a Objetos é uma técnica para representar dados ou funcionalidades.
+
+Mas o que que é considerado o objeto dentro dessa técnica?
+
+Vamos lá.
+
+Em orientação objetos.
+
+Um objeto é uma instância de uma classe.
+
+E viche!
+
+Nossa, minha nossa, que é uma instância!
+
+E o que é uma classe?
+
+Vamos lá, Vamos por partes.
+
+Uma classe é um plano ou modelo que descreve a estrutura e o comportamento dos objetos que serão criados
+
+a partir dela.
+
+Caraca, La Villa mais complicou ainda mais!
+
+Como assim?
+
+Vamos lá!
+
+Para entender melhor, considere uma classe chamada carro.
+
+Então imagina que carro é uma classe e que cada carro específico como Ford Mustang, um Toyota km é
+
+uma estância, ou seja, um objeto dessa classe carro.
+
+Então vamos entender aqui no conceito voltado a informática.
+
+Tá bom, vamos imaginar que sistema é uma classe e que CRM e RP, WMS, TMS eles sejam as instâncias
+
+da classe.
+
+Tá bom, então nós colocamos esse conceito aqui para um melhor entendimento.
+
+Então, cada objeto carro possui características ou atributos como cor, modelo, ano, bem como funcionalidades
+
+que são chamados aqui de métodos como ligar motor, acelerar, frear, virar volante, ligar farol e
+
+assim sucessivamente.
+
+Beleza, Então você tem que entender esse contexto e encaixar esse exemplo e usar pelo lado do TI.
+
+Vou colocar isso daqui como exemplo novamente do sistema.
+
+A classe aqui.
+
+Imagine que, ao invés de cal fosse sistema.
+
+Beleza.
+
+O que pode ser considerado o sistema no caso do carro, seria que os modelos Ford, Mustang, Toyota,
+
+Volkswagen e por aí vai.
+
+No caso do sistema, seriam os tipos de sistema que nós temos disponível, por exemplo, um tipo de
+
+sistema CRM.
+
+Eu tenho o tipo de sistema MRP.
+
+Eu tenho um tipo de sistema TMS.
+
+Eu tenho um tipo de sistema WMS.
+
+Eu tenho o tipo de sistema de 1001 tipos na verdade, então esses sistemas eles seriam considerados
+
+uma instância ou um objeto da minha classe Sistema.
+
+Beleza?
+
+E aí, quais seriam as características que o meu sistema possui ou que o meu sistema possuiria?
+
+As características seriam aqui tipos de botões, logins e senha.
+
+Funcionalidades.
+
+Teria a opção de cadastrar, de editar, cadastro, de excluir cadastro, de criar relatório de personalizar
+
+Relatório de gerar gráfico a partir dos dados.
+
+De filtrar informações por data Por nome por sobrenome.
+
+De classificar as informações em ordem crescente ou decrescente ou em ordem de mais antigo por mais
+
+recente.
+
+Então a gente entende que o conceito voltado a orientação a objetos é justamente para trazer e para
+
+diferenciar isso.
+
+Beleza, Espero que vocês tenham entendido até aqui.
+
+Vamos dar continuidade.
+
+Bom, e aí, quais são os princípios fundamentais da orientação de objetos?
+
+Então, a orientação de objetos, a técnica voltada a orientação de objetos, existe alguns princípios.
+
+Tá bom.
+
+E esses princípios aqui a gente não precisa decorar, mas a gente precisa entender para a gente, no
+
+dia a dia, fazer as tarefas da melhor maneira possível.
+
+Então vamos entender que assim os princípios, eles são divididos em alguns tópicos.
+
+Cada tópico aqui tem a sua função ou o seu dever.
+
+Beleza.
+
+Então, o nosso primeiro é o encapsulamento.
+
+O encapsulamento é o conceito de ocultar os detalhes internos de um objeto e fornecer uma interface
+
+pública para interagir com ele.
+
+Isso permite que os objetos protejam seus dados e forneçam uma maneira controlada de acessar e modificar
+
+esses dados.
+
+Vamos lá.
+
+O que seria um encapsulamento aqui?
+
+Pessoal, vamos de novo.
+
+É um conceito de ocultar detalhes internos de um objeto e fornecer uma interface pública para interagir
+
+com ele.
+
+Isso permite que os objetos protejam seus dados e forneçam de maneira controlada o acesso e modificação
+
+dos dados.
+
+Eu vou colocar aqui o banco de dados que tem os cadastros de funcionários de uma empresa.
+
+O encapsulamento aqui é o que é o conceito para ocultar o objeto e fazer com que nós possamos mexer
+
+e interagir com as informações desses cadastros sem ter as mudanças ou as modificações dentro desses
+
+dados específicos.
+
+Então vou dar o exemplo aqui.
+
+Uma grid que me fornece informações cadastrais desses meus funcionários tem um encapsulamento porque
+
+permite visualizar as informações muitas vezes, dependendo do meu tipo de usuário.
+
+Vai permitir eu editar, excluir, criar, cadastrar novos funcionários.
+
+Porém ele vai proteger os meus dados e fornecer uma maneira controlada de acessar e modificar sem que
+
+eu mexa no restante.
+
+Bom, o nosso segundo tópico aqui chama se abstração.
+
+A abstração é a simplificação de objetos complexos, destacando apenas os aspectos relevantes para a
+
+interação.
+
+Isso permite que os programadores se concentrem nas informações importantes e ignorem detalhes desnecessários.
+
+Então, aqui, quando eu uso a técnica de abstração e estou dizendo que eu quero destacar pontos importantes,
+
+requisitos ou funcionalidades que são necessárias, que são obrigatórias, que são essenciais e eu estou
+
+tirando a atenção daquilo que não importa, do que não é tão importante, do que não é tão crítico,
+
+do que não é Premissa para que os desenvolvedores, os programadores, quem vai criar, quem vai codificar,
+
+se concentre apenas nas informações relevantes e ignorem todo o restante.
+
+Beleza.
+
+Então, quando nós fazemos isso, isso é chamado de abstração.
+
+O nosso terceiro chama se herança.
+
+A herança permite que uma classe herde atributos e métodos de outra classe.
+
+Vamos lá.
+
+Quem é a classe?
+
+A classe.
+
+Ela pode ser uma subclasse ou uma classe derivada e a outra classe.
+
+Ela pode ser uma superclasse ou uma classe pai.
+
+Geralmente a gente chama se.
+
+Isso promove a reutilização de código e a criação de hierarquias de classes.
+
+Quando eu falo de herança pessoal aqui, eu estou olhando para um lado de construção, um lado de codificação.
+
+Só que não está voltado somente para análise de requisitos.
+
+Tá bom?
+
+Como eu falei no início desta aula, estou dizendo que orientação a objetos ela é trazida para várias
+
+áreas dentro da tecnologia, Inclusive a área que mais utiliza orientação a objetos é a área de desenvolvimento.
+
+Tá bom.
+
+Então, quando ele está falando aqui sobre reutilização de código, herança e reaproveitamento, ele
+
+está falando ao lado do desenvolvedor, tá?
+
+Então imagina assim que o desenvolvedor ele criou um botão de filtro para fazer filtragem das informações
+
+dos funcionários, trazendo mais uma vez o quadro de funcionários aqui.
+
+Beleza?
+
+Então, dentro desse filtro ele programou, ele codificou, ele fez todo o trâmite necessário para que
+
+o filtro ele realizasse.
+
+Filtro por nome, por sobrenome.
+
+Filtro por busca, né?
+
+De CPF e RG por código do funcionário, Por data de nascimento, por endereço, por região, por cidade,
+
+por CEP, por estado e por aí vai.
+
+Beleza.
+
+Aí imagina que talvez ele precise.
+
+Criar um outro filtro, só que ele precise criar um filtro para produtos ou para estoque da empresa.
+
+Então ele precisa fazer ali o controle de entrada e saída, controle de quantidade, controle pelo produto,
+
+pela data de validade, pelo valor e por aí vai.
+
+A herança pode ser trazida nesse contexto.
+
+Por quê?
+
+Porque parte do código do filtro que ele fez anteriormente e pode reaproveitar e mudar pequenas informações
+
+ou fazer pequenos ajustes para que ele consiga fazer um segundo filtro para uma outra ocasião.
+
+Ou seja, isso é um reaproveitamento do código se é trazido como uma herança, estou colocando assim
+
+de um modo superficial, bem genérico.
+
+Claro que envolve mais detalhes, não é bem por aí, mas para vocês terem o entendimento de como funciona
+
+legal.
+
+O nosso quarto é o polimorfismo.
+
+Polimorfismo permite que objetos de classes diferentes sejam tratados de maneira uniforme, desde que
+
+compartilhem uma interface comum.
+
+Isso facilita a criação de código flexível e extensível.
+
+Então, quando eu falo de polimorfismo, eu estou falando de diferentes dados, diferentes objetos,
+
+tá, diferentes informações e elas são tratadas de maneira uniforme, desde que compartilhe uma única
+
+interface.
+
+Então, quando eu falo de polimorfismo, por exemplo, quando eu quero juntar informações que mesmo
+
+são diferentes ou estejam em bancos diferentes, mas que estejam dentro do mesmo sistema, dentro da
+
+mesma interface, por exemplo.
+
+E aqui nós temos um conceito de como a orientação a objetos ela geralmente é aplicada.
+
+Bom, então aqui novamente estou colocando para o lado voltada a desenvolvimento, mas você precisa
+
+ter o entendimento de algumas coisas.
+
+Olha só.
+
+A orientação a objetos é amplamente aplicada no desenvolvimento de software e em várias linguagens de
+
+programação, incluindo Java, C++, Python, C, Sharp, Java, Script, PHP, Angular View e React
+
+e por aí vai.
+
+Beleza.
+
+E aí?
+
+Aqui nós temos algumas maneiras pelas quais elas são usadas.
+
+Então, onde e por que ela é usada?
+
+Ela é usada primeiramente no desenvolvimento de software.
+
+Então as pessoas que programam utiliza programação orientada a objetos.
+
+Então existe o conceito orientação a objetos.
+
+A orientação a objetos é usada para modelar e organizar o software e objetos reais e as suas interações.
+
+Isso ajuda a criar sistemas mais compreensíveis, manuais, terríveis e escaláveis.
+
+Beleza.
+
+Segundo é usado também no design de interfaces gráficas.
+
+Opa, estamos chegando em algum lugar.
+
+Quem está fazendo?
+
+Geralmente design de interface ou quem em alguma ocasião vai fazer algum mapeamento, algum desenho
+
+do software, algum esboço?
+
+O analista de requisitos.
+
+A interface gráfica que a gente pode até colocar como user experience, o tal do XSI, mas para um outro
+
+contexto a gente pode enquadrar aqui o analista de requisitos, olha só.
+
+Em interface gráfica de usuário, o gay, que é abreviação de Graphic Users Interface é a abreviação
+
+em inglês e os objetos representam elementos da interface como botões, caixas de texto e janelas.
+
+Ou seja, de uma forma mais simplificada para você ter uma absorção melhor aqui.
+
+O que que é o objeto dentro da orientação de objetos?
+
+O que é um objeto dentro do sistema?
+
+É tudo aquilo que interagem com o usuário.
+
+Então, aqui, o que pode ser considerado como um objeto pode ser considerado um botão, uma caixa de
+
+texto, uma caixa de entrada de dados?
+
+O objeto Ele pode ser um filtro, um objeto.
+
+Ele pode ser uma grid, um objeto.
+
+Ele pode ser tudo aquilo que tem interação com o usuário, tudo o que o usuário clica, tudo que o usuário
+
+escreve, tudo o que o usuário utiliza.
+
+Beleza.
+
+Isso torna a criação de interfaces intuitivas e interativas mais fácil.
+
+Beleza Então, por isso que a área voltada a gráfica, a criação de telas utiliza orientação a objetos.
+
+Terceiro caso objetos.
+
+Ele é usado em banco de dados.
+
+Lembra que lá no início da aula nós falamos que orientação a objetos é tratado para ilustrar dados e
+
+funcionalidades.
+
+Ao lado do analista de Requisitos e Funcionalidades.
+
+Porém, existe dados.
+
+Quem trabalha com dados?
+
+Um arquiteto de banco de dados?
+
+O engenheiro de dados?
+
+O engenheiro de software?
+
+O arquiteto de software, A pessoa que vai fazer a arquitetura de onde os dados serão armazenados.
+
+Tá bom?
+
+Então olha só.
+
+No terceiro caso é usado em banco de dados.
+
+Muitos sistemas de gerenciamento de banco de dados usam princípios de orientação, objetos para representar
+
+os dados e as relações, facilitando a organização e a recuperação das informações.
+
+Então, não só para representar os dados, mas as relações que têm entre eles.
+
+Então, por exemplo, posso colocar aqui relações.
+
+Qual a relação que o meu funcionário tem com um endereço?
+
+Qual é a relação que o meu funcionário tem com a área?
+
+Qual a relação que o meu funcionário tem com o cargo X?
+
+Peter então entra nesse contexto aqui.
+
+Bom, e aí nós temos o nosso quarto, que é simulações e jogos.
+
+A orientação a objetos é usada para modelar personagens, objetos e ambientes em jogos e simulações,
+
+permitindo interações complexas.
+
+Aqui a gente está vendo que o lado da orientação objetos para simulações e jogos, para o desenvolvimento,
+
+para a criação de jogos, por exemplo.
+
+Então, dentro dos jogos, o que pode ser considerado como os objetos, os ambientes, os personagens,
+
+os itens, então tudo aquilo são considerado como objetos.
+
+Então, a técnica também é bastante utilizada e muito é utilizada muito também em desenvolvimento web.
+
+Talvez aqui é onde vocês mais peguem e se assimile sobre o que pode ser considerado um objeto.
+
+Olha só.
+
+Frameworks de desenvolvimento web como Ruby Raiz e Django, que é o Python, são baseados em orientação
+
+a objetos para facilitar a criação de aplicativos web escaláveis e modulares.
+
+Vamos colocar aqui desenvolvimento web, mas vou colocar aqui também como um desenvolvimento mobile.
+
+Imagina lá o aplicativo do iFood.
+
+Todo mundo aqui eu tenho certeza que tem o iFood instalado que pede pelo iFood em algumas ocasiões,
+
+que são os objetos dentro do aplicativo do iFood.
+
+Bom, são os builders promocionais, são os restaurantes, é o campo de busca que você digita, o que
+
+você quer e o item de carrinho que você consegue clicar ou selecionar a partir do date do seu mobile
+
+e vê os itens que estão no carrinho são os opcionais de ações.
+
+Se você vai querer mais de um item daquele que você selecionou ou se você quer retirar todos os objetos,
+
+podem ser ali os botões que você tem, as escolhas que você possui para pagamento.
+
+Tudo isso é considerado como um objeto.
+
+Então, em conclusão geral, o que nós tiramos de tudo isso daqui?
+
+A Orientação Objetos é uma abordagem poderosa para o desenvolvimento de software que promove a modularidade
+
+e a reutilização de código.
+
+A organização eficiente de sistemas complexos é amplamente adotada na indústria de software devido a
+
+sua eficácia na criação de sistemas robustos e flexíveis.
+
+Para programadores, compreender o princípio e o conceito de orientação a objetos é fundamental para
+
+se tornarem desenvolvedores eficazes e versáteis.
+
+Beleza, Então, o conceito geral aqui no qual estou trazendo é que a orientação a objetos é mais usada
+
+no desenvolvimento de software.
+
+Beleza.
+
+Porém, como eu mencionei, outras áreas voltadas a tecnologia utilizam desta técnica para facilitação.
+
+Por que eu estou passando isso?
+
+Por que eu quero que vocês entendam isso?
+
+E a partir das próximas aulas nós vamos iniciar algumas coisas práticas.
+
+Vamos começar a trabalhar com diagramas.
+
+Vamos começar a desenhar e ilustrar.
+
+Então nós, quando formos construir como quando formos levantar requisitos, nós vamos precisar entender
+
+dentro desses requisitos, dentro dessas funcionalidades, dentro desses dados, o que é encarado como
+
+o objeto que nós vamos desenhar, o que nós vamos transcrever para passar para os próximos responsáveis,
+
+para a criação daquele produto, daquele serviço, daquele sistema que aí são os desenvolvedores.
+
+Então, nós, como analista de requisitos, nós precisamos saber por quê.
+
+Porque são termos e conceitos técnicos e esses termos e esses conceitos técnicos.
+
+Os desenvolvedores utilizam, os desenvolvedores gostam, os desenvolvedores precisam.
+
+Então nós somos responsáveis por mapear, levantar, descrever, transcrever, desenhar.
+
+Precisamos entender para passar adiante da melhor maneira possível, com mais detalhes possível e assim
+
+sucessivamente.
+
+Espero que vocês tenham entendido e principalmente, que vocês tenham gostado.
+
+Que vocês consigam absorver isso daqui.
+
+Sei que é um pouquinho chato, um pouquinho complexo, mas à medida em que vocês fizerem leitura, a
+
+releitura, tiverem exemplos, vocês vão conseguir assimilar melhor.
+
+Por enquanto me despeço por aqui.
+
+Fica com Deus e até breve.
