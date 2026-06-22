@@ -1,0 +1,733 @@
+Olá aluna, ao aluno, sejam muito bem vindos a mais uma aula
+
+do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Aula anterior nós falamos um pouco sobre o conceito de orientação objetos num contexto geral, não apenas
+
+voltada a requisitos, mas como que é visto, como que é praticado, como que é utilizado e
+
+o contexto geral na área do TI, principalmente voltado ao lado do desenvolvimento ao lado de programação.
+
+Mas agora nós falaremos um pouco mais a fundo sobre isso,
+
+porém trazendo o lado do analista para análise de requisitos.
+
+Então, a partir daqui, nós realmente começaremos a ver as técnicas de análise de
+
+requisitos que são orientadas a objetos, como que elas são utilizadas, como que
+
+elas são aplicadas e o por que elas são importantes no nosso cotidiano.
+
+Tá bom.
+
+Bom, nós vimos que a análise de requisitos orientada a objetos é uma abordagem fundamental no desenvolvimento de
+
+softwares, que se concentra na modelagem de sistemas de software com base em objetos e suas interações.
+
+Na aula anterior nós vimos o que são os objetos, quais são as
+
+interações que podem ser feitas entre eles, interações entre objetos e usuários.
+
+E Essa abordagem é amplamente utilizada em projetos de software
+
+modernos, como sistemas empresariais, aplicativos web e aplicativos móveis.
+
+Assim como eu também exemplifiquei na aula
+
+anterior para vocês, Tá bom? Bom.
+
+Para realizar uma análise de requisitos orientada a objetos eficaz, diversas técnicas podem ser aplicadas.
+
+Então, nesta aula nós veremos as técnicas que nós podemos
+
+utilizar para poder fazer uma aplicação voltada a orientação objetos.
+
+Tá bom? A primeira delas que nós veremos, inclusive
+
+nós teremos aulas para praticar, para fazer, para construir
+
+do zero, é o diagrama de caso de uso.
+
+Ele usa então um diagrama de caso de uso.
+
+Ele é um dos exemplos ou um dos models ou uma das técnicas que é aplicado.
+
+Orientação a objetos e os analistas de requisitos utilizam legal.
+
+Ou os diagramas de caso de uso são uma técnica importante para
+
+capturar as interações entre os atores e o sistema de software.
+
+Ele usa quem são os atores? São os usuários e
+
+sistemas internos que interagem ou que utilizam o que consomem.
+
+Informações de um sistema de software.
+
+Eles ajudam a identificar os principais cenários de uso do sistema, representando as funcionalidades
+
+oferecidas a partir das perspectivas dos usuários e exigir a gravação úteis para definir
+
+os limites do sistema e para estabelecer as funcionalidades que devem ser desenvolvidas.
+
+Bacana.
+
+Bom, não sei se vocês já tiveram a possibilidade de visualizar um diagrama de caso
+
+de uso, se vocês já construíram, se não construíram, não visualizaram, não tem problema.
+
+Este curso aqui a gente vai trazer tudo isso.
+
+Inclusive eu trouxe aqui um exemplo.
+
+Tirei da internet mesmo.
+
+Não fui eu quem construí.
+
+Mas para vocês entenderem como que um diagrama de caso ele é construído, tá
+
+bom, então nós temos aqui uns bonequinhos feito por palitos, como vocês podem observar.
+
+E esses bonequinhos aqui, eles são considerados os atores.
+
+Então, se voltarmos aqui ao texto anterior, usuários
+
+e sistemas externos são considerados como os atores.
+
+E aí esses bonequinhos aqui eles são considerados os atores.
+
+Tá bom.
+
+Então os nossos atores, como nós lemos anteriormente, eles são os responsáveis ou as pessoas que
+
+interagem com o sistema, com a ferramenta, com um serviço no qual nós estamos construindo beleza.
+
+Então, tudo o que está dentro desse quadrado no centro é
+
+considerado como uma usabilidade, uma funcionalidade, uma requisição sistêmica bacana.
+
+Então nós temos aqui o seguinte e algumas ações.
+
+Então esse diagrama, ele é literalmente para representar ações em que
+
+os atores que são os usuários fazem dentro do sistema.
+
+Então, o exemplo aqui é o nosso cliente.
+
+Ele faz o quê? Quais são as
+
+ações de um cliente? De um cliente
+
+anfitrião? No caso, ele paga o depósito,
+
+Ele registra a satisfação e ele analisa
+
+o primeiro esboço do livro de visitas.
+
+Isso daqui é um exemplo de ação de um cliente, de um evento, de um anfitrião.
+
+E ele também personaliza o aplicativo do evento, ou seja, esse tipo de usuário, neste exemplo.
+
+Neste contexto, seria uma espécie de administrativo o cara que pode ou o cara que faz tudo bacana.
+
+Bom, nós temos um outro, que seria o que o personalizado do aplicativo do evento.
+
+Qual é a única ação que
+
+ele tem dentro do sistema? Personalizar
+
+o aplicativo do evento? Beleza.
+
+O design do livro de visitas.
+
+Ele tem aqui duas ações dentro do sistema o usuário.
+
+Ele faz o que faz, o design do livro de visitas e também as edições finais.
+
+Beleza, então, esse ator aqui ele tem essas duas
+
+ações o licenciado, o licenciado, quais ações eles
+
+possuem dentro do sistema? Estou colocando um exemplo.
+
+O plural está bom porque pode ter mais de um ator com o mesmo particionamento ou com a mesma função.
+
+Beleza.
+
+Mas o licenciado, no caso, ele fornece o evento, ele registra satisfação e ele encerra o evento.
+
+O que é considerado o evento
+
+aqui? Bom, depende do sistema.
+
+Esse exemplo que eu peguei no caso, ele não tem nenhuma exemplificação do
+
+que o sistema poderia ser, a não ser pelo que está escrito.
+
+Mas aqui ele só fala que é um exemplo do diagrama de uso.
+
+Beleza, Mas eu poderia levar isso aqui pra vários conceitos,
+
+dependendo da funcionalidade ou do propósito do meu sistema.
+
+Dando continuidade, olha só relações com o cliente PT.
+
+O que ele faz aqui? Ele pode criar um
+
+hub, Ele pode voltar a falar com o cliente.
+
+E por fim, nós temos o diretor PT de personalização pós evento que ele
+
+coordena a criação dos livros de visita, edições finais e envia para impressão.
+
+Tá bom, então aqui eu estou falando de
+
+ações, tá? Poderia ser algum desses usuários aqui?
+
+Sistemas integrados a esse sistema do centro que
+
+fizesse requisições, ações, enviasse ou buscasse dados daqui.
+
+Mas eu estou colocando num contexto que cada um desses atores aqui eles fossem pessoas,
+
+fossem usuários interagindo com o sistema e cada tipo de usuário e cada tipo de
+
+usuário com determinado tipo de permissão cionamento com um determinado tipo de dever ou tarefa.
+
+Bacana, então isso daqui.
+
+Você como um analista de requisitos, é o responsável por criar.
+
+E aí, o que é
+
+interessante ressaltar? Olha só.
+
+Não é toda empresa, não é toda a equipe e não é todo projeto que exige.
+
+Eu já trabalhei em locais bem certinhos que.
+
+Exigiam tipos de diagramas específicos de acordo com ocasiões e necessidades específicas.
+
+Não um diagrama de caso de uso Diagrama de classe, diagrama
+
+de sequência, diagrama de estado de máquina e por aí vai.
+
+Mas eu já trabalhei em lugares que tudo é representado como fluxograma.
+
+Então você pode e consegue fazer de várias formas.
+
+Só que aí varia de hábito cultural, de equipe, de exigência, do seu nível de conhecimento também.
+
+Beleza.
+
+Mas aqui eu estou trazendo para vocês, só pra um entendimento mesmo.
+
+Nós teremos aulas particulares para cada diagrama, para fazermos construções.
+
+O segundo tipo que nós podemos usar para orientação, objetos e modelagem de classes.
+
+A modelagem de classe é uma técnica central na análise orientada a objetos.
+
+Ela envolve a identificação das principais classes de objetos que compõem
+
+o sistema e a identificação dos seus atributos e métodos.
+
+Lembram a aula anterior sobre o que eu falei?
+
+Objetos, atributos, métodos, características, funcionalidades e por aí vai.
+
+Os diagramas de classe são frequentemente usados para representar essas informações de forma visual.
+
+Lembra que eu falei em muitas aulas no nosso curso?
+
+Tudo o que é textual nós transformaremos em visual.
+
+Fica mais fácil entendimento até para as pessoas que não têm conhecimento técnico.
+
+Por isso que o Excel disponibiliza.
+
+Uma modelagem dos dados em Excel para gráfico, por exemplo,
+
+que você olhando um gráfico, você consegue basear as informações.
+
+Diferente do que você olhar numa planilha cheia de informações, cheia de colunas, cheia
+
+de linhas e tentar assimilar da mesma maneira as nossas modelagens, Aqui tá bom.
+
+A modelagem de classes ajuda a organizar e a estruturar o sistema,
+
+fornecendo uma visão clara de como os objetos se relacionam e interagem.
+
+Então olha só o motivo do porque a modelagem de classe é feita.
+
+Para quem não viu, isso aqui é uma modelagem de classe.
+
+Tá bom, isto aqui é muito levado em consideração quando
+
+nós estamos construindo o banco de dados dos nossos sistemas.
+
+Tá bom? E aí nós precisamos identificar aqui quais
+
+serão as tabelas, quais serão os campos, o que
+
+vai ser gravado, o que vai ter relação.
+
+E aí entra o conceito de chave primária, chave estrangeira.
+
+Não adentro aqui no momento, porque não é um curso,
+
+é peculiar para isso, mas para vocês terem um entendimento.
+
+Então aqui nós conseguimos fazer todo o controle em banco de uma forma ilustrativa ou das funcionalidades.
+
+Então aqui eu tenho um evento chamado Agenda.
+
+O que que vai ter na minha agenda? Eu
+
+vou precisar abrir a agenda, registrar a agenda, registrar
+
+a agenda por dias, registrar a agenda por semanas.
+
+Eu vou precisar de horários, aí eu vou ter
+
+aqui, obter horários disponíveis e alterar disponibilidade de horários.
+
+Eu poderia ter uma opção de obter horários já marcados já agendados, por exemplo.
+
+E aí eu tenho uma relação, como o próprio
+
+texto menciona, por que o meu horário ele é
+
+amarrado aos meus dias de agendamento? Tá bom.
+
+Da mesma forma a consulta.
+
+Então vamos lá, Vamos partir do início para vocês entenderem.
+
+Eu tenho um paciente e aí o meu paciente, ele realiza a consulta.
+
+Mas essa consulta para ser realizada, ela precisa ser agendada.
+
+Só que para haver o agendamento é necessário a verificação de horário disponível.
+
+Olha só que interessante isso daqui.
+
+Então, para cada um eu tenho as funcionalidades ou os deveres
+
+que deve haver ali para que o sistema ele funcione.
+
+Então aqui para o paciente deve haver a verificação de pacientes cadastrados.
+
+Caso eu queira pesquisar se o paciente já existe na base
+
+ou não, Se ele não existe, eu devo conseguir adicioná lo.
+
+Eu consigo obter aqui as consultas que ele já teve, criar consultas,
+
+localização que é o filtro de busca e assim por diante.
+
+Beleza? Beleza, Supondo que eu já tenho um paciente
+
+cadastrado e ele está fazendo ali uma consulta.
+
+Bom, essa consulta que ela pode ser para saber se já
+
+existe uma consulta agendada ou se já tem uma consulta marcada.
+
+Perdão, eu acabei clicando aqui com o mouse.
+
+Ah, bom, então aqui eu consigo entender o que o meu paciente ele
+
+faz um agendamento de consulta a partir de um horário disponível, de uma
+
+data disponível e aí essa consulta é realizada para aquele determinado serviço.
+
+O que seria esse serviço? Se eu colocar aqui em
+
+um quesito hospitalar a minha consulta, ela poderia ser uma
+
+consulta com um clínico, ortopedista, pediatra e assim por diante.
+
+Tá bom, cardiologista e por aí vai.
+
+E aí o meu serviço? Ele pode ser realizado
+
+como um exame ou aqui como limpeza e restauração.
+
+Poderia levar em consideração isso daqui, por exemplo, como um dentista.
+
+Tá bom, então nosso diagrama de classe.
+
+Voltando aqui para vocês terem entendimento, olha só.
+
+Organiza e estrutura o sistema, fornecendo uma visão clara de
+
+como os objetos se relacionam e interagem entre si.
+
+Tá bom, então aqui eu tenho todas as interações e
+
+relações entre eles o meu paciente, até chegar no serviço.
+
+Aqui ele precisa de todas essas outras etapas, todas essas outras etapas.
+
+Elas estão diretamente ou indiretamente ligadas e amarradas.
+
+Tá bom, então esse é um tipo de diagrama que você também precisa fazer
+
+a utilização e normalmente é contextos que existem empresas que fazem usabilidade, outras não.
+
+Maioria das empresas hoje em dia é tudo bagunçado e tudo
+
+por fluxograma dificilmente acontece, mas quando tem é necessário beleza.
+
+Nosso terceiro é o diagrama de sequência.
+
+Os diagramas de sequência são usados para representar a interação
+
+entre os objetos em um determinado cenário de uso.
+
+Eles descrevem como os objetos colaboram para alcançar um objeto específico.
+
+Esses diagramas ajudam a visualizar o fluxo de informações e
+
+o comportamento do sistema em resposta a estímulos externos.
+
+Então, aqui esse tipo de diagrama, que é o de sequência, ele
+
+é para visualização de fluxo de informações e o comportamento do sistema.
+
+Então nós temos aqui a ação entre usuário, requisição, sistema e por aí vai.
+
+Desde o usuário que é a nossa casca, mexe na interface do sistema até as
+
+camadas mais internas, o que acontece por baixo de maneira oculta que nós não vemos.
+
+Muitas vezes não percebemos até chegar onde precisa e ter o retorno das informações novamente.
+
+Ou seja, um exemplo aqui o.
+
+O usuário para acessar o aplicativo precisa fazer o login.
+
+Então, a ação do usuário dentro do sistema é efetuar o login.
+
+O que acontece quando ele faz o login? Ele faz a inserção do
+
+usuário e da senha dele e aí depende do sistema o login.
+
+Ele pode ser feito por email ou por C.
+
+Beleza, Então vamos lá.
+
+Quando ele faz a inserção do usuário e senha na aplicação web que ele quer fazer
+
+o login, existe uma busca no banco de dados para saber se o e-mail no
+
+qual ele digitou é a senha no qual ele digitou e está cadastrada no banco.
+
+Ou seja, se ele possui um cadastro e se
+
+ele possui um cadastro, esse e-mail e essa senha
+
+que ele digitou está correto ou não? Beleza.
+
+Então, para saber se está correto ou não, vai passar por uma autenticação de e-mail e de senha dentro
+
+do banco de dados, Então vai haver uma consulta dentro do banco de dados para saber se existe aquele
+
+e-mail e se existe aquela senha ou se aquele e-mail é existente e aquela senha pertencente àquele e-mail.
+
+Beleza.
+
+E aí na volta vai haver um token de autorização, um token de verificação, um token de
+
+autenticação e aí vai ter aqui o retorno para saber se o usuário e senha são válidos.
+
+Beleza.
+
+Bom, o meu retorno ele vai trazer para o meu usuário aqui por status.
+
+Quais são os status? Se de repente ter uma mensagem de erro,
+
+vai dar como usuário não existente ou usuário e senha errado.
+
+Ou se for mais específico, usuário errado ou sem errada ou se não tiver cadastrado o usuário não cadastrado.
+
+Beleza.
+
+Agora, do contrário, se ele foi lá, verificou que o usuário e senha está correto, autenticou e existe.
+
+Ele vai pular essa etapa de mensagem de erro e vai efetuar o login,
+
+ou seja, vai redirecionar o usuário para a tela inicial da aplicação web.
+
+Beleza, Então, isso aqui é um diagrama de sequência, ou seja, mostra a sequência das
+
+atividades, a sequência das ações desde uma ação do usuário em um objeto num botão
+
+logar a partir de uma inserção de login senha até o que acontece por baixo.
+
+Nós não observamos e não entendemos porque dura milissegundos.
+
+Você clicou lá, já mostra o login senha errado, o login senha correto já redireciona.
+
+Mas tudo isso daqui é para você entender como o sistema funciona, como ele
+
+age, aonde que ele busca as informações, como que é feito a validação, por
+
+que o retorno é feito daquele jeito? Tudo isso é através desse diagrama aqui.
+
+Tá bom? Diagrama de Sequência Você, como
+
+o analista de requisitos novamente vai
+
+precisar saber utilizar esse carinha aqui.
+
+Tá bom? O nosso quarto diagrama, que é bem
+
+utilizado, também é o nosso diagrama de estado.
+
+Diagrama de Estado é útil para modelar o comportamento de
+
+objetos em diferentes estados e as transições entre os estados.
+
+Eles, particularmente, são valiosos quando se lida com um sistema que tem elementos com
+
+estados complexos, com a máquina de estados, dispositivos de hardware e sistemas de controle.
+
+Vou dar um exemplo bem genérico aqui.
+
+O que são estados de um objeto? Olha só, quando
+
+eu, por exemplo, faço um upload de um arquivo para
+
+dentro do sistema, o meu sistema passa por alguns estados.
+
+Um exemplo quando eu subo o arquivo para dentro do sistema,
+
+antes de o meu arquivo subir, ele pode ficar pendente.
+
+Ele pode ficar aguardando a autorização.
+
+Dependendo da requisição do meu sistema ele pode dar erro.
+
+Então isso são estados.
+
+Estado do arquivo pendente Estado do arquivo liberado Estado do up load
+
+concluído Estado do Rio de pendente Estado do opio de erro.
+
+Isso são Estados.
+
+Quais estados os meus objetos
+
+podem passar? Tá bom.
+
+Bom, e aí eu tenho um exemplo de um diagrama de estado sobre a solicitação de um login.
+
+Tá bom? Então aqui quais são
+
+os estados que o login e
+
+ele pode passar? Vamos lá.
+
+Bom, primeiro de tudo, aqui nós temos a entrada e a saída do login e aí existe a validação do usuário.
+
+Então, quando o usuário põe um login e senha, existe a validação do usuário.
+
+Se por um acaso a validação ela falhou, existe a entrada
+
+e a saída do login onde ele pode novamente tentar usuário
+
+e senha, ou caso ele tenha esquecido a senha, ele pode
+
+pedir para fazer o quê? A alteração de senha? Beleza.
+
+Novamente se ele fez a tentativa de login e senha, a validação.
+
+Foi constatada que o login e senha dele é existente, ou seja, a validação deu certo.
+
+Usuário é válido.
+
+Ou seja, ele foi logado para a tela onde caso após
+
+ele seja logado, se ele quiser, ele pode fazer o logoff.
+
+Beleza.
+
+Agora, se ele por um acaso esqueceu a senha, fez a tentativa da
+
+troca de senha e aí a tentativa da troca de senha falhou.
+
+Ele tem a possibilidade de tentar fazer o envio da senha de novo.
+
+Por quê? Porque muitas vezes a gente acha que
+
+sabe a nossa senha e a gente pede pra.
+
+Revalidar ou para alterar.
+
+Muitas vezes a gente esquece, então a tentativa da troca de senha.
+
+Ela pode dar falha também e vai perguntar lá muitas vezes pra você qual é a senha atual com a nova senha.
+
+Aí você vai pro assim atual, achando que está certo.
+
+Só que aí vai falar assim, sem a atual invalida, ou seja, incorreta.
+
+Então entra nesse contexto de falha.
+
+Agora, se você fizer a alteração da senha e der certo, a senha foi alterada com sucesso.
+
+Beleza, não.
+
+Aqui é um estado no qual nós passamos por login e senha.
+
+Então existe a autenticação, existe a validação, existe alteração, existe o login,
+
+existe o logoff, existe a requisição de senha e por aí vai.
+
+Beleza.
+
+E aí, fora todas essas técnicas de diagrama, que são as partes ilustrativas.
+
+Nós temos também como técnicas de orientação ao objeto aquilo
+
+que nós já viemos estudando aulas anteriores praticamente desde o
+
+início do curso, que envolvem o que as felicitações? Beleza.
+
+Então, além das técnicas de modelagem, a análise orientada a objetos
+
+depende das técnicas de elicitação para coletar informações dos stakeholders.
+
+Então, nós já vimos entrevistas, questionários, workshops, observação São algumas técnicas comuns usadas
+
+para entender as necessidades e expectativas dos usuários e as partes interessadas.
+
+Então, por isso que é muito importante você fazer entrevistas, marcar
+
+bate papos, fazer questionários, fazer workshops, brainstormings e por aí vai.
+
+E também temos a prototipagem.
+
+Para quem não lembra, a criação de protótipos é uma técnica valiosa para validar requisitos e conceitos
+
+com usuários finais, protótipos de interface de usuário ou mesmo protótipos de classes e objetos podem
+
+ser usados para verificar se a visão do sistema está alinhada com as expectativas dos stakeholders.
+
+Então o protótipo deve fazer um MVP, um protótipo, uma POC, por exemplo, é de bastante de extrema
+
+importância que seja adequado também ao uso de orientação a objetos e por fim, a validação e verificação,
+
+que aqui é onde nós vamos saber se tudo aquilo que está sendo trabalhado está aderente às expectativas.
+
+A validação e a verificação são partes essenciais dos
+
+processos de análise de requisitos A orientação a objetos.
+
+Por quê? Porque envolve a revisão e a validação dos
+
+modelos de documentação produzidos para garantir que eles atendam aos
+
+requisitos estabelecidos e que não haja ambiguidades ou inconsistências.
+
+Nós trabalhamos bastante nisso daqui.
+
+Então, o que nós precisamos entender aqui é voltado a orientação a objetos.
+
+E esse contexto, o que que é
+
+um objeto? Que é uma classe? Tá
+
+bom? O que são métodos? O que
+
+são atributos? Interessante entender esse conceito, mas
+
+vocês vão entender que, à medida em
+
+que vocês entendem essas palavras, vocês podem
+
+assimilar com coisas mais aderentes ou com
+
+entendimento, de forma simples e objetiva.
+
+E tudo refere se a características ou funcionalidades.
+
+Por que que muda o
+
+nome? Porque é termo técnico.
+
+Como eu falei, ninguém é obrigado a saber termo técnico, a não ser você que trabalhe na área.
+
+Então, como que você vai falar para o usuário final sobre atributos, sobre classe, sobre entidade? Você
+
+vai falar para ele de outra forma, com outras palavras, mas que quer dizer a mesma coisa.
+
+Você vai falar para ele de sistema, de funcionalidades, de características, de usabilidade, de recursos.
+
+Beleza, Não é interessante você saber separar termo técnico.
+
+Você usa com a equipe técnica, termo genérico você usa em todo lugar.
+
+O que você precisa saber é entender e saber o que significa cada um.
+
+O que é a classe.
+
+Classe pode ser um sistema no contexto geral.
+
+O que que é o objeto? O objeto pode ser tudo aquilo
+
+que tem interação com o usuário ou com qualquer outro sistema.
+
+O que são os atributos? O que
+
+são? São as características? No caso,
+
+tudo isso é válido para você
+
+trabalhar de uma melhor maneira possível.
+
+Bom pessoal, então uma conclusão geral aqui sobre as técnicas orientadas a objetos.
+
+As técnicas orientadas ao objeto são fundamentais para o sucesso de projetos
+
+de desenvolvimento de software, como nós já vimos nas últimas aulas.
+
+Elas ajudam a criar uma representação clara e precisa dos requisitos do
+
+sistema, permitindo que as equipes de desenvolvimento construam sistemas robustos e
+
+eficientes que atendam às necessidades dos usuários e as partes interessadas.
+
+A escolha das técnicas a serem usadas depende das
+
+características específicas do projeto e das preferências da equipe.
+
+Mas a combinação adequada dessas técnicas é essencial para um processo de análise eficaz.
+
+Aqui entra aquilo que eu falei na aula anterior, até mesmo nessa aula sobre.
+
+Depende da empresa, depende da equipe, depende da cultura organizacional, depende
+
+do seu conhecimento, depende das ferramentas que a empresa disponibiliza.
+
+Depende das ferramentas que a empresa exige você usar, depende dos recursos,
+
+depende de muita coisa, mas é sempre bom ter o conhecimento.
+
+Beleza? A partir das próximas aulas nós vamos pegar esses diagramas e
+
+em particular qual nós vimos aqui e vamos começar a trabalhar
+
+com eles em metodologias práticas, criar algumas coisinhas do zero novamente.
+
+Existem um média de 14 diagramas que são utilizados, cada um com o seu propósito, cada um com
+
+o seu dever, cada um para fazer um tipo de ilustração de uma determinada maneira, com determinado propósito.
+
+Você deve não apenas buscar esses que eu estou passando, mas se possível fazer um cursinho de um ML,
+
+aprender aí quais são os outros diagramas, se tem necessidade de saber utilizá los e por aí vai.
+
+Me despeço por aqui, Fica com Deus e até breve.
