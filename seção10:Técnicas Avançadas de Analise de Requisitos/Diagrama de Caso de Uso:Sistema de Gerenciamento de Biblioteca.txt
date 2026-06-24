@@ -1,0 +1,781 @@
+O aluno ao aluno.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software
+
+na aula anterior.
+
+Para quem não se recorda.
+
+Nós aprendemos um pouco sobre as técnicas de levantamento de requisitos orientado a objetos e na aula
+
+anterior nós vimos algumas exemplificações ilustrativas a respeito de diagramas, casos de usos, fluxogramas
+
+e afins.
+
+As imagens que eu mencionei na aula anterior foram imagens propriamente tiradas da internet, simplesmente
+
+para exemplificar, para mostrar para vocês como que é feito determinado desenho, quando e como se
+
+utiliza cada um deles.
+
+Esta em específico, eu vou trazer com exclusividade a vocês uma montagem de um diagrama de caso de
+
+uso com base no que nós já vimos em aulas anteriores.
+
+Have Ávila Como assim?
+
+Vamos lá!
+
+Nas aulas anteriores nós vimos algumas documentações, algumas exemplificações de levantamento de requisitos
+
+tanto para o sistema de gerenciamento de bibliotecas quanto para o aplicativo de entrega de alimentos.
+
+Então eu vou tentar trazer esses contextos que nós já nos habituamos por base de aulas anteriores para
+
+poder fazer uma montagem aqui na prática.
+
+Beleza.
+
+Então, se você nunca criou um diagrama, se você não sabe por onde começar, vou tentar trazer de uma
+
+forma mais exemplificada e mais objetiva possível.
+
+Primeiro de tudo, aqui nós precisamos entender e saber usar algumas ferramentas de criação de diagramas,
+
+de fluxogramas e por aí vai.
+
+Se você pesquisar como ferramentas de fluxograma ferramentas de o ML e ferramentas de diagrama aqui
+
+no Google, você vai ver que vai aparecer 1001 opções.
+
+Dentre as mais conhecidas, nós temos o Visage, nós temos o Visio e nós temos o Drywall.
+
+Beleza.
+
+Eu em particular utilizo o Drive, que é uma ferramenta free.
+
+Eu tenho todas as disponibilidades, todos os tipos e possibilidades de criação de diagramas, Então
+
+eu costumo utilizar ele por ser uma ferramenta gratuita e me dar recursos no qual eu necessito no cotidiano.
+
+Beleza?
+
+E aí, qual é o legal?
+
+Essa ferramenta tem uma plataforma online, então você tem duas opcionais aqui.
+
+Primeiro, se você quiser necessitar ou desejar, você pode instalar o drywall no seu computador.
+
+No contrário, você pode fazer que nem eu.
+
+Você simplesmente acessa a plataforma e cria de forma online.
+
+Bom, primeiro de tudo, vocês vão digitar aqui Ladrao fail ou draw e o independente, vocês vão dar
+
+enter e vai aparecer aqui alguns links, tá bom?
+
+Cuidado com alguns links porque a maioria aqui vai ter anúncios.
+
+Tenta achar o que é o AP, ponto diagrama Ex ponto net ou o http ponto drywall Ponto com o que é o legítimo?
+
+Beleza.
+
+Clicou nele?
+
+Ele vai pedir aqui algumas opcionais.
+
+Se você não quiser vir por aqui e startar ou fazer o download, como eu mencionei anteriormente, clica
+
+no primeiro link que ele vai diretamente pra criação de diagramas.
+
+Beleza?
+
+Bom, e aí talvez ele peça pra você aqui uma caixinha anterior a essa.
+
+Caso você nunca tenha acessado.
+
+Você clica na opção Decidir mais tarde e aí ele vai trazer pra você esta telinha aqui.
+
+Beleza?
+
+Bom, o que nós devemos nos atentar?
+
+Primeiro de tudo, o que vocês precisam entender é que eu não vou postar de forma detalhada o que é
+
+os menus, pra que serve, as funcionalidades nem nada do tipo, porque isso envolve uma outra área
+
+que é exclusiva de o ML, então teria de ter um curso específico para o ML.
+
+Então se você não tem o conhecimento sobre o ML, aconselho você a fazer um curso a pesquisar no youtube
+
+sobre pra você ter uma noção moral, um leque maior.
+
+Beleza, Mas da maneira que nós formos criar aqui, se você tiver uma aptidão maior, você tiver um
+
+intelecto mais aguçado, você vai conseguir aprender a usar simplesmente fazendo aqui junto comigo e
+
+fazer as práticas e os exercícios de fixação após.
+
+Beleza.
+
+O que nós vamos fazer aqui?
+
+Ao lado esquerdo da sua tela você tem alguns menus vertical no qual o menu geral ele já vem disponibilizado.
+
+Beleza, Se você clicar na seta aqui, você vai ver que além dele, existem outros menus.
+
+Por quê?
+
+Digamos que aqui esses menus.
+
+Eles possuem agrupamentos de objetos que são exclusivos ou específicos para determinados tipos de diagramas
+
+que você queira fazer a criação.
+
+Beleza.
+
+Então, de baixo pra cima, por exemplo, eu tenho aqui o ML, no qual ele vai me dar alguns ícones
+
+específicos ou algumas criações de objetos em específico.
+
+Eu tenho relação de entidade relacionamento que aqui envolve a parte de banco de dados.
+
+Eu tenho aqui o conceito de diagramas, que entra muito mais na parte de fluxograma tem o setas, tem
+
+outras opções de avançado, então aqui eu tenho vários recursos.
+
+Se eu precisar criar alguma coisa e não tiver disponível, tenho aqui um botão chamado Mais Formas,
+
+no qual eu consigo fazer aqui a adição de novos recursos.
+
+Então eu quero criar voltado a Android, eu posso marcar, Eu quero fazer criação de modelo de redes
+
+de computadores.
+
+Eu quero fazer uma arquitetura de redes de computadores.
+
+Eu consigo também marcar algumas relações em rede para ele aparecer ao lado esquerdo.
+
+Aqui tá bom.
+
+Bom, o que nós vamos fazer ou o que nós vamos precisar?
+
+Na verdade, ele já vem incluso nos menus aqui disponíveis e aí nós temos variações.
+
+Nós podemos utilizar o geral ou nós podemos utilizar o ML.
+
+Beleza, Independente dos dois, aqui nós teremos as opcionais necessárias para poder fazer a criação.
+
+Então o que nós vamos ver aqui?
+
+Lembrando que nós estamos falando do conceito de casos de uso.
+
+Tá?
+
+Nós vamos fazer o seguinte lembram do sistema de gerenciamento de bibliotecas, correto?
+
+Bom, em aulas anteriores, nós na verdade fizemos não apenas o levantamento dos requisitos, entendemos
+
+as necessidades, separamos o que era requisito funcional opcional, requisito de usabilidade e desempenho.
+
+Mas nós também fizemos a documentação referente a ele e nós vamos continuar fazendo o que a ilustra
+
+atividade desse fluxograma.
+
+Beleza.
+
+Então eu posso fazer algumas variações e como eu já mencionei em muitas aulas, isso é variável, onde
+
+eu posso trabalhar de forma que eu queira, de forma que a empresa exija de cultura para cultura, de
+
+conhecimento para conhecimento.
+
+O ideal é que nós geralmente utilizemos para fazer as ilustrações sistêmicas e dos usuários acessando
+
+o sistema, o nosso diagrama de caso de uso.
+
+Beleza.
+
+Bom o nosso diagrama de caso de uso.
+
+Ele é bem simples e bem funcional.
+
+Para quem não se recorda, ele é representado por atores.
+
+São identificados como os usuários ou os sistemas que estão integrados a esse sistema no qual nós estamos
+
+desenhando e no caso, as ações que seriam as funcionalidades no qual o sistema ele possui.
+
+Beleza.
+
+Então, se eu precisar fazer um diagrama de caso de uso, como eu mencionei, eu posso usar o ML aqui
+
+e eu tenho um opcional aqui.
+
+Se eu passar o mouse, ele vai falar para mim que chama se ator, ele usa.
+
+Então eu tenho aqui o meu primeiro bonequinho, esse meu ator.
+
+Eu preciso dar uma identificação, Eu preciso falar para ele.
+
+Ou melhor, eu preciso falar para ilustração quem é ele, para que quando eu termine eu não me esqueça
+
+de quem ele é e quais as funcionalidades ele possui.
+
+Então, o primeiro ator que nós tínhamos no nosso sistema de gerenciamento de bibliotecas era o cliente
+
+da biblioteca.
+
+Então eu posso dar duplo clique no bonequinho, vai selecionar automaticamente o nome.
+
+Quando esse nome estiver selecionado, eu vou renomeá lo, Então eu vou colocar aqui o cliente da biblioteca.
+
+Beleza.
+
+Bom, o cliente da minha biblioteca, ele tem a possibilidade de fazer algumas ações.
+
+Quais ações ele podia fazer com base no que nós vimos em aulas anteriores?
+
+Vamos lá para eu representar as ações.
+
+Eu tenho aqui o caso de uso.
+
+Beleza.
+
+Então, ao lado do bonequinho eu tenho aqui o Use Case.
+
+Eu vou clicar e eu vou trazer ele aqui para o centro da minha tela.
+
+E aqui eu simplesmente vou colocar as ações, os objetivos principais que o cliente da minha biblioteca
+
+ele possui.
+
+Aqui eu não tenho a necessidade de descrever, de detalhar, porque é um algo ilustrativo.
+
+Beleza.
+
+Então o primeiro, a primeira possibilidade que o meu cliente da biblioteca ele possui é o quê?
+
+Pesquisar livros?
+
+Por quê?
+
+Porque ele está dentro da biblioteca, interessado em livros E antes de ele pegar algum livro, ele
+
+necessita fazer uma pesquisa legal.
+
+Além desta ação ou desta possibilidade.
+
+Meu cliente possui algum outros recursos, então eu posso fazer o seguinte eu posso usar esse objeto
+
+no qual eu já tenho, copiar e colar, É só renomear ele, caso eu queira ou eu posso ficar clicando
+
+aqui e trazendo novamente.
+
+E aí a maneira correta é você que decide qual você vai se habituar melhor.
+
+Eu em particular, sempre prefiro copiar e colar do que ficar usando o mouse e levando ele pra longe.
+
+Eu acho que é menos funcional.
+
+Tá bom, então nós vamos colocar outro aqui, realizar.
+
+Em.
+
+Préstimos.
+
+Ou seja, ele vai fazer a pesquisa de um livro e vai realizar os empréstimos, Ou seja, ele vai alugá
+
+lo, alugar o livro.
+
+Caso ele goste ou caso não dê tempo de ele.
+
+Ler.
+
+Todo o livro.
+
+Ele pode fazer o quê?
+
+Ele pode renovar o empréstimo ou renovar o aluguel?
+
+Beleza.
+
+Quando houver a inspiração, o que ele vai precisar fazer?
+
+Ele vai precisar?
+
+Devolver o livro, Beleza?
+
+Ou os livros?
+
+Então aqui são quê?
+
+As ações no qual o meu cliente da biblioteca pode fazer?
+
+Tá bom.
+
+E aí, o que eu faço aqui?
+
+Aqui eu faço apenas amarrações.
+
+Como que eu faço essas amarrações?
+
+Quando você passa o mouse pelo bonequinho, você vai observar que existe alguns pontinhos azuis aqui
+
+ao redor ou nas extremidades desse boneco.
+
+Esses pontos, eles são pontos de ligação que são pontos de ligação.
+
+São pontos que eu utilizo para fazer a amarração desse meu ator com o que ele pode fazer dentro do sistema
+
+ou dentro do aplicativo.
+
+Beleza.
+
+Ou como eu faço, eu posso simplesmente passar o mouse.
+
+E aí, à medida que eu passar o mouse sobre a opcional azul, vai aparecer aqui uma bolota verde indicando
+
+que está selecionado e eu posso simplesmente clicar e arrastar para onde eu queira.
+
+Beleza.
+
+Ou eu posso clicar no meu boneco e também arrastar para onde eu queira?
+
+E aqui eu acho mais interessante, porque não fica literalmente amarrado ao boneco, fica um espaço
+
+entre eles.
+
+Então eu gosto de fazer dessa forma.
+
+Eu selecionei o boneco, passei o mouse pela seta, cliquei, arrastei e vou fazendo essas amarrações
+
+aqui, beleza?
+
+E aí vocês vão observar que o bacana quando vocês criam essas amarrações é que para onde vocês levariam
+
+o boneco ou o objeto, as linhas elas vão seguir.
+
+Olha só que legal, Isso é bem interessante para a gente não perder as amarrações.
+
+Beleza?
+
+Dando continuidade, além do meu cliente da biblioteca, eu tenho um outro ator, Quem que é o outro
+
+ator?
+
+E o bibliotecário?
+
+Bom, quem é o bibliotecário?
+
+É o cara ou a pessoa?
+
+Ou o funcionário?
+
+Ou os funcionários que cuidam, que gerenciam, que atendem e por aí vai.
+
+Ou seja, que trabalham na biblioteca.
+
+Então eu tenho que criar um outro ator, porque esse outro ator aí ele vai ter o quê?
+
+Uma outra usabilidade do sistema.
+
+Aqui o meu cliente, no caso, ele está falando em quesitos de locação, de livro, de reservas, de
+
+livros, de devoluções de livros.
+
+Agora o meu bibliotecário.
+
+Ele tem outras funções dentro do sistema, então eu posso copiar e colar o meu bonequinho aqui.
+
+Beleza?
+
+E aí novamente duplo clique nele e eu vou renomeá lo, então vou colocar aqui.
+
+By Bibliotecário.
+
+Beleza?
+
+E aí, o que o meu bibliotecário ele pode fazer?
+
+O que ele deve fazer dentro do sistema?
+
+Primeiro ele deve gerenciar catálogos.
+
+Então vamos por partes aqui Gerenciar catálogos.
+
+Seria gerenciar catálogos.
+
+Ele tem que ter a capacidade de adicionar, de editar ou remover livros do catálogo.
+
+Pode atualizar informações como títulos, autores, categorias, disponibilidades e por aí vai.
+
+Beleza.
+
+Bom o que o meu bibliotecário pode fazer?
+
+Além do gerenciamento de catálogos, ele também deve fazer o gerenciamento de usuários.
+
+Então gerenciar usuários.
+
+Bom, o que seria o gerenciamento dos usuários?
+
+Ele deve fazer o que a.
+
+Permissão ou permission mento das informações.
+
+Os usuários então realizar o cadastro de novos usuários, editar os usuários já cadastrados.
+
+Então as vezes mudou de endereço Mudou de telefone.
+
+Manter os registros atualizados.
+
+Dados pessoais Acrescentar multas caso perca livros, caso rasgue rasuras e por aí vai.
+
+Então ele tem que ter o controle dos usuários dentro do sistema.
+
+Então bibliotecário ele também tem que fazer esse tipo de gestão.
+
+Beleza.
+
+Bom, dando continuidade e além de tudo isso, né?
+
+Ou além desses dois, existe uma terceira opcional, uma terceira funcionalidade ou uma?
+
+Terceira tarefa no qual o bibliotecário faz dentro do sistema, que é o que interação com o sistema
+
+de empréstimo online.
+
+Para quem não se recorda o sistema de gerenciamento de biblioteca, ele tinha de ter uma interação com
+
+o sistema de gerenciamento antigo.
+
+Então a integração entre eles também é necessário.
+
+Então eu vou colocar aqui em integração com o sistema de EM.
+
+Empréstimo online.
+
+Eu poderia procurar um nome mais resumido.
+
+Estudar aqui também é algo bacana de se atentar, porque eu posso trazer de forma mais objetiva isso.
+
+Daqui eu poderia só focar.
+
+Integração com o sistema de empréstimo, por exemplo.
+
+Então, aqui é bem variável.
+
+Varia de escrita pra escrita, de pessoa pra pessoa, tá bom.
+
+E aqui nesse caso é o que é a integração entre os sistemas, no qual o bibliotecário também necessita
+
+ter o gerenciamento.
+
+Beleza.
+
+E aí novamente eu vou clicar aqui no meu ator e vou fazer as amarrações devidas as funcionalidades ou
+
+aos recursos ou as tarefas que ele vai fazer enquanto ele estiver utilizando o sistema.
+
+Beleza.
+
+E aí eu consigo fazer os posicionamentos, alinhamentos bonitinhos aqui.
+
+Não vou me atentar muito a isso, até pra gente não perder muito tempo, tá bom?
+
+Então aqui eu já tenho de certa forma dois atores.
+
+Bom, fora esses dois aqui, eu também tinha um outro, né?
+
+A gente pode entender como se fosse a equipe do T.I.
+
+Por que a equipe do T.I.
+
+Lembra que o sistema de gerenciamento de bibliotecas, quando nós fizemos, ele tinha a necessidade
+
+de integrar com o sistema antigo para ficar fazendo atualização das informações dos dados, registros
+
+que já existiam no sistema anterior, ou então com a migração dos dos dados antigos.
+
+Elas devem ser feitas por profissionais que entendam a respeito, né?
+
+Seria aí um arquiteto de dados, um engenheiro de dados, um DBR que é um administrador de banco de
+
+dados ou algo desse gênero, Praticamente desenvolvedores num contexto geral.
+
+Então eu posso colocar aqui a equipe do TI ou um determinado departamento, um setor do TI ou uma pessoa
+
+responsável por isso.
+
+Ela quem vai fazer a migração entre os sistemas, né, entre os dados do sistema.
+
+Então eu posso colocar o ator aqui.
+
+Ele pode ser o quê?
+
+A equipe de TI?
+
+Porque aí eu não vou nomear uma pessoa em específico, mas eu vou nomear o departamento, beleza?
+
+Então vou colocar aqui a equipe do TI ou da TI, que seria da tecnologia, Informação um pouco direitinha
+
+que a equipe da TI e não do TI.
+
+Bom se atentar isso.
+
+Nomeclatura importantíssima em documentação.
+
+Beleza?
+
+E aí, qual que é o dever da equipe da TI migrar dados?
+
+Então aqui a gente pode colocar assim.
+
+Migrar dados do sistema antigo.
+
+Beleza.
+
+E aqui seria o que nós apresentaríamos como o modelo de caso de uso do nosso sistema de gerenciamento
+
+de biblioteca.
+
+Tá bom.
+
+Bom, note que.
+
+Deixa, eu só arruma essa linha aqui que eu achei que não ficou tão legal quanto deveria, ficou acima
+
+do nome ali.
+
+Vou deixar assim, acho que fica mais legal de se visualizar, beleza?
+
+Então, aqui nós temos, na verdade, pera aí que eu vou precisar fazer outra alteração.
+
+Interessante a gente sempre deixar os atores nas bordas, nas extremidades.
+
+O diagrama, porque é geralmente tudo o que está no centro.
+
+A gente ilustra como o sistema.
+
+Vocês já vão entender o que eu estou falando.
+
+Deixa eu só terminar de arrumar aqui, a gente dar continuidade.
+
+Pronto.
+
+Então, aqui eu tenho, de certa forma, uma breve ilustração do meu sistema de gerenciamento.
+
+O que eu preciso fazer agora?
+
+Eu preciso fazer a separação?
+
+Como assim?
+
+Bom, eu tenho um cara aqui chamado o objeto Beleza.
+
+Eu poderia usar esse cara aqui para fazer a estrutura do meu sistema, então eu poderia vir aqui e.
+
+Colocá lo desta maneira.
+
+Beleza.
+
+Só que aí repara que quando eu crio um objeto, eu na verdade tem uma sobreposição.
+
+Por quê?
+
+Porque o meu objeto, ele tem uma cor.
+
+Então, para isso eu posso fazer alterações.
+
+Então, se eu vier ao lado direito superior da minha tela, eu tenho alguns ícones o ícone do meio aqui.
+
+Ele é o ícone necessário para nós abrirmos o estilo do objeto que está selecionado.
+
+E aqui eu consigo fazer algumas alterações, algumas modificações.
+
+No momento ele já está na cor branca, então se eu quisesse colocar azul, rosa, vermelho e por aí
+
+vai, ele ficaria.
+
+Mas no momento eu só quero a borda.
+
+Então eu posso vir aqui e pedir para tirar esta cor, tá?
+
+Então aqui, se eu não me engano, é tirar o preenchimento e aí eu vou ter só a borda.
+
+Essa borda eu também posso mexer que ela fica aqui no estilo.
+
+Então eu queria colocar uma borda um pouquinho mais grossa.
+
+É uma outra cor, né?
+
+Eu acho que um tom de azul escuro quase preto fica legal.
+
+Beleza?
+
+E aqui eu posso falar que o que tiver dentro do meu quadrado, né?
+
+De certa forma isso é um quadrado, né?
+
+Eh botão direito formatar pra trás, tá?
+
+E aí eu consigo pegar esses objetos aqui de dentro e arrastar.
+
+E aí eu tenho que só tomar cuidado para não estar tudo selecionado, senão eu tiro a modificação de
+
+tudo.
+
+Mas só para vocês terem entendimento, deixar um espaço maior aqui para observar que existe linha de
+
+amarração.
+
+Beleza?
+
+E aqui galera, eu posso fazer as movimentações devidas e necessárias conforme eu preciso e que está
+
+faltando nesse diagrama aqui, nesse caso de uso.
+
+Está faltando o nome, então eu posso achar aqui uma ferramenta de texto.
+
+O title poderia ser ela.
+
+E essa ferramenta de título eu poderia colocar aqui e escrever Sistema de Gerenciamento de Bibliotecas.
+
+Beleza?
+
+E aí eu vou dar a formatação devida, conforme necessidades.
+
+Como assim?
+
+Vamos lá.
+
+Tenho aqui selecionado.
+
+Eu posso ver ao lado direito novamente.
+
+Eu posso alterar o tipo de letra.
+
+Eu posso fazer a modificação de tamanho?
+
+Tá, eu posso acrescentar negrito, itálico.
+
+Eu posso dar a cor de fundo caso eu ache necessário.
+
+Um exemplo aqui eu vou colocar uma cor vermelha.
+
+Então eu posso fazer inúmeras alterações conforme necessário.
+
+Eu em particular, não gosto de dar cor de fundo, então eu geralmente deixo da mesma cor no qual está
+
+sendo tratado o fundo.
+
+Tá, e aí?
+
+Só pra vocês entenderem o contexto.
+
+Aqui nós estamos exemplificando de forma ilustrativa quais são as funcionalidades ou o que cada ator,
+
+cada usuário poderia fazer dentro do sistema.
+
+Então o meu cliente da biblioteca, ele poderia ser o cara que pesquisaria livros, daria empréstimos,
+
+renovaria empréstimos, devolveria livros, talvez tivesse uma opção aqui pra comprar livros ao invés
+
+de alugar.
+
+Já o meu bibliotecário, ele seria o cara que faria o gerenciamento de tudo, controlaria os catálogos,
+
+os preços, os valores, as promoções, promoções, no caso e entrada e saída de estoque.
+
+Se ainda existe livro queima de estoque gerenciarem os usuários, como eu mencionei anteriormente,
+
+faria as integrações entre o outro sistema e já minha equipe de TI aqui migraria os dados do antigo
+
+sistema para o novo e aí eu consigo fazer outras modificações.
+
+Lembrando novamente, eu estou com o meu usuário.
+
+O selecionado, eu poderia adicionar destaque nas letras.
+
+Eu poderia fazer aqui uma série de variedade de coisas para deixar mais dinâmico, mais ilustrativo,
+
+mais chamativo, mais legível, principalmente o meu caso de uso.
+
+Então, isso daqui é um caso de uso.
+
+Galera, eu poderia também aqui, vou segurar o controle e selecionar todos.
+
+Acho que fica mais legal manter uma cor, então eu vou vir aqui manter uma cor azul.
+
+Beleza?
+
+Esse objeto aqui eu posso apagar isso daqui.
+
+É o que veio escrito na minha, no meu quadrado, no meu outro objeto, tá?
+
+E aí, quando eu vier em arquivo, imprimir, por exemplo.
+
+Ou exportar?
+
+Vamos imprimir.
+
+Mostrarei aqui para nós como que ficaria.
+
+Aqui, no caso houve quebra.
+
+Eu vou explicar para vocês porque está vendo que entre todos os quadradinhos sempre existe linhas pontilhadas?
+
+Olha só, aqui existe linhas pontilhadas.
+
+Ou vou dar um zoom para vocês entenderem?
+
+Não existem linhas pontilhadas aqui é a divisão por página.
+
+Então aqui observe onde está a linha pontilhada.
+
+Está no início do meu caso de uso, porém o restante está para baixo, por isso que ele está cortando.
+
+Então, se eu quiser fazer uma impressão ou salvar direitinho, eu sempre tenho que tentar colocar dentro
+
+de um quadrado só.
+
+Então vou colocar até aqui pra cima para vocês verem.
+
+Olha só como que já diminuiu.
+
+Beleza.
+
+Vou colocar aqui para o lado esquerdo também, para ficar literalmente numa folha só e aí de novo arquivo
+
+e imprimir.
+
+Nós temos aqui o nosso diagrama dentro de uma única folha, caso necessário, Apresentação.
+
+Se eu precisar salvar, eu posso vir aqui e exportar.
+
+Consigo escolher o formato de arquivo no qual eu quero exportar?
+
+E se eu clicar em Salvar ou guardar, como provavelmente vai estar?
+
+Aí vocês conseguem também achar diferentes tipos no qual vocês conseguem salvar e guardar em algum local
+
+do computador de vocês.
+
+Beleza?
+
+Bom pessoal, e aí a única dica que eu dou a vocês é a seguinte independente do formato que vocês escolherem
+
+para guardar, sempre procurem salvar o arquivo com o nome específico para vocês terem uma melhor identificação.
+
+Então aqui nós podemos colocar sistema de gerenciamento de.
+
+Bibliotecas.
+
+Beleza?
+
+E aí, mantém esse formato?
+
+Ponto Drywall?
+
+Por quê?
