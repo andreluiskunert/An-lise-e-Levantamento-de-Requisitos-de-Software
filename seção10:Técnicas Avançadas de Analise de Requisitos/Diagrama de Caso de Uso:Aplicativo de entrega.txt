@@ -1,0 +1,449 @@
+Olá Luna!
+
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos
+
+de Software.
+
+Ainda falando a respeito dos diagramas de caso de uso.
+
+Nesta aula nós vamos fazer a criação do diagrama representativo do aplicativo de entrega de alimentos
+
+e nós tivemos em aulas anteriores.
+
+Então, para quem não se recorda, né?
+
+Existia um desafio no qual nós precisávamos fazer os levantamentos de requisitos sobre um aplicativo
+
+de entrega, no qual existia algumas premissas, existia algumas regras, existia algumas exigências
+
+e até então, após esses levantamentos, houve uma determinada solução.
+
+Beleza.
+
+Então, a solução aqui que a equipe de análise de requisitos encontrou.
+
+Caso você não tenha acompanhado esta aula, caso você tenha pulado aulas anteriores, eu falei bem detalhado
+
+sobre isso aqui.
+
+Ou então o que acontece?
+
+Eu imagino que nós precisássemos antes de ter a solução, antes de o sol ter sido construído e etc,
+
+nós precisássemos ter desenhado.
+
+Ter ilustrado.
+
+Ter acrescentado de forma ilustrativa um diagrama de caso de uso.
+
+Eu vou utilizar como exemplo essas premissas aqui para que nós possamos fazer os desenhos.
+
+Pois bem, então eu tenho já o meu drywall aberto aqui.
+
+Então, nós já vimos em aula passada o anterior.
+
+Nós já entendemos como ele funciona também.
+
+Beleza?
+
+E aí nós temos que fazer as identificações com base naquelas anotações, naquelas explicações que nós
+
+vimos anteriormente.
+
+Então, se eu não me recordo mal nas aulas específicas que eu falei sobre e de até para fazer exercícios
+
+de fixação, escrever e anotar em algum lugar, acredito que se você tenha feito que você tem anotado,
+
+vai ficar mais fácil de você fazer a ilustração aqui, porque você já vai ter um contexto mais habitual.
+
+Beleza.
+
+Então, o primeiro passo que nós temos é o que fazer a identificação dos atores.
+
+Então, quando eu to falando de aplicativo de entrega de alimentos, eu estou falando de três atores
+
+em específico.
+
+Nosso primeiro ator é quem é o cliente do aplicativo de entrega de alimentos, ou seja, a pessoa que
+
+vai fazer a utilização do aplicativo para poder realizar os pedidos, né?
+
+Fazer ali os pedidos de comidas e bebidas.
+
+Então nós já temos aqui o nosso bonequinho, o nosso ator.
+
+Nós vamos dar duplo clique nele e vamos colocar aqui como cliente do aplicativo de entrega.
+
+De alimentos.
+
+Beleza.
+
+Eu vou deixar um nome grande assim, mas a gente pode fazer um uma abreviação depois.
+
+Bom, o que o meu cliente do aplicativo de entrega de alimentos ele vai fazer quando ele utilizar o
+
+aplicativo?
+
+Ou seja, quais as ações do meu ator?
+
+Nós vamos utilizar aqui o nosso primeiro modo, né?
+
+E eu posso utilizar aqui geral, se eu não estou enganado, na aula anterior eu usei o ML, então vamos
+
+usar o ML aqui para não confundir a cabeça de vocês, tá?
+
+Eu vou colocar aqui o Use Case.
+
+É o mesmo do outro.
+
+Eu só preciso acrescentar o texto naquele objeto anterior.
+
+Tá bom.
+
+Aqui a primeira premissa é o que realizar?
+
+Pedido.
+
+Segundo a premissa.
+
+Rastrear.
+
+Pedido em tempo.
+
+Real, Então o meu cliente, ele precisa realizar um pedido.
+
+Quando esse pedido ele for realizado, ele tem a necessidade de ter um rastreio para saber se o pedido
+
+ele foi aceito, se está em preparo, se já foi e para rota de entrega, se já está entregue e etc.
+
+Beleza.
+
+Bom, além desses, nós também temos uma avaliação do restaurante, então nós precisamos aqui avaliar
+
+e.
+
+Comentar.
+
+Restaurantes.
+
+Tá bom, então não só fazer as avaliações de estrelinhas, mas também acrescentar comentários tanto
+
+positivos quanto críticas.
+
+E nós também temos aqui as coisas principais, que é o que.
+
+Quando eu vou fazer um pedido, eu necessito realizar pagamentos, Então aqui eu preciso de O que?
+
+Opções?
+
+De pagamento.
+
+Seja por cartão, seja por dinheiro, seja na hora, por motoboy, seja por pizza, etc.
+
+Beleza.
+
+E nós também temos a necessidade de gerenciamento de perfil.
+
+Gerenciar.
+
+Come uma letra aqui.
+
+Gerenciar perfil O que seria gerenciar perfil e o cliente?
+
+Ele necessita fazer alterações ou atualizações das informações dos dados pessoais, seja número de telefone,
+
+seja endereço, seja endereço de entrega e por aí vai.
+
+Então ele tem a necessidade de poder fazer essas alterações caso necessário.
+
+Tá bom.
+
+Então nós temos aqui o nosso primeiro ator e ele teria essas ações perante ao nosso aplicativo.
+
+Beleza.
+
+E aí nós vamos fazer aqui as ligações devidas de todas essas ações a esse ator, para que nós possamos
+
+dar continuidade.
+
+Tá bom?
+
+Então você vai seguindo aí comigo, vai desenhando junto a mim, para você ir exercitando.
+
+Beleza.
+
+Ok, nós temos aqui o primeiro ator feito.
+
+O nosso segundo ator.
+
+Quem ele seria?
+
+Ele Seria os restaurantes parceiros?
+
+Porque?
+
+Porque para eu ter um aplicativo de entrega de alimentos eu preciso ter quem venda esses alimentos,
+
+né?
+
+Não adianta ter o aplicativo, ter o cliente e não ter quem faça a venda dos produtos.
+
+Então eu preciso do quê?
+
+De restaurantes, parceiros?
+
+Então o meu restaurante parceiro, Ele seria um outro ator, Então eu vou colocar aqui como esse.
+
+Da orantes parceiros.
+
+Beleza.
+
+E aí, o que o meu restaurante parceiro ele faz?
+
+Ele faz apenas uma ação?
+
+Tá bom?
+
+Qual seria esta ação aqui?
+
+Ele pode gerenciar?
+
+Cardápios e pedidos.
+
+O que seria o gerenciar aqui?
+
+Seria controlar, né não?
+
+Tanto adicionar quanto excluir.
+
+Tanto aceitar quanto recusar, né?
+
+Então, quando eu estou falando de cardápio, ele pode acrescentar novos pratos, pode retirar novos
+
+pratos, pode editar pratos que já estão cadastrados, mudar ingredientes e etc.
+
+Agora, quando eu estou falando de pedidos, né?
+
+O meu ator cliente, ele realizou um pedido.
+
+Então aí vai variar de acordo com cada restaurante, de acordo com o horário de funcionamento, com
+
+a quantidade de pedidos que estão sendo realizados.
+
+Ele também tem a possibilidade de gerenciar os pedidos, ou seja, ele pode aceitar o pedido e realizar
+
+o preparo.
+
+Quanto pode recusar esse pedido também?
+
+Então eu vou fazer a ligação aqui para esse gerenciamento.
+
+Beleza.
+
+Bom, fora esse ator, aqui nós temos um último, né, que eu preciso de um ator para fazer o pedido.
+
+Eu preciso de um outro ator para ter os pedidos cadastrados no aplicativo.
+
+Mas eu também preciso de quem faça as entregas desses meus pedidos.
+
+Então eu tenho de ter o que?
+
+Um ator que é responsável pelas entregas, então poderia colocar aqui como um motoboy.
+
+Mas eu vou acrescentar um ator chamado Entregador independente.
+
+Beleza, Nós vamos acrescentar outro ator aqui e vamos renomeá lo como entregador independente.
+
+Beleza?
+
+E aí o meu entregador independente?
+
+Ele precisa realizar duas ações.
+
+Um é o que?
+
+A integração com os entregadores independentes que seria essa integração?
+
+Bom, e na verdade seria um sistema que faz a integração dos serviços dos integradores para expandir
+
+as bases de entrega.
+
+Não sei se vocês se recordam sobre isso, mas tá escrito no nosso probleminha lá para que nós possamos
+
+achar a solução.
+
+Então aqui eu posso acrescentar como integração.
+
+Com entregadores independentes.
+
+Beleza, Porque?
+
+Porque aí eu posso fazer vários cadastros de vários entregadores, em várias regiões diferentes, tá?
+
+Então, por isso que eu necessito dessa integração aqui.
+
+Beleza?
+
+E aí eu tenho um outro que seria o que?
+
+Gerenciamento de entregas e rotas O que seria?
+
+Gerenciamento de entregas e rotas?
+
+Ele também tem que saber se ele vai aceitar ou recusar as entregas, né?
+
+Se ele pode ir até o determinado destino ou não.
+
+Então eu posso colocar aqui o Gerenciar entregas e Rotas.
+
+Beleza.
+
+Ficou um pouco esquisito esse aqui, né?
+
+Nós precisamos arrumar.
+
+Tá meio.
+
+Tá meio estranho aqui, então vamos.
+
+Colocar de uma melhor forma isso daqui, né?
+
+Vou retirar essas setas de amarração do meu entregador independente e eu vou colocar ele aqui fora né?
+
+Eu mencionei isso na aula anterior.
+
+E eu acho que eu vou arrumar esse cara também, porque ele ficou acima do nome do restaurante, né?
+
+Possa ser que implique, dificulte na visualização, então eu posso colocar ele aqui o.
+
+Acredito que fique melhor também.
+
+Beleza?
+
+Bom feito isso né?
+
+Eu preciso fazer as edições devidas, então eu vou marcar aqui os meus atores, no qual eu tenho os
+
+nomes.
+
+Eu vou vir em texto e acrescentar negrito para melhorar a visualização, né?
+
+Eu vou também segurar o controle e marcar as minhas ações e acrescentar cores.
+
+Eu vou vir aqui em estilo e acrescentar azul.
+
+E eu necessito também aqui colocar ele dentro do objeto, né?
+
+Então eu posso colocar aqui um objeto para que eu tenha a possibilidade de separar o que é sistema e
+
+o que é ator.
+
+Tá bom.
+
+Então, para quem não se recorda, né?
+
+O objeto ele já vem com um fundo preenchido.
+
+Eu posso tirar esse nome de objeto aqui.
+
+E eu vou retirar a cor de fundo, Então eu tiro o preenchimento aqui.
+
+Olha só.
+
+Para esse ator em específico.
+
+Vou dar um zoom aqui, ó.
+
+O nome tá passando.
+
+Eu posso colocar assim, ó.
+
+Cliente do aplicativo de entrega de alimentos.
+
+Beleza, Acredito que fique melhor visualmente também, tá?
+
+E aí, para esse meu objeto eu vou acrescentar aqui uma linha um pouco mais larga, tá?
+
+Porque para ficar melhor a visibilidade do meu sistema.
+
+Beleza.
+
+E aí, por fim, eu necessito acrescentar um nome, né?
+
+Então eu posso vir aqui a ferramenta de title, né, para acrescentar títulos.
+
+E aí eu vou colocar aqui.
+
+Aplicativo de entrega de alimentos, tá bom?
+
+E aí novamente, eu posso selecionar aqui o meu texto escrito.
+
+Acrescentar o tamanho devido.
+
+Acho que aqui uns 40 vai ficar legal.
+
+Ficou muito grande.
+
+Na verdade 25 acho que tá ótimo, beleza.
+
+E fora isso, eu vou acrescentar o que for mais necessário, Mas eu acredito que de momento é isso que
+
+nós precisamos.
+
+E aí nós temos o nosso segundo exemplo de caso de uso criado do zero.
+
+Tá bom?
+
+Então eu vou trazer para vocês na próxima aula sobre o sistema de gerenciamento empresarial.
+
+Não me recordo exatamente qual o nome, mas nós vamos fazer o também.
+
+Beleza?
+
+Então, para que vocês entendam mais uma vez, eu tenho aqui o meus, os meus atores, na verdade.
+
+Então, para esse sistema eu tenho três atores, cada qual realizam ações diferentes.
+
+Beleza.
+
+Então, eu tenho aqui o cliente do aplicativo, eu tenho os restaurantes parceiros e eu tenho o entregador
+
+também.
+
+Beleza.
+
+Cada um deles vão ter aqui ações de acordo com a peculiaridade ou com o objetivo de cada um.
+
+Eu poderia acrescentar um outro ator que é referente à equipe de TI, assim como foi mencionado na anterior,
+
+seria os responsáveis por controlar o aplicativo, né?
+
+Fazer manutenções, atualizações, acrescentar novos recursos, novas ferramentas e eles teriam outros
+
+acionamentos diferentes, né?
+
+Como controlar registros dos restaurantes, controlar os clientes, Controlar os entregadores, né?
+
+Acrescentar ou retirar outras coisas também?
+
+Então, caso vocês se sintam confortáveis para acrescentar, vocês podem.
+
+Eu até deixo isso como exercício de fixação.
+
+Beleza.
+
+Mas de resumo, eu quero que vocês entendam como que é feito, o quão é simples acrescentar isso, desde
+
+que se entenda quais os requisitos são necessários e, principalmente, separar os quais são referentes
+
+a quais atores e quais stakeholders.
+
+Então eu posso colocar isso aqui como stack holders, né?
+
+Partes interessadas dentro do meu sistema.
+
+Beleza?
+
+Bom, eu espero que vocês tenham entendido, principalmente que vocês tenham gostado.
+
+Me despeço por aqui, Fica com Deus e até breve.
