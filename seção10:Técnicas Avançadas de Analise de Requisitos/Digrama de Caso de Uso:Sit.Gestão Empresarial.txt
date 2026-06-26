@@ -1,0 +1,503 @@
+Olá Luna! Olá alunos, sejam muito bem vindos
+
+a mais uma aula do nosso curso de
+
+Análise e Levantamento de Requisitos de Software.
+
+Trazendo a vocês nesta aula com exclusividade, o exemplo de caso de uso sobre
+
+o sistema de gestão Empresarial, no qual nós havíamos estudado em aulas anteriores.
+
+Então aqui, na verdade é mais um exemplo que nós faremos a partir do zero, com base
+
+em aulas que nós já vimos, já levantamos os requisitos, já entendemos as regras, vimos necessidades, premissas.
+
+Então, aqui seria uma espécie de elaboração a partir
+
+das necessidades e soluções do contexto de aulas anteriores.
+
+Volto a repetir se você não acompanhou as aulas anteriores e quer entender, realmente aconselho você
+
+regredir aí algumas aulas no nosso curso para poder pegar todo o mapeamento desde o zero.
+
+Beleza.
+
+Ou então, para quem não se recorda, o sistema de gestão empresarial, ele possuía um desafio.
+
+Existia uma empresa de médio porte no qual ela havia decidido fazer a
+
+substituição do sistema que ela já tinha dentro do da empresa em funcionamento
+
+em si, para um sistema de gestão empresarial mais moderno e atualizado.
+
+E aí existiam alguns desafios no qual o primeiro e a
+
+premissa era a integração com sistemas legados, migração de dados complexos
+
+e necessidade de personalização para atender as diferentes necessidades de departamentos.
+
+Envolveria departamentos de vendas, finanças, produção e afins.
+
+Beleza.
+
+Então, partindo deste princípio aqui no nosso drywall novamente já expliquei sobre.
+
+Já fiz algumas exemplificações passo a passo com vocês.
+
+Não vou adentrar sobre o que é cada coisa aqui, tá bom?
+
+Então, se você ainda não sabe utilizar, aconselho até você fazer um
+
+curso de UML no paralelo para você ter um know how maior.
+
+Beleza.
+
+Bom, primeiramente nós precisávamos identificar os nossos atores.
+
+Tá.
+
+Bom, então, como vocês já viram nas últimas aulas, nós vamos criar o nosso bonequinho
+
+aqui, o nosso ator, no qual esse cara primeiramente seria, respectivamente, a respeito do departamento.
+
+De vendas.
+
+Beleza.
+
+E esse ator? Ele teria uma única ação
+
+em específico, que seria gerenciar pedidos de vendas.
+
+Tá bom.
+
+Então nós criaremos aqui um objeto de uso Case e acrescentaríamos aqui.
+
+Gerenciar pedidos.
+
+De vendas.
+
+O que seria a gestão aqui?
+
+A gestão seria o controle.
+
+Então ele conseguiria controlar pedidos de vendas, Tá? Então, aqui seria uma
+
+espécie de permissão de registros de pedidos, inclusão, de verificação de
+
+disponibilidade de pedidos, atualização de estoque, quantia em estoque e afins.
+
+Beleza.
+
+E aí, como nós já vimos em aulas anteriores, nós vamos fazer
+
+a ligação de vida do nosso ator, respectivamente, a sua ação.
+
+Tá bom.
+
+O nosso outro ator, como eu mencionei anteriormente, seria o nosso departamento de vendas.
+
+Então note aqui que os nossos atores para esse contexto, no momento, eles estão sendo
+
+quem os stakeholders específicos ou especializados de cada área ou os profissionais que utilizariam
+
+o sistema de cada uma das áreas no qual houve o levantamento de requisitos.
+
+Então, as pessoas que utilizariam ali determinados módulos conforme as suas necessidades e tarefas.
+
+Tá bom.
+
+Então, nosso segundo aqui seria o departamento de Finanças, Então eu simplesmente vou
+
+alterar o último nome aqui, o de vendas eu vou alterar para.
+
+Finanças.
+
+E aí praticamente seria a mesma coisa processar.
+
+Contabilidade seria
+
+ação? Processar
+
+Contabilidade? Beleza.
+
+E aí, mais uma vez eu vou fazer a ligação do meu ator,
+
+a sua respectiva ação dentro do sistema e as suas tarefas necessárias.
+
+E aí, o que que seria que o processo da contabilidade para vocês
+
+terem um entendimento maior? Seria, de certa forma, o processo das transações contábeis,
+
+faturas, pagamentos, balanços, relatórios financeiros e outras coisas que envolvem valores também.
+
+Beleza.
+
+Outro ator que nós teríamos aqui também seria o Departamento de Recursos Humanos.
+
+Então nós vamos acrescentar mais um ator do lado de cá.
+
+E novamente alterar apenas o último nome Departamento RH.
+
+Vou abreviar para ficar melhor aqui.
+
+Beleza? E o que o departamento de
+
+RH teria como ação dentro do sistema.
+
+Seria que gerenciar recursos humanos, gerenciar.
+
+Recursos.
+
+Humanos.
+
+Beleza.
+
+Novamente.
+
+Farei aqui a ligação entre o meu ator e a sua respectiva ação.
+
+E aí o gerenciamento de recursos humanos seria aí Processos de contratação, registros
+
+de funcionários, gerenciamento de benefícios, folha de pagamento, cálculo de 13.º, apontamento de
+
+horas e todas as outras coisas que são pertinentes, pertinentes ao departamento.
+
+Beleza.
+
+O outro ator que nós teríamos, que também faria a utilização
+
+do sistema e seria um stakeholder, né? Seria os responsáveis.
+
+Pela produção logística.
+
+Então nós poderíamos colocar aqui como departamento de produção logístico.
+
+Vou colocar aqui departamento.
+
+D.
+
+Prod.
+
+O log, né? Ou logístico fica melhor,
+
+né? Logístico Departamento de Produto Logístico Só
+
+o produto abreviado para ficar menor.
+
+Aqui tá bom.
+
+E aí o nosso Departamento de produto logístico ele teria o
+
+que? A administração da produção e também a administração logística.
+
+Então nós poderíamos colocar assim o.
+
+Administração da produção e Logística.
+
+Beleza.
+
+E aqui, o que seria? Seria o planejamento e controle de
+
+produção, né? E também a gestão de cronogramas e entregas que
+
+aí envolve a parte logística, né? Alocação de recursos, otimização de
+
+processos, verificação de motoristas, quantidade de produtos que iriam para um
+
+determinado destino e todos os outros processos que envolvem logística também.
+
+Beleza.
+
+E aí nós também teríamos os outros atores no
+
+qual foram mencionados, né? Teremos aqui os sistemas terceiros.
+
+O que que seriam os sistemas terceiros? Seriam os
+
+bancos e fornecedores no qual o sistema precisaria ter
+
+integração? Por que necessita da integração? Porque para maioria
+
+das coisas, né? Ou das tarefas que seriam
+
+feitas no sistema, haveria a necessidade de envolver
+
+valores, né? Principalmente aqui a área de contabilidade.
+
+Então a área de contabilidade por si, ela necessitaria também de acesso a bancos e fornecedores.
+
+Então aqui eu poderia colocar de duas formas.
+
+Eu vou até fazer separado para vocês entenderem, tá? Eu vou aqui ao lado,
+
+eu vou subir esse primeiro ator que nós criamos para haver um espaço maior.
+
+E aqui ao lado eu vou criar esse outro ator.
+
+No qual nós vamos colocar o nome de.
+
+Sistemas de terceiros.
+
+E aí nós podemos colocar aqui o entre parênteses bancos e fornecedores.
+
+Beleza.
+
+Que acontece aqui, ó? Aí vem uma coisinha bem bacana
+
+que a gente não conseguiu ter visibilidade nos exemplos
+
+anteriores em aulas anteriores, tá? Primeiro de tudo, aqui
+
+o que os meus sistemas de bancos e terceiros.
+
+Eles seriam as integrações com os sistemas externos.
+
+Beleza.
+
+Então eu vou primeiramente aqui acrescentar a ação para isso devido a ligação de vida.
+
+Então eu vou colocar aqui a integração com sistemas.
+
+Externos.
+
+Beleza.
+
+Vou quebrar a linha aqui para ficar mais legível.
+
+E aí, o que que acontece?
+
+Essa minha integração com sistemas
+
+externos? Como envolve bancos? Seria
+
+aqui a etapa da contabilidade.
+
+Então eu posso falar que nesse contexto, por exemplo, a contabilidade, ela
+
+faria o processo da contabilidade e também a integração com sistemas terceiros.
+
+Beleza.
+
+Da mesma forma, eu também poderia dizer que.
+
+O meu setor de administração e produção logística.
+
+Ele teria o controle das produtividades e também das partes logísticas.
+
+Porém, também teria a necessidade com integração a sistemas terceiros.
+
+Por quê? Porque
+
+envolve fornecedores.
+
+Então, se eu estou falando de peças.
+
+Se eu estou falando de produtos ou se eu estou falando de matérias primas para criar os produtos dentro
+
+da própria empresa, eu estou falando que existe um fornecedor no qual eu compro e ele me fornece isso.
+
+Então, a parte logística, ela também envolve esse contexto.
+
+Tá, então eu poderia fazer amarração aqui, o não apenas do processo de contabilidade.
+
+Beleza.
+
+Deixa eu alterar aqui.
+
+Mas eu também estaria falando sobre esse meu segundo contexto aqui o.
+
+Sobre a produtividade logística.
+
+Tá bom, então só vou fazer aqui uma um pequeno ajuste tá para ficar mais legível.
+
+Mas aí, conforme vocês forem criando aí.
+
+Acompanhando a mim.
+
+O que vocês acharem que fique melhor visualmente, vocês podem fazer a alteração, tá?
+
+Se eu ficar mexendo muito aqui, corrigindo, nós vamos acabar perdendo muito tempo.
+
+Talvez não seja tão adequado e propício para o momento.
+
+Tá? Então vou deixar por enquanto, de qualquer jeito
+
+aqui e o que necessitar de alteração vocês vão
+
+fazendo aí até para fazer exercícios de fixação.
+
+Beleza? Só que aí o que acontece
+
+para os meus sistemas de terceiros.
+
+Aqui eu também necessito de uma outra ação, que
+
+é o que? A migração dos dados legados.
+
+Então, para quem acompanhou as aulas e nós vimos os levantamentos do
+
+sistema de gestão aqui do da empresa, né? Gestão Empresarial, nós vimos
+
+que era necessário fazer a validação e a migração do sistema legado,
+
+ou seja, daquele sistema que era antigo e nós deveríamos pegar
+
+aquelas informações e transferir para o novo sistema que foi criado.
+
+Então, aqui para o meu contexto de sistemas terceiros, eu também
+
+vou poder colocar aqui o migração e validação de dados.
+
+Legados.
+
+Beleza.
+
+E aqui também seria uma ação para esse meu ator aqui que envolve o meu sistema.
+
+Tá bom, São dois conceitos separados no qual nós
+
+precisamos quando estamos falando de sistemas de terceiros aqui.
+
+Beleza.
+
+Bom, fora isso, como eu também mencionei em aulas anteriores,
+
+nós poderíamos tá bom colocar um outro ator aqui.
+
+Eu vou deixar para vocês como exercício de fixação, que seria a
+
+nossa equipe do TI, né? O que que a equipe do TI
+
+ela teria como ação dentro do sistema? Todo o controle, gerenciamento do
+
+sistema, toda atualização e versionamento do sistema, toda a migração de dados.
+
+E então eu poderia alocar aqui a minha equipe de TI.
+
+Ela também faria a migração e validação dos dados ligados aqui, porque eu
+
+obviamente precisaria de um profissional especializado para isso, para envolver essa tarefa e
+
+entre outras coisas, no qual vocês podem pensar e aprofundar ainda mais.
+
+Tá bom? Então pessoal, por toda via, o que
+
+nós fizemos em aula anterior, nós vamos fazer aqui
+
+também, só para não deixarmos as coisas diferentes.
+
+Então vamos acrescentar aqui negrito no nome dos nossos atores para dar um destaque.
+
+Segurando o controle, nós também vamos selecionar todos os casos de uso
+
+e vamos acrescentar aqui a cor azul para darmos um destaque.
+
+E por fim, vamos criar um outro objeto.
+
+Para que nós? Possamos separar o que é a
+
+dor e o que é ações do nosso sistema.
+
+Beleza.
+
+Então vamos retirar esse escrito de objeto e também vamos retirar o fundo, mantendo só a borda.
+
+Vamos acrescentar aqui pelo -5 pixels para dar um destaque e uma
+
+cor azul escuro aqui também para fazer a separação de linhas.
+
+Tá bom.
+
+E aí novamente, né? Como estamos falando de alguns nomes
+
+que estão um pouco grandes, nós temos algumas possibilidades.
+
+A primeira é arrastar o ator, deixar ele mais separado ou quebrar linhas.
+
+Então eu prefiro, em particular, fazer quebras de linhas assim o.
+
+Que dependendo de quanto nós viermos a arrastar.
+
+Possa ser que quando tiver a necessidade de imprimir, de quando tiver a necessidade de gerar
+
+um um PDF ou uma imagem propriamente, fique muito grande e acabe não sendo tão legível.
+
+Então esse aqui especifico nós vamos infelizmente precisar arrastar o que já
+
+tem quebra de linha e o nome tá grande mesmo assim.
+
+Mas os demais nós podemos fazer essa quebra aqui para melhorar a visibilidade.
+
+E aí? Por fim, o que que nós
+
+precisamos para identificação? Acrescentar a ferramenta de title,
+
+né, que é a ferramenta de acrescentar títulos
+
+e escrever o nome aqui o sistema.
+
+De gestão empresarial.
+
+E aí também podemos fazer aqui algumas modificações.
+
+Então vamos colocar 20 pixels de tamanho.
+
+E como eu mencionei, eu não.
+
+Eu não aconselho muito a colocar fundo no texto, mas caso vocês queiram.
+
+Sintam se à vontade.
+
+Outra coisa que é importante também é para onde eu devo
+
+deixar esse meu nome? Eu posso tanto deixar dentro do
+
+meu objeto, tá? Então posso fazer aqui a identificação dentro.
+
+Como eu também posso deixar fora, tem e profissionais que mantém fora.
+
+Eu gosto de manter tudo dentro do quadrado, né? Ou
+
+do retângulo, seja da forma que vocês tiverem criado.
+
+O caso de uso de vocês, mas eu em particular, prefiro manter dentro.
+
+Eu acho que fica mais hidratado, mais organizado.
+
+Beleza.
+
+Então resumo geral para que vocês entendam, para que vocês pratiquem o
+
+caso de uso e a maneira no qual se cria é essa.
+
+Um tipo de diagrama bem simples, como eu já havia mencionado,
+
+é o que é necessário simplesmente conseguir identificar quais são os
+
+requisitos, né? Premissas, quais são os requisitos obrigatórios, opcionais e etc.
+
+E fazer a separação entre esses requisitos e os stakeholders necessários.
+
+E aí eu volto a repetir se você acompanhou as aulas anteriores, você
+
+viu que existem processos, metodologias, técnicas e maneiras de levantar requisitos de formas
+
+mais devidas, mais rápidos, com mais facilidade, propriamente mais completa e mais robusta.
+
+Então, se você acompanhou as aulas anteriores, você vai ver que existe processos de entrevistas,
+
+brainstormings, entre outros, que vai facilitar você levantar esses requisitos e saber que esses
+
+requisitos são para stakeholders específicos, ou seja, para pessoas, partes interessadas, funcionários em questão.
+
+Pertinente aquela entrevista, aquele brainstorming que você realizou.
+
+Então, na hora de transferir para o diagrama, na hora de ilustrar isso,
+
+daí você vai conseguir saber quais são os requisitos pertinentes para quais atores.
+
+Beleza? Bom, me despeço por aqui e espero
+
+que vocês tenham curtido, que vocês estejam gostando.
+
+Fica com Deus e até mais!
