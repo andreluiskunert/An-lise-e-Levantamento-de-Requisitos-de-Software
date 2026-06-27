@@ -1,0 +1,583 @@
+Olá aluna o aluno, sejam muito bem vindos a mais uma aula do nosso curso de Análise
+
+e Levantamento de Requisitos de Software, trazendo a vocês nesta aula um novo conceito, uma nova técnica.
+
+Nesta aula vamos estudar especificamente sobre histórias de usuários.
+
+Na verdade, eu vou tentar fazer uma mesclagem.
+
+Vou misturar não só a técnica de criação de histórias de usuários, mas
+
+também a usabilidade dessas histórias em meio ao contexto de metodologias ágeis.
+
+Tá bom, então nós sabemos que hoje em dia, principalmente a área de desenvolvimento
+
+de software, a área de tecnologia utiliza bastante o conceito de metodologias ágeis.
+
+Então nós vamos tentar mesclar esses dois para ter o entendimento de como funcionaria isso na prática.
+
+Tá bom.
+
+Bom, as metodologias ágeis, elas têm revolucionado a forma de como
+
+as equipes de desenvolvimento de software abordam o processo de análise
+
+de requisitos, em vez de utilizar uma documentação extensa e rígida.
+
+As equipes agora apoiam em histórias de usuários ou chamada de user
+
+Stories para capturar e comunicar os requisitos de forma mais eficaz.
+
+Então, aquelas documentações que eu já passei para vocês em aulas anteriores,
+
+aquilo que nós vimos em relação a objetivos descritas e etc.
+
+Nós já não utilizamos tanto no meio do quesito ou no contexto de utilização em metodologias ágeis.
+
+Então, quando nós trabalhamos com o levantamento de requisitos em meio a metodologias
+
+ágeis, na verdade a gente acrescenta as técnicas de user Histories beleza.
+
+Bom, mas aí vocês devem estar se perguntando o que são as histórias de usuários?
+
+Bom, Histórias de usuário é uma técnica popular em metodologias ágeis como Scrum e Kanban
+
+para descrever as necessidades e expectativas de um software ou dos usuários em um software.
+
+Elas são apresentadas de forma concisa e geralmente seguem um formato simples.
+
+Então, o que eu preciso para criar uma história
+
+de usuário? Bom, eu preciso ter um objetivo principal.
+
+Eu preciso ter uma ação.
+
+E eu preciso ter um usuário que vai executar aquela ação para atingir aquele objetivo.
+
+Beleza.
+
+E aí existe o modo de escrita, né?
+
+E eu já mencionei isso em aulas anteriores.
+
+Bom, então eu tenho aqui três conceitos que são fundamentais para que se crie uma história de usuário.
+
+E eu? Além disso, também necessito ter um
+
+modo de escrito que abrange esse determinado contexto.
+
+Esse modo de escrita vai variar de analista para analista, de
+
+empresa para empresa, de equipe para equipe, de cultura para cultura.
+
+Aqui eu coloquei do seguinte modo o como um usuário ou como um tipo de usuário.
+
+Eu quero realizar uma ação para atingir um objetivo específico.
+
+Isso tratando como um exemplo.
+
+Olha só como um cliente.
+
+Eu quero ser capaz de realizar compras on line para economizar tempo.
+
+Beleza, Mas eu poderia escrever de outra forma.
+
+Poderia escrever eu como um cliente.
+
+Desejo ser capaz de realizar compras online para economizar tempo.
+
+Então a maneira de escrita eu mudaria.
+
+Mas o que nós devemos nos atentar nesse exemplo que eu tenho Os
+
+três conceitos que foram necessários para criar uma breve história, como mencionado acima.
+
+Então, quem é o usuário? O usuário e o
+
+cliente? Qual a ação que ele necessita realizar? Ele
+
+necessita ser capaz de realizar compras online? Por que?
+
+Qual é o objetivo de ele precisar realizar compras
+
+online para ter uma economia de tempo? Então, aqui
+
+eu tenho os três tópicos fundamentais, que é o
+
+usuário, a ação que ele precisa realizar e o
+
+objetivo no qual ele está realizando aquela ação.
+
+Bom, e aí, dando continuidade, cada história de usuário é uma unidade independente de funcionalidade ou
+
+requisito, que descreve um pequeno pedaço do valor que o software deve entregar aos usuários.
+
+Então eu estou dizendo que a história de usuário é uma unidade independente de
+
+funcionalidades ou de requisitos, porque pode ser uma característica, pode ser um requisito não
+
+funcional, pode ser um requisito de usabilidade, pode ser um requisito de desempenho.
+
+Então eu tenho que saber colocar cada um desses
+
+requisitos ou cada uma das funcionalidades dentro do contexto.
+
+Beleza, Mas aí você coloca como separação.
+
+Por quê? Porque são cada um dos pedacinhos que você vai
+
+criar separado, que vai criar a história do usuário de acordo
+
+com todas as funcionalidades que você descrever e levantar também.
+
+Beleza.
+
+E aí, quais são as vantagens de eu fazer uma utilização da técnica de histórias de usuários
+
+em meio à metodologia ágil, seja aí na utilização juntamente a Scrum ou juntamente a Kanban.
+
+Bom.
+
+As histórias de usuário oferecem várias vantagens na análise de requisitos e em metodologias ágeis.
+
+Então, a primeira é o que Uma compreensão simples A história de
+
+usuário é fácil de entender, mesmo para pessoas sem conhecimento técnico.
+
+Então, lembra que eu venho falando em aulas anteriores desde o início do curso,
+
+que algumas pessoas, algumas áreas, não têm a obrigatoriedade de saber conceitos técnicos.
+
+Então, a maneira de você ter uma escrita fácil, de fácil entendimento, para que todos tenham
+
+interação e criando uma história de usuário, então a compreensão simples se enquadra nesse contexto aqui.
+
+Isso torna a ferramenta mais eficaz para envolver todas as partes interessadas.
+
+Então, todos os stakeholders, desde os técnicos aos não técnicos, desde aos
+
+especialistas das áreas, dependendo do software que você vier a construir.
+
+Como eu já dei exemplos em aulas anteriores, pode ser um especialista da área de logística.
+
+Ele entende muito de logística, mas ele não entende de TI, então conceitos técnicos ele não entenderia.
+
+A história caberia bastante nesse conceito aqui.
+
+Segundo é o foco no valor.
+
+Ele destaca o valor em que o software trará aos usuários,
+
+ajudando a equipe a priorizar os recursos que trarão mais benefícios.
+
+Então, quando eu acrescentei a história de usuários, como foi mencionado
+
+anteriormente, eu tenho o usuário no qual vai realizar a ação.
+
+Eu tenho a ação que precisa ser feita e eu tenho o
+
+objetivo de conquista no qual aquela ação, quando executada, vai ser realizada.
+
+Então eu consigo, perante a todas as ações descritas, saber qual é aquela que
+
+mais vai me agregar benefícios, qual que vai mais me agregar valor, qual
+
+que é uma criticidade maior a qualquer uma premissa e por aí vai.
+
+Então, o foco no valor, ele também vai ser funcional nesse conceito, principalmente para gerar
+
+lucro e rentabilidade no sistema, para que logo de imediato, logo de início, ele
+
+seja disponibilizado no mercado e a empresa comece a lucrar em cima dele também.
+
+O terceiro é o que é a flexibilidade.
+
+As histórias de usuários são flexíveis e podem ser atualizadas
+
+conforme a equipe adquire mais conhecimento e feedback do cliente.
+
+Então, aqui nós também temos uma facilidade de mudança de
+
+versionamento da documentação de versionamento da história de usuário.
+
+Tá bom.
+
+E sempre que houver mudanças é mais fácil de alterarmos também.
+
+Então a flexibilidade para a mudança se enquadra nesse contexto de vantagens.
+
+E aí nós temos o nosso quarto, que é a colaboração, porque a colaboração incentiva a colaboração
+
+entre os membros da equipe, pois todos trabalham juntos para entender e refinar as histórias de usuário.
+
+Então, toda a equipe é partilhada dentro do mesmo documento,
+
+dentro da mesma história, e saber se tudo está aderente.
+
+É aqui que a entrega contínua permite que as equipes entreguem o valor constantemente,
+
+uma vez que as histórias de usuário podem ser implementadas em interações curtas.
+
+Então, quando eu falo de metodologia ágil, estou falando de trabalho, em que eu posso parar
+
+de fazer uma determinada tarefa e iniciar uma outra que talvez seja uma prioridade maior.
+
+Então, aqui eu consigo fazer o que? Entregas
+
+contínuas, consigo criar coisas separadas, diferente de uma
+
+documentação completa que eu teria de documentar tudo.
+
+Eu teria de criar todas as funcionalidades para todos os
+
+módulos, envolvendo tudo, para depois eu poder apresentar isso aqui.
+
+Eu consigo criar histórias separadas e eu consigo fazer com
+
+que o desenvolvimento seja apartado, seja também por pedaços.
+
+As entregas aconteçam por
+
+pedaços, Tá bom? Bom.
+
+E aí? Dando continuidade ao processo de análise de requisitos com
+
+histórias de usuários, então o que é necessário para criar se
+
+uma história de usuário? Quais são os passos necessários? Bom, aqui
+
+já são alguns conceitos que na verdade nós vimos em muitas
+
+aulas anteriores, que cabe também dentro de histórias de usuários, que
+
+é o que a identificação das histórias de usuários, a
+
+história de usuário são identificadas e coletadas a partir das
+
+necessidades dos usuários, os objetivos de negócios e outras fontes.
+
+Então, aqui a gente está entendendo que fazer as entrevistas, brainstorms e tudo o mais que
+
+envolve os stakeholders para saber das dores do que eles precisam, do objetivo principal do sistema,
+
+da regra de negócio que envolve em torno do projeto ou do produto é fundamental.
+
+Então, a identificação das histórias acontece por meio disso.
+
+O segundo processo é
+
+o quê? A priorização.
+
+As histórias de usuários são priorizadas com base em critérios
+
+como o valor para o cliente, complexidade e dependências.
+
+Então, se aquilo é importante para o cliente ou se aquilo é muito difícil de fazer,
+
+ou se há dependências de sistemas de outros módulos ou de tarefas trabalhos no cotidiano.
+
+Perante aquela funcionalidade, então, a priorização é enquadrada perante esses critérios.
+
+Então isso é muito importante para o cliente, mais não é
+
+de certa forma importante para o sistema, não é considerado crítico.
+
+Agora, se é algo que é importante para o cliente e precisa ter dentro do sistema, é algo crítico.
+
+E aí envolve todos os outros conceitos também.
+
+Terceiro, a estimativa.
+
+A equipe estima o esforço necessário para implantar cada história usando técnicas de planning poker.
+
+Beleza, Então, o que é uma plena e pouca.
+
+Isso daqui envolve a parte de ScrumMaster.
+
+Então vai existir um Scrum Master na equipe.
+
+Ele vai realizar planos e essas Planes terão determinadas datas e essas datas.
+
+Ele vai agregar tarefas, esforços e entregas perante aquele determinado período.
+
+Foi aí o quarto processo fundamental e o refinamento.
+
+Por que as histórias de usuários são refinadas?
+
+Para garantir que sejam claras, testáveis e compreensíveis.
+
+Detalhes adicionais podem ser adicionados durante essa etapa.
+
+Beleza, Então eu consigo também ter aqui um refinamento que é o refinamento, e
+
+ter um detalhamento, uma descrição maior daquela determinada história, envolvendo algo ou outros conceitos,
+
+ou outras coisas, ou outras premissas que gira em torno daqueles tópicos principais.
+
+Então eu consigo incrementar, dar mais detalhes dá mais riquezas às minhas histórias também.
+
+Quinto Implementação.
+
+As histórias de usuários são implementadas em iterações curtas, geralmente chamadas de sprints no Scrum.
+
+Ele usa seis testes de validação.
+
+Cada história de usuário é testada para garantir que atenda aos critérios de aceitação definidos.
+
+Envolve você como um analista também fazer esses testes, fazer as validações, saber se o
+
+que foi desenvolvido entregue está aderente, está batendo com o que foi descrito na história.
+
+E o sétimo feedback adaptação com base no feedback do cliente e na experiência da equipe.
+
+As histórias de usuários podem ser adaptadas e refinadas para futuras iterações.
+
+É o que eu comentei no início dessa aula sobre as maneiras de escrita,
+
+maneiras de abordagem, como que você vai descrever as ações, os usuários, os objetivos.
+
+Então você consegue adaptar de acordo com os interesses de todos os envolvidos.
+
+Tá bom? E aqui eu estou colocando alguns exemplos de
+
+histórias de usuário Estão quebradas aqui por partes de
+
+diferentes necessidades, diferentes projetos, diferentes tipos para vocês entenderem.
+
+Olha só.
+
+Para um aplicativo de compras on line, por exemplo.
+
+Como um cliente, eu quero ser capaz de pesquisar produtos
+
+por categoria para encontrar facilmente o que estou procurando.
+
+Então, aqui quem é o usuário e
+
+o cliente? O que ele precisa
+
+fazer? Qual é o objetivo? Qual
+
+que é a ação? Ser capaz
+
+de pesquisar produtos por categoria? Por
+
+quê? Para ter uma facilidade de
+
+encontrar o que está sendo procurado.
+
+Beleza.
+
+Oh, como um usuário registrado, eu quero receber notificações por e-mail quando o preço de
+
+um item da minha lista de desejos cair para que eu possa economizar dinheiro.
+
+Acho que quem que é o usuário? O próprio usuário
+
+que ele precisa receber notificações de e-mail, de preços, de
+
+itens, das listas de desejos quando esses preços eles abaixarem.
+
+Porque? Qual o
+
+objetivo desta
+
+ação? Economizar
+
+dinheiro? Beleza.
+
+Já no nosso segundo exemplo, um aplicativo de gerenciamento de tarefas.
+
+Primeiro foi de compras e de gerenciamento de tarefas com um usuário.
+
+Quero poder atribuir tarefas a membros da minha equipe para que possamos colaborar de forma eficaz.
+
+Olha só quem é usuário e o que ele precisa fazer.
+
+Qualquer ação, atribuir tarefas a membros de equipe para o quê? Para que
+
+possa ser colaborativo, a forma de trabalho seja eficaz mesmo segundo a.
+
+Como um gerente de projeto, eu quero ter a capacidade de definir prazos
+
+para tarefas para garantir que o projeto seja concluído dentro do cronograma.
+
+Quem é aqui? O usuário, no
+
+caso, é o gerente de projeto.
+
+O que ele precisa? Qual é
+
+a ação? Ter a capacidade
+
+de definir prazos para tarefas.
+
+Porque? Qual o objetivo? Garantir que
+
+o projeto seja concluído dentro do
+
+cronograma, fazendo até um adendo ao
+
+que está escrito aqui, galera.
+
+Para essas partes importantes nós podemos dar destaques da maneira que eu fiz lá
+
+no início do slide, então eu poderia acrescentar para os objetivos principais negrito.
+
+Eu poderia dividir cores, por exemplo, especificar que toda vez que estiver falando de
+
+um tipo de usuário, acrescentar uma cor azul em destaque, o que for
+
+uma ação, eu posso acrescentar aí uma outra cor, um laranja talvez e.
+
+Para o que for um objetivo, eu posso acrescentar a vermelho.
+
+Então posso destrinchar por cores também, até para ficar visualmente melhor,
+
+mais atrativo e mais fácil de entender e absorver as informações.
+
+Tá bom.
+
+Terceiro, um site de notícias.
+
+Como leitor, eu quero ver manchetes e resumos de notícias na página
+
+inicial para que eu possa rapidamente identificar os artigos que me interessam.
+
+Ou aqui.
+
+Quem é o usuário e o leitor? Quais são as ações
+
+que ele precisa ver Manchetes e resumos de notícias na página
+
+inicial? Porque? Qual o objetivo para que ele possa rapidamente fazer
+
+identificações dos artigos que ele tem interesse? Mesmo agora, sobre o
+
+editor, como editor, eu quero ter a capacidade de editar e
+
+atualizar artigos existentes para manter o conteúdo relevante e preciso.
+
+Então, quem é o usuário
+
+E o editor? Qual a
+
+ação? Ter a capacidade de
+
+editar e atualizar artigos existentes?
+
+Porque? Qual o objetivo? Manter
+
+o conteúdo relevante e preciso.
+
+Veja agora sobre um quarto exemplo que é o sistema de reservas de hotel.
+
+Como um viajante, eu quero ser capaz de escolher as datas da minha estadia
+
+e ver a disponibilidade de quartos para que eu possa fazer uma reserva.
+
+Bom, quem é o usuário e o viajante que ele precisa possam ser capaz de escolher
+
+datas de estadia e ver disponibilidades de quartos, porque o objetivo é fazer uma reserva.
+
+Agora como um funcionário.
+
+Como funcionário do hotel, eu quero receber uma notificação quando uma nova
+
+reserva for feita para que eu possa preparar o quarto a tempo.
+
+Então o usuário aqui é o funcionário do hotel.
+
+Qual que é a ação? Receber notificação quando
+
+uma nova reserva for feita? Por que? Qual
+
+o objetivo Para que ele possa preparar
+
+o quarto a tempo, ou seja, antes
+
+do viajante chegar e se hospedar? Beleza
+
+que em dezembro aplicativos de redes sociais.
+
+Como usuário, eu quero ter a opção de curtir, comentar e
+
+compartilhar postagens de outros usuários para interagir com os meus amigos.
+
+O usuário aqui é usuário do aplicativo.
+
+Qual é a ação que ele precisa ter a
+
+possibilidade de curtir, comentar e compartilhar postagens? Por que?
+
+Porque ele precisa de interação com os amigos.
+
+Então o objetivo é interagir entre as pessoas.
+
+Agora como administrador do sistema, eu quero a capacidade de monitorar
+
+e moderar o conteúdo postado para manter a comunidade segura.
+
+Então, o usuário aqui, ele é o administrador do sistema com
+
+o objetivo capacidade de monitorar e moderar o conteúdo postado.
+
+Ou seja, o objetivo aqui fundamental é manter a comunidade segura,
+
+então evitar determinados tipos de postagens, tipos de conteúdo e etc.
+
+Então o resumo geral sobre histórias de usuários pessoal.
+
+Cada uma das histórias de usuários descreve uma funcionalidade ou um requisito específico do
+
+software a partir da perspectiva de um tipo de usuário e o seu objetivo.
+
+Elas são breves e diretas, facilitando a comunicação entre os membros da equipe e as partes interessadas.
+
+À medida em que a equipe trabalha em cada história, os detalhes podem
+
+ser adicionados para garantir uma compreensão completa do que está sendo solicitado.
+
+Beleza.
+
+Resumo geral A análise de requisitos usando histórias de usuários em metodologias ágeis oferece uma abordagem
+
+eficaz e flexível para capturar as necessidades dos usuários e entregar o valor de forma incremental.
+
+Elas promovem a colaboração, a comunicação e a entrega contínua, tornando se
+
+uma ferramenta essencial no arsenal de qualquer equipe de desenvolvimento ágil.
+
+Ao focar no que é mais valioso para os usuários, as histórias de usuário ajudam as equipes
+
+a criar um software que realmente atende as necessidades do mercado de maneira eficiente e eficaz.
+
+Então galera, para que vocês tenham o entendimento geral história de usuários Hoje em dia,
+
+principalmente na atualidade, a maioria das empresas de software trabalham com metodologias ágeis, com
+
+equipes e metodologias ágeis, seja Scrum, seja Kanban ou qualquer outro tipo de metodologia.
+
+Então, assim, a maioria das empresas no qual você vier a atuar, seja na maioria das
+
+vezes, vai fazer mais histórias de usuários do que propriamente documentações e versionamento das documentações.
+
+E aí, novamente, por quê? Porque é mais
+
+objetivo e mais rápido e mais curto.
+
+E traz mais valor, mais rentabilidade, mais lucro para a empresa que está desenvolvendo
+
+aquilo e, claro, uma maior satisfação, uma maior agilidade e um produto no
+
+ar, com mais rapidez e mais robustez para quem vai fazer a usabilidade.
+
+Espero que vocês tenham entendido e principalmente que vocês tenham gostado.
+
+Nas próximas aulas eu vou trazer exemplos de alguns tópicos que já
+
+vimos em aulas anteriores, só que dessa vez como histórias de usuários.
+
+E aí vamos fazer alguns comentários a respeito.
+
+Me despeço por aqui, Fica com Deus e até breve.
