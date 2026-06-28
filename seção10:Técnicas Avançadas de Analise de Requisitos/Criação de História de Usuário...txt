@@ -1,0 +1,833 @@
+Olá Luna! Olá Luna, sejam muito bem vindos
+
+a mais uma aula do nosso curso de
+
+Análise e Levantamento de Requisitos de Software.
+
+Trazendo a vocês nesta aula com exclusividade, uma aula para falarmos um pouco
+
+sobre quais são as maneiras de construção de uma história de usuário.
+
+Bom, então para quem está acompanhando o curso desde o início, não pulou nenhuma aula.
+
+Com certeza vai se recordar dos casos que tivemos sobre sistemas de gerenciamento de bibliotecas.
+
+Aplicativo de entrega de alimentos e também o sistema de gestão empresarial.
+
+Bom, eu vou tentar usar alguns desses exemplos do qual nós já vimos, já conhecemos, já
+
+estamos habituados para tentar fazer uma ilustra atividade daqueles desafios das soluções em que nós havíamos
+
+falado nas aulas anteriores para trazer como um exemplo de história de usuário a vocês.
+
+Bom, então só recapitulando, né?
+
+O sistema de bibliotecas.
+
+Ele tinha um desafio no qual os analistas de requisitos tinham obrigatoriedade de sanar.
+
+Então, um dos desafios principais era que o sistema de gerenciamento
+
+era obsoleto e não atendia às necessidades dos usuários daquela biblioteca.
+
+Os bibliotecários.
+
+Eles também enfrentavam dificuldades com localizações de livros, não
+
+tinham acesso a catálogos, estoques nem nada do tipo.
+
+E também tinha uma necessidade principal, que era a
+
+modernização do sistema, sem interromper o funcionamento da biblioteca.
+
+Bom, e aí? Lá Nas aulas anteriores
+
+eu havia comentado que era necessário fazer
+
+um um levantamento de requisitos, um mapeamento.
+
+Aí entrariam técnicas que são as que nós estudamos ao
+
+decorrer das aulas, entrevistas, brainstormings e assim por diante.
+
+Nós falamos com determinados stakeholders, então vimos quais eram os stakeholders envolvidos,
+
+as partes interessadas até aqui, e aí chegamos a uma determinada solução.
+
+Bom, qual era a
+
+solução? Bom, a equipe.
+
+Ela havia conduzido as entrevistas com bibliotecários, funcionários e frequentadores.
+
+Então, aqui nós tínhamos aprendido que eram três stakeholders.
+
+Um era o bibliotecário, um era o funcionário, o outro era o frequentador.
+
+Beleza.
+
+E aí foi feito os mapeamentos necessários até então para que a solução fosse a mais viável possível.
+
+Beleza.
+
+Então, com base nessas informações, com base nesses informativos,
+
+é que nós daremos início a nossa aula.
+
+Até então, beleza.
+
+Bom, e aí? O que eu quero mostrar
+
+para vocês até aqui é o seguinte.
+
+Primeiro de tudo é que nós temos algumas regras para criar as histórias de usuários
+
+e uma das primeiras regras é a identação ou a hierarquia de funcionalidades, de
+
+premissas, de técnicas, de escritas ou de recursos que você precisa ter na documentação.
+
+Então eu coloquei já aqui e em determinada ordem sequencial, no qual geralmente uma história de
+
+usuário ela é escrita e quais são os nomes propícios que são dados a ela.
+
+Se você é habituado a trabalhar em uma empresa que as pessoas não se importam em ter
+
+uma escrita escrita em inglês ou se é uma premissa ter a escrita em inglês, tá bom.
+
+Então, o primeiro de tudo que nós precisamos ter dentro de
+
+uma história do usuário, obviamente é a história de usuário.
+
+Beleza.
+
+Segundo nós, a partir de uma história de usuário que escrevemos, nós também precisamos de uma premissa.
+
+E aí, após a premissa, nós temos aí o que seria dado ou reconhecido como
+
+requisitos funcionais, outros não funcionais, e também teríamos critérios de aceitação e definições de concluído.
+
+Como assim? Eu não estou
+
+te entendendo? Tá meio
+
+confuso, tá meio bagunçado.
+
+Beleza, vamos seguir por partes e sem pressa.
+
+Bom, primeiro de tudo é a história do usuário.
+
+Ela nada mais é do que uma descrição do cenário no qual
+
+existe uma necessidade e também um objetivo no qual você precisa sanar.
+
+Então, se a gente partir em consideração do que nós vimos há pouco,
+
+nós tínhamos falado que o sistema da biblioteca tinha três lados, né?
+
+Tinha o lado do bibliotecário, tinha o lado do frequentador e tinha
+
+um outro terceiro stakeholder que eu não vou me recordar de imediato.
+
+Mas nós tínhamos três necessidades, três pontos de vistas, três formas de usabilidade.
+
+Beleza.
+
+Então, a história de usuário nesse contexto, na verdade seriam três.
+
+Porque? Porque teriam descrições de cenário de cada um
+
+dos stakeholders responsáveis ou principais daquela determinada situação,
+
+daquele determinado problema e também daquela determinada solução.
+
+Então, a primeira regra que nós temos é que, quando houver a necessidade
+
+de criação de histórias de usuários, cada usuário terá a sua própria história.
+
+Cada usuário terá a sua própria premissa.
+
+Cada usuário terá suas próprias requisições, tanto funcionais quanto não funcionais.
+
+Cada um deles terá de ser separadamente.
+
+Bom, por que que eu digo isso? História de usuário
+
+pessoal Ela nada mais é do que uma pequena tirinha
+
+que você vai disponibilizar para o desenvolvedor criar aquilo.
+
+Então, ao invés de o desenvolvedor usar uma documentação e ficar procurando o que que ele precisa fazer, por
+
+onde ele deve começar, o que que deve ser usado, como que deve ser feito a história de usuário.
+
+Ela literalmente vai servir para sanar essas documentações.
+
+E o desenvolvedor ele utilizar a história em específico com os requisitos específicos
+
+para desenvolver aquilo que é necessário para aquela ocasião, para aquele determinado propósito.
+
+Beleza, então, devido a isso, a necessidade da separação, porque aí ele consegue entender para quem ele tá
+
+criando, por que que ele tá criando e o que ele tá criando ou desenvolvendo, como vocês preferirem.
+
+Então o que eu vou fazer aqui, pessoal, nada mais é do que
+
+separar tudo aquilo que nós já vimos, só que de maneira escrita.
+
+Beleza.
+
+Então, a primeira coisa que nós faremos aqui é o seguinte separar história de usuário, premissas.
+
+E requisitos.
+
+Bom, qual seria a nossa primeira história de usuário? Nós
+
+poderíamos falar especificamente sobre o usuário da biblioteca, tá?
+
+Então, antes de tudo, vamos colocar aqui um título.
+
+Vamos colocar aqui e.
+
+O usuário.
+
+Da biblioteca.
+
+Deca beleza que aí nós estamos sabendo que estamos falando do usuário da biblioteca.
+
+Bom, qual que é a user
+
+dele? Como que nós escrevemos isso
+
+daqui? Não é uma regra.
+
+Existem várias formas.
+
+Como eu mencionei, também existe a parte cultural da empresa.
+
+Então, se você é acostumado a escrever de uma determinada forma, você migra de empresa.
+
+Você provavelmente vai ter que se adequar a se adaptar a maneira que eles escrevem lá.
+
+Mas não é assim um bicho de sete cabeças, Tá bom.
+
+Então eu vou começar aqui de um princípio fictício para que vocês entendam e tenham a percepção.
+
+Então, como eu estou falando do meu usuário da biblioteca, é,
+
+eu sei o que que ele precisa, porque eu mapeei.
+
+Eu fiz todos os levantamentos devidos e necessários na hora das entrevistas e brainstorms e por aí vai.
+
+Eu tenho tudo que eu preciso para poder começar a escrever essas histórias.
+
+Tá, eu poderia colocar assim o como um usuário.
+
+Frequente da Biblioteca Municipal.
+
+Vírgula.
+
+Eu gostaria.
+
+Há de ter um.
+
+Processo de empréstimo.
+
+De livros.
+
+Mais eficiente e conveniente para que eu.
+
+Possa acessar os livros que desejo.
+
+De maneira mais rápida.
+
+E sem.
+
+Complicações.
+
+Bom, o que eu estou dizendo aqui, De certa forma eu estou
+
+narrando o que que o usuário ele precisa? Quais são as premissas?
+
+O que que ele deseja? Como uma determinada solução para o problema
+
+que ele tem? O que que nós devemos nos atentar aqui?
+
+Primeira coisa é que a letra ela tem que estar visivelmente
+
+adequada para o que é título e o que é história.
+
+É aquilo que nós já vimos em aulas anteriores.
+
+Também podemos acrescentar aqui o eu.
+
+Como um usuário frequente da Biblioteca Municipal.
+
+Aqui nós destacamos de certa forma, para que as pessoas, os desenvolvedores,
+
+os participantes, quem tiver acesso e puder olhar a documentação, consiga ter
+
+determinados destaques naquilo que é devidamente interessante ou importante na documentação.
+
+Então, quando eu destaco aqui, o usuário frequente da biblioteca Municipal, eu já estou
+
+mencionando sobre quem eu estou falando, quem é o stakeholder, quem que é o
+
+responsável por aquela determinada história ou por aqueles requisitos que serão levantados ali.
+
+Tá bom? O que
+
+que ele gostaria de
+
+ter? Olha só.
+
+Processo de empréstimos de livros? Tá, então eu vou acrescentar negrito nisso daqui, porque
+
+qual que é o objetivo dele? Lembra que nós tínhamos três premissas a
+
+e quem é a pessoa ou quem é o sistema? Qual que é
+
+a necessidade e o objetivo daquela necessidade? Então, aqui o nós já identificamos
+
+quem é a pessoa, por qual objetivo e qual que é a necessidade.
+
+Olha só acessar os livros.
+
+De maneira mais rápida e sem complicações.
+
+Então, aqui seria uma breve história do que nós poderíamos ter
+
+com relação ao usuário, tá? Ao frequentador da biblioteca, beleza.
+
+Bom, e aí, o que que
+
+seria considerado? Premissas? O que
+
+que é importante aqui? O
+
+A premissa é deve haver.
+
+Ou melhor.
+
+O sistema da biblioteca deve listar quais são os livros disponíveis no
+
+momento da consulta, de acordo com as classificações escolhidas ou gêneros.
+
+Gêneros.
+
+De livros.
+
+Aqui eu estou dizendo o pessoal que há uma necessidade de exibição.
+
+Para quando a pessoa ela vier a pesquisar determinados
+
+livros que exiba por obrigatoriedade no aplicativo de consulta.
+
+Todos os livros que estão disponíveis para aluguel para locação, de acordo com o gênero que ela pesquisou.
+
+Então, se ela pesquisou romance, vai ver ali a lista de livros românticos disponíveis.
+
+Então isso é uma consideração premissa.
+
+Tá bom que que é dado como importante Porque? Porque senão
+
+vou fazer a pessoa ficar pesquisando nome por nome de livro.
+
+Não faz sentido, né? Ah, eu queria saber se o livro
+
+XPTO tá disponível aí tem que digitar o nome XPTO lá.
+
+E se ela não souber o livro que ela quer ou ela não souber
+
+o nome que ela quer? Então a gente tem que pensar neste conceito também.
+
+Tá bom.
+
+Bom, dando continuidade aqui.
+
+Sobre os nossos requisitos funcionais, os nossos requisitos funcionais.
+
+Eles são baseados também de acordo com a história no qual nós estamos escrevendo no momento.
+
+E aqui também existem algumas regrinhas, tá? Dentro dos requisitos
+
+funcionais, nós precisamos primeiramente ter o nome do requisito.
+
+E também nós precisamos ter o número daquele requisito como identificação.
+
+Vou dar um exemplo para vocês aqui.
+
+Então, o primeiro requisito que nós teremos aqui para essa história em específico é empréstimo.
+
+De livros.
+
+Beleza.
+
+Este nomezinho aqui, ele poderia ser dado como o nome
+
+do meu primeiro requisito funcional, ou seja, o aplicativo.
+
+Deve haver a possibilidade de empréstimos de livros, né, De fazer empréstimos.
+
+E aí eu teria, como eu mencionei, a numeração do
+
+requisito, ou seja, para realizar o empréstimos de livros.
+
+Quantos requisitos são necessários criar para que
+
+isso dê certo? Então vamos lá.
+
+Aí nós fazemos algumas separações aqui.
+
+A primeira separação é que o requisito.
+
+Eu poderia escrever dessa forma aqui.
+
+O cenário Requisito zero um Tá bom, Então eu estou dizendo aqui
+
+qual é o tipo de requisito e qual é o número dele.
+
+Mas observe que eu tenho aqui o requisitos funcionais e requisitos não funcionais.
+
+Então eu poderia fazer dessa forma aqui também.
+
+O requisito funcional zero um abreviação de Requisito
+
+Funcional quando fosse requisito não funcional Ávila.
+
+Aí eu poderia colocar assim o requisito não funcional zero um Beleza!
+
+Porque aí eu estou dizendo qual é o número do requisito e
+
+também a referência se ele está sendo funcional ou não funcional.
+
+Então, eu em particular, gosto de escrever dessa forma aqui o requisito funcional zero um.
+
+Beleza? E aí, qual que
+
+é o cenário Aqui ó?
+
+Vamos colocar assim, ó.
+
+O usuário da Biblioteca
+
+Municipal deve emprestar livros.
+
+De forma.
+
+Rápida e sem filas longas.
+
+Beleza aqui é um requisito específico.
+
+Agora vamos para um requisito funcional zero dois o requisito funcional zero dois.
+
+Poderíamos colocar assim o.
+
+O usuário.
+
+Da biblioteca.
+
+Deve receber um aviso de que um livro.
+
+Que ele está lendo.
+
+Um foi reservado por outro usuário.
+
+A beleza.
+
+Requisito zero três Olha só Requisito funcional zero três.
+
+O usuário da biblioteca.
+
+Deve possuir um opcional de renovação de empréstimos.
+
+Se possível.
+
+Sem ter que ir fisicamente à biblioteca.
+
+E aqui, se a gente for pensando, a gente vai conseguir achar 1001 outros requisitos, tá bom.
+
+E aí a lembrando as hierarquias devidas, no qual já nós tínhamos falado anteriormente,
+
+acrescentar destaque no que precisa e não tanto destaque no que não precisa.
+
+Beleza aqui pessoal, é fictício.
+
+Obviamente que se você sair pensando aí de forma mais
+
+detalhada, mais aprofundada, vai sair muito mais coisa daqui.
+
+E aqui entra também um outro ponto mencionado.
+
+Olha só que interessante.
+
+Se subirmos o documento aqui, estou falando que eu sou o usuário
+
+o como um usuário frequente da biblioteca, estou pensando como um usuário.
+
+Aqui o requisito eu também poderia colocar dessa forma.
+
+Então, assim o como um usuário da biblioteca municipal devo.
+
+Emprestar livros de forma rápida e sem filas longas.
+
+O.
+
+Mais um para vocês entenderem.
+
+Como um usuário da Biblioteca Viva, devo receber um aviso de um
+
+livro que está sendo lido e que foi reservado por outro usuário.
+
+Beleza.
+
+Outro.
+
+Como um usuário da biblioteca, devo possuir um opcional de renovação
+
+de empréstimo, se possível sem ter que ir fisicamente à biblioteca.
+
+E aqui de novo, como um usuário da biblioteca negrito.
+
+De novo como um usuário da biblioteca.
+
+Negrito.
+
+Por quê? Porque eu estou destacando
+
+quem que é o usuário.
+
+Perdão, estou destacando quem que é o dono da história no momento.
+
+Beleza? E aí, quais são as
+
+necessidades? O emprestar livros? Um para
+
+o outro aqui o receber um
+
+aviso ou receber uma notificação.
+
+Aqui galera, quando vocês forem escrevendo as histórias assim.
+
+Em equipes de empresas médias a grande porte, você nunca vai trabalhar sozinho.
+
+Sempre vai ter pessoas, profissionais, companheiros de equipe que vai te ajudar a validar a história.
+
+O que seria a validação
+
+da história? Seria o
+
+refinamento dos requisitos? Ávila
+
+Como assim? Vamos lá.
+
+O.
+
+Nós estamos escrevendo aqui a primeira história, que é a
+
+do usuário, e nós achamos três requisitos funcionais aqui.
+
+Quando nós fazemos o refinamento dos requisitos, basicamente é uma reunião no
+
+qual você mostra essa documentação para pessoas que também entendem do contexto
+
+da regra de negócio, daquele determinado projeto ou daquele determinado produto.
+
+E vocês começam a dialogar e fazer questionamentos em cima daqueles requisitos para entender
+
+se é viável, se não é, se dá para fazer de outra forma,
+
+se assim é mais rápido, se assado e mais rápido e assim sucessivamente.
+
+E aí acaba aqui também a parte escrita, né? O
+
+português ali ele acaba sendo modificado devido a alguns
+
+pedidos, então as pessoas às vezes até comenta aí.
+
+Se você escrever de uma forma mais objetiva e não tão formal, se você escrever de uma forma mais formal
+
+e não tão objetiva, se você detalhar o nome do banco de dados que vai ser usado e se
+
+você acrescentar o nome das colunas ou dos dados que serão passados dentro de uma API e assim sucessivamente.
+
+Então seu documento ele vai sendo incrementado e vai
+
+sendo reajustado, realocado conforme você vai fazendo esses refinamentos.
+
+Então aqui é um exemplo no qual eu já estou dando, no
+
+qual talvez seria um termo mais técnico que todo mundo entenderia.
+
+Então aqui o ao invés de receber um aviso, eu poderia colocar receber uma notificação.
+
+E então, o que que é importante quando eu estou escrevendo histórias de usuário que
+
+quanto mais eu fizer a leitura, quanto mais eu tiver o entendimento, mais modificações minhas
+
+eu vou conseguir colocar? Porque o eu escrevi a primeira vez de uma forma
+
+só de eu estar lendo o que eu escrevi, eu já fiz uma modificação.
+
+Se eu for fazer a leitura de novo, eu vou achar um outro contexto
+
+que vai me caber mais juntamente a essa notificação, com um acréscimo ou acrescentando
+
+mais informações ali, entende? Então é fundamental escrever sim, mas é mais fundamental ainda
+
+você revisar e reescrever aquilo que já tinha sido feito por uma primeira vez.
+
+Beleza.
+
+Bom, dando continuidade, eu não vou adentrar muito aqui
+
+porque a aula já deve estar sendo muito longa,
+
+né? Mas vamos para os requisitos não funcionais.
+
+Então, como eu tinha mencionado.
+
+Requisito não funcional RF01 que que é considerado um requisito não funcional.
+
+Eu já não lembro mais.
+
+Tem tanta aula no seu curso que acabei me perdendo e esqueci.
+
+Vamos lá.
+
+Requisito não funcional pode ser um requisito de usabilidade, pode ser um requisito
+
+de segurança, pode ser um requisito de visual, por exemplo, né? Então o
+
+botão deve ter a cor XPTO, deve piscar arco íris na tela.
+
+São requisitos não funcionais,
+
+né? Que nós aprendemos.
+
+Ele existe, mas não é uma premissa para o sistema funcionar.
+
+Então aqui, por exemplo, o que que eu poderia
+
+colocar como requisito não funcional? Olha só o sistema.
+
+Não deve passar de 5/2.
+
+Design.
+
+De exibição de informações.
+
+O que eu estou dizendo aqui? Eu estou dizendo que quando o
+
+usuário ele for fazer a consulta do livro e assim por diante.
+
+Quando os livros forem pesquisados, a requisição não deve ser passada de 5/2.
+
+Então isso aqui você vai saber lá na hora do teste, o desenvolvedor ele criou,
+
+você vai testar para saber se tá aderente ou tá demorando mais que cinco.
+
+A premissa é até cinco.
+
+Se demorou três, amei, tá melhor ainda do que esperava.
+
+Puts, demorou sete.
+
+Tem 2/2 a mais.
+
+Vamos melhorar aí.
+
+O que que dá para mudar? Ah, é o banco de dados
+
+que tá lento e o script que tá demorando para ser lido.
+
+Dá para refazer o script menor e assim por diante.
+
+Então, aqui seria um tipo de requisito não funcional.
+
+Vamos colocar outro aqui.
+
+Só para vocês entenderem o contexto.
+
+Requisito não funcional zero dois.
+
+A gente pode colocar assim o e o sistema deve exibir no máximo dez livros por página.
+
+Então aqui estou falando que deve existir um paginador de
+
+livros e em cada tela deve ser exibido dez livros.
+
+Tá bom? Então aqui seria
+
+um segundo requisito funcional.
+
+Perdão, não funcional, né? Ele existe para melhoria do sistema,
+
+mas não é premissa para que o sistema funcione.
+
+Beleza, Aí nós temos os critérios de aceitação, que são os critérios de aceitação.
+
+Vamos lá.
+
+Pode colocar aqui o critério de aceitação.
+
+C a ta abreviação CA01 Critério de aceitação zero um Nós poderíamos colocar aqui o.
+
+Os livros devem ser.
+
+Preenchidos manualmente por cada.
+
+Usuário.
+
+Que tipo de requisito seria esse aqui ou que tipo de critério de aceitação.
+
+Vamos imaginar que o sistema ele contabilizou que o usuário X ele pegou o livro Y.
+
+Só que na hora da devolução o usuário ele precisa fazer o apontamento manual.
+
+Então vamos colocar assim o OS.
+
+O usuários devem.
+
+Apontar manualmente por cada livro devolvido.
+
+Então vamos imaginar que deve existir uma telinha lá que deixe
+
+com que o usuário faça os apontamentos dos livros devolvidos.
+
+Beleza.
+
+Então, aqui o manualmente por cada.
+
+Livro devolvido.
+
+Beleza.
+
+E aí a definição de concluído aqui entra muito a parte de desenvolvimento, tá? Então,
+
+um exemplo que pode ser considerado como um critério de concluído quando todos os testes.
+
+Porém, realizados.
+
+Quando? Se
+
+não houver.
+
+Bugs no sistema.
+
+Quando Requisito x XPTO.
+
+Estiver.
+
+Desenvolvido.
+
+Testado e validado.
+
+E assim por diante.
+
+Eu poderia colocar aqui critérios de aceitação que são dados como concluído, ou seja, quando que
+
+aquele meu requisito vai ser concluído, quando não só apenas for criado por desenvolvido pelo desenvolvedor
+
+responsável, mas quando houver testes, quando aquilo não for, não tiver bug, quando aquilo estiver dentro
+
+das premissas anteriores, então eu posso sair fazendo o refinamento de tudo isso daqui também.
+
+Tá.
+
+Então, assim, estou colocando de uma forma mais rápida e mais objetiva, porque eu
+
+creio que a aula já deve ter passado de 20 minutos com facilidade.
+
+Então, para que vocês tenham entendimento e
+
+aí? Aonde que esse documento ele
+
+fica? Bom, aí depende da empresa.
+
+Tem pessoas que gostam de colocar isso daqui dentro do
+
+Jira, né? Que é que tá sendo mais utilizado
+
+atualmente? Tem pessoas que coloca a documentação em compliance.
+
+Então também é uma possibilidade.
+
+Existe empresas menores que não tem esse suporte.
+
+Então você pode criar um documentação dessa daqui como V1, colocar lá
+
+dentro do servidor da empresa, dentro de uma pastinha de documentos.
+
+Então, tudo isso daqui vocês conseguem lapidando de acordo com a aderência da empresa,
+
+tá? Então, se a empresa ela comporta, aí deixa você fazer de uma forma.
+
+Obviamente você vai fazer e observa que como eu estou falando de documento, galera,
+
+eu tenho que ter uma determinada ordem aqui, e não adianta eu colocar algumas
+
+coisas com tamanho de letra, outras coisas com letra maior, outras com menor.
+
+Eu tenho que seguir um modelo.
+
+Beleza.
+
+E aí, para tudo isso que nós viemos a escrever até aqui, Como
+
+foi mencionado, a necessidade de acrescentar negrito destaque naquilo que precisa ter
+
+aqui na documentação, o que é mais objetivo e mais legível possível.
+
+Beleza, Então aqui é uma das formas que nós temos de escrever as histórias de usuário.
+
+Então, lembrando recapitulando aqui de uma forma bem macro a história do
+
+usuário, ela pode ser descrita como a User Story, onde eu vou
+
+escrever um pequeno trechinho das necessidades e objetivos daquele usuário em questão.
+
+As minhas premissas Elas são aquilo que o sistema deve ter
+
+como prioridade ou que aquela funcionalidade, aquele requisito deve ter.
+
+Bom, sobre os meus requisitos funcionais, né? Eu vou
+
+colocar sempre o nome do meu requisito e vou
+
+numerar quantos requisitos aquele requisito específico ele possui.
+
+Beleza.
+
+A mesma coisa como os não funcionais.
+
+E aí, pessoal? Os critérios de aceitação e definições como
+
+concluído geralmente daqui é feito em conjunto com o time.
+
+Lembrando que nós falamos apenas do usuário.
+
+Aqui nós teríamos o lado do bibliotecário e também teríamos
+
+o lado do sistema onde teria as migrações de dados.
+
+Beleza, vou ficando por aqui.
+
+Espero que vocês tenham gostado, que vocês tenham entendido.
+
+Principalmente que vocês pratiquem.
+
+Então, aproveitando que a aula ficou muito extensa e não foi capaz de eu
+
+fazer com vocês a parte do bibliotecário do sistema, quero que vocês façam
+
+como um exercício de fixação a mesma base, só que para o bibliotecário.
+
+Então imagine aí a cena que você levantou os requisitos como bibliotecário e
+
+que você precisa transcrever isso para uma história seguindo esse modelo aqui.
+
+Beleza.
+
+Me despeço por aqui.
+
+Fica com Deus e até breve.
