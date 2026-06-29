@@ -1,0 +1,373 @@
+Olá aluna! Olá alunos, sejam muito bem vindos
+
+a mais uma aula do nosso curso
+
+de Análise Levantamento de Requisitos de Software.
+
+Estamos entrando num novo módulo, ou seja, falaremos de novos assuntos.
+
+Falaremos um pouco sobre a integração dos requisitos com algumas etapas que
+
+seriam as etapas de design, desenvolvimento, testes e implantação de software, ou
+
+seja, quantos requisitos eles impactam nestas áreas ou nestas etapas e quais
+
+as importâncias dos requisitos para estas áreas? Para estas etapas, beleza.
+
+Bom, então nós vimos que para que um projeto de software ele aconteça,
+
+né? Nós já vimos e estamos trabalhando desde o início do curso.
+
+Sabemos que para que ele aconteça, existe um planejamento.
+
+E esse planejamento ele envolve a fase dos requisitos, que seria a etapa crucial.
+
+Tecnicamente, a etapa mais importante no qual são levantados são detalhados.
+
+São descritos todas as necessidades, recursos e funcionalidades do sistema
+
+ou serviço de software que ele precisa ter para que
+
+ele exista, né? Então não vou adentrar sobre isso daqui.
+
+E aí, para a gente fazer todo esse plano, nós temos algumas técnicas.
+
+Envolve elicitação de requisitos, análise e a priorização desses requisitos para saber por onde deve
+
+se começar o projeto e, claro, a validação e o refinamento desses requisitos também.
+
+Beleza.
+
+Só que o que acontece quando esses requisitos
+
+eles impactam num contexto geral? Vamos lá.
+
+Bom para quem não sabe a importância ou ainda não se
+
+tocou da importância que os requisitos de software ele tem.
+
+Ele é basicamente o ponto principal de todo o produto ou de todo o serviço, porque é desde
+
+os requisitos iniciais que toda a arquitetura, toda a infraestrutura, todo o projeto em si, ele ganha forma.
+
+Então, se você não se atentar especificamente aos requisitos no início, com
+
+certeza do meio para o término o seu projeto ele vai desandar.
+
+Tá, por que que eu
+
+digo isso? Vamos lá.
+
+O Sobre projeto.
+
+Durante a fase de design, os requisitos são transformados em uma arquitetura e especificações técnicas.
+
+A integração dos requisitos aqui envolve a tradução de componentes do
+
+sistema, interfaces e estruturas que atendem as necessidades previamente previstas.
+
+Ou seja, através do levantamento dos requisitos, é aonde eu vou definir a infraestrutura do
+
+meu projeto, o design do meu projeto, qual a cara ele vai ter, onde
+
+ele vai ficar? Eu Eu vou definir a partir daqui se o meu sistema.
+
+Um exemplo Tá, ele é um sistema on premise ou se ele é um sistema em nuvem.
+
+Como assim? Se o meu sistema vai ficar hospedado em um
+
+servidor físico, em uma máquina física, ou se ele vai para
+
+um servidor AWS, o Google Cloud ou algo do tipo.
+
+Então aqui, através dos requisitos eu vou conseguir entender como o meu sistema ele
+
+vai funcionar, quais os dados ele vai buscar, como que vai ser feita as
+
+comunicações e eu vou conseguir mapear uma arquitetura mais viável possível para isso.
+
+Ou seja, eu vou conseguir distinguir e entender também onde o meu
+
+projeto, onde o meu produto, onde o meu serviço ele vai rodar
+
+melhor, ele vai atender melhor as necessidades, Ele vai entregar uma melhor
+
+resposta, ele vai ter uma performance melhor ou uma performance maior? Beleza.
+
+Eu, em particular, estou participando de um projeto que
+
+quando eu entrei o pessoal já tinha levantado requisitos.
+
+Já existia um analista de requisitos antes de mim, já tinha sido feito um mapeamento,
+
+toda a arquitetura, todo o projeto já tinha sido deduzido que seria em nuvem.
+
+E isso aconteceu em meados de janeiro até abril deste ano de 2023.
+
+E agora, com a minha entrada, com a entrada de um novo líder de solução, tudo foi refeito.
+
+Por que? Porque teve
+
+se outros pensamentos.
+
+Foi se conversado de novo com as mesmas pessoas, porém apresentando outras perspectivas,
+
+outros pontos de vistas envolvendo valores também por conta de o valor
+
+ter ter ficado bem alto perante a arquitetura em nuvem e etc.
+
+E tudo foi mudado para on premise.
+
+Por quê? Porque nós entendemos que não era
+
+necessário usar a parte robusta da AWS.
+
+Não era necessário um banco em nuvem.
+
+Então nós reavaliamos e validamos, refinamos todos os requisitos e ali
+
+nós encontramos uma brecha para mudar o tipo de sistema.
+
+Ou seja, nós saímos dos sistemas de nuvens e entramos no sistema on premise.
+
+Vai ser um servidor físico.
+
+Nós vamos ter todo o apoio e suporte físico e vamos economizar assim 80% do que seria gasto.
+
+E vamos ainda entregar mais performance, porque nós vimos que quando for um físico, a
+
+comunicação entre os sistemas para que o que nós estamos fazendo ela vai ser melhor.
+
+Então olha a importância dos requisitos, o porque que é importante você detalhar
+
+e entender bem sobre o projeto no contexto geral, Porque a arquitetura e
+
+infraestrutura também vão ser definidas a partir do que o sistema fará.
+
+Beleza.
+
+Dando continuidade, olha só a arquitetura do sistema.
+
+Transformar requisitos em uma estrutura de alto nível.
+
+Definir componentes, módulos e interface do sistema para
+
+atender os requisitos identificados na fase anterior.
+
+Detalhamento do design.
+
+Criar especificações técnicas detalhadas baseadas nos requisitos.
+
+Inclui o design de banco de dados, design de interface do usuário, fluxo de processos, entre outros.
+
+Então é o que eu acabei de comentar aqui.
+
+Foi desenhado uma infra estrutura, um banco de dados em nuvem, uma armazenagem robusta.
+
+Imaginamos aí milhões e milhões de registros.
+
+Só que quando fomos parar para analisar em detalhes realmente, não só no superficial,
+
+mas aprofundando um pouco mais, nós entendemos ali que muita coisa não fazia sentido.
+
+Era muito dinheiro mal gasto e nós acabamos trocando.
+
+Então, a importância dos requisitos, elas definem até a arquitetura e infraestrutura do sistema.
+
+Isso que eu quero que vocês entendam.
+
+Quando nós estamos falando só dos requisitos, nós não estamos falando só daquilo
+
+que o usuário tá pedindo, daquilo que o serviço propriamente vai fazer.
+
+Mas a gente tem que pensar mais além.
+
+Ou a gente tem que pensar mais profundamente e falar beleza, o sistema ele vai fazer isso.
+
+Mas qual que é a melhor forma de ele fazer
+
+isso? Será que ele estando no lugar X é melhor
+
+se comunicando com o lugar Y? Ou ele estando no
+
+lugar, se comunicando com o lugar B é melhor? Qual
+
+é o tipo de arquitetura? Qual que é o tipo
+
+de banco? Como que eu vou fazer a amarração do
+
+banco? Como que vai ser o código nesse banco?
+
+Tudo isso é feito e é parte de requisitos.
+
+Beleza galera? Bom isso eu falei sobre a parte do projeto
+
+né, que é a infra e a arquitetura da coisa.
+
+Agora, sobre o desenvolvimento, o quanto os requisitos eles influenciam o impacto na área do desenvolvimento?
+
+Olha só você Etapa onde o código é escrito com base em nossos designs específicos.
+
+A integração dos requisitos aqui exige que os desenvolvedores estejam alinhados com
+
+as especificações funcionais e não funcionais, implementando as de forma precisa e
+
+garantindo que o software esteja em conformidade com os requisitos estabelecidos.
+
+Então, aqui, quando o desenvolvedor, ele vai codar.
+
+Nós estamos falando dos requisitos funcionais e dos não funcionais.
+
+Nós estamos falando aqui do que que precisa para o sistema rodar.
+
+E nós estamos falando da parte do entre aspas e enfeitar o pavão, que envolve tanto requisito
+
+de funcionalidade quanto requisito de usabilidade, quanto o requisito de desempenho, quanto o requisito de interface.
+
+Tudo isso o desenvolvedor ele tem que olhar, porque nós estamos falando de um time, de uma equipe.
+
+Esse desenvolvedor, ele pode ser separado como três profissionais,
+
+pode ser um front end, um back end.
+
+É um cara que mexe só com o banco de dados, como pode ser o único profissional full
+
+stack que aí ele é front end e back end e também mexe no banco de dados.
+
+E aí ele tem que se atentar que todos os requisitos que ele tá trabalhando ele tá trabalhando
+
+para que o sistema funcione, tem as funcionalidades e faça tudo aquilo que tá descrito, mas que
+
+a parte de usabilidade, vamos dizer assim que a carinha, o botãozinho, a corzinha, ela tem que
+
+ser da maneira que foi descrita, que o tempo de resposta daquele código que ele tá criando
+
+pra fazer uma busca ou pra sei lá, receber algo de algum outro sistema, tem que demorar
+
+x minutos ou x segundos que talvez uma busca quando houver uma requisição de informações, que aquelas
+
+informações elas venham na quantidade específica, de acordo com o tamanho da tela, que o paginador tenha
+
+x páginas para poder visualizar e que o tempo de retorno não seja mais do que 5/2.
+
+Estou falando aqui que é um requisito não funcional, mas é um requisito de desempenho.
+
+E a parte de levantamento de requisitos olha para isso daqui.
+
+Então vamos dando continuidade.
+
+Olha só.
+
+Codificação.
+
+Escrever o código em conformidade com as especificações técnicas e as regras de design.
+
+Os desenvolvedores precisam estar atentos aos requisitos
+
+para implementar as funcionalidades de forma precisa.
+
+Controle de versão e testes de unidade.
+
+Utilizar sistemas de controle de versão para monitorar as alterações e realizar testes de
+
+unidade para verificar se as partes individuais do software funcionam conforme o esperado.
+
+Essa parte do teste aqui eu coloquei junto com o desenvolvimento, porque muitas vezes
+
+o próprio desenvolvedor quem cria, quem cobra aquela função ou aquela funcionalidade no sistema,
+
+ele mesmo, quem já faz a validação, que já realiza o teste unitário.
+
+Só que em muitas ocasiões, o próprio analista de requisitos é o tester também.
+
+Por quê? Porque o analista de requisitos que
+
+levantou os requisitos e o analista de requisitos.
+
+Quem participou das reuniões de brainstorms, que falou com os stakeholders, que está
+
+a par de tudo, é o analista de requisitos que entende os
+
+detalhes, que também fala com a parte de arquitetura e de infraestrutura.
+
+E ele sabe como que vai ser a comunicação e o analista de requisitos
+
+que tá entendendo não só sobre as funcionalidades, mas ele também quem escreveu.
+
+Quanto tempo o sistema tem que demorar para retornar uma consulta
+
+e quantas informações tem que vir naquela consulta? Então, analista de
+
+requisitos, ele também bate muito forte nessa parte do teste.
+
+Além de um Q&amp;A que geralmente nas empresas também possui.
+
+Tá bom.
+
+E aí, falando sobre testes? A fase de teste é
+
+crucial para validar se o software atende aos requisitos estabelecidos.
+
+Testes funcionais de desempenho, de segurança e de usabilidade são realizados
+
+para garantir que o produto final corresponda com as expectativas.
+
+A integração dos requisitos aqui é verificada conforme se todas
+
+as funcionalidades especificadas estão presentes e funcionam conforme o esperado.
+
+Olha só sobre os testes que eu falei Desempenho, segurança,
+
+usabilidade, tá? Então, quando eu estou falando do sistema.
+
+Eu não vou só olhar para funcionalidade, mas eu vou olhar também para segurança.
+
+Eu vou olhar também para usabilidade.
+
+Eu vou olhar principalmente para o desempenho.
+
+Ninguém vai usar um sistema que demora para carregar informações ou que demora para fazer consultas.
+
+Beleza.
+
+E aí, por fim, entra a fase de implantação também.
+
+Durante a implantação, o software é disponibilizado aos usuários finais.
+
+Garantir a integração dos requisitos nessa etapa e garantir que o software entregue
+
+esteja alinhado com as expectativas do cliente e entregue perfeitamente ao ambiente operacional.
+
+Então aqui eu já estou falando após os testes e aqui também é o impacto do Analista de Requisitos.
+
+Então, se você ainda não entendeu a importância sobre os requisitos, a importância é justamente essa.
+
+Você não tá falando só da sua profissão, só da sua
+
+área, mas você está envolvendo outras pessoas, outras áreas, outros profissionais.
+
+E se você não fizer bem feito, você vai fazer com que as pessoas também não faça bem feito.
+
+Ou seja, se você fizer algo mal organizado, algo superficial, as pessoas
+
+vão trabalhar em cima daquilo que tá mal organizado e tá superficial.
+
+Então, consequentemente, você vai precisar refazer e as pessoas após você também precisará refazer.
+
+E aí, retrabalho? A gente sabe que perde dinheiro
+
+e tempo e empresa não gosta, não gosta de
+
+profissionais dessa forma, não gosta de equipe dessa forma.
+
+Então você acaba não só se prejudicando mais, prejudicando a equipe no contexto geral.
+
+Beleza.
+
+Bom, aqui foi só uma introdução do que nós vamos ver.
+
+Espero que vocês estejam entendendo, que vocês estejam gostando.
+
+Me despeço por aqui.
+
+Fica com Deus e até breve.
