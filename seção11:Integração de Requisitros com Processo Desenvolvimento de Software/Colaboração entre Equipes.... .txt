@@ -1,0 +1,337 @@
+Olá alunos, sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos
+
+de Software.
+
+Nesta aula nós falaremos um pouco como funciona ou quais são as premissas de colaboração entre a equipe
+
+de análise de requisitos ou o profissional de análise de requisitos e as outras equipes envolvidas,
+
+ou os outros profissionais envolvidos no processo de desenvolvimento de um software.
+
+Tá bom.
+
+Ou então o primeiro de tudo, nós temos aqui uma comunicação e entendimento claro dos requisitos.
+
+Ou você, como um analista de requisitos, você quem fará a realização de reuniões regulares entre a
+
+equipe de análise de requisitos e os desenvolvedores para discutir requisitos, esclarecer dúvidas,
+
+garantir que todos tenham uma compreensão comum dos objetivos do projeto.
+
+Bom, aqui funciona muito em conjunto, na verdade, com um gestor de equipe, um gestor de projetos,
+
+um analista de projetos, porque ele quem faz todo esse controle em relação a reuniões, mapeamentos
+
+e ele também faz a condução.
+
+Então, muitas das reuniões que você precisa falar com as pessoas, muitas vezes não é você quem vai
+
+atrás das pessoas que vai procurar um tempo, uma agenda disponível desses profissionais.
+
+Mas sim, você vai passar a necessidade para um analista de projetos, para um gestor de projetos.
+
+E é esse cara que vai correr atrás de agendar uma reunião com o melhor horário disponível para os profissionais,
+
+para que tudo aquilo que precisa ser falado naquele período você consiga com aquelas pessoas.
+
+Tá, mas aí em questão a parte de discutir os requisitos, esclarecimentos de dúvidas, garantir a compreensão,
+
+a necessidade, os objetivos do projeto, isso se enquadra para você, um analista de requisitos, porque
+
+você quem tá a par de todos os requisitos necessários, seja eles funcionais ou não, sejam eles de
+
+usabilidade, de segurança, de interface, de desempenho.
+
+Então você quem vai mapear vai puxar esse gancho com essas pessoas, tá?
+
+O segundo ponto específico é a documentação detalhada e acessível.
+
+Nós já falamos isso aqui em outras aulas anteriores, mas batendo na tecla, porque é muito importante.
+
+Então, a utilização de ferramentas de colaboração, plataformas de gerenciamento de requisitos e documentação,
+
+compartilhamento de informações.
+
+Isso torna o projeto mais robusto, mais completo e também deixa ele mais organizado e acessível a todos
+
+os envolvidos.
+
+Então, quando nós estamos falando aqui, por exemplo, das plataformas, não é a plataforma do seu
+
+gosto ou a plataforma que você queira ou a plataforma que você utiliza, mas sim aquilo que a empresa
+
+disponibiliza.
+
+A não ser que ela tenha, é uma abre uma abertura, né?
+
+Uma brecha de deixar você utilizar o de as pessoas escolherem aonde ele se aloca melhor, onde as pessoas
+
+tem mais facilidade de acompanhar aquilo.
+
+Mas geralmente você dentro de uma empresa, junto a uma equipe, você tem as ferramentas devidas para
+
+isso.
+
+Em particular onde eu estou atualmente, nós utilizamos o Jira, então é toda a documentação Em relação
+
+a requisitos, fica no Jira e todos os demais documentos.
+
+Eles ficam atualmente no compliance.
+
+Beleza, Mas são acessos que nós, equipe interna, nós temos.
+
+Todos os profissionais possuem um acesso, então todos eles tem permissão de acesso a esses requisitos,
+
+a essas histórias e etc.
+
+E ali todos nós acompanhamos os andamentos, as alterações, as modificações e por aí vai.
+
+Beleza.
+
+Já o nosso terceiro é o feedback contínuo e ajustes durante o desenvolvimento.
+
+O que é o feedback contínuo?
+
+Vamos lá.
+
+O.
+
+Realização de revisões periódicas do progresso do projeto, onde a equipe de Análise de requisitos ou
+
+o profissional de análise de requisitos e os desenvolvedores discutem possíveis mudanças nos requisitos
+
+e ajustes no plano do desenvolvimento.
+
+Então aqui bate muito com o que eu falei na aula anterior para vocês.
+
+Onde?
+
+Antes da minha vinda para a empresa onde eu estou atualmente, eles já haviam feito o levantamento de
+
+requisitos e mapeado uma série de coisas que no final acabou não sendo viável devido ao custo.
+
+Então assim previram certa quantidade de dados e isso teria que ficar alocado em cloud e aí teria um
+
+custo ultra mega caro em relação a todo o custo do projeto, não só envolvendo os funcionários.
+
+Os profissionais que atuariam durante o período, mas principalmente a parte de alocação, né?
+
+O pagamento mensal ali para ter uma plataforma em nuvem.
+
+E aí nós entendemos que as necessidades, o que o sistema vai fazer, o que ele vai armazenar, como
+
+que vai ser o tipo de consulta, qual o período das consultas e quantas informações ele vai enviar durante
+
+essas consultas?
+
+Não tem a mínima necessidade de ser em cloud, não tem a mínima necessidade de estar em nuvem, não
+
+tem a mínima, a mínima necessidade de nada disso.
+
+Então nós acabamos fazendo ali revisões e mudanças.
+
+Isso entra no contexto de revisões periódicas.
+
+Isso também envolve muito a parte do desenvolvimento.
+
+Então, muitas das vezes você vai acompanhar a equipe de desenvolvimento dialogando as melhores maneiras,
+
+os melhores métodos, as melhores práticas de estar construindo ou de estar desenvolvendo determinada
+
+funcionalidade ou criar tipo de serviço, consumo ou busca de informações através de APIs das melhores
+
+maneiras possíveis.
+
+Então isso é bem bacana, porque abre e expande bastante o horizonte de todos.
+
+E nós também conseguimos enxergar diversas perspectivas e diversas formas de se criar ou de se fazer
+
+a mesma coisa.
+
+E aí entra naquele consenso, né, de denominador comum e entender qual que é o mais viável para a ocasião,
+
+tá?
+
+Então o feedback contínuo e o ajuste durante o desenvolvimento do projeto.
+
+Ele é extremamente importante devido a isso que lá no início você pode ter pensado de uma forma pode
+
+ter pensado X tecnologia.
+
+Y recurso x tempo y demanda.
+
+E aí, à medida em que isso vai sendo construído, que vai sendo desenvolvido, você vai percebendo
+
+que pode se chegar para um outro caminho.
+
+Pode se fazer de uma outra maneira.
+
+Tem alguma maneira mais fácil?
+
+Às vezes uma ferramenta que facilita.
+
+Então, Assim.
+
+Uma série de coisas.
+
+Por isso que o analista de requisitos ele sempre trabalha com mudanças, né?
+
+Então sempre tem os mapeamentos.
+
+Como eu falei já lá no início do curso, existe os relacionamentos das documentações.
+
+Devido a essa grande variedade de mudanças que acontecem ao decorrer do projeto.
+
+Então assim é como eu sempre falei para vocês, né?
+
+Por mais que nós façamos uma análise, um levantamento de requisitos bem detalhado no início, ele sempre
+
+vai mudar ao decorrer do projeto até a entrega.
+
+Assim, é extremamente importante estar aberto a essas mudanças.
+
+É extremamente importante estar atento e apto a fazer esses questionamentos.
+
+As documentações, porque é realmente importante, beleza.
+
+Já o nosso quarto é o que?
+
+Os testes e validação de requisitos.
+
+Realização de sessões de revisão e validação de requisitos com usuários finais ou stakeholders para
+
+garantir que os requisitos capturados atendam as suas necessidades e expectativas.
+
+Então aqui é a parte dos testes e validação Entra de diferentes formas em vários contextos.
+
+Como eu já expliquei também, isso é dependente cultural de empresas, Então existem empresas que o
+
+próprio desenvolvedor já vai fazer um teste.
+
+Existe o teste unitário, existe o teste de caixa preta, existe o teste de caixa branca e aí existe
+
+o teste que entra como teste externo.
+
+Muitas empresas gostam de chamar assim teste interno e teste externo.
+
+E aí você envolve usuários finais, envolve stakeholders e envolve pontos focais.
+
+E aí você consegue também ter uma garantia de que aqueles requisitos estão aderentes, estão conforme
+
+o combinado, estão nas mesmas linhas de mapeamento, né?
+
+O nosso quinto.
+
+E é bem importante também a colaboração interdisciplinar.
+
+O que que seria a colaboração interdisciplinar, além do mapeamento dos requisitos, que é o próprio
+
+analista de requisitos, quem efetua e o desenvolvimento que a gente trabalha, muito ligado e diretamente
+
+a equipe do desenvolvimento, sempre terão outras equipes no qual nós também precisamos falar.
+
+Precisamos ter ali uma comunicação, uma troca de informações, uma troca de figurinha e sempre estar
+
+atualizado com as informações num todo, com essas pessoas ou com esses profissionais ou com essas áreas
+
+que a área de design muitas vezes é a área de qualidade, a área de segurança, a área de infraestrutura,
+
+a área de negócio, a área de vendas envolve valores.
+
+Então todas essas pessoas, ou esses profissionais ou essas áreas, elas precisam também estar a par
+
+do que está acontecendo no projeto.
+
+Se teve alguma mudança, se teve algo que não estava descrito no escopo, Porque muitas vezes você precisa
+
+envolver algum desses profissionais para estar atuando frente a frente contigo.
+
+Eu imagino assim, que lá no início do projeto ele foi fechado por um valor X e teriam é dez recursos
+
+ou dez funcionalidades dentro daquele valor X que foi contratado.
+
+E à medida em que vai sendo desenvolvido o stakeholder, um usuário final, alguém bate o martelo que
+
+precisava ter algo que ultrapasse esses dez que foram contratados no pacote.
+
+Então imagina ali que ele falou mais uns dois, uns três requisitos ou funcionalidades que necessitam
+
+ou deveriam ter ali.
+
+E aí entra aquele papel de acrescenta ou não acrescenta.
+
+Está dentro da proposta comercial ou não está dentro da proposta comercial.
+
+Então, muitas vezes você vai ter que envolver uma pessoa que é a par da área de negócios, né?
+
+A parte de analista de negócios, que é a pessoa que verifica valores relacionados ao orçamento do projeto
+
+em TI, mas muitas vezes também é a parte comercial.
+
+Porque?
+
+Porque a pessoa do comercial quem vai precisar entrar em contato com os responsáveis ali contratantes
+
+do projeto e explicar para eles Olha, é o pacote que você contratou, foi esse daqui com esse X de
+
+valor, né?
+
+E esse x recursos aqui para você poder usar.
+
+Então se você quiser acrescentar, a gente vai ter que ver uma outra maneira, porque sei lá, talvez
+
+não dê para fazer uma inclusão porque vai levar X tempo x recursos e a empresa vai ter que arcar com
+
+X desenvolvedores.
+
+Então não tem como fazer isso de graça.
+
+E aí você precisa ver se você realmente vai querer arcar e dar continuidade com isso, Se você vai querer
+
+seguir só com o projeto com que já tá contratado, se por um acaso vai precisar cancelar.
+
+Então existe uma série de coisas que realmente necessita ser verificado.
+
+E aí não é o dever do analista de Requisitos correr com tudo isso.
+
+Ele sim tem que acompanhar muitas vezes, entrar nas reuniões e ficar ali como um ouvinte, etc, para
+
+entender o que tá acontecendo.
+
+Mas quem ficaria a frente seriam essas outras equipes?
+
+Então seriam ali importantes esses papeis interdisciplinares entre eles.
+
+Então por isso que todo mundo tem que falar a mesma língua, todo mundo tem que ter as mesmas informações
+
+atualizadas para todo mundo entender qual que é o pé atual do projeto, por exemplo.
+
+Beleza, Então, aqui são algumas de muitas etapas no qual a colaboração de análise de requisitos envolve
+
+num todo, num contexto de empresa.
+
+E isso é de extrema importância porque, querendo ou não, é algo que você vai fazer no dia a dia de
+
+forma direta.
+
+Indireto.
+
+Então, por mais que você não lembre que isso faz parte de um contexto, de uma cultura, de um analista
+
+de requisitos, isso você vai fazer durante o dia a dia.
+
+Muitas vezes as pessoas vai perguntar como que tá o andamento do projeto, o que que aconteceu, XPTO
+
+e aí por aí vai.
+
+E você vai acabar sempre argumentando, comentando próprios e-mails também, que você dispara em relação
+
+a informativos, entra muito nessa colaboração interdisciplinar aqui, para todos ficarem cientes,
+
+tá?
+
+Então é uma das coisas aqui que a gente bate bastante na tecla.
+
+Espero que vocês tenham entendido, que vocês estejam gostando.
+
+Me despeço por aqui, Fiquem com Deus e até breve.
