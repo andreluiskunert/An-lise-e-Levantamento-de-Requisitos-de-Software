@@ -1,0 +1,461 @@
+Olá aluna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que vocês estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso Curso de Análise Levantamento de Requisitos de Software,
+
+trazendo a vocês neste novo ano que se inicia 2024.
+
+Feliz Ano Novo a você!
+
+Que seja um ano de muito crescimento, de muitas conquistas, muito estudo e muito aprendizado.
+
+Temos uma nova aula e um novo módulo sendo aberto também.
+
+E vamos falar um pouco a respeito sobre as ferramentas que auxiliam os analistas de requisitos.
+
+Então nós vamos falar aqui um pouquinho das ferramentas que são mais utilizadas, ferramentas que são
+
+mais fáceis de ser encontradas no mercado, ferramentas que são mais fáceis de ser manipuladas e é claro,
+
+assim como com certeza vocês sabem, além de todas as ferramentas que forem mostradas aqui, existirão
+
+1001 outras possibilidades, caso necessário também, tá bom?
+
+Bom, assim como já foi mencionado em muitas aulas anteriores ao decorrer do nosso curso e com certeza
+
+vocês já sabem, vocês já aprenderam, né?
+
+Nas prioridades das premissas que o analista de requisitos possui em relação à documentação.
+
+Então, dentro da área de análise de requisitos, nós temos a obrigatoriedade de utilizar ferramentas
+
+relacionadas a documentações, né?
+
+Arquivos textuais, PDF's e etc.
+
+Então aqui dos mais utilizados atualmente em mercado em empresas, independente de pequena, médio ou
+
+grande, nós temos o Word e também temos o Google Docs, tá?
+
+São utilizados para escrever os requisitos mais detalhados.
+
+Apresentaram uma identação, né?
+
+Uma.
+
+Formatação mais bacana, né?
+
+Mais profissional, por bem dizer.
+
+Muitos adotam padrão ABNT, que inclusive vocês com certeza utilizaram lá na época de escola, talvez
+
+nem se recordem mais ainda é utilizado isso atualmente.
+
+Nós temos também o Markdown, que é uma opção mais leve para documentar requisitos e permite uma formatação
+
+mais simples.
+
+Ele não é tão completo quanto o Word, por exemplo, mas é algo que nós temos a possibilidade de utilizar.
+
+Caso não tenhamos o Word, não temos uma licença nem nada do tipo.
+
+Claro que vai existir uma outra opções, né?
+
+Você pode usar um bloco de notas no dia a dia para mapear os requisitos, entender as necessidades,
+
+as dores de uma forma mais macro, como se fosse um papel de pão e você fazer rascunhos.
+
+Pode utilizar outros programas que muitas vezes é utilizado.
+
+Muitas vezes não, né?
+
+Eles são utilizados para desenvolvimento de software, né?
+
+Poderia ser o Notepad Plus ou Notepad++, poderia ser o Sublime e poderia ser o próprio Visual Code.
+
+Vocês poderiam utilizar também para fazer ali algumas escritas.
+
+Claro que dentre eles assim você usa um visual code para documentar.
+
+É bem estranho, né?
+
+Mas é possível.
+
+Mas o Notepad Plus, por exemplo, ele é usado para desenvolvimento, mas a maioria das pessoas acata
+
+para anotações.
+
+Eu em particular utilizo o Notepad Plus ao invés do bloco de notas, por exemplo.
+
+Bom, dando continuidade, o segundo papel de um analista de requisitos é a modelagem dos requisitos,
+
+ou seja, a parte ilustrativa daquele mapeamento daquela documentação que você fez no processo anterior.
+
+Então, aqui é bastante utilizado a UML, né?
+
+Teriam ali as ferramentas de diagramas que existem dois grupos, sendo diagramas comportamentais e diagramas
+
+estruturais, no qual você tem ali determinadas ocasiões específicas para utilizá los.
+
+Então tem meios e caminhos exatos.
+
+Inclusive, eu estou montando um curso de UML, tá bem detalhado.
+
+Se vocês quiserem já acompanhar e entender um pouco mais.
+
+Como eu falei em algumas aulas aqui dentro desse curso, se eu fosse trabalhar o ML seria um curso separado,
+
+Devido a ser muitas coisas, eu acabei adotando porque muitas pessoas pediram, sentiram necessidade
+
+de aprender.
+
+Gostaram da metodologia de ensino que eu possuo, então eu resolvi auxiliar essas pessoas.
+
+Então, aqui na Udemy, se você pesquisar por Weslei Ávila, por exemplo, você vai com certeza achar
+
+ali o curso de UML.
+
+Lembrando que no momento ele ainda tá como gratuito, mas muito em breve ele vai se tornar pago.
+
+Você pode adquirir ele e acompanhar pelo menos as duas primeiras horas de forma gratuita.
+
+E se você gostar da metodologia de IA gostar do conteúdo, você adquirir ele pago e aí você vai ter
+
+acesso as demais aulas futuramente também, tá bom?
+
+Beleza.
+
+As ferramentas de UML aqui seriam um papel na modelagem.
+
+Nós também teremos os modelos BPMN, tá?
+
+Também vai ser abordado nesse curso que eu to mencionando.
+
+Ele modela processos de negócios e fluxos de trabalho.
+
+Então aqui nós poderíamos utilizar inúmeros programas e inúmeras ferramentas.
+
+Eu poderia citar 1000 e umas aqui para vocês, mas para não estender muito, poderia ser o Visage,
+
+poderia ser o drywall, poderia ser o uso de chat, poderia ser o Visio, poderia ser entre outras séries
+
+e variedades.
+
+Tá bom.
+
+O terceiro ponto, a terceira etapa de um analista de requisitos.
+
+E o que é a gestão dos requisitos?
+
+Ou seja, você documentou e você desenhou, você ilustrou.
+
+Mas como você vai fazer a gestão?
+
+Como você vai fazer o controle?
+
+Então, atualmente, nas empresas, os mais utilizados no momento são o Jira e o Trello.
+
+O giro.
+
+Para algumas ocasiões existe um aplicativo adicional, um componente, um plugin para benzer que se
+
+chama Sniffer, tá?
+
+Então você também consegue adicionar esse Zephyr para aumentar ainda mais a potência do seu Jira para
+
+principalmente em casos de testes, tá?
+
+Então, para quem não conhece, o Jira é uma não.
+
+Atualmente, a ferramenta mais popular para gerenciamento de projetos ágeis, tá?
+
+Então, inclui rastreamento de requisitos, gerenciamento de tarefas, colaboração entre equipes, modelos
+
+de cascata, Kanban, Scrum.
+
+Você consegue fazer plano de teste, teste unitário, consegue fazer teste integrado, teste de caixa
+
+branca, teste de caixa preta entre 1000 e 1 outras coisas que é possível fazer dentro do Jira que você
+
+pode explorar e automatizar ou potencializar o seu dia a dia, tá?
+
+E aí tem um segundo que ele também é bastante conhecido e bastante utilizado também, que é o Trello,
+
+né?
+
+Você consegue gerenciar e organizar suas tarefas em formatos de backlog, modelos de Kanban, passar
+
+as etapas do que tá em andamento para o que tá em progresso, para o que tá em análise, para o que
+
+já foi feito, o que tá impeditivo e etc.
+
+Então são as duas mais utilizadas no mercado atual.
+
+Tá bom?
+
+Aí nós temos também a prototipagem e design.
+
+Então a prototipagem.
+
+Quando nós falamos em protótipo, nós vamos criar uma POC, quando nós vamos desenhar as telas e etc,
+
+né?
+
+Então o design ele entra como que vai ser a tela, Qual vai ser a cor, como que vai ser o efeito?
+
+Então nós temos aqui três atualmente, que são bem fortes no mercado, né?
+
+É o Sigma Sigma.
+
+Você vai ver muito em área de UX Why, né?
+
+User Experience E eles trabalham muito com essa parte de design, então permite criar protótipos interativos,
+
+colaboração em tempo real e interação entre designers com facilidade, porque a ferramenta mais utilizada
+
+no mercado atualmente.
+
+Claro que além dela nós também temos o Adobe xD.
+
+E temos também o skit, que são também outras duas opções populares para designers de interface e prototipagem
+
+de software.
+
+Além delas, existe um bem antigo que inclusive eu usei na faculdade.
+
+Não vejo atualmente no mercado e em todas as empresas que eu passei eu também não me recordo de alguma
+
+delas utilizar.
+
+Se chama Balsâmico, né?
+
+Vocês também podem estar dando uma procurada caso vocês tenham interesse.
+
+Beleza?
+
+E aí nossa quinta etapa seria as ferramentas de colaboração, né?
+
+O que são as ferramentas de colaboração, ferramentas de comunicação, ferramentas de interação entre
+
+a equipe, entre stakeholders, entre pessoas que estão relacionadas no projeto, né?
+
+Então, hoje é bastante utilizado o Microsoft Teams, né?
+
+Tanto para a parte de chat quanto da parte de call para você fazer reuniões.
+
+Tem o Slack, tem o Google Meeting, tem o zoom.
+
+São os mais interativos atualmente.
+
+E claro, sem sombra de dúvidas, não.
+
+Não preciso nem colocar aqui, né?
+
+Mas também o WhatsApp, né?
+
+Você monta o grupo ali com as pessoas e são pertinentes ou pertencentes ao projeto.
+
+E aí você também vai trocando informações diariamente dentro do WhatsApp, né?
+
+E sem contar também outras ferramentas de colaboração são muito importantes para rastreio.
+
+Galera, apesar de utilizar isso daqui para adiantar a comunicação e ser mais interativo, nunca se
+
+esqueça de e-mails de manter históricos e registros.
+
+Putz, eu fiz uma reunião, uma cal, independente se foi no TIs, no Slack, no zum, no Google meet.
+
+Cara monta uma ata de reunião, coloca as pessoas que foram participantes daquela reunião, seja equipe
+
+interna, seja equipe externa, seja stakeholders, diretores, enfim, coloquem todos os participantes
+
+e coloquem principalmente a pauta, né?
+
+Uma ata de reunião.
+
+Qual que era o objetivo?
+
+O que que foi falado?
+
+Mas que foram as soluções tomadas de decisões?
+
+O que que ficou pendente de cada pessoa?
+
+Quais as datas dessas pendências e o dispara para todos eles que estavam na reunião e os que talvez
+
+não puderam participar da reunião.
+
+E mantenha o histórico.
+
+Galera, não adianta nada você ter adiantado muita coisa por comunicação, por vídeo, conferência,
+
+videochamada e etc, mas você não tem histórico.
+
+Muitas vezes você precisa tá?
+
+Às vezes acontece um pepino lá na área comercial.
+
+O valor aumenta, o cliente rejeita e ninguém entende o porquê.
+
+Mas talvez seja porque em alguma reunião cliente ele tenha batido o martelo que ele queria uma funcionalidade.
+
+Talvez ele nem tenha lembrado que ele pediu essa funcionalidade e ele tá olhando ali o escopo antigo
+
+do projeto, que era um valor X, mas agora atualmente tá num valor Y, por exemplo.
+
+Ah, então e-mails são muito importantes para manter o histórico, registro rastreio de tudo que está
+
+sendo feito.
+
+Beleza.
+
+On a sexta etapa do analista de Requisitos Ferramentas de análise e mineração de dados.
+
+Aqui, quando nós falamos de análise mineração de dados é para nós fazermos filtragens em relação a
+
+dados, né?
+
+Então nós temos o Excel e temos o Google Sheets, que é uma espécie de planilha online também.
+
+Também utilizados para análises iniciais de dados e organização de informações.
+
+Então você consegue fazer uma tabela dinâmica, fazer determinadas filtragens, criar dashboards e etc.
+
+Mas o que atualmente está pegando é o que?
+
+Power BI e W são ferramentas mais avançadas para visualização na análise de dados, ajudando na compreensão
+
+dos requisitos a partir de conjuntos mais complexos dessas informações.
+
+Tá bom?
+
+Então, se você não tem um conhecimento em Power BI, com certeza você vai ter em Excel e você vai conseguir
+
+se virar muito bem em Excel, tá?
+
+Assim, não é que o Power BI ele seja melhor ou ele tenha mais coisas.
+
+Com certeza ele vai ter mais recursos e vai te dar mais robustez, né?
+
+Mas se você tem o Excel, não deixe de usar o Excel que você não vai ficar na mão, tá?
+
+Desde que você saiba usar o Excel e consiga montar as coisas direitinho, vai ficar bacana da mesma
+
+forma.
+
+E o nosso sétimo seria o mapeamento e gerenciamento de processos, né?
+
+E aí quando nós falamos em mapeamento ou gerenciamento dos processos, quando nós falamos em processos,
+
+nós estamos falando de começo, meio e término, né?
+
+Qual que é o processo?
+
+Então nós temos o lucid chart e o visagem como as principais.
+
+Para fazer a criação de fluxogramas, mapas mentais, diagramas e modelos BPM.
+
+Mas como eu mencionei lá em alguns tópicos atrás, né?
+
+Todos os que você conseguir criar o M.L.
+
+Por bem dizer, você também vai conseguir fazer mapeamento e gerenciamento de processos, tá?
+
+Muitas vezes você vai conseguir utilizar até o PowerPoint para fazer isso, usando ali as ilustrações
+
+que o PowerPoint tem.
+
+Mas claro que é um pouco mais demorado, um pouco mais trabalhoso, mas tem gente que opta por fazer
+
+ali.
+
+Eu, em particular, tenho dentro de uma equipe no qual eu trabalho atualmente.
+
+A pessoa que ela tem assim, 27 anos de empresa, 28 anos de empresa.
+
+E quando ela desenha, ela desenha no PowerPoint.
+
+Então são sim conceitos, são metodologias?
+
+Talvez são hobbies ou são manias que as pessoas aderem ao decorrer da vida e elas não trocam, né?
+
+Então, assim, e ainda faz sentido para pessoa, se ainda tá dando resultado, não tem o porque mudar,
+
+por exemplo.
+
+Beleza.
+
+Então, assim são ferramentas algumas das muitas das 1001 possibilidades que nós temos, Mas tentando
+
+trazer para vocês aqui determinadas coisas que vocês talvez não consigam enxergar e que são muito importantes
+
+e vocês podem fazer.
+
+Caso vocês tenham dúvida desses sete tópicos aqui que eu to colocando para vocês.
+
+Cara, vai no Google e pesquisa sobre.
+
+Vai lá no Google, por exemplo, e coloca assim ó.
+
+Ferramentas de mapeamento e gerenciamento de processos Vê quantas ferramentas o Google te dá além da
+
+lucid chart da Bizarre.
+
+Vai lá e coloca ferramentas de análise, mineração de dados e quantas outras ferramentas vai te dar,
+
+além de Excel, Google Sheets, Power BI e Tableau, por exemplo.
+
+E aí você vai fazendo todos os processos.
+
+Vê também, além do Sigma, do Adobe xD e do Skit, por exemplo.
+
+Mas outras ferramentas de prototipagem design que existem além da Balsâmica que eu também tinha comentado.
+
+Vai fazendo isso, galera, e vocês vão tendo uma percepção e uma abrangência maior.
+
+Muitas vezes vocês vão encontrar ferramentas que são gratuitas, que às vezes as pessoas nem se dão
+
+conta ou que não dão crédito a elas, que talvez sejam muito boas também.
+
+Tá bom.
+
+Foi assim que eu descobri o drywall, por exemplo.
+
+É uma ferramenta que eu não troco por nada para criação de UML, por exemplo.
+
+A conclusão da aula.
+
+É importante ressaltar que a escolha das ferramentas podem variar de acordo com as necessidades específicas
+
+dos projetos.
+
+As preferências das equipes, dos profissionais, obviamente, e das metodologias de desenvolvimento
+
+utilizadas.
+
+Então, tudo tem que ser um conjunto, né?
+
+E além disso, o mercado de tecnologia está em constante evolução e novas ferramentas podem surgir,
+
+aprimorar e facilitar ainda mais o trabalho de análise de requisitos de software.
+
+Então, como eu comentei mais uma vez para reforçar, estão aqui algumas das mais utilizadas, das mais
+
+conhecidas.
+
+Mas como eu falei, se vocês pesquisarem a fundo, vocês vão achar muitas outras, tá bom?
+
+Bom, essa foi a nossa primeira aula de análise de requisitos de 2024.
+
+Espero que vocês estejam muito ansiosos para a continuidade deste curso.
+
+Vou tentar me desdobrar para trazer mais conteúdos para vocês de forma simultânea.
+
+Espero que vocês continuem gostando, que vocês estejam entendendo que vocês estejam praticando.
+
+Me despeço por aqui, Fiquem com Deu
