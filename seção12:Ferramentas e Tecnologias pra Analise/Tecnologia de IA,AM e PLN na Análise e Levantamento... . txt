@@ -1,0 +1,459 @@
+Olá aluna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+E nesta aula nós vamos falar um pouco a respeito sobre tecnologias voltadas a inteligência artificial
+
+e também tecnologias voltadas a aprendizado de máquina que podem ser utilizadas, que otimizam, que
+
+ajudam na área de análise de requisitos no seu dia a dia, no seu cotidiano, nos seus deveres, nas
+
+suas tarefas.
+
+Tá bom?
+
+Bom de imediato, antes de nós falarmos um pouco sobre essas tecnologias para que nós possamos entender
+
+do que vai ser falado inicialmente, nós precisamos saber o que que é a inteligência artificial, o
+
+que é o aprendizado de máquina, mesmo que de forma superficial.
+
+Bom, geralmente quando a gente fala sobre inteligência artificial, a primeira coisa que vem na cabeça
+
+é chatbot.
+
+Chat Bing Agora o novo da Google, que é o Bard.
+
+Só que o que acontece é a inteligência artificial.
+
+Ela não é ligada somente a chatbot, tá?
+
+Ao contrário do que a maioria das pessoas imagina, a inteligência artificial, ela está em quase que
+
+80% das coisas, principalmente das coisas tecnológicas que nós consumimos atualmente.
+
+Bom, os carros estão por trás de inteligência artificial atualmente, principalmente os novos modelos,
+
+as novas versões, a maioria dos programas que nós utilizamos, independente de quais áreas você esteja,
+
+sempre terá um programa que tem uma inteligência artificial em volta ali ao redor de sua composição.
+
+O próprio Photoshop recentemente e anunciou que eles possuem uma versão que é baseada em inteligência
+
+artificial e você consegue pedir para que o Photoshop com a inteligência artificial crie determinadas
+
+artes.
+
+Então você tem outras ferramentas online voltada a criações de arte, que é em base de inteligência
+
+artificial, dentre uma outra série e variedade de programas e recursos atualmente.
+
+Tá bom.
+
+Então aqui, de certa forma, o que que nós estamos falando?
+
+Que para a área de análise de requisitos existem programas e existem plataformas que tem uma composição,
+
+uma usabilidade, inteligência artificial no qual nós podemos manipular Nós podemos utilizar e melhorar
+
+o nosso trabalho no dia a dia, otimizar processos, automatizar tarefas e etc.
+
+E é o que nós iremos ver até então.
+
+Tá bom?
+
+Então a primeira coisa que é necessário nós sabermos é sobre análise e semântica de requisitos.
+
+Bom, nós vamos falar um pouco sobre o processamento de linguagem natural ou a PLN, que é a sigla abreviada.
+
+Tá bom?
+
+Bom, a linguagem de processamento natural.
+
+Ela é uma espécie de algoritmo que é usado para entender e extrair informações de documentos de requisitos
+
+escritos em linguagem natural, que é uma linguagem natural.
+
+Ela é uma linguagem humanizada.
+
+Então existem algoritmos que fazem parte da composição de inteligência artificial, que é responsável
+
+por analisar, por entender, por interpretar a linguagem natural.
+
+Tá bom.
+
+E essa linguagem natural é aquilo que nós falamos no momento.
+
+É aquilo que nós escrevemos, o que nós escrevemos, como nós escrevemos.
+
+Beleza.
+
+Então o processamento da linguagem dentro dos programas é primordial para eles funcionarem de uma maneira
+
+devida.
+
+E aí?
+
+Por que isso é necessário?
+
+Porque ajuda a identificar entidades, relações e estruturas de requisitos.
+
+De certa forma, o que eu to falando aqui, pessoal, eu to falando que quando você faz o mapeamento
+
+de determinados requisitos, quando você cria determinadas documentações, a maneira no qual você escreve,
+
+dependendo de como você escreve, de como você monta, de como você arquitetura, a sua documentação,
+
+ela vai ser fundamental para quando você utilizar determinados programas.
+
+Esses programas que utilizam processamento de linguagem natural, consiga interpretar o que tá escrito,
+
+consiga entender e separar.
+
+E aí ele consegue identificar o que é entidade, o que que é relacionamento, o que que é uma estrutura
+
+e etc.
+
+Vou dar um exemplo mais simplificado.
+
+Imagina que eu criei uma documentação para entrega de alimentos por aplicativo.
+
+Imagina que eu fiz a documentação e eu quero achar determinados requisitos importantes.
+
+Eu posso utilizar um programa de inteligência artificial, jogar aquele meu documento dentro desse programa
+
+e pedir para ele extrair as informações que eu quero, ao invés de eu mesmo fazer essa interpretação.
+
+Não sei se vocês conseguem entender, mas vou me aprofundar um pouco mais.
+
+Vamos dando continuidade aqui, pegando classificação e priorização automática.
+
+Olha só as inteligências artificiais.
+
+Elas também utilizam algoritmos de classificação que pode categorizar automaticamente os requisitos
+
+com base em critérios predefinidos, como funcionalidade, prioridade e complexidade.
+
+Então imagina que você queira de todos os requisitos mapeados que você, através da documentação, pediu
+
+para uma inteligência artificial gerar para você, você queira que esses requisitos ela também faça
+
+ali determinadas categorizações.
+
+E aí você pede para ela categorizar com o que é mais importante.
+
+Você pede para ela categorizar com o que é mais prioritário.
+
+Você pede para ela categorizar com o que é mais complexo.
+
+Você pede para categorizar com que demanda mais tempo.
+
+Então você consegue fazer uma série de benefícios usando a inteligência artificial.
+
+Isso ajuda no quê?
+
+Na organização e na tomada de decisões sobre quais requisitos são os premissas para aquele determinado
+
+produto, para aquele determinado serviço, para aquele determinado sistema, para aquela determinada
+
+plataforma e por aí vai.
+
+Beleza.
+
+Terceiro, detecção de ambiguidade e contradições.
+
+Então, por trás da inteligência artificial também existe uma espécie de algoritmo que é chamado de
+
+análise de sentimento e coerência.
+
+Beleza, de certa forma, são técnicas de aprendizado de máquina, tá?
+
+E pode ser empregados para identificar inconsistências e ambiguidades ou contradições nos requisitos,
+
+ajudando a melhorar a qualidade e a consistência deles.
+
+Tá.
+
+Então, quando a gente fala em contradições ou ambiguidade, é quando você tem uma série de requisitos
+
+e aí em um lugar você fala algo e aí um outro requisito após você contradiz ou sobrepõe aquele anterior.
+
+Então, por exemplo, eu coloco assim um requisito sobre a ação de um botão o botão ele vai ter de ser
+
+quadrado no tamanho 40 por 40 na cor azul.
+
+Aí você após faz um outro requisito que fala que o botão terá bordas arredondadas de 20 pixels.
+
+O seu tamanho será de 100 no total e a sua cor é verde azulada.
+
+Aqui houve uma ambiguidade.
+
+Beleza.
+
+Então, quando você usar a inteligência artificial, você pode trabalhar em cima disso também para retirar
+
+ou para consertar tudo que foi incoerente.
+
+Tudo que tiver em relação a contradição, a ambiguidade, tudo.
+
+Que foi inconsistente.
+
+Você consegue também manipular e deixar mais assertivo.
+
+Então, a análise de sentimento é uma parte de aprendizagem de máquina, né?
+
+Isso também tá dentro do contexto de inteligência artificial.
+
+Geração automática de casos de uso.
+
+Isso daqui é bem bacana e ajuda bastante, que é o que modelos preditivos são.
+
+Com base nos requisitos coletados.
+
+Modelos de aprendizado de máquina podem ser treinados para sugerir automaticamente casos de uso ou cenários
+
+que os desenvolvedores podem não ter considerado inicialmente.
+
+Beleza, Então você consegue de repente, criar casos de uso, criar diagramas em cima de documentações
+
+sem que você faça o desenho.
+
+Então você pode pedir para ele criar determinados fluxos de processos usando inteligência artificial.
+
+O nosso quinto Recomendações inteligentes Sistemas de recomendação.
+
+Pode se empregar técnicas de inteligência artificial para recomendar alterações nos requisitos com base
+
+em padrões identificados em projetos anteriores.
+
+Ou melhores práticas de Engenharia de Requisitos.
+
+Você pode pedir também para Inteligência Artificial para dar recomendações das suas documentações,
+
+dos seus mapeamentos, dos seus requisitos levantados, das complexidades das categorias que você realmente
+
+criou.
+
+Você pode pedir recomendações, porque quando a gente fala de inteligência artificial, é uma biblioteca
+
+global.
+
+É uma biblioteca mundial que eles interagem com informações de diversos lugares, diversas relevâncias.
+
+Dizem eles que são todas as fontes confiáveis fontes universitárias, pessoas pós graduadas, mestrados,
+
+doutoradas e determinados sites científicos, determinadas empresas científicas, enfim, tudo que é
+
+relativo em relação a confiabilidade.
+
+Tá bom, então todas as informações que eles usam eles dizem pegar de todos os lugares mais recomendados,
+
+mais bem vistos, mais bem quistos, mais importantes, mais seguros e trazer a você.
+
+Então, quando você fala sobre práticas de engenharia, por exemplo, possa ser que ele traga uma informação
+
+direto de alguém que é responsável por comandar uma equipe dentro da Microsoft, responsável por comandar
+
+uma equipe dentro da Apple.
+
+Enfim, ele vai trazer algo que seja importante para você.
+
+Que são melhores práticas que são validadas por determinadas empresas.
+
+Você consegue também fazer interações nesse contexto.
+
+Aí existem algumas ferramentas, algumas tecnologias que são divididos por essas categorias, no qual
+
+nós falamos um pouco.
+
+Então, sobre a linguagem de processamento natural, né?
+
+Nós temos a Spence, nós temos a NLP, CA nós temos o GPT, que é o chat GPT, né, que são alguns exemplos
+
+de bibliotecas e modelos que podem ser usados para processar e analisar textos.
+
+Nós temos o Bing da Microsoft, nós temos o Bard, agora da Google também entra nesse contexto de linguagem
+
+de processamento natural que ele vai fazer o que?
+
+Entender o sentimento escrito daquilo que você colocou, né?
+
+Daquilo que você precisa, daquilo que você pediu para ele executar e vai fazer esse processamento a
+
+base da interpretação de algoritmo de linguagem natural.
+
+Então existem regrinhas dentro do algoritmos que aí é um pouco mais profundo.
+
+Não adentra muito no nosso curso, mas é necessário de a gente saber para ter um entendimento mais amplo.
+
+Bom aí.
+
+O segundo é sobre o aprendizado de máquinas e frameworks.
+
+Então nós temos o TensorFlow, nós temos o kit, nós temos o que são frameworks que podem ser usados
+
+para modelos específicos na análise de requisitos.
+
+Aí nós temos também ferramentas de análise de dados e de visualização.
+
+Tem pandas, tem o match point, nós temos o Cyborg, que são úteis para manipulação de dados e também
+
+para visualização, permitindo entender melhor os padrões.
+
+Os requisitos, todos eles vocês podem pesquisar depois, seja no Google, no YouTube ou até prefiro
+
+para vocês verem como é e o que faz.
+
+Tá, Para vocês terem entendimento melhor sobre alguns desses que vocês se interessarem, beleza.
+
+Então a conclusão geral que nós temos aqui é que quando nós utilizamos a parte de inteligência artificial
+
+ou aprendizado de máquina, que são tecnicamente as tecnologias de ponta que nós temos atualmente,
+
+nós conseguimos.
+
+Demandar muita coisa ao mesmo tempo que eu acho que é o principal.
+
+Então, quando nós temos muita demanda das ferramentas, elas otimizam bastante o nosso tempo.
+
+Nós também temos uma determinada facilidade.
+
+Então é algo bem bacana de que muitas coisas nós economizamos tempo e nós também economizamos neurônios,
+
+tá?
+
+Então, muitas coisas que talvez nós perderíamos, sei lá, determinadas horas pensando e criando e
+
+fazendo, refazendo, apagando e refazendo e etc.
+
+Tecnicamente, a inteligência artificial te dá tudo pronto em uma única vez.
+
+Agora, o que eu não recomendo, tá?
+
+Só que é crucial para quem está iniciando na área de tecnologia.
+
+Independente se vocês querem seguir a área de análise de requisitos, independente se vocês querem seguir
+
+a área de redes, independente de área de design, independente de área de desenvolvimento.
+
+Área de tecnologia no geral, tá?
+
+Se vocês estão aprendendo, quebrem a cabeça, mesmo que seja maçante, mesmo que seja difícil, Mas
+
+façam por vocês, tá?
+
+Aprendam, entendam, aperfeiçoe, se aprofunde, porque não vale você usar algo que facilite se você
+
+não tem a base.
+
+Beleza.
+
+Aquilo que eu tô passando no momento, nesta específico, é o que é para aqueles que talvez já tem uma
+
+determinada carreira, já tenham determinada experiência, já demanda um determinado tempo na área,
+
+já conhecem algumas coisas assim que querem e que podem fazer isso.
+
+Tá bom.
+
+Olha só o textinho que eu deixei aqui para vocês.
+
+Embora o uso de inteligência artificial e aprendizado de máquina na análise de requisitos ofereça vantagens
+
+significativas, é importante ressaltar que essas tecnologias não substituem as necessidades de especialistas
+
+humanos.
+
+Não substitui.
+
+Não queira fazer tudo de forma fácil, de forma objetiva, porque muitas coisas demanda especialidade
+
+humana.
+
+O que eu tô tentando avisar?
+
+A interpretação correta no contexto e nas nuances dos requisitos ainda requer uma intervenção e uma
+
+validação humana.
+
+Além disso, a qualidade dos resultados obtidos por meio dessas tecnologias depende muito da qualidade
+
+e da quantidade dos dados utilizados para treinar os modelos.
+
+Então, tecnicamente, para você fazer essas coisas, você também precisa ter determinadas coisas.
+
+De certa forma, você precisa fazer, independente de usar inteligência artificial ou não.
+
+Portanto, é crucial garantir os conjuntos de dados representativos e diversificados para obter a análise
+
+mais precisa e confiável.
+
+A aplicação eficaz de inteligência artificial e aprendizado de máquina na análise de requisitos pode
+
+agilizar o processo, melhorar a compreensão e validação dos requisitos e, por fim, contribuir para
+
+o sucesso geral do projeto de desenvolvimento de software.
+
+Bom, em particular o que costumo utilizar como inteligência artificial, após os levantamentos de requisitos,
+
+eu elaboro um papel de pão e peço para transformar em uma documentação mais técnica.
+
+Fora isso, eu não utilizo para extrair requisitos.
+
+Eu não peço para priorizar requisitos.
+
+Eu não peço para criar um caso de uso.
+
+Eu não peço para desenhar um diagrama nem nada.
+
+Não confio muito.
+
+Eu sou mais eu.
+
+Mesmo que demore alguns dias a mais.
+
+Beleza.
+
+Mas espero que vocês tenham entendido a importância e o porquê desta aula, principalmente na era tecnológica
+
+atual.
+
+Mas que vocês saibam utilizar com moderação.
+
+Não fiquem refém disso.
+
+Beleza galera?
+
+Não se torne refém de uma coisa que não te obriga a pensar, tá?
+
+A o ser humano, de certa forma, ele foi feito para pensar com constância, para resolver problemas.
+
+E a medida em que você coloque coisas que faça o ser humano não pensar mais, vai virar uma espécie
+
+de calculadora na mão, né?
+
+Antigamente você na escola tenho certeza que era muito bom em matemática e hoje em dia qualquer conta,
+
+por mais simples que seja, você evita de queimar neurônios e abre a calculadora sem pensar duas vezes.
+
+Não quero que aconteça isso na sua área, então fiquem bastante espertos.
+
+Beleza?
+
+Bom, foi mais uma aula do nosso curso de Análise e Levantamento de Requisitos.
+
+Espero que vocês estejam gostando.
+
+Nós estamos chegando na reta final, Faltam pouquíssimos módulos para nós terminarmos.
+
+Eu vou ficando por aqui.
+
+Para não prolongar muito a aula, me despeço.
+
+Fiquem com Deus e até breve.
