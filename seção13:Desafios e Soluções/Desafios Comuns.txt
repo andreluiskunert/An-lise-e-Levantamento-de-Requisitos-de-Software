@@ -1,0 +1,477 @@
+Olá aluna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+Entrando no novo mês.
+
+Entrando no novo módulo.
+
+Entrando no.
+
+Nova aula, Novos estudos, Novos aprendizados.
+
+A partir daqui nós veremos quais são alguns desafios que um analista de requisitos passa durante o cotidiano
+
+e quais são as estratégias e as soluções que geralmente nós temos para sanar ou para passar sobre aqueles
+
+determinados problemas ou conflitos?
+
+Beleza.
+
+Bom, a nossa primeira aula, ela vai ser sobre os desafios comuns na análise de requisitos e as estratégias
+
+que nós podemos utilizar para superar esses desafios.
+
+Tá bom.
+
+Um.
+
+Primeira coisa que nós já devemos saber é que dentro de qualquer área, de qualquer profissão, sempre
+
+existem desafios.
+
+A área de análise de requisitos não é diferente.
+
+Não existem diversos desafios ao longo do processo de implantação de um projeto de criação de um sistema,
+
+de um serviço, de um produto e geralmente esses desafios, esses conflitos, eles podem estar impactando
+
+a qualidade, a eficácia, a entrega e os requisitos que são levantados.
+
+Beleza, Então eu separei aqui alguns no qual nós vamos entender um pouco sobre o que é e quais as estratégias
+
+que geralmente são utilizadas no cotidiano para poder sanar esse determinado impeditivo.
+
+Então o primeiro é a ambiguidade nos requisitos, né?
+
+A palavra ambiguidade ela tem um significado de duplo sentido.
+
+Então, geralmente acontece quando nós fazemos, levantamos ou mapeamos algum determinado requisito
+
+e ele acaba tendo dupla interpretação.
+
+Tá bom, E aí?
+
+O que acontece quando a dupla interpretação nós sabemos que há um conflito.
+
+Pessoas entendem de uma forma, outras entendem de outra e acabam não entrando num consenso.
+
+Então, os requisitos ambíguos eles podem levar a interpretações diferentes por partes, não só dos
+
+stakeholders que nós sabemos que são as partes envolvidas, são as pessoas dentro do projeto, são os
+
+participantes que são os usuários finais que vão utilizar o produto ou serviço.
+
+São os stakeholders que estão muitas vezes patrocinando, investindo o dinheiro naquilo, enfim, e
+
+obviamente, da equipe de desenvolvimento, que é o principal.
+
+E aí essas implementações, elas acabam sendo incorretas ou incoerentes.
+
+Então, é sempre necessário fazer uma validação antes de tudo para após o desenvolvimento, não ter
+
+um retrabalho.
+
+E aí, quais geralmente são as estratégias para esse caso?
+
+A primeira é o que.
+
+Realizar as entrevistas detalhadas com os stakeholders para esclarecer as dúvidas e obter informações
+
+adicionais.
+
+Vou colocar aqui um exemplo bem prático.
+
+Você fez ali um brainstorm.
+
+Haviam várias pessoas, todas elas falaram, participaram, você teve um entendimento, todo mundo chegou
+
+a um denominador comum e você mapeou tudo que era necessário.
+
+Porém, ao decorrer do andamento do projeto, conforme as coisas forem sendo executadas, acontece de
+
+uma pessoa ou outra ter um entendimento diferente daquilo que foi falado no brainstorm.
+
+Então aqui é necessário você realizar uma uma nova reunião, um novo brainstorm, uma nova entrevista
+
+e ter os esclarecimentos.
+
+Porque às vezes a pessoa que está falando ela pode estar com a informação correta.
+
+Mas a maioria das vezes é ela quem teve o entendimento errado.
+
+Então é necessário tirar essas dúvidas, sanar para todo mundo ficar na mesma página e ter um denominador
+
+comum aqui, beleza?
+
+Segundo ponto é o que utilizar as técnicas de modelagem, diagramas de fluxo de dados, diagramas de
+
+caso de uso para o que visualizar e esclarecer.
+
+Nós sabemos que quando nós temos algo visual, o entendimento, ele é mais completo, né?
+
+Diferente de texto que eu já expliquei aqui que as pessoas muitas vezes não tem uma interpretação textual
+
+adequada e acaba não entendendo o que deve ser entendido por completo.
+
+Beleza, Então, aqui eu posso também acrescentar protótipos.
+
+Você pode desenhar as telinhas ali que também vai ter uma ajuda bem bacana, fora o uso dos diagramas.
+
+E aproveitando a deixa pessoal, esse curso tá terminando, porém estou fazendo um curso novo de UML,
+
+vamos aprender vários diagramas lá.
+
+Ele já está como gratuito aqui na Udemy, se você digitar o Wesley Ávila você com certeza vai achar.
+
+Já aconselho a você adquirir essas primeiras duas horas gratuitas se acaso você acompanhar e gostar
+
+do conteúdo.
+
+Quando ele se tornar pago, você pode adquiri lo e ter acesso as demais aulas e aos demais módulos que
+
+ainda estão em produção.
+
+Beleza?
+
+Bom, dando continuidade aqui.
+
+Terceiro ponto é o que criar exemplos concretos e cenários de uso para ilustrar como os requisitos devem
+
+ser atendidos.
+
+Aqui pode entrar também o conceito do protótipo que eu estou falando a você.
+
+E aí existem várias ferramentas que vocês podem utilizar para fazer.
+
+Ilustrativo de protótipo aqui está em alta atualmente, já vem sendo em alta há alguns anos.
+
+É o Sigma, então a maioria das empresas usa o Sigma, mas tem outras.
+
+Tem o Bal Samick, que também é muito bom, além de outras ferramentas que muitas vezes é free, são
+
+gratuitas.
+
+Então, se na sua equipe, por exemplo, não tem um user para fazer a ilustração das telas, você pode
+
+amarrar isso como uma responsabilidade sua.
+
+Porque se você é o cara que sabe quem é.
+
+Se você é o cara que sabe quais são os requisitos, quais são as regras, o que deve ter ou não ter,
+
+quais são as exceções e seguranças do sistema.
+
+Você também é uma pessoa correta para fazer a ilustração desses desenhos.
+
+Então, além do diagrama, você também pode fazer esses protótipos.
+
+E aí, caso você não tenha o conhecimento, é necessário buscar o conhecimento em algumas dessas ferramentas
+
+de prototipação.
+
+Beleza, Mas aqui o resumo para ambiguidade seriam esses três pontos que nós levamos em consideração
+
+para superar esse problema no caso.
+
+Um segundo problema é a falta de envolvimento dos stakeholders.
+
+E eu vou confessar aqui para vocês que atualmente onde eu to trabalhando, é uma das coisas que mais
+
+tem pegado para mim.
+
+Tá bom porque as equipes são muito grandes, o projeto ele é enorme e são inúmeras, mas inúmeras áreas
+
+envolvidas.
+
+Eu vou colocar aqui que em média, para integração entre sistemas, tem uns 60 sistemas a serem integrados.
+
+Imagina que cada equipe responsável por pelo 60 sistemas tem média de dez, 12, 15 pessoas.
+
+E aí quando nós fazemos reunião, não são todas que acabam participando e muitas vezes as que precisam
+
+participar, as que tem importância no projeto acabam não entrando e aí acaba ficando desatualizada,
+
+acaba conversando coisas em uma determinada reunião e aí na reunião seguinte tem que voltar no que foi
+
+falado anteriormente, porque a pessoa acabou não participando e assim gera uma bola de neve, tá?
+
+Então, quando os stakeholders não estão suficientemente envolvidos no processo da análise de requisitos,
+
+há um risco maior de os requisitos não serem capturados da forma devida, porque as pessoas que precisam
+
+estar lá, que precisam estar acompanhando, que precisam estar participando, que precisam estar interagindo,
+
+que precisam estar envolvidas, não estão.
+
+E acaba sendo uma dor de cabeça.
+
+Aí você acaba fazendo, refazendo, lendo, relendo.
+
+E aí, quais são as estratégias que nós temos para esse caso em específico?
+
+Primeira estratégia é estabelecer canais de comunicação claros e acessíveis com os stakeholders e garantindo
+
+que eles se sintam confortáveis para expressar as suas necessidades e preocupações.
+
+Então, não só esperar em momentos de reuniões, brainstorms, entrevistas, mas ter um grupo separado
+
+para o projeto.
+
+No TIs tem uma troca de e-mail, fazer atas de reuniões.
+
+Então se a pessoa não participou, pelo menos ela vai ter um resumo da documentação e aí ela vai ter
+
+pelo -1 entendimento superficial do que foi falado ali, mesmo ela não tendo participado e aí talvez
+
+ela consiga ficar na mesma página.
+
+Segundo ponto realizar reuniões regulares de acompanhamento com os stakeholders para revisar e validar
+
+os requisitos.
+
+Geralmente, qual que é o processo que eu faço aqui?
+
+Juntamente com a equipe no qual eu atuo, nós usamos uma determinada reunião, um brainstorm para levantar
+
+os requisitos.
+
+Então nós entendemos, mapeamos e etc.
+
+Trazemos para dentro de casa, fazemos a determinada documentação necessária e na semana seguinte nós
+
+fazemos a validação porque as informações ainda estão quentes.
+
+Todo mundo está inteirado e sabendo do que está sendo falado.
+
+Beleza.
+
+E aí após, né, nós falarmos sobre tudo aquilo que foi falado na reunião anterior, ainda na mesma
+
+reunião, se sobrar um tempo, nós falamos de coisas futuras para novamente trazer para dentro de casa,
+
+fazer o que precisa ser feito e na semana após realmente revalidar tudo de novo.
+
+Então fica nesse ciclo.
+
+Você faz a reunião, colhe as evidências, coleta informações, traz para dentro de casa, faz tudo
+
+o que precisa ser feito e na próxima você revalida e vira esse ciclo habitual até a entrega do projeto.
+
+Beleza.
+
+Terceiro ponto envolvê los em sessão de revisão de requisitos e prototipagem para obter feedback precoce
+
+e contínuo.
+
+Então você pode até mesmo utilizar essa reunião de validação, que seria na semana após você ter coletado
+
+e trazido para dentro da sua casinha feito todos os pontos que precisavam ser feitos, você pode levar
+
+junto a validação daquilo que era para ser feito.
+
+Já apresentações de prototipagem.
+
+Olha só sobre o que nós conversamos na reunião na semana passada.
+
+Os pontos levantados foram XPTO, os requisitos foram A, B, C, D e o protótipo sobre isso é isso
+
+daqui.
+
+O usuário clicou aqui, vai fazer isso, o usuário acessou aqui, vai fazer aquilo, o usuário passou
+
+o mouse aqui, vai exibir isso.
+
+Então, tudo isso são estratégias que nós usamos no dia a dia.
+
+Beleza.
+
+Terceiro ponto requisitos conflitantes.
+
+E isso tem bastante em qualquer projeto.
+
+Em projetos complexos, é comum encontrar requisitos que entram em conflitos um com os outros, dificultando
+
+a sua implementação simultânea.
+
+E o que são os requisitos conflitantes?
+
+São requisitos que são importantes entre ambos os lados, porém que não são compatíveis entre si.
+
+E aqui nós temos algumas estratégias também realizar uma análise de impacto para identificar e resolver
+
+conflitos entre esses requisitos, priorizando aqueles que são essenciais para o sucesso do projeto.
+
+Então, entender dentre os dois conflitantes qual é o mais importante, Qual é o que está sendo levado
+
+em consideração como premissa?
+
+Segundo ponto facilitar discussões entre os stakeholders para chegar a um consenso sobre as prioridades
+
+e necessidades do projeto.
+
+Vou dar um exemplo bem clássico aqui.
+
+Olha só.
+
+Você precisa fazer uma integração entre sistemas e você precisa gravar as informações em um banco de
+
+dados.
+
+E aí as informações que você tem para gravar no banco de dados.
+
+Algumas pessoas falam que a informação chave é o campo ID.
+
+Só que outras pessoas falam que a informação chave é um outro campo, que também é em relação a número.
+
+Então, assim, são campos conflitantes.
+
+Dependendo do ponto de vista ou da visão das pessoas.
+
+E aí tem que chegar se a um denominador comum e entender qual dos dois campos realmente nós vamos utilizar
+
+ali para ser um campo chave de integração, por exemplo.
+
+Então entra nesse consenso de requisito conflitante, porque eu não posso ter dois campos chave no caso.
+
+Ou é um ou é outro.
+
+Qual dos dois, então?
+
+Existe aí o senso do denominador comum para isso.
+
+Terceiro ponto utilizar técnicas de negociação e compromisso para encontrar as soluções que atendam
+
+as necessidades de todos os envolvidos.
+
+Então, aqui as negociações e compromisso literalmente a parte profissional.
+
+Você se comprometer a fazer se comprometer a ir atrás de informações, se comprometer a trazer pessoas
+
+que talvez tenham a solução para que você e os envolvidos tenham aí o melhor aproveitamento de tudo
+
+isso.
+
+E agora o nosso quarto problema são as mudanças consistentes e todos os projetos vai haver.
+
+Não importa se você faz tudo de forma minuciosa ou não, sempre haverão requisitos.
+
+Muitas vezes muda a arquitetura, muitas vezes muda o sistema, muitas vezes muda.
+
+A linguagem de programação que vai ser utilizada, muitas vezes muda o banco de dados, muitas vezes
+
+muda a infraestrutura que vai comportar aquilo muitas vezes muda.
+
+Aonde que isso vai ser armazenado?
+
+Às vezes era a cloud e foi para um on premise, um servidor físico, enfim, são inúmeras as coisas
+
+que podem ser mudadas.
+
+A mesma coisa dentro do sistema que estou falando de arquitetura, de infraestrutura, de composição.
+
+Mas as vezes, dentro propriamente da interface, o botão do sistema era do lado esquerdo.
+
+E aí, por um acaso alguém falou que fica melhor embaixo, Aí você tem que mudar o sistema.
+
+Tinha um botão na cor vermelha e o botão era quadradinho.
+
+Alguém falou que é mais bonito, azul com as bordas arredondadas.
+
+Falaram que a letra Oswald é melhor que a Serafim.
+
+Enfim, há muitas coisas que vão ser mudadas ao decorrer do projeto, independente se faz parte de infraestrutura,
+
+se faz parte de arquitetura, se faz parte de banco de dados, se faz parte da programação, se faz
+
+parte da usabilidade, se faz parte do desempenho, se faz parte da interface.
+
+Beleza.
+
+E aí as estratégias que nós temos implementar um processo robusto de gerenciamento de mudanças para
+
+avaliar, registrar e controlar as alterações, ou seja, os relacionamentos que a gente já estudou
+
+bastante nas aulas anteriores.
+
+Segundo ponto manter uma documentação clara e atualizada dos requisitos, facilitando a rastreabilidade
+
+e o entendimento de mudanças.
+
+Então, aqui a parte da documentação.
+
+Falamos em aulas anteriores que existem ferramentas que melhor mantém um controle que as pessoas envolvidas
+
+possuem acesso, ao invés de um Word que você tem propriamente só na sua máquina.
+
+Então você pode usar o Jira, pode usar um Trello, pode usar um modem, entre outras ferramentas.
+
+Isso depende da empresa e o que ela tá disposto a arcar e te dar para você poder exercer o seu trabalho.
+
+Terceiro ponto estabelecer uma cultura de flexibilidade e adaptação dentro da equipe, preparando a
+
+para lidar de forma eficaz com essas mudanças.
+
+Então aqui é interessante já desde o início, informar os envolvidos que vai haver mudanças.
+
+Mencionar sobre eles como que essas mudanças vai acontecer, onde vai ser possível visualizar como era
+
+e como está o antes, o agora e o futuro, né?
+
+Passado, Presente?
+
+Futuro Como era, como está, como vai ser, enfim.
+
+Então vocês, todos os envolvidos, principalmente a sua equipe interna, quem está atuando diretamente
+
+precisa estar na mesma página.
+
+Quanto a esses informativos, tá bom?
+
+Conclusão geral da aula Análise de Requisitos.
+
+Ela pode ser um processo desafiador e nós sabemos o quanto, né?
+
+Afinal, já são 11h00 de curso.
+
+Nós falamos sobre tudo isso desde a primeira aula, mas com a estratégia certa é possível superar qualquer
+
+obstáculo e garantir que os requisitos capturados atendam as necessidades e expectativas dos.
+
+E holders.
+
+Ao enfrentar os desafios com transparência, comunicação eficaz e uma abordagem colaborativa, é possível
+
+garantir o sucesso do projeto de software.
+
+Beleza?
+
+Então vocês podem anotar tudo isso daqui num papelzinho de pão, caderno e caneta na mão.
+
+Como eu já mencionei aulas anteriores, é muito melhor e muito mais gostoso você estudar em qualquer
+
+lugar que você possa, ao invés de ficar preso à frente do computador.
+
+Então anotem o que vocês acharem necessário que vocês acharem importante de ser absorvido e de colocar
+
+em prática no dia a dia.
+
+E a medida que vocês quiserem puderem estudar, vocês estudem aí na casa de vocês.
+
+Seja numa varanda, numa rede, deitado num tapete.
+
+Deixe os estudos de uma forma mais prazerosa e gostosa para vocês.
+
+Vou ficando por aqui, agora já ficando muito extensa.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
