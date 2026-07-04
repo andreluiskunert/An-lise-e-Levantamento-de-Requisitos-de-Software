@@ -1,0 +1,621 @@
+O La Luna La Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Entrando num novo módulo, nós falaremos um pouco sobre melhores práticas e tendências na área de análise
+
+de Requisitos, ou melhor, na área de análise e levantamento de requisitos.
+
+E a nossa primeira aula será Tendências atuais na análise de requisitos utilizando Inteligência Artificial.
+
+Bom, então nós sabemos que de novembro de 2023, ou melhor, novembro de 2022 para cá, muitas coisas
+
+surgiram, muitas coisas evoluíram e muito pouco tempo de espaço.
+
+É um período muito curto e a maioria das pessoas para inúmeras áreas estão fazendo uso de inteligência
+
+artificial para melhorar performance, para melhorar propriamente aquilo que elas fazem no cotidiano,
+
+deixar de forma mais profissional, de repente, acrescentar mais detalhes que muitas vezes passa despercebido
+
+e até mesmo fazer alguma espécie de controle, gestão de risco, prevenções e etc.
+
+Tá bom.
+
+Então nada mais justo do que nós também fazermos aqui uns comparativos e entendermos se realmente é
+
+necessário, se realmente funciona ou se faz jus de acrescentarmos algumas coisas com base em utilização
+
+de inteligência artificial.
+
+Bom, nós sabemos que atualmente existe inúmeras inteligências artificiais no mercado com inúmeros propósitos.
+
+Nós temos aquelas que são realizadas para consultas até propriamente textos, como é o chat GPT, como
+
+é o Bing da Microsoft, Como existe um novo agora da Google?
+
+Como nós temos também inteligência artificiais voltadas à imagem e entre outras funcionalidades.
+
+Tá?
+
+Então, o que eu quero apresentar para vocês aqui, na verdade é um cenário hipotético no qual, a partir
+
+deste cenário, nós vamos tentar fazer aqui o mapeamento criações de histórias com base nesse cenário.
+
+Então eu vou mostrar aqui para vocês.
+
+Já dentro do Word eu tenho um cenário hipotético e relacionado a um sistema de cobrança para uma empresa
+
+de serviços de assinatura de streaming de vídeo.
+
+Vamos imaginar aqui a Netflix e a Prime Video, a HBO e por aí vai.
+
+Beleza.
+
+Então foi criado aqui um contexto, determinados requisitos em cima deste cenário e eu tentei fazer
+
+a divisão do seguinte modo Requisitos funcionais.
+
+Requisitos não funcionais.
+
+Requisitos de performance e propriamente performance e exceções.
+
+Ah, tá bom, então eu tenho em média aí de no total, por tópico, no máximo cinco tipos de requisito.
+
+E aqui, de certa forma, quando nós fôssemos trabalhar no dia a dia, nós teríamos de fazer separações
+
+e criar uma história específica para cada um desses requisitos.
+
+Porque a partir dessa histórias é que os desenvolvedores atacariam e começariam o desenvolvimento.
+
+Beleza.
+
+Então, o que nós vamos usar aqui?
+
+Todos os requisitos que eu acrescentei, porém, juntamente ao chat, é tentar entender se ele vai trazer
+
+para gente algum conteúdo favorável que talvez demande menos tempo da gente, ou que talvez nos atribua
+
+ou nos complemente naquilo que nós fazemos no cotidiano.
+
+Tá bom.
+
+Então vamos lá.
+
+Uma empresa de serviços de assinatura de streaming de vídeo está expandindo a sua base de clientes e
+
+precisa implementar um novo sistema de cobrança para lidar com o aumento da demanda e garantir uma experiência
+
+de usuário eficiente e satisfatória.
+
+O sistema atual de cobrança é limitado e não atende mais às necessidades da empresa em termos de escalabilidade,
+
+usabilidade e desempenho.
+
+Então, aqui, no nosso cenário hipotético, o sistema de cobrança, né, dessa empresa de streaming
+
+de vídeo, na verdade já está defasado, né?
+
+Ele ficou para trás e não atende mais as expectativas diárias e muito menos futuras da empresa.
+
+Então ele já não tá mais tendo atendimento de escalabilidade, de usabilidade, tão menos quanto desempenho.
+
+Então imagina num cenário hipotético em que você fez entrevistas, brainstorms, você fez reuniões específicas,
+
+fez calls?
+
+Colocou partes interessadas do projeto Key Users.
+
+Você conversou com todas as pessoas necessárias, responsáveis por tudo aquilo que era necessário de
+
+ter.
+
+Entendeu?
+
+Regras?
+
+Infraestrutura.
+
+Entendeu sobre a arquitetura do sistema e você levantou os requisitos com base em todas as informações
+
+coletadas.
+
+E que esses requisitos são esses que eu estou apresentando a vocês.
+
+Então, para requisitos funcionais, por exemplo, vocês levantaram o cadastro de sistemas, a gestão
+
+de assinaturas, processamento de pagamentos, gestão de faturas e notificações automatizadas.
+
+Tá bom.
+
+Já para os requisitos não funcionais, vocês levantaram escalabilidade, segurança, usabilidade e desempenho.
+
+Tem mais um aqui embaixo.
+
+Disponibilidade também.
+
+E aí?
+
+Para requisitos de performance são apenas três.
+
+Tempo de processamento de pagamento.
+
+Tempo de resposta da interface do usuário.
+
+Capacidade de transação.
+
+E as exceções que também são muito importantes.
+
+Pagamento recusado quando houver um erro de pagamento não é uma exceção.
+
+Sempre o caminho feliz é o pagamento realizado com sucesso.
+
+Mas e se der erro?
+
+Temos que prestar atenção nisso também.
+
+Erro de processamento muitas vezes pode cair a internet, pode cair o sistema, o banco de dados pode
+
+ficar fora do ar.
+
+Então existe o erro de processamento.
+
+E também faturas em atraso.
+
+De certa forma, é uma exceção, né?
+
+Nós esperamos que as pessoas elas paguem com antecipação.
+
+No máximo, elas paguem na data de vencimento, mas sempre aquelas pessoas que fazem os pagamentos em
+
+atraso.
+
+Beleza, então são aqui algumas exceções que a gente também tem que ficar de olho.
+
+Então, o que nós faríamos aqui se houvesse a necessidade de pegar cada um desses requisitos e transformar
+
+em uma história de usuário separada para que após isso fosse levantado sub tasks, né?
+
+Especificamente sobre front end back end para o desenvolvedor poder atacar, ou seja, para ele começar
+
+a trabalhar para ele começar a desenvolver para realmente isso que tá no papel começar a surgir e realmente
+
+a existir como um sistema.
+
+Tá bom.
+
+O que nós faríamos seria o seguinte nós inicialmente copiar íamos.
+
+Este primeiro tópico que nós temos aqui, que é o primeiro requisito, que é sobre cadastro de clientes
+
+e o cadastro de clientes como funcionalidade, ele deve fazer o seguinte.
+
+O sistema deve permitir o cadastro de novos clientes, incluindo informações de nome, endereço, detalhes
+
+de contato e métodos de pagamento.
+
+Beleza, então aqui é um requisito funcional.
+
+Para que eu tenha um cliente, eu necessito do cadastro.
+
+Para que eu tenha o cadastro.
+
+Eu preciso permitir o cadastro com essas informações pessoais deste usuário.
+
+Beleza?
+
+E aí, o que nós faríamos?
+
+Nós iríamos aqui no nosso chat GPT?
+
+Beleza?
+
+E aqui no chat GPT nós colocaremos da seguinte forma.
+
+Olha só.
+
+Claro que o modo de escrita dentro do chat GPT eu acho que todo mundo aqui que está acompanhando a aula
+
+já utilizou, já experimentou e sabe como funciona, né?
+
+Não preciso adentrar, mas o chat GPT ele sempre vai trazer aquilo que é necessário conforme o que você
+
+digita.
+
+Ou seja, quanto mais detalhes eu der, quanto mais objetivo eu for, quanto mais granular eu for,
+
+quanto mais superficial eu for, tudo isso vai trazer resultados diferentes.
+
+Então, se eu sou muito superficial, minha resposta vai ser superficial.
+
+Se eu sou muito granular e detalhista, minha resposta vai ser mais completa e complexa.
+
+Tá, ela vai ser mais robusta.
+
+Beleza.
+
+Então, sempre quando nós formos trabalhar nisso, nós geralmente vamos colocar o máximo de informações
+
+possível para que ele consiga também absorver o máximo de informações possível e a partir dali, ele
+
+nos trazer uma resposta mais completa possível, tá?
+
+Então nós poderíamos colocar da seguinte forma Olha só, crie uma history de requisito funcional.
+
+Com base nas.
+
+Seguintes informações Dois pontinhos.
+
+Ou melhor.
+
+Crio uma historia de.
+
+História de usuário.
+
+Para o seguinte requisito funcional.
+
+E aí nós vamos colocar aqui o o cadastro de clientes, que é o nome do requisito.
+
+E o que esse requisito precisa fazer?
+
+Beleza.
+
+Bom, pressionando o ENTER ele vai começar a fazer aqui tudo que é necessário.
+
+Então ele vai colocar aqui o cenário, vai colocar a historinha, quais são os passos a ser percorrido,
+
+Tudo nos mínimos detalhes, para que quando isso seja levado ao desenvolvedor, ele olhe linha a linha
+
+e desenvolva tudo aquilo que está sendo solicitado.
+
+Beleza, Então, aqui ó, Ele criou para nós.
+
+Então vamos ver o que Ele criou.
+
+Olha só.
+
+Como um gerente de lojas, eu desejo ter a capacidade de cadastrar novos clientes no sistema para que
+
+possamos manter um registro organizado de nossos clientes e fornecer um serviço personalizado.
+
+Beleza.
+
+Só que nós falamos aqui o que é um cadastro de clientes.
+
+Só que nós não especificamos sistema nem para onde seria.
+
+Aqui foi proposital para vocês entenderem que ele nos deu algo bem fictício sobre uma loja de roupas
+
+online.
+
+Nós estamos falando sobre lojas de roupa online.
+
+Não.
+
+Nós estamos falando sobre serviço de streaming de vídeo.
+
+Então vamos tentar refazer isso daqui.
+
+Olha só, vamos copiar mais uma vez esse carinha aqui.
+
+E vamos ser mais objetivos e mais detalhistas, né?
+
+O Crie uma história de usuário para o seguinte requisito funcional Cadastro de Clientes para.
+
+Sistema de streaming.
+
+Dividiu.
+
+E aqui ele já vai mudar.
+
+Vamos aguardar ele fazer aqui.
+
+Bom que ele não retornou.
+
+Olha só o nome, obviamente, da History.
+
+Poderia ser essa daqui o cadastro de cliente para sistema de streaming de vídeo.
+
+Beleza?
+
+E aqui ele já tá dando a história bem resumida, Olha só.
+
+Como um usuário interessado em se inscrever para utilizar o serviço de streaming, eu quero poder me
+
+cadastrar facilmente no sistema de streaming de vídeo para que eu possa aproveitar os conteúdos disponíveis
+
+e assistir meus programas favoritos.
+
+Nós tivemos regrinhas aqui ao decorrer das aulas há muito tempo atrás.
+
+Todos vocês eu acredito que se recordam sobre isso, mas existe aqui alguns critérios sobre escrita
+
+de história no qual você tem que se passar pelo sistema ou pelo serviço.
+
+Você tem que dizer o que você quer e o objetivo final que é esperado daquilo que você necessita.
+
+Tá, então por isso que está em negrito aqui, ó.
+
+Como um usuário, porque eu estou me passando pelo usuário sistêmico, Eu quero, ou seja, eu preciso.
+
+Eu necessito dessa funcionalidade para que eu possa de certa forma usufruir, né?
+
+Para que de certa forma eu possa aproveitar os conteúdos para que eu possa acessar, para que eu tenha
+
+acesso, enfim.
+
+Então, aqui, se passar por um sistema ou serviço, dizer o que está sendo solicitado, qual é a necessidade
+
+atual e tentar dar uma solução para aquilo.
+
+Tá bom.
+
+E aí existe os critérios de aceitação.
+
+Olha só, Como usuário, desejo preencher o meu nome completo durante o cadastro.
+
+Como um usuário, eu desejo fornecer o meu endereço completo, incluindo rua, número, cidade e código
+
+postal.
+
+Certa forma o CEP, né?
+
+Como um novo usuário, eu desejo inserir meus detalhes de contato, como número de telefone e endereço
+
+de e-mail, ou seja, para futuros contatos, se necessário.
+
+Como um novo usuário.
+
+Desejo selecionar um método de pagamento adequado, como um cartão de crédito, PayPal ou outro método
+
+aceito.
+
+Olha só, ele não deu nada completo pra nós.
+
+Nós poderíamos colocar aqui cartão de crédito.
+
+Nós poderíamos colocar boleto.
+
+Nós poderíamos ter colocado PIX então aqui mesmo utilizando inteligência artificial.
+
+Ainda assim, não é um pensamento humano, né?
+
+Então, se os requisitos eles fossem incrementados e validados com os usuários finais, imagina que
+
+você escreveu essa história aqui que o chat GPT acabou de te dar e você marcou ali um brainstorm, uma
+
+entrevista, marcou uma alma, uma call, uma reunião simples para falar com os key users, usuários
+
+finais e etc.
+
+E você está validando essa história aqui para saber se realmente vai ser isso.
+
+E aí, chegou nesse quarto ponto aqui as pessoas falaram Pô, legal!
+
+Cartão de crédito, PayPal.
+
+Tá, mas nós temos outros métodos.
+
+Tem como acrescentar boleto?
+
+Tem como acrescentar carnê?
+
+Tem como acrescentar o PIX?
+
+Tem como acrescentar o débito?
+
+Tem como estornar automaticamente da conta bancária no dia do pagamento?
+
+Enfim, são inúmeras possibilidades, né?
+
+Então, isso daqui.
+
+Ele, por mais que tenha sido feito por uma inteligência artificial, ele poderia ser complementado
+
+por uma ação humana, por um pensamento humano, né?
+
+Por uma necessidade humana, algo que talvez a inteligência artificial vai demorar muitos e muitos anos
+
+para prever.
+
+Só que, olha só que interessante, que legal!
+
+Olha o tanto de coisa que ele já nos deu escrito que nós não precisamos fazer.
+
+Nós aqui, de certa forma, estamos validando e se necessário, atribuir, complementar ou detalhar
+
+ainda mais o que ele nos deu, né?
+
+Mas eu já tenho uma performance maior.
+
+Talvez o que eu demorasse 01h00, duas horas para escrever, ele me deu em, sei lá, questão de minutos,
+
+questão de segundos, de repente.
+
+Então eu perderia o meu tempo não escrevendo e sim validando.
+
+De certa forma, eu teria uma economia de tempo, uma performance maior e o meu tempo para fazer outras
+
+coisas, escrever outras histórias, participar de outras reuniões.
+
+Ele acaba sendo maior também.
+
+Beleza.
+
+Só que aí, o que é interessante, você que é novato ainda não tá na área.
+
+Você tá aprendendo, Não acostuma fazer de mão beijada.
+
+Faz o processo que é a lapidação, né?
+
+A gente costuma dizer pega a pedra ali, vai lapidando até ela virar um diamante.
+
+Faz na marra, faz na mão, faz na unha.
+
+Mesmo que demore, mesmo que seja exaustivo, mesmo que seja cansativo.
+
+Porque depois que você aprender e você entender, aí sim você pode facilitar sua vida.
+
+Não adianta você fazer uma coisa fácil sem entender o que ela é, para que ela serve ou como ela funciona.
+
+Beleza.
+
+Dando continuidade, olha só, como novo usuário, eu desejo receber uma confirmação que o meu cadastro
+
+foi concluído com sucesso.
+
+Aqui a gente também pode complementar, porque esse cadastro aqui ele foi concluído com sucesso, mas
+
+onde nós vamos notificar?
+
+Vai ser uma notificação na tela, Essa notificação vai chegar por e-mail, vai chegar um código de SMS
+
+de validação.
+
+Eu vou mandar uma mensagem de disparo automático por WhatsApp.
+
+Como que vai ser?
+
+Eu posso pensar em vários conceitos ou eu posso pensar em disparar de vários lugares, né?
+
+Para ter uma certeza que ele recebeu aquilo que está sendo alertado, né?
+
+Então eu vou mandar um sms, eu vou mandar um e-mail também.
+
+Porque não os dois ao invés de um outro?
+
+Beleza.
+
+Bom texto.
+
+Como novo usuário, desejo poder acessar a minha conta imediatamente após o cadastro para explorar os
+
+conteúdos disponíveis, ou seja, ele quer.
+
+Assim que houver o preenchimento e o disparo desse formulário cadastral, já automaticamente receber
+
+o acesso, login e senha para ele ter um acesso imediato.
+
+Ele não quer poder esperar e precisar esperar, né?
+
+No caso uma pessoa validar, conferir os dados, saber se é existente, se não é e etc.
+
+Ou seja, o sistema ele vai precisar fazer essas validações em real time, tá?
+
+Principalmente dados bancários né?
+
+Então vai ter de ter uma API, um serviço que vai consultar o determinado banco, que vai verificar
+
+a existência e a validade do determinado número do cartão.
+
+Que vai verificar a existência e validade da data de validade, código de segurança e entre outras coisas
+
+que são necessárias, por exemplo.
+
+E aí nós temos o sétimo.
+
+Como novo usuário, desejo poder editar minhas informações de cadastro, se necessário, após o registro
+
+inicial.
+
+Então beleza.
+
+Coloquei lá o meu nome e meu sobrenome, mas eu tenho dois sobrenome.
+
+Eu queria trocar um pelo outro.
+
+Eu queria colocar os dois.
+
+Ou eu queria trocar o número do meu cartão?
+
+Acabei colocando um cartão, sei lá, da minha namorada e eu quero colocar o meu.
+
+Eu coloquei o cartão do meu pai, eu quero colocar o meu.
+
+Enfim, quero editar os meus dados, os meus dados por algum motivo, então eu preciso ter esse acesso
+
+de imediato.
+
+Assim que a conta é ativada, assim que eu consigo ter o acesso a ela.
+
+Tá bom.
+
+É o oitavo.
+
+Como novo usuário, desejo poder excluir a minha conta se desejar, juntamente com a remoção de todas
+
+as informações associadas a ela.
+
+Bom, aqui envolve uma política de segurança, envolve uma política de lei dos dados, né?
+
+Controle dos dados para evitar vazamento, no caso aqui, envolve também proibição de venda de informações
+
+pessoais, que acontece em muitos casos, né?
+
+Acho que o mais recente, o maior até então, foi o da Seara, né?
+
+Disparou não sei quantos milhões aí de disparou, não disponibilizou não sei quantos milhões de de dados
+
+pessoais aí pelo mundo afora das pessoas e inclusive tá tomando um processo bilionário, né?
+
+Então, são coisas que se acontecer dentro da empresa, tem de haver uma determinada política a ser
+
+seguida, até para evitar o vazamento dos dados e também evitar processos futuros dessas pessoas acima
+
+da empresa, né?
+
+Imagina lá, você tá na Netflix, Você não quer mais o acesso à Netflix?
+
+Você deseja excluir a conta?
+
+Deseja cancelar ali o seu plano e por algum motivo, há um vazamento dos seus dados para outros lugares?
+
+Isso é prejudicial a ambos os lados, né?
+
+Principalmente para o lado do cliente.
+
+Tá que muitas vezes ele vai acabar nem sabendo que os dados dele foi vendido, foi disponibilizado e
+
+etc.
+
+Tá bom aqui galera, eu não vou me estender tanto porque a aula ela na verdade já se passou dos 20 minutos,
+
+então eu não vou me prolongar.
+
+Mas isso daqui foi um único requisito de vários outros que nós veremos nas próximas aulas.
+
+Beleza, então eu vou me despedindo por aqui.
+
+Espero que vocês estejam entendendo, que vocês estejam gostando.
+
+Espero que vocês consigam assimilar e entender a diferença de o que é fazer de forma manual, o que
+
+é utilizar uma inteligência artificial para ajudar, tá?
+
+Então saiba separar o conceito de ajudar, de complementar e o conceito de fazer para você, tá?
+
+Não vai virar uma pessoa relaxada e deixar de fazer as coisas e fazer com que a inteligência artificial
+
+faça para você.
+
+Não é nada disso que eu tô querendo ensinar aqui.
+
+Estou querendo ensinar que aquilo que você fizer você pode complementar com a inteligência artificial
+
+de forma que você tenha uma maior performance, uma menor demanda de tempo e isso vai facilitar e contribuir
+
+de forma diária a você fazer outras tarefas, reuniões, brainstorms e outras coisas que você tiver
+
+aí dentro da sua agenda.
+
+Beleza?
+
+Fiquem com Deus.
+
+Me despeço por aqui.
+
+Até breve.
