@@ -1,0 +1,529 @@
+Olá Luna! Olá aluno! Como vocês estão?
+
+Sejam muito bem vindos a mais uma
+
+aula do nosso curso de Análise
+
+e Levantamento de Requisitos de Software.
+
+Nesta aula nós teremos a parte dois das tendências
+
+atuais em análise de requisitos utilizando a Inteligência Artificial.
+
+Então, você que acompanhou a primeira aula, você
+
+viu aqui qual é o propósito de utilizar
+
+a inteligência artificial? O porquê de fazermos isso,
+
+né? Em relação a performance? Economia de tempo
+
+Maior demanda, distribuição de tarefas diárias e semanais.
+
+E nós fizemos apenas um determinado requisito.
+
+No entanto, faltam outros.
+
+Tá bom.
+
+Então nós vamos, na verdade, dar continuidade aqui.
+
+O nosso segundo requisito ele é a gestão de assinaturas.
+
+Tá bom.
+
+Então, sobre a gestão de assinaturas aqui, o que é necessário
+
+no requisito? Os clientes devem poder escolher entre diferentes planos
+
+de assinatura, com opções de cobrança mensal, trimestral ou anual.
+
+Isso daqui, ó.
+
+De cara já poderia ser mudado, porque eu poderia acrescentar o trimestral e o semestral.
+
+Tá, eu não acrescentei o semestral, mas eu poderia.
+
+Beleza.
+
+E aqui nós vamos dar continuidade, da mesma forma que nós fizemos no anterior.
+
+Então vamos inicialmente pegar essa primeira parte aqui o.
+
+Crie uma history de usuário para os seguintes requisitos.
+
+Gestão de assinaturas do que mesmo para que nós
+
+não precisamos refazer para sistema de streaming de vídeo.
+
+Beleza.
+
+E vamos aguardar ver aqui o que o chat vai nos trazer de retorno.
+
+Beleza.
+
+Trouxe aqui novamente para os nossos histories, né? Oito
+
+casos ou oito requisitos quebrados, né? Então, isso é
+
+necessário para quem não acompanhou a primeira aula.
+
+Para que o desenvolvedor faça a linha a linha, porque cada
+
+uma dessas linhas representa uma determinada necessidade dentro deste requisito.
+
+Beleza, Então vamos lá.
+
+Novamente, o nome da história.
+
+Gestão de assinaturas de Sistemas de streaming de vídeo.
+
+E aqui existe um breve resumo das intenções, né? Então olha só
+
+como um cliente interessado em acessar conteúdo premium no sistema de streaming
+
+de vídeo, eu quero ter a opção de escolher entre diferentes
+
+planos de assinatura que se adequem às minhas necessidades de visualização.
+
+Para que eu possa aproveitar os benefícios exclusivos e
+
+o conteúdo premium oferecido no sistema de serviço streaming.
+
+Beleza.
+
+Novamente, nós temos aqui.
+
+Se passando por um cliente, né? Um
+
+usuário do sistema que necessita, né? O
+
+eu quero aqui é uma necessidade.
+
+Ele necessita ter uma opção de escolher diversos planos para que após esse essa escolha
+
+que ele teve, ele possa aproveitar os benefícios conforme o serviço escolhido por ele.
+
+Beleza.
+
+Então, novamente, se passar por um sistema ou serviço, ter um
+
+objetivo necessário e um resultado esperado daquela ação necessária, tá bom.
+
+E aí, os critérios de aceitação.
+
+Então, quando o desenvolvedor ele for pegar isso daqui,
+
+ele vai ter que desenvolver todas essas linhas aqui.
+
+Tudo isso daqui seria uma funcionalidade no sistema, tá?
+
+Existe a necessidade de haver tudo isso daqui.
+
+Então, quando houver o teste, imagina aqui, ó.
+
+Você fez isso? Você validou com os
+
+usuários finais os key users e etc.
+
+Os stakeholders de uma forma geral.
+
+E aí você levou
+
+para o desenvolvedor?
+
+Ele fez? Houve
+
+os testes? Beleza.
+
+E nos testes as pessoas que
+
+testaram, né? Geralmente são os caras,
+
+né? Os analistas de qualidade.
+
+Mas muitas vezes pode ser você como um analista de requisitos, fazendo testes.
+
+Eu, em particular onde estou atualmente, tenho esta função também.
+
+Você olhar para cada uma dessas linhas e você ver
+
+que há algo faltando, né? Algum requisito faltando? Então aí
+
+você tem que entrar em contato com o desenvolvedor, abrir
+
+uma solicitação de bug caso seja um bug, né?
+
+Caso não esteja fazendo conforme a descrição do requisito.
+
+Caso não exista, você tem que abrir uma outra solicitação para que ele possa criar.
+
+Então assim, é uma série de refinamentos detalhezinhos que nós
+
+temos de nos atentar e não deixar passar despercebido.
+
+Tá bom, mas dando continuidade aqui ó.
+
+Quais os critérios de aceitação para a gestão de
+
+assinaturas? O Como um cliente desejo ver uma variedade
+
+de planos de assinatura disponíveis, né? Então o desenvolvedor.
+
+Ele vai desenvolver uma tela que vai mostrar
+
+várias formas de assinatura, vários tipos de planos,
+
+né? Quais são os planos? Aí vai
+
+ter que voltar lá naquela historinha anterior.
+
+Poderia complementar aqui, né? Quais
+
+seriam os planos? Seria
+
+os planos mensais, trimestrais,
+
+se necessário, semestrais? E
+
+os planos anuais? Beleza.
+
+Por que que eu estou passando o detalhe a detalhe, como eu
+
+fiz na aula anterior? Porque vocês precisam observar que por mais que
+
+o chart ele traga as coisas objetivas, ele esquece algumas informações.
+
+Então aqui ó.
+
+Ele falou que necessita de uma variedade de planos disponíveis.
+
+Nesta primeira linha já deveria ter Quais são os
+
+planos? Como que o desenvolvedor vai saber quais são
+
+os planos? Ele vai ter que sair da história
+
+e entrar lá no documento do requisito? Não.
+
+Você tem que deixar o mais mastigado possível para ele, para ele também não ter
+
+desculpa de quando você for fazer o teste ou qualquer outra pessoa for fazer
+
+o teste, de não haver a determinada funcionalidade, a determinada solução e ele alegar
+
+ah, isso não estava escrito, isso não estava descrito, isso não estava na documentação.
+
+Então é sempre bom ressaltar que você necessita
+
+agregar todos os detalhes necessários nessa primeira linha.
+
+Por exemplo, faltou detalhes que você teria de completar manualmente
+
+caso fosse usar o chat GPT no dia a dia.
+
+Beleza? Bom, segundo como cliente, desejo poder comparar
+
+os recursos e preços de cada plano
+
+de assinatura para tomar uma decisão informada.
+
+Então aqui tem que comparar não só os preços entre uma assinatura
+
+e outra, mas também o que está sendo liberado no pacote.
+
+Por exemplo, o que está dentro de um pacote anual que não vai
+
+conter num pacote mensal? Vamos colocar aqui o exemplo da da Prime Video.
+
+Ela deixa você assistir séries, filmes e determinados canais de esporte.
+
+Será que se eu pegar o mensal eu só vou
+
+ter acesso a filmes? Eu só vou ter acesso a
+
+séries canal de esporte só para assinatura anual? Não sei.
+
+Isso é definido como regra de requisito de onde
+
+você está trabalhando, né? Então, aqui cenários hipotéticos.
+
+Estou dando como exemplo para a gente assimilar cada uma das linhas.
+
+Terceiro, como cliente, desejo poder selecionar entre diferentes
+
+períodos de cobrança, como o mensal, trimestral, anual.
+
+Para o meu plano de assinatura.
+
+Então, o que que são os períodos?
+
+Imagina que eu estou contratado como mensal.
+
+Eu quero trocar para trimestral.
+
+Para anual eu poder ter essa possibilidade.
+
+Beleza, Tudo isso precisa ser testado.
+
+Então, quando houver lá o desenvolvimento, vai ter um usuário de teste que você vai ter que
+
+fazer todos esses trâmites, ver linha a linha, se tá fazendo tudo isso que tá sendo descrito.
+
+Beleza.
+
+Quarta linha.
+
+Como um cliente.
+
+Desejo poder atualizar meu plano de assinatura a qualquer momento, para que seja
+
+um plano com mais recursos ou para um período de cobrança diferente.
+
+Eu quero alterar a data do pagamento.
+
+Eu quero alterar a data do desconto automático.
+
+Eu quero alterar o tipo de plano.
+
+Eu quero restringir recursos ou aumentar recursos dentro do meu
+
+plano? Eu terei essa possibilidade? Quinto como um cliente, desejo
+
+receber uma confirmação clara e detalhada da minha seleção
+
+de plano de assinatura e método de cobrança associado.
+
+Novamente, como que vai ser feito
+
+essa confirmação? Vai ser por tela.
+
+Assim que ele clicar lá confirmar, vai exibir uma tela com essas informações,
+
+vai gerar um documento em PDF para ele poder fazer o download.
+
+Vai ser enviado um documento por e-mail ou propriamente um e-mail e as informações no corpo do e-mail.
+
+Vai ser gerado um SMS, um disparo automático para o WhatsApp, enfim, vai vir um sinal
+
+de fumaça, um pombo correio vai entrar uma com uma carta dentro do quarto dele.
+
+Não sei, isso é regra definida, porem aqui não está dizendo especificamente como seria isso, seria
+
+algo que por exemplo, você não tivesse e a confirmação de como seria precisasse marcar uma
+
+reunião Macau com os stakeholders e falar Olha, eu tenho uma dúvida nesse requisito aqui.
+
+Ele está atualmente desta forma como que nós vamos fazer?
+
+Vamos ser mais objetivos aqui? Qual que vai ser a
+
+confirmação clara e detalhada que ele vai receber? Por onde
+
+ele vai receber, o que que vai vir escrito.
+
+Vai ser um print da tela do qual ele escolheu com os
+
+dados bancários que ele escolheu, o tipo de de de recurso, né?
+
+De acesso que ele escolheu vai ser simplesmente texto, não sei.
+
+Isso aqui seria levado para uma validação, um refinamento de requisito.
+
+Se é chamado de refinamento, nós temos o requisito.
+
+Ele tá definido por ele.
+
+Não tá refinado, tá? Então, digamos aqui que nós, como o
+
+meu líder fala, precisamos amassar o barro, né? Então nós temos
+
+aqui que fazer uma uma moldagem mais detalhada, mais granular.
+
+Beleza, Nosso sexto, como um cliente, desejo receber lembretes antes do vencimento da minha assinatura para
+
+que eu possa renová la a tempo, se desejar, a esse vencimento antes da assinatura.
+
+Tá querendo ser dito
+
+o quê? Beleza.
+
+Ah, estamos no mês de março.
+
+O vencimento ele vai ser no último dia de março.
+
+Eu vou disparar esses lembretes quando um dia antes, três dias antes, uma semana antes quinzenal.
+
+Vou fazer vários disparos.
+
+Olha, entrou dia 1 de março.
+
+Vou avisar a ele que no término do mês vai haver o vencimento.
+
+Quando passar 15 dias eu vou mandar um outro.
+
+Olha, vai faltar 15 dias para o vencimento.
+
+Quando faltar uma semana, olha, falta sete dias pro vencimento.
+
+Quando faltar três dias, olha, falta três dias pro vencimento.
+
+Quando faltar um dia, olha, vence amanhã.
+
+Não sei como é.
+
+Então aqui também necessita de um refinamento.
+
+Tá bom? Chat GPT Ele deu aqui de
+
+certa forma uma estrutura, porém falta um refinamento.
+
+Requisito tá definido, bacana, mas não tá refinado.
+
+Também precisaria amassar o barro.
+
+Nosso sétimo, como um cliente, desejo poder cancelar a minha assinatura a qualquer momento, com
+
+a opção de manter acesso ao conteúdo até o final do período de cobrança atual.
+
+Olha só, desejo poder cancelar a minha assinatura a qualquer momento, com
+
+a opção de manter o conteúdo até o final da cobrança atual.
+
+Olha só que bacana isso daqui.
+
+Isso daqui também muitas vezes pode dar desacerto e prejuízo para a empresa.
+
+Vamos imaginar aqui um pacote anual.
+
+Então, janeiro de 2024 eu assinei o serviço de streaming, fiz um pacote
+
+anual, vai até janeiro do ano que vem, chegou no segundo mês.
+
+Em fevereiro eu quis cancelar.
+
+Só que eu quero ter o acesso aos conteúdos até o final.
+
+Eu vou ficar 11 meses sem pagar.
+
+Faz sentido.
+
+Vai ser legal deixar isso daqui.
+
+Vai agregar valor para a empresa, vai
+
+agregar valor de negócio, vai gerar
+
+lucro, Rentabilidade para empresa? Não sei.
+
+Será que eu vou ter prejuízo em dinheiro? Mas esse usuário ele
+
+vai me dar um feedback positivo e esse feedback positivo vai fazer
+
+com que tenha um engajamento maior e outras pessoas façam a assinatura.
+
+Ou seja, não estou ganhando por ele, mas vou ganhar através dele.
+
+Olha só que diferente a plano anual é 50 por mês.
+
+Deixei de ganhar 50 por mês, né? Vamos
+
+colocar aqui que seria 1200 por ano,
+
+né? Deixei de ganhar 1200 por ano.
+
+Só que através desses 1200 que eu deixei de ganhar, eu comecei a arrecadar cinco, 6000,
+
+porque através dele outros usuários se cadastraram, porque ele falou olha, a plataforma é bacana,
+
+eu cancelei o meu acesso tem 11 meses e ainda tô tendo acesso ao conteúdo.
+
+Não sei, possa ser que sim, porém faltaria amassar o
+
+barro, né? É um requisito definido que precisaria ser refinado.
+
+Precisaria novamente entrar em contato com stakeholders, Usuários finais, Partes interessadas,
+
+Gerências e etc e entender qual seria o melhor caminho aqui.
+
+Nosso oitavo mais uma vez como cliente, desejo receber confirmação do
+
+cancelamento da minha assinatura, juntamente com as informações sobre qualquer
+
+ação adicional necessária, como a devolução de dispositivos de streaming.
+
+Não sei se o serviço de streaming vai disponibilizar uma antena parabólica, um aparelho que vai captar
+
+o sinal para que ele possa ter acesso a esses canais ou a esse serviço de streaming.
+
+Não sei se vai ser um modem com IP específico direcionado apenas para aquilo.
+
+Não sei como vai ser, mas deve haver de forma clara que
+
+se houver o cancelamento e houver a necessidade de devolução de algum
+
+acessório, algum aparelho que veio junto ao pacote de contratação, que seja
+
+necessário informar a devolução, né? Então, se for necessário a devolução,
+
+como que vai ser feito? Vai ter que ter as instruções.
+
+Olha, você vai ter que colocar num plástico bolha, porque o produto ele
+
+é sensível dentro de uma caixa e vai ter que enviar por correio.
+
+Olha, eu vou disponibilizar uma pessoa para fazer a entrega ou eu vou contratar um
+
+um Uber de de coleta e ele vai fazer a retirada aí e não sei.
+
+Então isso daqui também teria de de amassar o barro.
+
+Como que vai ser feito essa devolução caso haja a devolução?
+
+Então vai ter uma pessoa específica, vai ter uma equipe específica.
+
+São talvez pessoas que são responsáveis pela instalação, que também vão fazer a coleta.
+
+Não sei.
+
+Isso também tem que ser definido.
+
+E tem que ser algo bem claro, não só para a empresa, mas principalmente para o cliente.
+
+Ele precisa entender que ele precisa devolver.
+
+Se houver uma taxa de cobrança, se ele quiser ficar com um aparelho, por exemplo, a antena parabólica, eu quero
+
+usar para mim captar sinais de uma outra TV, a de um outro tipo de canal, de um outro serviço.
+
+Eu quero manter a antena.
+
+Eu posso ficar com a antena? Ah, se eu posso ficar com
+
+a antena, quanto ela custa? Então você pode colocar uma taxa
+
+para ele ficar para você ficar com a antena 200 R$.
+
+Se você não quiser, você pode devolver e um técnico vai fazer a coleta.
+
+Enfim, são coisas que são necessárias aqui de forma mais granular.
+
+Tem um detalhamento maior.
+
+Beleza.
+
+Vou ficando por aqui mais uma vez.
+
+Essa aula está quase a 20 minutos novamente, né? Estão sendo aulas
+
+bem extensas aqui, porém estamos chegando aqui no fim do curso.
+
+Estamos quase que no último módulo praticamente, se não no último.
+
+Então vamos fazer algo bem bacana, bem dinâmico, para vocês saírem daqui o máximo aperfeiçoados possíveis,
+
+com o máximo de capacitação possível para usufruir dos conhecimentos adquiridos aqui no dia a dia.
+
+Tá bom? Me despeço de vocês,
+
+Fiquem com Deus e até breve.
