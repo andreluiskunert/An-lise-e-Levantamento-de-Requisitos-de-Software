@@ -1,0 +1,579 @@
+Olá aluna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Estamos entrando na terceira parte sobre a aula relacionada ao uso
+
+de inteligência artificial na área de análise Levantamento de requisitos.
+
+E onde eu havia passado para vocês um cenário hipotético relacionado a
+
+uma empresa a serviços de assinatura de streaming? Então, para quem não
+
+se recorda, nós havíamos criado este cenário hipotético no qual nós estávamos
+
+fazendo a utilização da inteligência artificial para criar as histórias de usuário.
+
+Então, nas histórias anteriores, nós falamos um pouco sobre a história do
+
+usuário que foi trazida pela inteligência artificial, sobre cadastro de clientes e
+
+também na parte dois sobre a gestão de assinaturas, então, a qual
+
+nós vamos estar utilizando agora? Ela é o processamento de pagamentos.
+
+Então, dentro do serviço de streaming existe o processamento de pagamentos.
+
+O que seria isso? Seria uma premissa? Seria
+
+um requisito funcional? Então é obrigatoriedade existir
+
+dentro do sistema, onde exista possibilidades de
+
+diferentes tipos de pagamento, diferentes formas de
+
+pagamento para o usuário fazer ali o
+
+pagamento do pacote no qual ele adquiriu.
+
+Beleza.
+
+Bom, sobre o processamento de pagamentos, como ele deve ser, olha só.
+
+O sistema deve ser capaz de processar pagamentos de forma segura e eficiente,
+
+aceitando diferentes métodos de pagamentos, como cartões de créditos, débitos e carteiras digitais.
+
+Beleza.
+
+Então, levando o conceito do cenário, onde nós estamos utilizando
+
+a inteligência artificial para facilitar o nosso dia a dia,
+
+de certa forma, para otimizar o nosso tempo, né? Talvez.
+
+De repente, por um acaso, trazer ali, em questão de
+
+segundos o que muitas vezes nós precisaríamos de minutos
+
+e às vezes horas para estar fazendo? Tá bom.
+
+Isso faz com que nós tenhamos, ao decorrer do dia, determinados tempos, determinados períodos para uma reunião
+
+a mais, para uma tarefa a mais, para um dever a mais, para um fazer a mais.
+
+Beleza.
+
+Então, como nós iremos fazer? Olha só, primeiro de
+
+tudo, nós já temos aqui dentro do nosso chat
+
+GPT aquela conversinha, ou melhor, aquelas conversinhas, as aulas
+
+anteriores, tá? E aí, o que eu tava pedindo
+
+para o chat GPT fazer? É isso daqui, ó.
+
+Crie uma história de usuário para o seguinte requisito funcional.
+
+Então nós vamos copiar isso daqui.
+
+Beleza? E aí nós
+
+vamos trazer o requisito.
+
+Tá, então seria aqui o requisito número três com essas características aqui.
+
+Beleza, Então vou pressionar Shift Enter aqui para quebrar uma linha.
+
+Vou colocar todo o restante necessário e vou pedir para ele criar o conteúdo.
+
+Tá bom, então vamos aguardar aqui enquanto ele faz para nós o nosso.
+
+A nossa história de usuário.
+
+Beleza.
+
+Tá bom, Olha só, ele colocou já aqui todos os pontos que ele julgou necessário.
+
+Como eu falei em aulas anteriores, eu vou repetir.
+
+Vou reforçar aqui a inteligência artificial.
+
+Ela não substitui o trabalho de um ser humano.
+
+Tá bom, Em muitas ocasiões ela vai ajudar, ela vai otimizar.
+
+Mas a inteligência artificial não tem um toque
+
+humanizado, tá? Ela não tem uma percepção.
+
+Se falta algo, se acrescenta algo, se detalha ou se retira da mesma forma que um ser humano.
+
+Então, tudo o que a inteligência artificial der a você, de certa forma você ainda vai precisar lapidar.
+
+Você vai precisar fazer um refinamento.
+
+Tá bom.
+
+Então, diferente de você ter de fazer a criação e depois fazer
+
+o refinamento aqui, ela dá algo pronto e você apenas refina,
+
+ou seja, acrescenta ou melhora alguns determinados conceitos, alguns determinados conteúdos.
+
+Beleza, Então vamos fazer uma análise do que o chat nos
+
+deu, se realmente está aderente com o que nós precisamos.
+
+E se não houver a aderência, nós precisamos pedir para ele refazer,
+
+tá? Então, primeiro de tudo, o nome da história do usuário.
+
+Ela já tá aderente, então tá lá.
+
+Como processamento de pagamentos para o sistema de streaming de vídeo, que é o cenário hipotético.
+
+Beleza.
+
+E aí nós temos os passos de como criar a
+
+história do usuário, né? Então existem ali três pontos fundamentais.
+
+Então, por isso que ele trouxe como negrito, como um eu quero e para que
+
+eu possa, né? Então, o primeiro cenário se passar pelo determinado produto ou pelo determinado
+
+serviço, né? Então, como um cliente, eu estou me colocando no lugar do cliente.
+
+Então, como um cliente que deseja assinar o serviço de streaming de vídeo,
+
+ou seja, eu sou um cliente que quer fazer a assinatura da
+
+plataforma, Aí vem o segundo requisito, né? O segundo ponto em específico,
+
+na verdade, que é o que eu quero fazer, né? Qual é
+
+a minha necessidade então? Por isso que eu quero estar em negrito.
+
+Então eu quero poder pagar a minha assinatura de forma segura e conveniente.
+
+Beleza? Por quê? Porque
+
+aí eu preciso
+
+de uma solução.
+
+Então eu me passo pelo determinado produto, pelo determinado serviço ou pelo determinado usuário.
+
+Falo sobre a minha necessidade e após isso eu tenho que dar uma solução, Ou
+
+seja, para que que eu quero uma assinatura que seja de forma segura e conveniente,
+
+para que eu possa aproveitar o conteúdo oferecido pelo serviço de streaming sem preocupações com
+
+transações financeiras? Eu não quero me preocupar em relação a pagamento a atraso, a desconto.
+
+Eu quero algo que me auxilie.
+
+Beleza, Então, isso daqui seria uma necessidade de usuário? Tá
+
+bom, Então, quais seriam os critérios de aceitação? Os critérios
+
+de aceitação? Como nós já vimos ao decorrer do
+
+curso, ele se trata daquilo que o sistema necessita
+
+ter e que quando tiver, ele vai ser aprovado.
+
+Então são as características necessárias, tá bom? Então olha
+
+só como história de usuário, o primeiro ponto.
+
+Como cliente, desejo ser direcionado para uma página de pagamento segura.
+
+Ao selecionar o meu plano de assinatura.
+
+Então, vamos imaginar aqui um cenário hipotético colocando a Netflix como o principal foco.
+
+Então, quando você vai fazer a assinatura do pacote da
+
+Netflix? Existe ali, né? Diferentes pacotes com as diferentes quantidades
+
+de usuários por pacotes e que quando você faz a
+
+seleção, ele faz o direcionamento para a página de pagamento.
+
+Então seria mais ou menos essa necessidade.
+
+Beleza.
+
+Segundo ponto como cliente, desejo poder escolher entre diferentes métodos
+
+de pagamentos, como cartões de crédito, débito ou carteiras digitais.
+
+Beleza.
+
+Então, aqui o segundo ponto ele nos trouxe coisas óbvias que são necessárias.
+
+Porém, eu acredito que daria para acrescentar algo a mais.
+
+Por exemplo, nós poderíamos colocar aqui de forma mais abrangente o
+
+boleto, porque ainda existem pessoas que optam em pagar em boleto.
+
+Nós poderíamos também colocar sobre a opção de pagamento em pizza.
+
+Nós poderíamos colocar alguns outros tipos de pagamentos,
+
+como PayPal, como o pagamento do Google Play.
+
+Então existem outras possibilidades.
+
+Talvez se enquadre como carteiras digitais aqui nesse contexto.
+
+Talvez sim.
+
+Só que quando eu estou falando de história de usuário, quando eu estou direcionando isso para um
+
+desenvolvedor fazer o desenvolvimento, quando eu estou direcionando isso para um usuário fazer a validação, então ele
+
+vai ler, ele vai ter que entender todas essas necessidades e ele validar e dar o aceite.
+
+Talvez ele não compreenda o que significa essas carteiras digitais, então talvez para esse ponto em
+
+específico seja mais legal fazer a substituição de carteiras digitais por outras coisas mais objetivas.
+
+Então, ao invés de eu colocar a carteira digital, eu posso colocar aqui, p.ex.
+
+Eu posso colocar aqui PayPal, eu posso colocar aqui boleto
+
+e entre outras formas que devem haver por aí.
+
+Beleza.
+
+Terceiro ponto como cliente, desejo inserir minhas informações de pagamento de forma fácil e intuitiva.
+
+Então aqui seria um breve contato com áreas necessárias e responsáveis.
+
+Quem geralmente faz essa parte de intuição experiência de usuário? Seriam os
+
+famosos e user experience, né? Seriam os famosos UX? Ui são aquelas
+
+pessoas que desenham as telas, que colocam cada componente no seu
+
+devido lugar com o devido alinhamento devido o tipo de fonte,
+
+com a devida cor, com o devido tamanho, entre outras informações.
+
+Outros detalhes em peculiar que quando são juntados, quando estão em conjunto, eles
+
+deixam a experiência do usuário muito mais intuitiva, muito mais leve, muito
+
+mais gostosa, tá? Então, aqui seria um ponto de interação sobre isso.
+
+Quarto ponto como um cliente, desejo receber uma confirmação
+
+imediata que meu pagamento foi processado com sucesso.
+
+Olha só o nosso quarto ponto.
+
+Ele também não tem objetividade.
+
+Por que? Porque ele fala que
+
+necessita receber uma confirmação de imediato.
+
+Só que não me fala os meios.
+
+Beleza, Essa confirmação eu vou fazer através de onde eu vou fazer o envio de uma confirmação por e-mail.
+
+Eu vou fazer o disparo de um SMS com a mensagem de confirmação.
+
+Eu vou disparar uma mensagem automática para o WhatsApp desse meu usuário.
+
+Como que vai ser? Eu
+
+vou fazer de várias formas.
+
+Eu posso disparar o e-mail, WhatsApp e um SMS porque eu tenho uma
+
+garantia de que em algum lugar ele vai receber, ele vai olhar.
+
+Então são coisas que necessitam ter mudança.
+
+Então são coisas que necessitam aqui ser refinadas, ter um detalhe maior, ter um detalhamento maior.
+
+Tá bom.
+
+Então, isso daqui, por exemplo, poderia entrar em um brainstorm.
+
+Isso daqui poderia entrar em uma entrevista onde você falaria para o usuário Olha só.
+
+Eu vi aqui que você necessita receber uma confirmação de que o pagamento ele foi processado com sucesso.
+
+Por onde você acha melhor receber essa confirmação? Então, assim, se é
+
+uma plataforma de streaming de vídeo, obviamente necessita de uma pesquisa de
+
+mercado, porque um usuário pode falar que é por um meio.
+
+Um outro usuário pode falar que é por um outro meio e assim sucessivamente.
+
+Porém, tem de ter um denominador comum, ou seja, tem de ter um senso de predominância.
+
+Tá? Qual será esse senso de predominância ou quais serão
+
+esses? Tá, possa ser que os usuários falem que
+
+eles necessitem de receber por mais de um local.
+
+E eu em particular, concordo.
+
+Eu gostaria de receber não só por e-mail ou não, só por SMS.
+
+Eu gostaria de receber por ambos, por exemplo.
+
+Talvez não por WhatsApp, né? Mas
+
+aí assim é uma peculiaridade minha.
+
+No caso, eu estou falando de uma opinião própria minha neste contexto aqui.
+
+Beleza.
+
+Quinto tópico.
+
+Como o cliente deseja receber um recibo detalhado do pagamento
+
+por e-mail para referência futura? Aqui já está sendo
+
+mais objetivo, né? Então, um recibo detalhado do pagamento.
+
+Então, quando o pagamento ele foi efetuado, quando houver o pagamento daquela mensalidade em específica, receber um recibo
+
+detalhado de que houve realmente o pagamento para uma referência futura, ou seja, para se porventura der
+
+um problema no site, der um problema no serviço, alegarem que o pagamento não foi efetuado, a
+
+conta for bloqueada por N motivos de que o pagamento de alguma forma ele não foi reconhecido.
+
+Para ter como argumentar, pra ter como e uma confirmação de que realmente as coisas estão direitinho.
+
+Beleza, então aqui eu não mudaria nada em específico.
+
+Tópico número seis Como cliente, desejo salvar minhas informações de pagamento para facilitar
+
+transações futuras com a opção de editar ou remover essas informações quando necessário.
+
+Beleza, Então porque existe a opção de editar ou de remover a de remover
+
+primeiramente e por segurança, quando principalmente nós estamos com um serviço de streaming.
+
+Só que nós não estamos com os dados pessoais ou dos nossos próprios cartões.
+
+Então exemplo eu fui lá, fiz a assinatura de um pacote de serviço
+
+de streaming, só que eu coloquei o cartão da minha namorada, por exemplo.
+
+E aí porventura acontece alguma coisa entre comigo e ela.
+
+Eu necessito fazer a retirada, a remoção desse cartão.
+
+Então aí eu vou ter de colocar um outro cartão, por isso eu vou precisar remover o dela.
+
+Agora o cenário de edição.
+
+Putz, eu coloquei o meu cartão, só que por um acaso venceu a data de validade, o meu cartão foi bloqueado.
+
+Aí eu solicitei um novo cartão e eu preciso editar as
+
+informações porque é um novo número de cartão, por exemplo.
+
+Então aí existe a opção de edição também.
+
+Então, para esse contexto aqui, eu também acabaria não mudando nada.
+
+Tá bom.
+
+Nosso sétimo tópico Como cliente, desejo que as minhas informações de pagamento sejam protegidas
+
+por medidas de segurança robustas, como criptografia de ponta a ponta, né? Então, o
+
+que nós sabemos hoje em dia é que para a maioria das ocasiões, para
+
+maioria das empresas, principalmente as de grande porte, multinacionais, sempre há vazamento de dados,
+
+né? Nós nunca sabemos de forma direta se esses dados, muitas vezes eles acabam
+
+sendo roubados e sendo distribuídos ou se a empresa realmente age de má fé
+
+e acaba fazendo a venda desses dados para empresas concorrentes, entre outras coisas relacionadas.
+
+Mas o fato é que sempre há vazamento de dados.
+
+Sempre.
+
+Você vê notícias em relação a empresas que sofreram processos.
+
+Se eu não me engano, em alguma das aulas anteriores, eu
+
+até recordei um caso recente, que foi o da Seara.
+
+Teve um vazamento aí de milhões de informações de milhões de usuários,
+
+inclusive as pessoas estão recorrendo aí a ações judiciárias por conta disso.
+
+E aí aqui entra a opção de
+
+segurança de informação, né? Segurança dos dados.
+
+Então, por que que entra o conceito da criptografia, que é a criptografia?
+
+É uma certa codificação, um certo embaralhamento nas informações ali para não serem
+
+visualizadas com facilidade ou para quando as pessoas talvez roubarem, acessarem e etc,
+
+não conseguirem de imediato a não ser descriptografar, né? E nós sabemos hoje
+
+em dia que dependendo da criptografia que é utilizada, possa passar anos a
+
+pessoa tentando ali 20 e 04h01 programinha descriptografar que ainda assim vai
+
+ser difícil, né? Então a parte da segurança ela é muito necessária.
+
+Então aqui teria também de ter meios para fazer um check in, um
+
+check out, uma validação com o usuário para ele realmente entender que as
+
+informações dele está sendo seguras ali, de onde ela está sendo guardada.
+
+Seja um servidor físico dentro da empresa, seja um servidor em nuvem ou qualquer outra coisa no contexto.
+
+Beleza, Agora o nosso oitavo tópico.
+
+Como cliente, desejo receber notificações sobre quaisquer problemas relacionados ao processamento do pagamento,
+
+como transações rejeitadas ou pendentes, para que eu possa tomar as medidas necessárias.
+
+Então, às vezes você passou no cartão de crédito, aí o seu limite ele já tá estourado.
+
+Então por isso ele acabou rejeitando ou tá pendente porque você colocou algum
+
+opcional ali que para fazer a confirmação precisa de uma aprovação manual sua.
+
+Então, essa parte da notificação, ela também é bem importante.
+
+Onde essa notificação ela
+
+pode estar? Vamos lá.
+
+Você em particular usando o Netflix usando a Prime Video ou qualquer outro serviço de streaming.
+
+Provavelmente tem ali um sininho de notificação dentro da.
+
+Você geralmente visualiza aquele sininho.
+
+Eu, em particular, não visualizo o sininho dessas plataformas.
+
+Seria como uma espécie de sininho de notificação.
+
+Da mesma forma do YouTube, pra quando aqueles canais que
+
+você tem inscrito e postam novidades, novos vídeos e etc
+
+e acaba notificando no seu celular? Poderia haver uma
+
+notificação desse tipo dentro do serviço de streaming? Poderia.
+
+Se fosse pelo celular até poderia notificar como o YouTube mostrar ali na tela inicial e etc.
+
+Mas e se eu só fazer a utilização pela TV? O sininho
+
+vai ficar cheio de notificação ali e eu não vou abrir.
+
+Eu em particular, eu não abro.
+
+Eu Por onde essa notificação? Ela
+
+seria melhor entregue? Ela poderia
+
+ser entregue melhor por e-mail.
+
+Eu talvez não aceitaria uma cobrança por SMS.
+
+Talvez eu achasse que fosse alguma forma de alguém estar tentando pegar o meu dinheiro.
+
+Aí de uma forma trapaceira, né? Achou ali o meu número
+
+em qualquer lugar e tá se passando por uma empresa.
+
+Talvez eu gostasse pelo celular, não sei pelo WhatsApp.
+
+Assim seria algo que teria a necessidade de ser refinado.
+
+Então são conceitos que é como eu mencionei, né? Leva muito em
+
+consideração a parte de user Experience, né, que seria ali a
+
+parte mais inteirada com o usuário, que saberia te dizer com
+
+uma exatidão maior, com uma objetividade maior, quais seriam os melhores
+
+caminhos a serem seguidos para estas ocasiões, tá? Mas aqui por.
+
+Todavia, até então o requisito tá certo.
+
+Porque? Porque quando o pagamento ele tem ali algum problema
+
+em relação a transação rejeitada ou pendente porque realmente necessita
+
+de alguma confirmação, acaba sendo necessário entrar em contato
+
+para a pessoa poder fazer ali os procedimentos devidos.
+
+Então, talvez uma notificação objetiva quando for pendente e dizer na notificação o motivo da pendência.
+
+Olha, você precisa aceitar.
+
+Olha, você precisa liberar o seu saldo.
+
+Olha o limite do cartão, Não sei.
+
+Então assim são coisas que talvez, dependendo da situação, nós não
+
+consigamos pegar, né? Tipo de informação nesse contexto propriamente do usuário.
+
+Mas muitas coisas dá para gente pegar e deixar mais objetivo sim, tá? Então, aqui foi mais
+
+uma aula que nós tivemos em relação ao uso de inteligência artificial, no caso o chat
+
+GPT, para otimizar o tempo para quem atua como análise e levantamento de requisitos de software.
+
+Lembrando que o exemplo que eu estou dando aqui no momento é criar histórias de usuário.
+
+Mas nós podemos fazer inúmeras outras coisas para otimizar o
+
+tempo que faz parte aqui do caso do analista,
+
+por exemplo, nós poderíamos criar casos de teste? Poderíamos.
+
+Talvez seja uma aula que eu venha acrescentar para vocês com base nessas três anteriores que nós tivemos.
+
+Então vamos ver como eu vou me sobressaindo com o tempo aqui.
+
+O que que eu arrumo de novidade para trazer aqui dentro
+
+do curso para vocês? Bom, vou me despedindo por aqui.
+
+Esta aula já ficou ultrapassada, temos mais de 20 minutos de aula, então eu me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
