@@ -1,0 +1,595 @@
+Olá aluna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Trazendo a vocês nesta aula ainda uma outra situação utilizando o Chat GPT utilizando Inteligência Artificial.
+
+A partir desta aula nós falaremos um pouco sobre casos de teste.
+
+Então, nas aulas anteriores eu mostrei a vocês que existe a possibilidade de automatização de uma produtividade
+
+maior com base a criação de histórias de usuários utilizando a inteligência artificial.
+
+E aqui eu vou mostrar a vocês que também existe a possibilidade da criação de cenários de teste utilizando
+
+a mesma ferramenta, que é o Chat GPT.
+
+Bom, então a princípio eu preciso primeiramente explicar sobre casos de teste, pois eu me recordo
+
+de ainda não ter falado nada a respeito no curso.
+
+Então, para quem não sabe ainda, para quem está estudando não é da área.
+
+Para quem ainda tem interesse em atuação e quer conhecer um pouco mais, saiba que um dos papéis principais
+
+do Analista de Requisitos, além das histórias mapeamentos, também é a criação dos casos de teste.
+
+A primeira coisa é o que é o caso de teste.
+
+Caso de teste pessoal Ele nada mais é do que as etapas no qual você vai precisar testar.
+
+Quando o desenvolvedor criar tudo aquilo que você escreveu para ele nas histórias de usuários.
+
+Tá bom.
+
+Então, os casos de teste, eles geralmente são escritos pelo próprio analista de requisitos, pois
+
+é o próprio analista de requisitos.
+
+Quem conhece de todo o sistema ou de todo o serviço, ou de todo o produto, com as regras mais detalhadas
+
+e mais granulares possível à mão.
+
+Então, o papel do caso de teste, pelo menos da escrita, é do analista de requisitos.
+
+Talvez você chegue a atuar em uma empresa no qual exista testes, exista analistas de qualidade que
+
+vão efetuar os testes na prática, mas em outras ocasiões você também fará esse papel de teste.
+
+Tá bom?
+
+Então, o que nós vamos fazer aqui na aula então?
+
+Para quem não se recorda, atualizando vocês, nós havíamos tido um cenário hipotético relacionado a
+
+sistema de cobrança de uma empresa de serviços de assinatura de streaming de vídeo e a partir deste
+
+cenário hipotético, nós utilizando a ferramenta de inteligência artificial Chat GPT, acabamos criando
+
+três histórias de usuários que eram pertinentes a ela.
+
+Tá bom.
+
+E aí eu comentei um pouco a respeito e vou bater na tecla mais uma vez que mesmo a inteligência artificial
+
+produzindo muito mais rápido do que nós e otimizando o nosso tempo, ainda falta um toque humanizado
+
+nas coisas e tudo que ela nos dá.
+
+Geralmente nós ainda precisamos lapidar.
+
+Nós precisamos refinar, tá bom?
+
+Então, os conceitos do caso de teste é da mesma forma.
+
+Beleza.
+
+Bom, e aí, como que eu crio os cenários de teste?
+
+Cenários de teste.
+
+Galera, geralmente eles são criados a partir das histórias de usuárias prontas, tá bom?
+
+Então você faz o levantamento, mapeamento de todos os requisitos do projeto, do produto e por aí vai.
+
+Você cria as histórias de usuárias separadas, cada uma com a sua peculiaridade, e cada uma dessas
+
+histórias vai gerar determinados casos de teste.
+
+Beleza.
+
+O que é importante?
+
+Um ponto de atenção para casos de teste.
+
+Casos de teste Geralmente a gente pensa sempre no caminho feliz, nas situações de sucesso, né?
+
+Então, o exemplo de um carrinho de compras.
+
+Geralmente a gente sempre pensa que o caminho feliz é conseguir colocar itens dentro do carrinho.
+
+Porém, um papel importante que um analista de requisitos possui para esta parte da criação de casos
+
+de teste não é nem os cenários de sucesso, pois cenários de sucesso geralmente a gente sabe como funciona
+
+e até mesmo quem não tá participando do projeto tem uma noção normal de como as coisas devem fluir.
+
+Mas sobre pontos de exceção são os mais importantes, então é o importante para os casos de teste.
+
+Então, você que ainda não tem uma prática em caso de teste, você que ainda não atua na área, você
+
+que tá pretendendo iniciar na área, sempre se atente ao criar casos de teste.
+
+Atentar se principalmente nas exceções, ou seja, nos caminhos tristes, naqueles que não dão certo.
+
+Porque esses que não dão certo geralmente precisam de mensagens específicas.
+
+E eu digo isso não só apenas para mostrar para os usuários o que tá acontecendo ou o que deu erro por
+
+que deu erro, mas também para a equipe, para os desenvolvedores, para eles conseguirem saber e ter
+
+uma atuação mais assertiva Em meio a isso.
+
+Vou dar um exemplo bem breve em relação a APIs.
+
+Então imagina que eu tenho uma API, um serviço de cadastro e por um acaso eu sei que o objetivo desse
+
+serviço dessa API é realizar cadastros e criar cadastros.
+
+Só que possa ser que em campos de texto eu digite número, possa ser que em campos de número e digite
+
+texto, possa ser que eu deixe campos vazios e tudo isso vai acabar tendo erros que não vai permitir
+
+o cadastro dos meus registros, porque ou as informações vão estar errôneas ou as informações vão estar
+
+pendentes.
+
+Tá bom, então para esses casos é necessário tratativas e isso é chamado de exceção.
+
+Então, por exemplo, para quando eu fizer a inserção de um número ao invés de um nome completo em uma
+
+API de cadastro, eu preciso de uma mensagem falando que o campo relacionado ao nome está errado ou
+
+que o campo relacionado ao nome está vazio e assim sucessivamente.
+
+Então tudo isso é tratado como exceção.
+
+Tudo isso deve ser observado com muita calma e com muita cautela.
+
+Então, de imediato, o que que nós faremos aqui então?
+
+Vocês recordam do cenário hipotético que nós temos que é esse daqui em relação ao serviço de streaming
+
+e que nós usamos esse cenário para criar os casos de teste?
+
+Tá bom.
+
+E aí os casos de teste eu tenho ele aqui dentro do chat GPT, então eu me recordo de nós termos aqui.
+
+Três casos criados.
+
+Tá bom Então olha só o nosso primeiro caso.
+
+Ele estava aqui e este caso o chat acabou nos dando tudo isso.
+
+Sobre a história de usuário para o primeiro caso.
+
+Tá bom.
+
+Bom, o que nós faremos a partir daqui?
+
+Nós vamos utilizar isso daqui, hipoteticamente, né?
+
+Comentei em aulas anteriores que isso daqui era necessário lapidar, refinar e acrescentar mais coisas,
+
+mas hipotetico do que o chat GPT.
+
+Ele nos deu tudo 100% e não precisamos fazer alteração alguma.
+
+Beleza.
+
+Então, imaginando esse cenário, eu vou copiar essa história de usuário que ele me deu.
+
+E aqui abaixo eu vou pedir para ele fazer o seguinte para ele criar um caso de teste com base nessa
+
+história de usuário, dando a mim tanto as partes de sucesso quanto as exceções.
+
+Então eu vou fazer o seguinte o Crie um cenário de teste para a história de usuário abaixo, considerando.
+
+Casos de.
+
+Sucesso e exceções.
+
+Beleza.
+
+E eu vou colar aqui abaixo a história que ele tinha me dado anterior.
+
+Eu vou pressionar Enter aqui.
+
+Eu vou esperar ele escrever e nós vamos fazer alguns comparativos da mesma maneira que nós fizemos nas
+
+aulas anteriores.
+
+Tá bom?
+
+Então, primeiro de tudo que ele já deu um nome ali para o caso de teste, tá?
+
+E ele tá fazendo aqui as entradas.
+
+Olha só que bacana.
+
+Tá fazendo tudo bem detalhado.
+
+Eu vou esperar ele escrever tudo e aí a gente dá continuidade, falando um pouco mais a respeito.
+
+Bom galera, olha só que bacana que ele fez.
+
+Ele inicialmente deu caso de sucesso, deu todos os tipos de entradas, ou seja, informações que seriam
+
+necessárias e a saída esperada.
+
+O que que é a saída esperada e o caminho feliz?
+
+Então se eu preencher tudo devidamente, o que que precisa acontecer?
+
+Tá bom.
+
+Só que para exceções, ele deixou separado.
+
+Então, se eu fosse fazer a utilização do chat GPT a partir daqui eu já precisaria fazer a junção,
+
+ou seja.
+
+Tudo o que é sucesso.
+
+E tudo o que é exceção precisaria estar junto.
+
+Ou seja, o tópico um de sucesso e o tópico um de excessão precisaria estar junto.
+
+O tópico dois de sucesso, o tópico dois de exceção precisariam estar juntos e assim sucessivamente.
+
+Beleza?
+
+Por quê?
+
+Porque eu preciso para um caso específico, saber o que acontece se der certo e o que deveria acontecer
+
+se der errado.
+
+Para o caso dois, eu preciso saber o que acontece se der certo e o que deveria acontecer se der errado?
+
+Beleza.
+
+Então, isso daqui ele deixou separado.
+
+Só que se nós fôssemos fazer a construção de cenários de teste, esses casos de sucesso em exceção,
+
+precisariam estar juntos, porque o sucesso é exceção de tópico um e do mesmo assunto.
+
+Então eles estão dentro da mesma caixinha.
+
+Sucesso!
+
+A exceção dois é um conjunto, então estão dentro de outra caixinha e assim sucessivamente.
+
+Só que vamos nos atentar aqui sobre os cenários.
+
+Olha só, tem um caso de teste, um é para cadastro e acesso a conta.
+
+Beleza, então ele tá dando uma breve descrição aqui.
+
+Olha só.
+
+Usuário preenche corretamente todos os campos obrigatórios do formulário, incluindo nome completo,
+
+endereço completo, detalhes de contato e seleção de métodos de pagamento.
+
+E aí ele tá mostrando aqui quais são os dados que geralmente são preenchidos e como eles devem ser preenchidos.
+
+Nome completo João da Silva Endereço.
+
+Tá passando a rua, o número da residência, a cidade e o código postal que é o CEP.
+
+Beleza.
+
+Detalhes de contato, né?
+
+Seria informações pessoais dele?
+
+E-mail e telefone.
+
+Beleza?
+
+Método de pagamento, cartão de crédito, número de cartão, data de validade e o código de segurança.
+
+Beleza.
+
+Então ele fazendo o preenchimento devidamente correto.
+
+O que que é esperado?
+
+Saída esperada, ou seja, saída de sucesso.
+
+Caminho feliz Sistema Processo Cadastro Sem erros.
+
+O usuário recebe uma confirmação que o cadastro foi concluído com sucesso.
+
+O usuário é automaticamente redirecionado para a página de login.
+
+Isso daqui seria o caso do Caminho Feliz.
+
+Agora, se por ventura ele fizesse algo errado, então olha só, seria aqui o caso da exceção.
+
+O usuário deixa um ou mais campos obrigatórios em branco durante o preenchimento.
+
+Então olha só o nome completo.
+
+Ele tava em branco, então ele não preencheu.
+
+Igual aqui em cima, como o João da Silva.
+
+Beleza.
+
+A saída esperada, olha só.
+
+O sistema exibe uma mensagem de erro, indicando que o campo Nome completo é obrigatório.
+
+Beleza, então aqui é uma exceção, ou seja, é algo que foge do caminho feliz e que precisa ser mapeado,
+
+porque se der um erro, estoura uma mensagem de erro na tela do usuário.
+
+Ele precisa saber porque deu erro.
+
+Beleza.
+
+Se o cadastro ele não acontecer, é preciso saber.
+
+Então, isso daqui é o quê?
+
+Uma exceção para o usuário.
+
+Só que isso daqui também pode ser levado em consideração quando der erro de cadastro.
+
+Então, vamos imaginar aqui um cenário hipotético que todos os dados eles foram preenchidos da das maneiras
+
+devidas, né?
+
+Os tipos de dados e tudo foi preenchido devidamente.
+
+Só que mesmo assim deu erro.
+
+E aí você vai falar assim Poxa, por que que deu erro?
+
+Todos os campos foram preenchidos devidamente.
+
+Então, existe outras exceções que vão além do que é preenchido.
+
+Porque?
+
+Porque eu estou falando, por exemplo, de serviço de API.
+
+Possa ser que o banco tenha caído, possa ser que o serviço tenha caído, Pode ser que a internet esteja
+
+oscilando.
+
+Então, além dessas informações em branco ou de preenchimento de dados de forma indevida, né?
+
+Onde é número preencher como texto?
+
+Onde é texto, preencher como número?
+
+Eu também tenho que pensar em outros cenários.
+
+Por exemplo, se a minha API dá erro 500, o que que é o erro 500?
+
+Erro 500 é quando não está conseguindo chegar ao servidor.
+
+A Por que que não chegou ao servidor?
+
+Pode ser que a internet tem oscilado, pode ser que o wi fi tenha caído, pode ser que enfim o banco
+
+esteja fora do ar, possa ser que estejam fazendo um deploy no momento e aí tá inativo.
+
+Enfim, existe inúmeras ocasiões esses mapeamentos de exceções.
+
+Eles precisam mostrar as mensagens aderentes e de acordo com cada ocasião.
+
+Então, o que é erro para o usuário?
+
+Eu vou exibir erro para usuário.
+
+Mas o que é interno que se trata de sistema, que se trata de algo de serviço?
+
+Eu vou falar para exibir as mensagens, mas para que quando um desenvolvedor ele vá consultar, vá tentar
+
+entender o que tá dando errado, ele ter uma assertividade maior.
+
+Beleza, então tudo isso daqui eu preciso mapear e aí talvez você vá se desesperar.
+
+Você vai falar assim poxa, então eu vou ter que mapear todos os requisitos e ainda eu vou ter que me
+
+preocupar em casos de sucesso.
+
+Exceção?
+
+Calma, vamos lá que é por partes, tá?
+
+Então, quando você tá fazendo um mapeamento levantamento dos requisitos, de imediato não vão surgir
+
+todas as saídas esperadas, todos os erros, todas as exceções e algo do tipo, tá?
+
+É importante você ter em mente que, conforme você vai fazendo as análises, os levantamentos necessários,
+
+muitas coisas vão sendo modificadas, muitas coisas vão sendo acrescentadas ou retiradas a partir de
+
+coisas que são pensadas e acordadas e inseridas no projeto.
+
+Vai dando espaço pra você pensar em outras novas em cima daquelas, tá?
+
+E assim vão surgindo também o quê?
+
+As informações sobre sucesso é exceção.
+
+Então, conforme você vai fazendo a evolução do projeto, conforme ele vai acontecendo ao decorrer do
+
+tempo, você vai conseguindo fazer o que?
+
+Enxergar todas essas exceções, ou pelo menos a maioria, para fazer mapeamentos.
+
+Muitas dessas exceções, elas acabam sendo inseridas e visualmente sendo prescritas já perto dos momentos
+
+de teste.
+
+Quando você realmente está fazendo testes e acontece algum erro, dá algum problema em específico e
+
+aquilo fica muito vago, fica genérico.
+
+E você fala Olha, eu erro aqui, mas eu não entendi o porquê.
+
+E aí você vai sentar, conversar com o desenvolvedor, vai conversar com o arquiteto, com quem precisar
+
+e você vai entender que aquele erro aconteceu por determinada ocasião ou por determinado motivo.
+
+Então ali você vai fazer um mapeamento de exceção.
+
+Então olha, sempre que acontecer esse erro x xpto a gente vai ter que fazer uma tratativa ABCD.
+
+Beleza?
+
+E assim você vai tentando mapear tudo, vai acontecer ocasiões que você vai subir o seu projeto, seu
+
+produto, seu sistema já vai estar em produção e mesmo assim, ao decorrer do uso, principalmente dos
+
+usuários finais, né, que são quem vai utilizar no dia a dia, vão pegar coisas que você talvez não
+
+tenha conseguido mapear mesmo com seis, sete, dez, um ano de projeto, de levantamento, de mapeamento
+
+e tudo mais.
+
+Beleza, então, essas coisas você não precisa se preocupar tanto, né?
+
+Preocupe mais com o levantamento de requisitos de uma forma mais assertiva, mais detalhada, mais robusta
+
+e todo o resto ele vai sendo acrescentado e incorporado conforme o tempo.
+
+Beleza.
+
+Bom, dando continuidade aqui, então esse daqui foi a primeira exceção que nós tínhamos.
+
+Aí nós tínhamos aqui um segundo caso para sucesso, que é o que após o cadastro, o usuário, ele tenta
+
+acessar a sua conta indiretamente.
+
+Beleza, isso é um cenário de sucesso.
+
+Olha só.
+
+Credenciais de login, e-mail e telefone e senha são fornecidas durante o cadastro, ou seja, o sistema
+
+autentica com sucesso as credenciais do usuário.
+
+Usuário é redirecionado para a sua conta, permitindo lhe começar a explorar os conteúdos disponíveis
+
+de serviço de streaming.
+
+Ou seja, ele preencheu tudo com segurança, tudo com cautela, tudo devidamente correto.
+
+Foi feito o cadastro e ele fez o login.
+
+E tudo isso daqui deve acontecer.
+
+Tá bom, Se por um acaso der problema, qual seria as exceções aqui?
+
+Olha só o usuário tentar prosseguir com o cadastro sem selecionar o método de pagamento.
+
+O usuário não seleciona nenhum método de pagamento, ou seja, ele deixa o método em branco.
+
+Qual que é a exceção?
+
+A saída?
+
+O sistema exibe uma mensagem de erro, indicando que o método de pagamento deve ser selecionado.
+
+O usuário é impedido de prosseguir até que o método de pagamento adequado seja selecionado.
+
+Aqui é um cenário hipotético mostrando para o usuário que ele não fez uma seleção da forma de pagamento.
+
+Agora vamos imaginar um outro cenário.
+
+Imagina que ele inseriu, porém o número de cartão está errado ou que existe um problema com o cartão
+
+dele e o cartão dele tá vencido ou o cartão dele tá bloqueado.
+
+A gente sabe que existe serviços, né, que fazem consultas nos bancos, né?
+
+Então existiria a necessidade de o retorno desse serviço mostrar a mensagem para o desenvolvedor, né?
+
+Falando Olha, este tipo de cartão ou este dado de cartão específico tá bloqueado, tá fora da validade
+
+que foi expirado algo do gênero.
+
+Por quê?
+
+Porque essa mensagem ele conseguiria exibir na tela para o usuário?
+
+Tá, então se acontecer de número de cartão, foi inserido com sucesso, data de validade foi inserida
+
+com sucesso, Código de segurança foi inserido com sucesso, Tipo de cartão, crédito ou débito foi
+
+inserido com sucesso.
+
+Mesmo assim der erro.
+
+O que que pode ser?
+
+Por que que pode ter o erro?
+
+E aí entra essas coisas mais granulares.
+
+Beleza, então, aqui é um dos exemplos no qual eu estou passando, tá?
+
+E aí eu vou bater na tecla mais uma vez de que se você é uma pessoa iniciante, se você está começando
+
+na área agora, se você está estudando sobre o assunto, ainda é o seu primeiro contato.
+
+Se você pretende entrar na área, não faça o uso de inteligência artificial, mesmo que você demore
+
+mais tempo para elaborar, para construir, para escrever, faça à mão.
+
+Faça você mesmo de forma manual, sem ajuda de serviços automatizados.
+
+Beleza.
+
+Eu digo isso porque não adianta você fazer algo que vai facilitar sem você entender o procedimento e
+
+o processo, tá?
+
+Então, primeiro entenda o processo, entenda como funciona, fique um especialista sobre o assunto
+
+e após isso você use ferramentas que possam estar automatizando, agilizando e otimizando o seu tempo.
+
+Beleza.
+
+Do contrário, Fora isso, você só vai estar se emburrecendo.
+
+Por que que eu digo se emburrecendo?
+
+Porque você não está falando muito sobre o que é preciso.
+
+Você não está praticando e sabendo o que é preciso.
+
+Você está pedindo para que alguém faça para você, né?
+
+De certa forma, seria isso.
+
+Então eu digo se você sabe sobre o assunto, utilize de coisas que vai te facilitar e te ajudar a fazer.
+
+Agora, se você não sabe, primeiro aprenda e depois você procure algo que te automatize.
+
+Beleza, vou me despedindo.
+
+Por aqui ela já tá bastante extensa, então eu espero que vocês estejam gostando do curso, que vocês
+
+estejam entendendo, que esteja servindo de serventia, vocês possam colocar em prática no dia a dia.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
