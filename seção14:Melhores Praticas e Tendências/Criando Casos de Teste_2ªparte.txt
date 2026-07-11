@@ -1,0 +1,299 @@
+Olá aluna! Olá
+
+aluno! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+E trazendo a vocês nesta aula a continuidade da aula anterior, ou seja, a parte
+
+dois de como criar casos de teste utilizando a inteligência artificial para otimizar e dar
+
+uma performance melhor no nosso dia a dia, ou seja, ganho e economia de tempo.
+
+Bom.
+
+Para quem não se recorda, as nossas últimas aulas,
+
+elas foram relacionadas ao uso da inteligência artificial.
+
+Onde eu mostrei para vocês que é possível sim, trabalhar diariamente utilizando a
+
+inteligência artificial para fazer algumas coisas que talvez nós demoraríamos algum tempo.
+
+Então houveram ali algumas aulas relacionadas a criações de história de usuário
+
+com base no cenário hipotético que vocês estão visualizando na tela.
+
+E a última aula foi no qual eu, a partir das histórias de usuárias
+
+prontas, fiz um primeiro caso de teste também fazendo a utilização do chat GPT.
+
+É importante ressaltar que além do chat, nós temos outras
+
+inteligências artificiais, nas quais vocês também podem fazer alguns testes.
+
+Existe o Bing.
+
+Existe também o da Google.
+
+Então vocês fiquem aí à vontade para fazer testes conforme a necessidade e a curiosidade de cada um.
+
+Beleza.
+
+Bom, voltando aqui no chat GPT, para quem não
+
+se recorda, nós já tínhamos aqui algumas histórias escritas.
+
+Tá bom? E aqui foi o
+
+último caso no qual nós fizemos.
+
+O que eu vou fazer agora será pegar o segundo exemplo, ou
+
+seja, a segunda história de usuário que o chat GPT criou.
+
+E aí, novamente, cenário hipotético.
+
+Imaginando que ele tenha me dado tudo de uma forma 100%, onde não precise
+
+ter edições, nem acréscimos, nem lapidações de nada, nem nenhum tipo de refinamento.
+
+Eu vou utilizar e pedir para ele criar um caso de teste em cima disso.
+
+Bom, então eu vou procurar aqui inicialmente,
+
+beleza? E aqui seria o nosso segundo.
+
+Olha só.
+
+Crie uma história de usuário para o seguinte requisito funcional.
+
+Olha só Gestão de assinatura de streams para vídeos,
+
+né? Os clientes devem poder escolher entre diferentes planos
+
+de assinatura com opções de cobrança mensal trimestral.
+
+Poderia ser semestral.
+
+Como eu já mencionei, nao específica ou anual.
+
+Bom, e aí ele acabou dando aqui tudo
+
+isso como história de usuário, né? Então, o
+
+nome? O que deveria ser feito? Por qual
+
+objetivo, Qual razão ou circunstância? E mapeou
+
+tudo isso daqui para nós? Tá bom,
+
+então eu vou copiar tudo isso já.
+
+Novamente reforçando que é um cenário hipotético onde não há necessidade de alterações.
+
+E aí eu vou falar o seguinte aqui para ele.
+
+Olha só.
+
+Crie um cenário de caso de teste.
+
+Com base na seguinte história de usuário abaixo.
+
+Pera lá, Ainda falta coisas
+
+aqui, né? Olha só.
+
+Cria um cenário de caso de teste com base na seguinte história de usuário abaixo Vírgula.
+
+Considerando casos de teste de sucesso e de EC.
+
+Então.
+
+E aí eu vou colar aqui abaixo.
+
+A história de usuário para que ele, a partir
+
+dessa história, crie os casos de testes relacionados Beleza.
+
+Vamos aguardar aqui o processamento, ele fazer todo o
+
+procedimento, toda a criação, demorar um pouco de tempo.
+
+Eu vou acabar adiantando o vídeo aqui para que nós não percamos muito tempo.
+
+Beleza? Beleza
+
+Processor rápido.
+
+Olha só.
+
+Então aqui ele retornou para nós.
+
+Cenário de teste que se chama Gestão de Assinaturas do sistema
+
+de streaming de vídeo, onde o contexto é um resumo geral.
+
+É um cliente interessado em acessar conteúdo premium do
+
+sistema de streaming de vídeo? Deseja gerenciar sua assinatura.
+
+E aí ele separou mais uma vez por casos de sucesso onde existe o primeiro e o segundo caso.
+
+O terceiro caso é o quarto caso e os casos de
+
+exceção apartados, onde existe também o primeiro caso de exceção aqui.
+
+E aí vamos fazer uma análise pertinente o porque que ele
+
+deu quatro casos para sucesso e apenas um caso para exceção.
+
+Vamos lá.
+
+Primeiro caso de insucesso.
+
+Seleção de gerenciamento de assinatura, o cliente acessa a página
+
+de planos de assinatura disponível no sistema de streaming.
+
+Qual é a entrada? O cliente logado
+
+na plataforma? Qual é a saída
+
+esperada? O cliente é apresentado a
+
+uma variedade de planos de assinatura
+
+disponíveis, incluindo opções mensais, trimestrais, semestrais.
+
+Como nós já tínhamos dito na aula pertinente a isso e anuais.
+
+Cada plano exibe claramente seus recursos e preços para que o cliente possa fazer uma escolha informada.
+
+Beleza, então tudo isso daqui seria relacionado a sucesso.
+
+Já para o segundo caso, no qual ele deu aqui, como segundo passo, o
+
+cliente decide atualizar seu plano de assinatura para que um ofereça mais recursos.
+
+Então, cada cliente selecionou um novo plano de assinatura inesperada.
+
+O sistema processa o sucesso de atualização do plano de assinatura do cliente.
+
+O cliente recebe uma confirmação clara e detalhada da nova seleção de plano de
+
+assinatura e método de cobrança associado, ou seja, como ele vai efetuar o pagamento.
+
+Beleza.
+
+Agora o terceiro caso ou o terceiro passo.
+
+O cliente recebe um lembrete antes do vencimento da sua assinatura atual data
+
+do vencimento da assinatura atual se aproxima e a entrada do dado.
+
+Então, isso daqui é um processo sistêmico e vai fazer uma verificação.
+
+E aí é uma regra de requisito definir isso vai ser quinzenal.
+
+Semanal faltando sete dias, faltando três dias, Faltando apenas 24 horas.
+
+Beleza.
+
+Ainda inspirada, o cliente recebe um lembrete por e-mail ou notificação da plataforma
+
+antes do vencimento da sua assinatura atual, informando sobre a necessidade de renovação.
+
+O quarto caso ou o quarto passo de sucesso, o cliente decide cancelar a sua assinatura.
+
+Qual é a entrada? O cliente acessa a página
+
+de gerenciamento de assinatura e solicita o cancelamento.
+
+Saída esperada O sistema processa com sucesso o cancelamento da assinatura do cliente.
+
+O cliente recebe uma confirmação do cancelamento, juntamente com as informações sobre quaisquer ações adicionais
+
+necessárias, como a devolução de dispositivo de streaming se acessível, Ou seja, pensando num
+
+cenário de Sky, se tem uma antena, se tem um aparelho ou algo semelhante.
+
+Bom.
+
+Tudo isso daqui que nós acabamos de fazer.
+
+A leitura é pertinente a casos de sucesso.
+
+Porém, existe um caso de exceção apartado aqui, sozinho e único.
+
+Um caso de exceção unitário seria uma exceção aqui para este contexto.
+
+Olha só, Falha na atualização do plano de assinatura.
+
+O cliente tenta atualizar o seu plano de assinatura, mas ocorre erro durante o processamento.
+
+Ou seja, o cliente seleciona um novo plano de assinatura e tenta confirmar a atualização.
+
+Só que no momento da confirmação da atualização dá algum problema.
+
+Então o sistema ele exibe uma mensagem de erro indicando
+
+que houve a falha no processamento da atualização do plano.
+
+O cliente é orientado a tentar novamente mais tarde ou contatar o suporte ao cliente para obter assistência.
+
+Então pode ser aqui uma oscilação no banco, uma intermitência no sistema.
+
+Pode ser também uma internet lenta.
+
+Tudo isso daqui envolve para uma exceção.
+
+Novamente, como eu já ressaltei na aula anterior, tudo que é sucesso é exceção.
+
+Relacionado ao mesmo assunto, necessita ficar junto.
+
+Ou seja, esse cenário de exceção que é a falha na atualização, ele
+
+seria juntamente a o caso dois se eu não me recordo mal.
+
+Olha só, atualização do plano, tá bom Então para esse segundo caso aqui que é
+
+a atualização do plano, deveria ter o caso de sucesso que é este contexto.
+
+Aqui é o caso de exceção abaixo, que seria este contexto aqui, ou seja, caso um apenas caso de sucesso.
+
+Caso dois caso de sucesso é exceção.
+
+Caso três e caso quatro também apenas casos de sucesso.
+
+Beleza.
+
+E aí, novamente, fazendo com a utilização devida é necessária da inteligência artificial nós
+
+temos uma oportunidade contínua de ganho, maximização de tempo e ganho de performance.
+
+Então, por isso que é muito importante você saber fazer e saber utilizar a tecnologia ao seu favor.
+
+Beleza, Eu não vou estender muito sobre casos de teste aqui dentro do chat utilizando
+
+inteligência artificial, porque eu acredito que esses dois exemplos eles sejam mais do que o
+
+suficiente para vocês entenderem como faz e como funciona e o quanto isso nos ajuda.
+
+Tá bom? Então nós vamos encerrar aqui o
+
+conteúdo relacionado a casos de teste com
+
+a utilização de inteligência artificial nesta aula.
+
+Porém, na aula consecutiva, na seguinte aula, nós entraremos aqui com outro assunto
+
+interessante de ser abordado, que eu acredito que vocês vão estar gostando também.
+
+Eu não vou me estender muito por aqui, vou me despedindo.
+
+Fique com Deus e até breve.
