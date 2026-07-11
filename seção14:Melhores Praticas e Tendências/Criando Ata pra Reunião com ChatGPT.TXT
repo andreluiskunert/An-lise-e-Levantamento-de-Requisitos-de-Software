@@ -1,0 +1,477 @@
+Olá Luna.
+
+Olá aluno! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise Levantamento de Requisitos de Software.
+
+Trazendo à vocês nesta aula mais uma aula relacionada a utilização de Inteligência Artificial
+
+dentro da área de análise de Requisitos com o propósito de otimização de tempo.
+
+É obviamente, de ganho de performance.
+
+Ou na aula anterior.
+
+Ou melhor, nas aulas anteriores.
+
+Nossas aulas foram muito elaboradas e trabalhadas em cima do
+
+chat, ou seja, em cima da utilização de inteligência artificial.
+
+E eu mostrei a vocês que é possível fazer inúmeras tarefas que são condizentes Análise de
+
+requisitos ou a levantamento de requisitos que o chat PPT ou que qualquer outro tipo
+
+de inteligência artificial também como Bing ou próprio da Google, são capazes de nos ajudar.
+
+Obviamente que sempre há a necessidade do toque humanizado, como eu já mencionei aulas anteriores.
+
+Mas que muitas coisas, por maioria das vezes, nós demoraríamos ali meia hora, 01h00 ou até mais.
+
+Ele acaba nos trazendo em segundos,
+
+né? Essa aula em específico.
+
+Nós também falaremos um pouco a respeito de inteligência artificial, porém não é relacionado
+
+apenas a análise levantamento de requisitos, mas envolve outras áreas que também são documentação.
+
+Então, se você é um analista de projetos, se você é um gerente de projetos, se você
+
+é um PMO, por exemplo, se você é um PM, você também vai ter a possibilidade de
+
+fazer um tipo de tarefa utilizando o chat GPT e otimizar o seu dia a dia.
+
+No que eu estou falando e especificamente pessoal, estou falando especificamente sobre ata de reunião.
+
+Ata de reunião.
+
+Ela serve tanto para a área da TI, né, quanto para outras áreas administrativas, marketing ou
+
+qualquer outro tipo de profissional que tem a necessidade de fazer a documentação ou de especificar
+
+ou esclarecer para todos os participantes e principalmente para quem acaba ou não participando de reuniões.
+
+O que aconteceu, o que foi falado, o que foi acordado, quais foram os pontos e etc.
+
+Então eu vou utilizar desta vez o chat GPT para que ele me ajude
+
+a criar um template de ata de reunião para que se alguma dúvida eu
+
+tiver, eu conseguir fazer uma elaboração maior com base no que ele me dê.
+
+Porque estou dizendo isso? Porque muitas vezes falta criatividade ou
+
+muitas vezes nós não sabemos o que é preciso
+
+ou o que é necessário ter em uma ata.
+
+Então isso daqui é bem elaborado e muitas coisas talvez do que ele
+
+nos der, nós vamos acabar não usando e aí nós vamos descartando.
+
+Mas eu vou argumentar um pouco com vocês aqui a respeito.
+
+Então, o que eu vou fazer aqui inicialmente é pedir para ele
+
+criar essa ata, tá? Então crie um modelo de ata de reunião.
+
+Bom, nós vamos esperar ele trabalhar aqui em cima do que nós solicitamos.
+
+Caso demore um pouco, eu vou acabar adiantando para não estender muito tempo.
+
+Bom pessoal, aparentemente ele já nos trouxe tudo o que foi solicitado, então vamos analisar.
+
+Assim como nós fizemos em aulas anteriores, saber o que ele trouxe é aderente
+
+ou não, ou se necessita de lapidação, um toque humanizado ou um detalhamento maior.
+
+Tá bom? Então, inicialmente, para que nós tenhamos o
+
+conceito e o contexto por completo, eu pedi para
+
+ele criar um modelo de ata de reunião.
+
+Beleza? Então, inicialmente ele colocou aqui
+
+o título Ata de reunião.
+
+Qual é a empresa? Então, aqui nós preenchemos
+
+o nome da empresa no qual nós atuamos.
+
+A reunião, ou seja, o nome ou departamento da reunião.
+
+Qual foi a data de realização? A
+
+partir de qual horário foi o
+
+início dessa reunião? E também qual
+
+foi o horário de término? Beleza.
+
+A localização.
+
+Isso daqui pode ser bem peculiar porque são pessoas em home office.
+
+Você pode acrescentar aqui.
+
+Isso daqui foi através de algum sistema, né? O
+
+Google MIT, o Tim e por aí vai.
+
+Mas se foi presencial, você pode colocar aqui, por exemplo, alguma sala que é dedicada a reuniões.
+
+Tá bom, o presidente da reunião ou o principal integrante da reunião.
+
+Isso daqui muitas vezes não é necessário.
+
+Eu não descarto a participação de ninguém.
+
+Geralmente entendo que todos os participantes são importantes.
+
+Talvez esta linha aqui eu descartasse.
+
+Beleza.
+
+E o secretário da mesma forma.
+
+Mas para algumas pessoas isso daqui pode ser bacana.
+
+Por exemplo, colocar o nome do gerente do projeto, né?
+
+E o nome do analista do projeto ou do ajudante
+
+dessa pessoa que é o gerente de projeto, por exemplo?
+
+Um recurso de backup, Tá? Isso daqui seria bacana.
+
+Primeiro tópico que ele nos aborda aqui o que é a abertura da reunião, ou
+
+seja, a reunião foi aberta pelo Fulano de tal, a hora de início tal.
+
+Aqui ele já deixou uma espécie de resumo do que você
+
+pode estar preenchendo na abertura da reunião, tá? Segundo tópico ele
+
+trouxe para nós participantes, então aqui o estavam presentes na
+
+reunião Fulano de tal, ciclano de tal, beltrano de tal.
+
+O que você pode acrescentar aqui? Pode acrescentar também
+
+o cargo ou setor dessas pessoas que foram participantes.
+
+Assim também como os ausentes.
+
+Tá, então, por exemplo, uma pessoa ela foi.
+
+Comunicada que teria uma reunião.
+
+Houve o convite para ela, mas ela não apareceu.
+
+Então você coloca aqui que a pessoa não estava presente na reunião.
+
+Beleza, Tanto da mesma forma que eu falei aqui no anterior.
+
+Então aqui você pode também acrescentar o cargo ou setor dessa pessoa.
+
+Beleza? Terceiro tópico Aprovação da ata de
+
+reunião anterior, ou seja, a ata
+
+de reunião anterior realizada na data.
+
+Tal foi lida e aprovada por unanimidade.
+
+Aqui é como se você tivesse uma documentação que foi vista.
+
+Tá, isso aqui é um cenário hipotético e foi vista em reunião
+
+anterior que precisava ser analisada, aprovada por alguém e que nesta reunião
+
+atual, no qual você acabou de trabalhar e tá preenchendo esta ata.
+
+Supostamente, na tela você
+
+colocaria esses informativos? Beleza.
+
+Quarto tópico A pauta da reunião, Ou seja, essa reunião aconteceu por qual
+
+ou por quais motivos, por qual ou por quais objetivos, por exemplo.
+
+E aí você pode atacar aqui como determinados tópicos.
+
+Beleza? E aí as decisões, né? Ou seja, se
+
+era um problema, qual que foi a decisão
+
+para solução? Se era uma solicitação, qual que
+
+foi a solução para decisão? Você pode também
+
+atacar aqui dentro desta ata as ações pendentes.
+
+Tá, então se alguém precisava, a partir da reunião anterior, apresentar algo
+
+para esta reunião atual e aí havia prazo, havia entrega e etc.
+
+E aí, por algum motivo, algum impeditivo, acabou não acontecendo a entrega disto.
+
+Você também pode listar como pendente e responsáveis por isso.
+
+Beleza? Como também se vocês acordarem nesta reunião atual, se algo
+
+vai ser feito ou se algo vai ser resolvido, quem são
+
+as pessoas ou quem são os setores, quais são as equipes
+
+responsáveis e qual que é uma previsão para entrega ou para
+
+correção daquilo, né? Então você coloca aqui a descrição supostamente do
+
+problema quem é o responsável ou os responsáveis que atacariam
+
+este problema ou estes problemas? É um prazo de entrega
+
+ou um prazo para validação? Prazo para falarem, abordarem isso
+
+daqui novamente, tá? Então, isso daqui também é bem importante.
+
+Outros assuntos.
+
+Caso né, alguém acrescente.
+
+Sempre tem alguém que foge um pouco da linha e da curva no
+
+qual a reunião está sendo seguida e apresenta algum outro tipo de assunto.
+
+Ou surge uma dúvida completamente nada a ver com o que está sendo falado.
+
+Então você pode acrescentar como pauta de outros assuntos, por exemplo Tá bom,
+
+É o encerramento aqui que é pertinente ao que foi falado durante
+
+o contexto geral, Tá? Então um breve resumo ali do que aconteceu.
+
+E aí a próxima reunião.
+
+E caso vocês precisem de uma reunião futura, vocês já abordarem.
+
+Próximas pautas sobre o que vocês vão falar, o que vocês vão fazer, o
+
+que vão verificar, o que vão analisar, o que vão checar e etc.
+
+Beleza.
+
+E aí, novamente, o nome dos responsáveis aqui, como eu mencionei, talvez eu descartaria,
+
+mas poderia ser o nome do gerente de projetos e o nome do
+
+analista de projetos ou de um backup desse gerente de projetos, por exemplo.
+
+Beleza.
+
+E as assinaturas das pessoas no qual compareceu nessas reuniões? E
+
+aí? Observações para caso vocês queiram fazer alguma breve anotação, tá?
+
+Então algum ponto importante que talvez não foi considerado, mas mesmo
+
+assim vocês querem tá deixando? Lembrando que eu coloquei aqui o
+
+como Crie um modelo de ata de reunião, beleza? Agora se
+
+eu fizesse desta forma aqui o Crie um modelo de.
+
+Template.
+
+De ata de reunião.
+
+Template a escrever errado tem.
+
+Leite.
+
+De ata de reunião.
+
+Beleza ele criou aqui e observa que comparação com a primeira
+
+solicitação com a segunda, eu pedi para ele fazer um template.
+
+O que que é um template? Template é uma
+
+espécie de um modelo pré definido, tá? Talvez
+
+muitas pessoas utilizem o que muitas organizações utilizem.
+
+Então, o que é interessante também de vocês utilizarem a inteligência artificial? Talvez eu já tenha comentado
+
+é que quanto mais detalhes vocês derem, mais completo será o retorno do que ele vai nos
+
+dar para o que você precisa, ou seja, do que a inteligência vai retornar para você.
+
+Tá bom? E aqui ó, em comparação com
+
+o que já foi dado anteriormente, praticamente
+
+tá tudo igual com relação ao anterior.
+
+Beleza, com exceção, pelo que eu notei aqui enquanto escrevia o sexto tópico, que são que ações pendentes.
+
+Diferente da anterior, a que ele acrescentou com uma espécie de tabelinha, tá?
+
+Então foi dividido aqui os tipos de ações, os responsáveis e os prazos.
+
+Beleza, Você pode usar isso daqui para fazer o que
+
+eu trabalho das demais também, então fazer tudo em
+
+tabelinha, né? Isso se não for gerar muito trabalho.
+
+Beleza.
+
+Caso ele tenha dado para você, melhor ainda.
+
+Com relação a todo o restante.
+
+Aparentemente está bem semelhante ao anterior.
+
+Tá bom.
+
+Mas por que que eu fiz de forma diferente?
+
+Para vocês verem que o retorno é diferente?
+
+Apesar de ser um retorno mínimo, talvez imperceptível.
+
+Ou talvez um retorno que pode ser desconsiderado ainda assim, por conta de uma palavra mais
+
+dentro da da frase que eu fiz a solicitação, ele acabou retornando de uma maneira diferente.
+
+Beleza, então é sempre interessante vocês explorarem a forma no
+
+qual vocês escrevem o tempo verbal no qual vocês escrevem.
+
+Como vocês fazem essa solicitação? Presente,
+
+passado e futuro, né? Se é
+
+uma maneira formal ou descontraída também.
+
+Tudo isso influencia e impacta no retorno que a inteligência artificial vai dar a você.
+
+Beleza.
+
+Mas por.
+
+Todavia, o que eu quero que vocês entendam? Qualquer tipo
+
+de documentação específica, seja dentro da TI ou não.
+
+As inteligências artificiais.
+
+Elas estão aí para otimizar o processo.
+
+Então imagina eu perder um tempo pensando como eu
+
+faria o formato, o layout da documentação, da ata
+
+de reunião? Imagina que eu participei da reunião.
+
+Eu já levei 01h00 anotando tudo no bloco de notas.
+
+E aí eu preciso transcrever tudo isso para uma documentação mais formal, com um layout mais apresentável.
+
+Porém, eu precisasse fazer aqui todas essas citações, separar por tópicos e fazer
+
+enumerações e escrever aqui, o que é condizente com cada um desses tópicos.
+
+Poxa, até eu pensar em tudo isso, talvez eu não esteja em um dia
+
+tão legal, tão criativo, tão participativo ou tão produtivo e eu possa perder tempo.
+
+Às vezes eu posso perder dias nisso daqui.
+
+E a inteligência artificial demorou talvez aqui 5/2 no máximo
+
+para me trazer tudo o que eu preciso apenas substituir.
+
+Então eu copio lá uma parte do que eu escrevi.
+
+Qual o aonde é
+
+necessário aqui? Beleza.
+
+Então aqui é mais uma das soluções que a inteligência artificial está para nos trazer.
+
+Lembrando, recapitulando e reforçando mais uma vez se você é iniciante, eu espero e gostaria
+
+muito que você fizesse tudo na unha, tudo na garra, tudo na força de vontade.
+
+Mesmo que você perca neurônios, mesmo que você se estresse e perca a paciência,
+
+que você demore um período, mas que você aprenda primeiramente a fazer por
+
+você, para depois você solicitar ajuda e ter uma otimização de tempo maior.
+
+Beleza? Bom, eu espero
+
+que vocês estejam gostando.
+
+Eu espero que vocês estejam se divertindo e principalmente que vocês estejam aprendendo bastante.
+
+Eu gostaria de aproveitar esse momento oportuno para dizer também
+
+que o YouTube felizmente acionou ou ativou, como vocês preferirem.
+
+O valeu demais aqui dentro do canal.
+
+Então, se você é um acompanhante do curso aqui pelo canal e não pela Udemy, eu gostaria
+
+de falar para vocês que agora é possível vocês fazerem qualquer tipo de doação com qualquer tipo
+
+de valor que vocês se sentirem à vontade e confortáveis dizendo que alguma aula, algum conteúdo
+
+ou alguma playlist, alguma frase ou qualquer coisa que tenha aqui no canal que seja de
+
+conteúdo meu, tenha lhe ensinado, tenha lhe tirado da dúvida, tenha lhe ajudado e assim sucessivamente.
+
+Beleza.
+
+Então fica aí disponível, Tá aberto para todos os vídeos.
+
+Este valeu demais! Então, se você se sentir
+
+à vontade e sentir que necessita e
+
+que precisa ajudar, contribua com qualquer valor.
+
+Isso vai fazer com que eu ainda mantenha o canal no ar e, principalmente, que eu traga
+
+mais vídeos, mais conteúdos, não só relacionado a análise e levantamento de requisitos, mas também como outros
+
+vídeos com outros cursos, inclusive os que estão em aberto em redes de computadores Excel, o ML.
+
+E também futuramente fazer novos cursos com novos conteúdos, porque afinal, é
+
+uma coisa que eu gosto bastante, compartilhar conhecimento com quem precisa.
+
+E eu tenho uma visão que não é todo mundo que
+
+ainda hoje tem uma condição de pagar por determinados cursos.
+
+Então nada mais justo do que eu fornecer um pouco daquilo que eu sei, apesar de eu também não
+
+saber de tudo e nem tanto, mas fornecer um pouco do que eu sei a quem está necessitado.
+
+Beleza.
+
+Vou me despedindo por aqui.
+
+Fiquem com Deus.
+
+Até breve.
