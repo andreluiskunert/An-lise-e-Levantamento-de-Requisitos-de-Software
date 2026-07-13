@@ -1,0 +1,431 @@
+Olá Luna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Análise e Levantamento de Requisitos de Software.
+
+Trazendo à vocês nesta aula a nossa primeira aula voltada ao módulo de Modelagem de Dados UML.
+
+Nesta aula nós falaremos um pouco sobre o que é o UML e demais assuntos relacionados.
+
+Beleza.
+
+O primeiro de tudo é que ao ML ela na verdade é uma sigla abreviada do
+
+inglês e chama Unified Modeling Language, que traduzido para o português significa Linguagem de modelagem unificada.
+
+Beleza.
+
+O que que é uma linguagem de modelagem unificada? Ela é uma linguagem de
+
+modelagem visual usada nas áreas de engenharia de software, arquitetura de software para
+
+criar ou representar de forma visual os sistemas ou as arquiteturas de software.
+
+Beleza.
+
+Bom, ela foi criada para padronizar a notação de modelagem e oferece um
+
+conjunto de diagramas que permite os desenvolvedores, analistas e stakeholders visualizarem, especificarem,
+
+construírem e do comentarem os diversos aspectos de um sistema de software.
+
+Eita, parece que eu falei chinês japonês
+
+aqui para vocês, né? Vamos por partes.
+
+Olha só.
+
+Primeiro de tudo, o que que é uma modelagem visual? Eu vou tentar dar
+
+um exemplo bem prático que eu acho que todos vocês vão conseguir entender.
+
+Imagina que eu esteja fazendo
+
+a utilização do Excel? Beleza.
+
+E que eu tenho ali, durante o meu cotidiano, inúmeras planilhas.
+
+Cada uma das planilhas ali com mais de 20 colunas e essas 20 colunas ali, com mais de 1 milhão de informações.
+
+Imagina que eu precisasse, por um acaso, apresentar alguma informação, algum dado contido daquela planilha
+
+para o meu superior, para minha equipe, para os gestores, diretores de empresas e etc.
+
+Será que se eu colocasse a planilha literalmente da forma que ela é montada, da
+
+forma que ela é, com as colunas e linhas e inúmeras informações que ela contém.
+
+É uma tela para essas pessoas que precisassem visualizar.
+
+Será que elas conseguiram entender as
+
+informações? O que quer dizer cada
+
+uma delas? O que está contido
+
+ali? Qual que é a importância
+
+dessas informações? Com certeza não.
+
+Porque? Porque elas não trabalham diariamente com aquela
+
+planilha, então elas não saberiam especificar quais seriam
+
+os dados ou o que seriam aqueles dados.
+
+Tá bom.
+
+Então, então, geralmente quando a gente trabalha com Excel, o que que nós
+
+fazemos? Nós transformamos aqueles dados contidos na planilha em um determinado gráfico,
+
+né? Seja um gráfico de coluna, seja um gráfico de pizza, seja
+
+um gráfico de barras, um gráfico de linhas e por aí vai.
+
+Mas a questão é que nós transformamos algo que
+
+está por escrito, em algo ilustrativo, em algo visual,
+
+concordam? Então, aqui é a mesma forma, tá? Então
+
+o que que é o ML? O que que
+
+é o diagrama? Que no caso são representações ilustrativas,
+
+figuras ilustrativas que mostram o comportamento de um
+
+determinado serviço ou que mostra a estrutura, a
+
+arquitetura de um determinado serviço ou produto? Tá.
+
+Então nós poderíamos comparar o ML com um determinado gráfico para
+
+a área de software, que vai fazer ilustrações, desenhos, representações daquilo
+
+que está por escrito e que talvez por ser técnico, né?
+
+Não são todas as pessoas que conhecem do TI que conhecem
+
+termos técnicos em TI e etc que são obrigados a saber.
+
+Então são representações feitas ocasionalmente para essas pessoas, para que elas consigam visualizar e
+
+de certa forma falar a mesma língua que nós que estamos dentro da área.
+
+Tá bom, então por isso que é dito que oferece um conjunto de diagramas
+
+que permitem desenvolvedores, analistas, e stakeholders visualizarem, especificarem e e construírem e documentar.
+
+Ta então de certa forma, o ML.
+
+Ele serve para isso.
+
+Beleza.
+
+E aí nós temos algumas características da UML,
+
+né? O que que seriam as características? De
+
+certa forma, os benefícios que a UML oferece.
+
+Quando nós a utilizamos dentro de um contexto geral.
+
+Então o primeiro benefício ele é relacionado a padronização.
+
+Ou seja.
+
+O ML foi desenvolvida para unificar e padronizar os
+
+diferentes métodos de modelagem utilizados na indústria de software.
+
+Imagina que anos atrás, né? Muito tempo atrás, lá no
+
+começo da informática, cada empresa tinha um determinado método.
+
+Cada empresa ou cada funcionário, cada profissional tinha um determinado método, uma determinada maneira.
+
+E não era todo mundo que entendia.
+
+Não era todo mundo que falava a mesma língua, né?
+
+Então, o que que aconteceu? Foi desenvolvido algo para
+
+unificar e padronizar e para que as empresas falassem.
+
+Agora todo mundo vai utilizar dessa forma, porque se necessário
+
+conversar, todo mundo vai entender sobre o que é beleza.
+
+Segundo ponto a visualização fornece uma representação visual dos
+
+sistemas, facilitando a compreensão da estrutura, comportamento e interações.
+
+É o que eu acabei de falar.
+
+Nós pegamos tudo aquilo que é textual e transformamos em algo visual que é mais fácil o
+
+entendimento para as pessoas, tanto dentro da área quanto as que não estão e principalmente as que
+
+não estão, que não entendem de informática, que não entendem de termos técnicos do TI, Beleza.
+
+E aí, novamente, facilita a compreensão da estrutura do produto ou da estrutura do serviço, o
+
+comportamento dessa estrutura, o comportamento desse serviço e as interações tanto dessa estrutura quanto desse serviço.
+
+Beleza.
+
+O terceiro benefício seria a abstração.
+
+Permite modelar sistemas em diferentes níveis de abstração.
+
+Desde visões detalhadas até visões mais gerais.
+
+Ávila Não entendi.
+
+Como assim?
+
+Vamos lá.
+
+Dentro da informática.
+
+Dentro do T.I.
+
+Quando nós falamos de serviços ou de produtos, vou colocar como um termo geral aqui sistemas.
+
+Nós trabalhamos por camadas, né? Existem camadas
+
+mais altas, superficiais, existem camadas mais
+
+intermediárias e existem camadas mais profundas.
+
+Tecnicamente, seria onde os códigos trabalhariam.
+
+Como funcionaria o banco de dados? Onde as informações seriam
+
+armazenadas? Qual seria o método de busca ou de pesquisa
+
+de retorno de resultado dessas informações e por aí vai.
+
+Então, quando nós trabalhamos com o ML, nós conseguimos desenhar
+
+todo o modelo de quaisquer uma dessas cascatas, né?
+
+De quaisquer um desses níveis que nós falamos agora.
+
+Então eu consigo fazer um desenho superficial, eu consigo fazer um
+
+desenho intermediário, eu consigo fazer um desenho mais profundo, tá? Então,
+
+isso vai variar de acordo com as necessidades do projeto, com
+
+as necessidades do sistema ou as necessidades de quem tá precisando.
+
+Vou dar um exemplo eu não vou fazer um desenho de
+
+algo bem profundo mostrando como que é um banco de dados,
+
+qual que é a arquitetura do banco, onde que ele tá
+
+hospedado, como que é as tabelas, linhas, colunas? Como que as
+
+informações estão indo lá? Quais que são os tipos das informações
+
+para cada coluna? Para uma pessoa que é um usuário final?
+
+Ele não tem porque nem quer saber o porquê disso tudo.
+
+Ele não vai entender.
+
+Mas para ele eu posso fazer um desenho superficial.
+
+Olha, vai ter um botão XPTO que quando você clicar vai fazer isso, Quando você fechar vai fazer aquilo.
+
+Então eu consigo fazer aqui essas ministrações.
+
+Beleza.
+
+Quarto benefício Flexibilidade oferece uma variedade de diagramas que podem ser
+
+escolhidos conforme a necessidade de modelar diferentes aspectos do sistema.
+
+Então, em média, já adiantando para vocês, nós temos em média de 14 diagramas no total.
+
+Então nós temos ali dois grupos, que são os diagramas estruturais e os comportamentais.
+
+Mas fazendo a junção desses dois grupos, nós temos um total de 14 diagramas.
+
+Beleza.
+
+Então é necessário escolher o modelo certo? Sim, é necessário
+
+conhecer sim, mas nós também veremos que existem ali
+
+alguns que são os mais utilizados num contexto geral.
+
+Tá bom, beleza? E aí, qual que é o
+
+objetivo da UML com tudo isso? Olha só o
+
+principal Principal objetivo da UML possibilitar uma comunicação eficaz
+
+entre todas as partes envolvidas do desenvolvimento de software.
+
+Ele oferece uma linguagem comum, compreendida por desenvolvedores, analistas, arquitetos de
+
+sistemas, clientes e demais stakeholders, permitindo que todos os falem a
+
+mesma língua durante o ciclo de vida do projeto de software.
+
+Beleza.
+
+Então aqui pessoal, o resumo de tudo é que quando você utiliza o ML você
+
+consegue conversar e fazer com que todas as partes interessadas naquele determinado projeto consiga entender.
+
+Quando eu falo todas as partes interessadas, eu não estou falando só da equipe, do
+
+TI, dos desenvolvedores, dos engenheiros de software, dos analistas de requisitos e nada disso.
+
+Mas eu também estou falando dos usuários finais ou dos
+
+clientes, né? Muitas vezes eles são chamados de stakeholders.
+
+Existem que holders.
+
+Eles são, de certa forma, a parte interessada, né?
+
+Eles também podem ser não só usuários finais, clientes,
+
+mas eles também podem ser investidores no seu projeto.
+
+Eles podem ser relacionados à diretoria.
+
+Nós também estamos falando de times de negócio.
+
+Times de vendas.
+
+De certa forma, todos os times que vão ter relação aquele projeto, tá.
+
+Então, quando nós desenhamos, nós falamos a mesma língua com todos nós.
+
+Fazemos com que todos entendam o que tá sendo descrito, o que tá
+
+sendo mapeado, o que tá sendo acordado e o que foi batido.
+
+O martelo para ser desenvolvido.
+
+Beleza.
+
+Utilização da UML.
+
+Vamos lá.
+
+A UML é amplamente utilizada em várias fases do ciclo de vida de software,
+
+desde a análise e definição de requisitos até a implementação e documentação do sistema.
+
+Ela é aplicada em análise de requisitos, projeto de software, documentação e comunicação entre equipes.
+
+Então aqui eu estou dizendo quais são as etapas ou em quais são as áreas no qual ML é bem utilizada.
+
+Lembra que eu falei lá na primeira aula de apresentação que
+
+eu tenho curso de análise, levantamento de requisitos de software?
+
+Exatamente por isso eu estou fazendo esse curso de UML.
+
+Por que? Porque dentro da área de
+
+análise de requisitos é necessário utilizar UML
+
+para desenhar tudo aquilo que você mapeou.
+
+Então, para quem não sabe, um analista de requisitos, ele tem um papel de mapear, de desenhar todas
+
+as funcionalidades do sistema, como que ele vai se comportar, onde que ele vai ficar, qual que vai
+
+ser a cor do botão, Tudo isso vai ser acordado entre todos os interessados ou todos os envolvidos.
+
+Então você vai fazer reuniões com os clientes.
+
+Você vai pegar as necessidades, as dores desses clientes.
+
+Você vai documentar.
+
+Você vai falar com os desenvolvedores e mostrar o que você pegou das necessidades dos clientes.
+
+E aí os desenvolvedores, Eles vão opinar em cima.
+
+Muitas vezes eles vão dar outras sugestões.
+
+Então você vai fazendo vários contextos até que você tenha
+
+uma documentação do sistema para você poder fazer o desenvolvimento.
+
+E aí quando você tem essa documentação, você precisa do desenho
+
+para você apresentar para as pessoas, porque a documentação não
+
+vai servir para muitas pessoas, porque elas não tem o
+
+conhecimento técnico, entende? Então aí você vai desenhar esses passos.
+
+Mas como eu falei no curso de análise e Levantamento de
+
+Requisitos, vocês vão entender passo a passo, detalhe por detalhe.
+
+Corre lá para adquirir também.
+
+Bom, segundo são que nos projetos de software para modelar a estrutura e
+
+o comportamento do sistema, então dentro de projetos, nós também fazemos esses desenhos.
+
+A documentação para fornecer uma representação visual e clara e compreensível do sistema.
+
+e para todos, todos os envolvidos entenderem.
+
+E a comunicação entre equipes facilitar a comunicação
+
+e colaboração em diferentes equipes envolvidas no desenvolvimento.
+
+É o que eu falei.
+
+Para que todos os envolvidos, independente se é da área do
+
+TI ou não, consiga entender o que está sendo falado ali.
+
+Entenderam? A conclusão geral sobre
+
+o ML até aqui.
+
+Vamos lá.
+
+A UML é uma linguagem de modelagem poderosa e amplamente aceita na indústria de software.
+
+Ela fornece uma variedade de diagramas que permitem aos profissionais representar, entender
+
+e comunicar os diferentes aspectos de um sistema de software, desempenhando
+
+um papel fundamental no desenvolvimento e na documentação dos sistemas complexos.
+
+Beleza.
+
+Então nós usamos a UML justamente para isso.
+
+Beleza, pessoal, Por enquanto, nossa primeira aula vai ficando por aqui.
+
+Espero que vocês tenham entendido e espero que vocês estejam gostando.
+
+Se ainda ficou um pouco confuso nessa primeira aula, não tem problema que
+
+a partir da segunda em diante vocês terão entendimento com mais clareza.
+
+Beleza? Me despeço por aqui, Fiquem
+
+com Deus e até breve.
