@@ -1,0 +1,315 @@
+Olá aluna!
+
+Olá aluno.
+
+Como vocês estão?
+
+Sejam bem vindos a segunda aula do nosso curso de Modelagem de Dados UML.
+
+Nesta aula nós falaremos um pouco mais sobre o UML, para que ele serve e as suas características e
+
+benefícios mais detalhados.
+
+Beleza?
+
+Bom, como nós já vimos na aula anterior, é a sigla UML.
+
+Ela é uma abreviação e significa que traduzido para o português linguagem de modelagem de dados.
+
+E nós vimos que ela é utilizada especificamente na área de software, né?
+
+A parte de engenharia e arquitetura de software com o propósito visual da coisa.
+
+Tá bom.
+
+Então, como eu iniciei sobre alguns benefícios na aula anterior, eu resolvi acrescentar aqui de forma
+
+mais detalhada esses benefícios para que nós possamos ter um entendimento mais profundo e que nós possamos
+
+sair do superficial, Tá bom?
+
+Então, mais uma vez a visualização e compreensão.
+
+Olha só que bacana a UML serve como uma ferramenta para representar graficamente sistemas de software,
+
+oferecendo uma maneira visual de compreender a estrutura, comportamento, interações e outros elementos
+
+do sistema por meio de diagramas claros e intuitivos, a UML facilita a compreensão dos sistemas complexos,
+
+auxiliando no entendimento do projeto de software para todos os envolvidos no desenvolvimento.
+
+Então, aqui é um pouco do que eu já falei na aula anterior sobre a parte gráfica ilustrativa visual,
+
+onde auxilia o entendimento de todas as pessoas envolvidas, sejam elas participantes da área do TI
+
+ou não.
+
+Tá bom.
+
+Segundo a comunicação efetiva, uma das principais utilidades da UML está na comunicação entre diferentes
+
+partes interessadas.
+
+Como eu comentei, são os stakeholders, né?
+
+Eles podem ser variáveis entre clientes, usuários finais, patrocinadores, investidores, a própria
+
+equipe no qual você está atuando.
+
+Seus colegas profissionais de trabalhos de outras áreas, todos que estão envolvidos no projeto e tem
+
+interesse de alguma forma nesse determinado projeto, seja ele para benefício próprio, seja ele para
+
+benefício em ganho, seja ele para benefício diário, né, Seja ele sanar as dores diárias, tá?
+
+Olha só.
+
+Ela fornece uma linguagem comum, compreendida por desenvolvedores, designers, gerentes de projetos,
+
+clientes e demais stakeholders.
+
+Então, a UML ela é uma maneira visual, né?
+
+Uma maneira ilustrativa que todas as pessoas elas conseguem ter o entendimento e a compreensão, tá?
+
+E aí?
+
+Isso faz com que seja permitido a comunicação mais clara e eficaz entre todos os envolvidos, reduzindo
+
+ambiguidades e equívocos.
+
+Terceiro documentação o UML serve como uma ferramenta eficaz para documentar sistemas de software.
+
+Eu não vou achando que a documentação ela só é uma documentação quando se trata de algo textual.
+
+Muito pelo contrário, a documentação ela pode ser muito mais bem elaborada usando UML do que propriamente
+
+textos, tá?
+
+Só uma dica para vocês aí que trabalham voltado a análise de requisitos.
+
+Os diversos tipos de diagramas oferecidos pelo UML permitem capturar e descrever requisitos, estruturas,
+
+comportamentos, fluxos de trabalhos, interações e outros aspectos essenciais do sistema.
+
+Essa documentação visual facilita a compreensão do sistema ao longo do tempo e pode ser utilizada para
+
+a manutenção, atualizações e referências futuras.
+
+Tá, não é como se fosse um mapa do sistema e sempre que você tiver dúvida ou que alguém precisar,
+
+você pode consultar esse determinado mapa e mostrar essa pessoa o que que está dentro de cada etapa
+
+ou como que funciona, cada fluxo, cada processo e por aí vai.
+
+Beleza.
+
+Número quatro Análise e Projeto de Software Na fase de análise, a UML é utilizada para modelar os requisitos
+
+do sistema, capturando as necessidades dos usuários e identificando as funcionalidades necessárias.
+
+Ok, o que que nós estamos falando?
+
+Olha só que interessante a UML era utilizada no início de um determinado projeto, em uma fase inicial
+
+de captura de requisitos, onde um analista de requisitos tem essa responsabilidade de conversar, de
+
+fazer o levantamento com as partes interessadas.
+
+A maioria dos casos sempre vão ser os usuários finais que possuem dores e querem soluções para aquelas
+
+dores.
+
+Tá bom, é a partir daqueles requisitos levantados.
+
+Ele vai estruturar um desenho, vai ilustrar as necessidades como uma determinada solução.
+
+Tá, então voltado aos requisitos.
+
+Ele é bem importante logo no início, né?
+
+E por que que é importante você saber o ML para você fazer as coisas da melhor maneira possível, se
+
+tratando de requisitos.
+
+Requisitos de certa forma é a parte mais importante de um projeto, porque se você não fizer da maneira
+
+devida, com os detalhes necessários, as importâncias necessárias do meio, ao término do projeto,
+
+você vai ter grandes problemas, grandes gargalos, grandes impeditivos, grandes atrasos, um grande
+
+período de tempo a ser postergado.
+
+Vai ter uma maior demanda de tempo, maior demanda de desenvolvimento.
+
+Consequentemente, isso vai ser um gasto maior para a empresa em relação a o investimento para aquele
+
+determinado produto, para aquela determinada solução acaba não sendo legal.
+
+Então, o ML facilita muito nesse contexto também.
+
+E aí tem o segundo ponto, que é na fase de projeto.
+
+Ela é utilizada para criar modelos que representam a estrutura e o comportamento do sistema, auxiliando
+
+na arquitetura de software e na tomada de decisões de design.
+
+Então, quando nós já temos o projeto estruturado, o ML entra aqui com bastante importância também.
+
+Para fazer o quê?
+
+Uma estrutura em relação à arquitetura e também a relação a design, tá?
+
+Então eu vou dar um exemplo aqui.
+
+Imagina que você fez o levantamento de requisitos para um sistema que, por um acaso, guarda informações
+
+de estoque, tá?
+
+Então ele captura determinados produtos em estoque, guarda as informações em relação a quantidade produto,
+
+qual o tamanho, qual o peso, qual o volume e por aí vai.
+
+Então imagina que quando você está falando de estrutura, você está falando de arquitetura, ou seja,
+
+você já sabe como o sistema ele vai funcionar.
+
+Agora, a grande questão é onde ele vai estar?
+
+Quais são os dados, né?
+
+Então, são duas perguntas bem básicas quando a gente fala de sistema, onde estão os dados?
+
+Onde estão os clientes?
+
+Por quê?
+
+Porque aí você vai conseguir arquitetar uma melhor estrutura para uma melhor performance, baseado naquela
+
+necessidade atual.
+
+Então, se eu falo que os meus clientes, eles estão em nuvem, que os meus dados eles estão em nuvem,
+
+eu vou fazer um sistema que tem uma performance maior em nuvem.
+
+Agora, se os meus sistemas, eles são internos, os meus dados, eles estão internos.
+
+Eu vou talvez fazer um sistema on premise, por exemplo.
+
+Então são variedades que são relacionadas a arquitetura.
+
+E aí os desenhos.
+
+Eles também fazem essa ilustração para mostrar, né?
+
+Qual é o tipo de tecnologia, onde vai ficar, como que vai ser armazenado e por aí vai.
+
+E aí, na tomada de decisões também, né?
+
+Em relação ao design, claro, porque aí você também vai falar um pouco da parte de user experience,
+
+né?
+
+Muitas vezes o analista de requisitos ele tem contato direto com essa área.
+
+Às vezes, o próprio analista de requisitos passa a ter um determinado papel indireto de user experience.
+
+Mas a questão é que você consegue também fazer um desenho, um mapeamento de como será a interface do
+
+sistema, né?
+
+Como que vai ser reportado em relação a menus?
+
+Quais vão ser as funcionalidades?
+
+Como será os botões, se terão os ícones, qual que vai ser o tamanho de letra, Qual que vai ser a
+
+cor, qual que vai ser um alerta, como que vai ser os popups que serão abertos?
+
+Como que a mensagem será exibida?
+
+Vai ter barulhinho de notificação ou não?
+
+Então, assim, uma série de coisas e variedades que entra nesse contexto também.
+
+Beleza.
+
+Número cinco A padronização O uso da UML proporciona uma padronização na representação e modelagem de
+
+sistemas.
+
+O que significa?
+
+Significa que equipes diferentes em diferentes organizações podem utilizar a mesma linguagem visual
+
+para descrever sistemas de forma consistente, facilitando a compreensão e colaboração entre equipes.
+
+E o que foi falado na aula anterior.
+
+Então, no início, cada empresa, né?
+
+Cada grupo fazia de uma determinada forma.
+
+O surgimento da UML foi justamente para padronizar, para que as pessoas, elas tivessem ali um denominador
+
+comum, né?
+
+Então é a mesma coisa do que nós olharmos para o cotidiano no nosso dia a dia, né?
+
+Nós vemos que existem inúmeros países.
+
+A maioria deles tem línguas em específico, mas praticamente a maioria fala o inglês, né?
+
+Então, assim, uma linguagem universal, uma linguagem unificada.
+
+Então, eu falando em português Brasil, consigo conversar com um coreano.
+
+Caso nós dois saibamos inglês, então é basicamente da mesma forma na UML.
+
+E você pode ser um arquiteto de software.
+
+Você pode ser um desenvolvedor, você pode ser um analista de requisitos.
+
+Um gestor de projetos pode ser um especialista em vendas, pode ser um cara da área do marketing.
+
+Você pode ser, enfim, quaisquer profissão, desde que você saiba UML.
+
+Você vai conseguir ter essa conversação com os demais também.
+
+Conclusão Até aqui a UML é uma poderosa ferramenta de modelagem que serve como uma linguagem comum para
+
+representar sistemas de software.
+
+Seu uso abrange desde a concepção até a implantação e manutenção dos sistemas, facilitando a comunicação
+
+entre as equipes, a compreensão do sistema e a documentação detalhada.
+
+Contribuindo significativamente para o sucesso dos projetos de desenvolvimento de software.
+
+Ou então você.
+
+Quem trabalha como analista de requisitos quer entrar na área, tem um interesse ou, de certa forma,
+
+tem outras áreas relacionadas, mas indiretamente trabalha nesse contexto ou precisa fazer ilustrações?
+
+E um user experience precisa fazer desenhos representação de fluxos.
+
+Isso é muito importante para que você aprenda.
+
+É muito importante que você pratique, que você absorva, que você faça no cotidiano, né?
+
+Não basta só você vir aqui assistir o curso e achar que você vai aprender se não houver a prática.
+
+Claro que nós ainda estamos aqui na parte teórica, mas é bom você também ir exercitando a parte teórica,
+
+porque quando você chegar na parte prática, você vai ter desmanchado bastante.
+
+Vocês vão ver como que vai ficar mais fácil quando tiver.
+
+Na prática tá bom?
+
+Bom, essa foi mais uma aula do nosso curso de Modelagem de Dados.
+
+Espero que vocês tenham gostado, espero que vocês estejam entendendo.
+
+Me despeço por aqui, fiquem com Deus e até breve.
