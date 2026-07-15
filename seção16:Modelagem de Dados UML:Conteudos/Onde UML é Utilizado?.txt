@@ -1,0 +1,331 @@
+Olá aluna!
+
+Olá aluno.
+
+Como vocês estão? Sejam bem vindos a mais uma
+
+aula do nosso curso de Modelagem de Dados UML.
+
+Nesta aula nós falaremos um pouco sobre onde o UML é utilizado.
+
+Falei de uma forma muito macro que a UML é utilizado na área do TI, mas
+
+aqui nós veremos exatamente quais são os departamentos no qual a UML é mais utilizada.
+
+Beleza? Bom, então até aqui nós já
+
+vimos que a linguagem de modelagem.
+
+Ela é uma linguagem visual e versátil e amplamente utilizada
+
+em uma variedade de setores e de contextos, né? Havia
+
+comentado com vocês aqui que existe uma série de variedades
+
+de ilustrações e cada uma delas depende de sua finalidade.
+
+Tá bom? Com a sua flexibilidade e capacidade de representar
+
+sistemas de software complexos por meio de diagramas visuais a
+
+torna uma ferramenta valiosa em várias áreas e as fases
+
+do ciclo de vida de um desenvolvimento de software.
+
+Então, aqui nós vamos ver alguns contextos no qual ela se enquadra bastante bem.
+
+Então eu acredito que a primeira e a principal seria no desenvolvimento de software.
+
+Então ela é amplamente empregada na fase de análise e projeto de
+
+software, permitindo a modelagem de requisitos, estrutura e comportamento do sistema.
+
+Então, aqui nós estamos falando na fase inicial de qualquer projeto de desenvolvimento, de
+
+qualquer produto, de qualquer serviço dentro do TI, onde é necessário fazer os levantamentos
+
+de requisitos, colher informações, necessidades e dores para que nós possamos entregar uma solução.
+
+Tá, então essa primeira etapa ela envolve bastante o uso da UML
+
+justamente para fazer ilustrações daquelas informações no qual você levantou, quais são
+
+as dores, quais as soluções para essas dores e por aí vai.
+
+Então, dando continuidade, ela é utilizada para capturar requisitos de negócio, projetar a
+
+arquitetura do sistema, identificar relacionamentos entre os objetos, definir a lógica do
+
+sistema e detalhar os processos de interação entre os elementos do software.
+
+Então aqui eu estou colocando em todos os contextos, né? Quando eu
+
+falo no desenvolvimento de software, eu estou falando na área de negócio
+
+de software, né? Eu estou olhando para a área do negócio.
+
+Eu estou olhando também para a área de banco de dados.
+
+Eu estou olhando para a área de arquitetura.
+
+Estou olhando para a área de engenharia, dentre outras.
+
+Beleza? E aí, falando de engenharia, nós temos
+
+o segundo, que seria a Engenharia de Requisitos.
+
+Na Engenharia de Requisitos, a UML ajuda na elicitação e na
+
+representação de requisitos do sistema de forma clara e compreensível.
+
+Diagramas como o diagrama de caso de uso e os diagramas de classe
+
+são usados para identificar atores funcionalidades do sistema e as suas interações.
+
+Bom, não se atentem muito para entender o que é um diagrama de caso
+
+de uso ou um diagrama de classe tão pouco quanto o que são atores.
+
+Nós teremos aulas específicas para ver diagramas.
+
+Nós trabalharemos de forma prática cada um desses diagramas e entenderemos alguns
+
+contextos, algumas formas de usabilidade, ocasiões específicas para cada um, claro.
+
+Vou colocar aqui algumas situações, algumas exemplificações, alguns exercícios para eles.
+
+Mas para vocês entenderem que diagrama de caso de uso é diagrama de classe.
+
+São bastante utilizados para identificação de atores, né? Então,
+
+quando nós falamos nos atores, tecnicamente são pessoas
+
+ou determinados sistemas que utilizam um outro sistema.
+
+terceiro.
+
+Né? Então vou dar um
+
+exemplo aqui bem resumido.
+
+Eu entro no iFood e eu sou um ator utilizando uma determinada ferramenta.
+
+Agora, se eu utilizo uma ferramenta para esta ferramenta acessar o iFood, o
+
+meu ator, ele seria esta outra ferramenta que tá acessando o iFood.
+
+Tá, mas não se atente muito a isso.
+
+Nós entenderemos de forma detalhada no momento devido.
+
+Bom, o nosso terceiro seria Design e Arquitetura de Software.
+
+A UML desempenha um papel fundamental na criação de
+
+designs detalhados e na definição da arquitetura de software.
+
+Diagramas como diagrama de sequência, Diagrama de atividade, Diagrama de componentes são
+
+úteis para especificar ou para representar aspectos estruturais e comportamento de um
+
+sistema, orientando o desenvolvimento e fornecendo uma visão abrangente do projeto.
+
+Então, quando eu estou falando na parte de arquitetura, muitas vezes eu estou falando da parte
+
+do banco de dados, de onde as informações serão armazenadas, qual que vai ser a estrutura
+
+dessas informações, quais serão os tipos de dados de cada uma dessas estruturas? Eu imagino
+
+uma tabela contendo colunas e cada coluna tem uma determinada informação X, Y e Z.
+
+Então, a parte de arquitetura ela fala muito no conceito da base
+
+de dados, né? E não só dos dados no qual eles seriam
+
+armazenados, mas também qual a estrutura que vai comportar esses dados.
+
+Como assim? Estou falando
+
+da parte tecnologia.
+
+E o meu sistema? Ele
+
+vai ter os dados
+
+armazenados em nuvem? Sim.
+
+Em qual estrutura? Vai ser uma estrutura cloud
+
+na AWS? Vai ser um servidor físico
+
+dedicado para só fazer essa determinada tarefa.
+
+Então, estou falando muito dessa parte.
+
+E quando eu falo da parte de design, estou falando bastante da parte de interface.
+
+Então é aquilo que no qual o usuário final vai interagir.
+
+Então a tela de interação que vai haver entre o sistema e o usuário.
+
+Então aqui eu estou falando como as informações.
+
+Elas seriam visíveis? Quais seriam os menus, tipos de filtragem,
+
+Quais seriam as cores, Como que seria o retorno das
+
+informações, quantas informações elas seriam visíveis por página e dentre
+
+outras coisas, como cores, botões e por aí vai.
+
+Já agora, na nossa quarta funcionalidade, né? Ou no nosso quarto setor, no
+
+qual a UML é bastante utilizada, seria na parte de documentação e comunicação.
+
+Então a UML é uma ferramenta eficaz para documentar sistemas de software.
+
+Falei em algumas aulas anteriores sobre isso, né?
+
+Nós quando falamos muito sobre documentação, nós entendemos
+
+que a documentação se trata de documentos textuais.
+
+E eu expliquei para vocês que, em muitas ocasiões, um diagrama é um ilustrativo das informações textuais.
+
+Às vezes é bem mais válido do que uma própria documentação.
+
+Como eu já fui explicando em aulas anteriores, existirão pessoas e
+
+pessoas, conhecimentos e conhecimentos, áreas e áreas envolvidas em um projeto.
+
+Não são todas as pessoas, não são todas as áreas, não são todas as equipes que tem
+
+a necessidade e a obrigatoriedade de entender coisas sobre TI, termos técnicos e por aí vai.
+
+Então, quando nós tratamos em algo ilustrativo, nós fazemos com
+
+que todas as pessoas, elas tenham o mesmo entendimento.
+
+Nós chegamos a um denominador comum aqui, tá? Então, através dos diversos
+
+tipos de diagramas disponíveis na UML, é possível criar documentações visuais que
+
+facilitam a compreensão do sistema por parte dos desenvolvedores, gerentes de projeto,
+
+clientes e outras partes interessadas, melhorando a comunicação e reduzindo ambiguidades.
+
+Então, quando eu coloco outras partes interessadas, eu poderia ter
+
+colocado como stakeholder, né? E que holders seriam as pessoas
+
+envolvidas no projeto? E elas podem ser classificadas como os
+
+usuários finais, como os clientes, como os investidores do projeto.
+
+Então, às vezes o projeto ele ganha um patrocínio, tem pessoas fazendo investimentos, sócios.
+
+Então essas pessoas, elas também possuem interesse.
+
+Elas são chamadas de stakeholders, não colocando só apenas gerentes de projeto.
+
+Mas eu poderia também falar aqui sobre o analista de
+
+requisitos, o arquiteto de software, o engenheiro de software.
+
+Então eu consigo chegar a um denominador comum com todos os envolvidos, inclusive a área de vendas.
+
+Então, o departamento de vendas muitas vezes trabalha, principalmente
+
+no começo do projeto, bastante perto de pessoas.
+
+Em relação a requisitos, tá bom.
+
+E aí, o nosso quinto setor seria educação e pesquisa.
+
+Na área acadêmica, a UML, ensinada como parte dos cursos
+
+de Ciência da Computação, Engenharia de Software e disciplinas relacionadas.
+
+Eu comentei isso com vocês, né? Não sei se todos que estão acompanhando este
+
+curso no momento tem alguma graduação ou está fazendo alguma graduação, mas na
+
+maioria das graduações em relação a TI, existe um módulo e um semestre
+
+no qual você trabalha sobre modelagem de dados e você aprende algumas coisas.
+
+Claro que depende da faculdade, depende do curso, depende da da instituição.
+
+Então umas vocês verão mais superficial, outras vocês verão mais aprofundada.
+
+Depende também bastante de quem está ministrando o curso, mas a intenção é que de alguma forma
+
+vocês verão mesmo que a parte de macro tá bom e além disso, ela é utilizada
+
+em pesquisas científicas para investigar novas técnicas, metodologias e ferramentas no campo de desenvolvimento de software.
+
+Então, voltando lá para o anterior, no qual eu falei um pouco sobre
+
+a história da UML, basicamente é uma das coisas que nós temos na
+
+área do TI, que apesar das evoluções tecnológicas, ela ainda não foi substituída.
+
+Então eu coloquei o exemplo para vocês que desde 1994 até
+
+a data atual, nós tivemos inúmeros surgimentos de linguagens de programação.
+
+Nós tivemos muitas épocas em alta de muitas linguagens.
+
+Então eu falei um pouco sobre o Delphi, sobre o Cobol e por aí vai.
+
+Linguagem Pascal é assim para a parte de UML.
+
+Parte ilustrativa Em dezembro de 1994 para cá, nós só temos falado sobre UML.
+
+Assim, ainda não surgiu nada.
+
+Não adotarão nada que faça a substituição, que é algo bem amplo e bem completo de se utilizar.
+
+Tá bom.
+
+E aí, o que que nós tiramos de conclusão sobre tudo o que
+
+eu falei até aqui nesta aula? A UML é amplamente utilizada em vários
+
+setores, incluindo a tecnologia da inovação, engenharia, saúde, finanças, entre outros, onde
+
+há necessidade de desenvolvimento, compreensão e documentação de sistemas de softwares complexos.
+
+Sua aplicação abrange bastante a concepção e a modelagem, até a documentação e manutenção de sistemas, desempenhando
+
+um papel crucial em todas as etapas do ciclo de vida de desenvolvimento de um software.
+
+E por que que eu coloquei aqui algumas áreas, não só em
+
+relação à tecnologia, mas também à engenharia, saúde, finanças, entre outros.
+
+Porque, de certa forma, todos os sistemas que envolvem
+
+outras áreas também fazem parte da área do TI.
+
+E para todos esses outros sistemas que não tem ligação direta com TI, mas utiliza a
+
+tecnologia para sim fazer um sistema, ou seja, de forma indireta a usa o TI.
+
+Eles também adotam a UML para fazer essas ilustrações.
+
+Tá bom galera, então de certa forma, aqui nós já falamos os nomes
+
+de alguns diagramas, né? Apesar de ainda a gente não ter a necessidade.
+
+Mas aqui vocês também já conseguem entender que para determinadas
+
+ocasiões eu vou ter diagramas específicos com propósitos específicos.
+
+Então eu vou deixar para adentrar isso um pouco mais para frente.
+
+Por enquanto, a aula vai ficando por aqui.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.

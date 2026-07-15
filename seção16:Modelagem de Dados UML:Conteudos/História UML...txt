@@ -1,0 +1,259 @@
+Olá Luna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que vocês estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Nesta aula nós falaremos um pouco sobre a história e o surgimento da UML.
+
+Então, de certa forma, nós veremos aqui como que ela surgiu, porque que ela surgiu, devido a quais
+
+necessidades, para que nós possamos ter o entendimento de o porquê que ela é tão importante na atualidade.
+
+Tá bom?
+
+Bom, então vamos lá.
+
+A UML teve origem no início da década de 1990 como uma resposta à necessidade da indústria de software
+
+por uma linguagem de modelagem unificada e padronizada.
+
+Antes do surgimento da UML, havia uma diversidade de métodos e linguagens de modelagem que dificultava
+
+a comunicação entre os profissionais e resultava em barreiras na transferência de conhecimento e na
+
+colaboração entre equipes de desenvolvimento.
+
+Vamos colocar aqui um exemplo num contexto bem bacana de duas empresas grandes.
+
+Imagina que a Coca Cola tivesse contratado a Microsoft para fazer ali alguma implantação e que os profissionais
+
+da Coca cola trabalhavam de uma maneira e os profissionais da Microsoft trabalhavam de outra.
+
+Como que eles conversavam?
+
+Meu, eu imagino que assim era uma dificuldade muito grande o entendimento entre ambas as partes, né?
+
+Acredito que eles muitas vezes tinham que se reunir e fazer em conjunto as coisas que hoje em dia nós
+
+podemos fazer no paralelo, né?
+
+No pessoal e após o término nós apresentarmos para os demais, né?
+
+Mas acredito que antigamente muito era caminhado em todo mundo para que todo mundo ficasse a par.
+
+É assim.
+
+Imagina você com 1001 demandas, você ter que parar para olhar uma só?
+
+Meu, era complicadíssimo.
+
+E aí, os contextos que eram pré UML, O que é pré UML?
+
+E os contextos que eram usados antes da chegada da UML?
+
+Tá.
+
+Então, olha só.
+
+Antes da UML, diferentes métodos de modelagem, como o Bot OTM e o Ozi estavam em uso.
+
+Cada um desses métodos tinham as suas próprias notações, terminologias e abordagens para modelar sistemas
+
+de software.
+
+Então vocês tiverem a curiosidade aí, pesquisem por esses nomes.
+
+Lá no Google vocês vão encontrar as referências, principalmente no Google Imagens.
+
+Ter uma noção de como era, se utilizava esses carinhas aqui, tá?
+
+E aí teve o surgimento da UML.
+
+Após então, a necessidade de padronização e unificação desses métodos de modelagem levou a um esforço
+
+conjunto de três principais contribuintes.
+
+Para que a gente tá falando?
+
+De três pessoas no qual contribuíram para que surgisse, né, a UML.
+
+Então nós tivemos o grid Bosch, o Ivar Jacobson e o James Rubin em 1994.
+
+Esses renomados especialistas em desenvolvimento de software uniram forças para criar uma linguagem
+
+de modelagem unificada e, em 1995, apresentaram ao mundo a UML.
+
+Beleza.
+
+Então foi ali, de certa forma, a junção de três profissionais especialistas em desenvolvimento que
+
+em conjunto, criaram aqui os diagramas relacionados a UML.
+
+Com certeza, com base no que já existia antes da UML.
+
+Então eles adotaram ali alguns meios, alguns métodos, algumas metodologias para que a UML tivesse
+
+aqui uma carinha, né?
+
+Tivesse uma origem.
+
+E aí, obviamente, né.
+
+Assim como o início de qualquer coisa, sempre após nós temos as evoluções.
+
+Então aqui nós estamos falando um pouco sobre a evolução e os padrões.
+
+Então olha só.
+
+A UML inicialmente foi adotada pelo consórcio Object Management Group, que é a ONG, uma organização
+
+sem fins lucrativos responsável pelo desenvolvimento de padrões de tecnologia.
+
+A OMG aceitou o ML como um padrão e desde então tem sido o órgão responsável por gerenciar e evoluir
+
+a linguagem.
+
+Beleza.
+
+Então, após a UML ser originada, a OMG aceitou ele e ela foi a responsável por fazer as evoluções,
+
+ou seja, as medidas adotadas que nós temos até hoje.
+
+Diagramas existentes, importâncias de cada diagrama, como e quando utilizar cada um deles?
+
+Em quais contextos, para quais coisas?
+
+Foi a OMG que colocou beleza.
+
+E aí nós temos as versões e os aperfeiçoamentos também.
+
+Então olha só.
+
+A UML passou por várias versões ao longo do tempo, com melhorias, adições e refinamentos em suas especificações.
+
+Cada nova versão trouxe atualizações para atender às necessidades crescentes da indústria de software
+
+e incorporar novos conceitos, abordagens e práticas emergentes em modelagens de sistemas.
+
+À medida em que a tecnologia foi evoluindo, obviamente também seria necessário fazer uma evolução em
+
+relação ao ML.
+
+Então o ML.
+
+Na verdade, ela tentou acompanhar e tende acompanhando na verdade a evolução tecnológica.
+
+Então, sempre quando surge um novo conceito, uma nova semântica, uma nova metodologia, sempre como
+
+quando surge novos tipos de coisas tecnológicas, o ML adota ali o determinado versionamento aperfeiçoamento
+
+para trabalhar com aquilo que tá sendo novo no mercado.
+
+Tá bom.
+
+E aí, qual é o impacto da UML?
+
+A UML rapidamente se tornou a linguagem de modelagem mais amplamente aceita e adotada na indústria de
+
+software.
+
+E isso nós não estamos falando só no Brasil, mas no mundo pessoal.
+
+Então, isso aqui é uma linguagem.
+
+No mundo é a mesma coisa do que a gente falar em Libras, né?
+
+Linguagem dos mudos no mundo é em Libras.
+
+Então aqui nós estamos falando da linguagem UML no mundo.
+
+Sua influência e importância são visíveis em diversas áreas, desde o desenvolvimento de software até
+
+a academia, onde é ensinada como parte integral dos cursos de Ciência da Computação e Engenharia de
+
+Software.
+
+Então você que tá assistindo aqui e acompanhando este curso, não sei se você tem uma formação, uma
+
+graduação, mas na maioria dos casos, principalmente voltado à análise, desenvolvimento de sistemas,
+
+banco de dados, gestão de de internet na gestão de TI no conceito geral sempre tem uma matéria relacionada
+
+a UML.
+
+Então isso daqui você acaba aprendendo também lá na faculdade.
+
+Não sei se hoje em dia os cursos técnicos tem adotado essa matéria.
+
+Acredito que não.
+
+Mas se você está pensando em cursar algo, né?
+
+Tente buscar algo também que tenha relação com o ML, porque é algo genérico, você utiliza na maioria
+
+das áreas.
+
+Se você tá pensando em fazer redes de computadores, por exemplo, muitas vezes você vai ter que desenhar
+
+uma arquitetura de rede.
+
+Então, obviamente você também vai usar o ML para isso.
+
+Então o ML é utilizado no conceito geral.
+
+Beleza?
+
+Conclusão geral daqui desta aula, olha só.
+
+O ML surgiu da necessidade de padronizar e unificar a modelagem de sistemas de software, superando
+
+a fragmentação dos métodos anteriores, desde o seu surgimento até os dias atuais.
+
+Ao ML desempenhou um papel significativo na modelagem dos sistemas complexos, facilitando a comunicação
+
+entre profissionais, melhorando a compreensão de sistemas e impulsionando a qualidade e eficiência
+
+no desenvolvimento de software.
+
+Então, imagino que o ML fez por nós perante a tecnologia, desde quando ela surgiu em 1994 até o tempo
+
+atual da gravação aqui, mês 12 de 2023.
+
+Até então é algo assim surreal.
+
+E é algo que está sendo utilizado e é fortemente utilizado na atualidade, como se tivesse surgido há
+
+pouco tempo, né?
+
+Diferente de muitas coisas tecnológicas que nós vemos que quando surge um determinado ano, passa dali
+
+dois, três anos e já já é obsoleto, né?
+
+Outra coisa já mais recente sobrepôs aquilo.
+
+A gente pode falar muito também por conta de linguagens de programação, né?
+
+Nós tínhamos a época do Cobol, tivemos a época do Delphi.
+
+Hoje em dia a gente vive muito a época de Java, Python, Flutter, React, né?
+
+JSON Nós temos aqui outras coisas que são mais atuais e aquilo que é obsoleto vai ficando para trás.
+
+Só que em relação a diagramas, a desenho, figuras ilustrativas, nós não tivemos algo que sobrepôs
+
+se o ML.
+
+Então o ML.
+
+Ele é adotado desde 1994 até a data atual.
+
+Bom, espero que vocês estejam entendendo que vocês estejam gostando.
+
+Esta aula vai ficando por aqui.
+
+Me despeço de vocês, Fiquem com Deus e até breve.
