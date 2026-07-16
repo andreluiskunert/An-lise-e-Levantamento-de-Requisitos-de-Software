@@ -1,0 +1,479 @@
+Olá Luna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+E nesta aula nós falaremos um pouco a respeito dos diagramas.
+
+Partindo do princípio O que são os diagramas?
+
+Os diagramas são representações visuais que simplificam a compreensão de conceitos complexos ideias,
+
+sistemas ou processos por meio de elementos gráficos e simbólicos.
+
+Eles são usados em uma ampla gama de campos, desde engenharia e ciência até negócios e comunicação
+
+para ilustrar informações de maneira clara e concisa.
+
+Galera, eu já falei um pouco de uma forma bem macro, bem superficial em aulas anteriores e aqui nós
+
+iremos adentrar um pouco mais, iremos nos aprofundar.
+
+Bom, o que o texto está nos dizendo aqui?
+
+Está nos dizendo que diagramas são representações ilustrativas de determinadas informações consideradas
+
+textuais.
+
+Beleza.
+
+Essas representações ilustrativas são feitas ou são baseadas através de elementos gráficos, simbólicos
+
+e também de formas geométricas.
+
+Tá bom.
+
+Outra coisa que é interessante nós nos atentarmos os diagramas.
+
+Eles não são utilizados apenas na área de TI para desenho e arquitetura sistêmicas, softwares e etc,
+
+mas eles são usados em quaisquer áreas cuja possui informações que são necessárias ter ilustrações.
+
+Tá bom.
+
+Bom, de certa forma, os diagramas.
+
+Eles podem ser comparados como gráficos no Excel, tá?
+
+Então, se nós fizermos o comparativo, nós sabemos que o Excel trabalha com uma tabela que é definida
+
+por linhas e colunas e que entre essas linhas e colunas, ao armazenamento de informações e o conjunto
+
+dessas informações são gerados dados.
+
+E aí você que trabalha no dia a dia, sabe que conforme vai sendo populado os dados ali fica um pouco
+
+difícil de, de certa forma, distinguir ou de apresentar essas informações quando necessário, seja
+
+para o seu diretor, para a diretoria e etc.
+
+E aí geralmente o que é feito é utilizado através dessas informações, através desses dados, um gráfico,
+
+ou seja, uma representação visual, uma ilustração e visual daquelas informações contidas na planilha.
+
+Então, se nós fizermos o comparativo com os diagramas, é basicamente a mesma coisa.
+
+Então, os diagramas são representações ilustrativas de determinados conceitos ou de determinadas documentações
+
+técnicas de determinadas informações sistêmicas, para ter um entendimento mais claro, mais amplo e
+
+mais concreto.
+
+Tá bom, Os diagramas, eles possuem algumas características.
+
+A primeira é a simplificação visual.
+
+Eles simplificam informações complexas usando formas, símbolos, setas, linhas e outros elementos
+
+visuais para representar conceitos ou relações entre elementos.
+
+Então aqui está dizendo que quando eu utilizo um diagrama, eu pego tudo aquilo que é identificado como
+
+texto, como especificações técnicas e as transformo em algo ilustrativo.
+
+E aí eu tenho uma simplificação das informações de forma visual.
+
+Tá bom.
+
+Segundo uma compreensão rápida, são ferramentas eficazes para transmitir informações de forma rápida
+
+e clara, permitindo uma compreensão instantânea da estrutura, processo ou relacionamento entre elementos.
+
+Como assim uma compreensão rápida?
+
+Vou dar exemplo novamente.
+
+Imagina que você tem levantado Requisitos Criado documentos e a documentação do sistema que precisa
+
+ser desenvolvido.
+
+Deu 60 páginas.
+
+E aí você precisa de certa forma mostrar os envolvidos, a sua equipe, as partes interessadas, mostrar
+
+as outras áreas.
+
+E aí você tem 60 páginas para apresentar.
+
+Primeiro é que se você fizer uma reunião para apresentar essas 60 páginas, chegando na 11.ª, 12.ª,
+
+no máximo, as pessoas já estarão dispersas, já não estarão tão concentradas quanto deveriam, já não
+
+estarão tão atentas quanto deveriam.
+
+Muitas delas às vezes vão estar até no celular, vão estar vendo ou fazendo outra coisa, porque vai
+
+ficar algo muito massivo, vai ficar algo muito pesado de se apresentar.
+
+Então, o que você pode fazer neste caso?
+
+Pegar as informações mais relevantes, mais importantes e transformá las em diagramas, ou seja, transformá
+
+las em representações ilustrativas de forma visual.
+
+Assim, você vai ter uma otimização de tempo.
+
+Você vai ter pessoas participantes dessa apresentação.
+
+Você vai ver que as pessoas, elas vão ficar mais interessadas, vão prestar mais atenção.
+
+Muitas vezes elas vão interagir contigo, tirar dúvidas, dar sugestões, feedbacks e etc.
+
+Então existe esse lado de benefício em relação a característica.
+
+Segundo, é a padronização e consistência.
+
+Muitos diagramas seguem convenções específicas e padrões reconhecidos, o que facilita a interpretação
+
+por diferentes usuários em contextos diversos.
+
+Ou seja, eu tenho várias equipes participantes em um projeto.
+
+Eu sou da área do TI e eu fiz especificações documentadas e elas são técnicas.
+
+As outras áreas não tem obrigatoriedade de saber nada do que é técnico.
+
+Então como eu consigo falar com essas demais áreas, com esses demais profissionais?
+
+Através das ilustrações, Através dos diagramas.
+
+Quando eu faço essas ilustrações, eu consigo ter uma conversação com um público maior, seja ele um
+
+usuário final, seja ele uma pessoa que faz parte do time de vendas do time comercial, seja uma pessoa
+
+que faz parte do administrativo do RH e precisa saber de valores.
+
+Enfim, independente de quem seja as informações, elas trafegam de uma forma mais fácil o entendimento.
+
+Ele é mais absoluto também.
+
+E aí?
+
+Por que é importante os diagramas?
+
+Quais as importâncias de se utilizar diagramas?
+
+A primeira delas é a comunicação eficiente.
+
+Permitem que complexidades sejam comunicadas de forma mais acessível e compreensível, facilitando a
+
+comunicação entre diferentes partes interessadas.
+
+Eu tenho uma comunicação mais direta.
+
+Eu tenho um entendimento mais claro.
+
+Eu tenho uma diminuição de complexidade.
+
+É aquilo que eu falei das documentações textuais.
+
+Às vezes não é nem porque a documentação é um pouco dificultosa em termos técnicos.
+
+Às vezes as pessoas, elas nem tem uma capacidade de interpretação textual.
+
+Quanto você gostaria que tivesse?
+
+Muitas vezes você pode até mesmo você ler a documentação e as pessoas terem um entendimento diferente
+
+de uma interpretação daquilo que você está lendo.
+
+Então, quando você fala em visual, as pessoas, elas de certa forma falam a mesma linguagem.
+
+Beleza Segundo a importância, análise e planejamento são usados para analisar problemas, planejar
+
+processos e representar visualmente informações em diversas áreas, auxiliando a tomada de decisões.
+
+Então, os diagramas.
+
+Eles são usados para fazer o levantamento dos requisitos.
+
+Ou seja, eu tenho um problema, eu faço o mapeamento desse problema, eu encontro as soluções, eu
+
+desenvolvo essas soluções.
+
+Então todo esse meio de onde começa, por onde percorre, aonde termina.
+
+Eu consigo fazer ilustrações, eu consigo fazer desenhos, Eu consigo fazer mapeamentos.
+
+Consigo não só fazer mapeamentos de uma forma global, uma visão mais macro, mas também de forma mais
+
+detalhista, mais granular.
+
+Beleza.
+
+Terceiro, documentação e visualização servem como uma ferramenta valiosa para documentar ideias, sistemas,
+
+processos e conceitos, proporcionando uma apresentação visual mais clara e detalhada.
+
+Novamente, vamos comparar com uma tabela de Excel e um gráfico e vamos comparar o diagrama com uma
+
+documentação de 60 páginas, o que é mais fácil de ser visualizado.
+
+Tanto o gráfico para o lado do Excel quanto o diagrama para o lado da área do software.
+
+Beleza?
+
+Por que?
+
+Porque é onde eu tenho as informações mais comprimidas de forma mais visual.
+
+Então a documentação ela auxilia no procedimento da visualização também.
+
+E é muito mais válido você ter um documento visual detalhado do que você ter 60 páginas escritas.
+
+Então, e obviamente, você vai precisar de uma documentação textual.
+
+Mas eu digo no cotidiano, no andamento do projeto, é mais legal você ter essas partes ilustrativas
+
+do que você toda vez ficar rodando documento.
+
+Até para achar informações em documento é mais difícil, né?
+
+Principalmente se você não fizer a identação correta.
+
+Não colocar sumário.
+
+Vixe, vira uma bagunça.
+
+E aí nós temos os tipos comuns de diagramas.
+
+Primeiro é o diagrama de fluxo.
+
+Representam a sequência ou direção de um processo ou sistema, como fluxogramas, diagramas de sequência,
+
+diagramas de atividades, entre outros.
+
+Então, quando eu falo em diagramas de fluxo, eu estou falando em direção.
+
+Quando eu estou falando em direção, eu estou dizendo onde começa, por onde percorre e aonde termina.
+
+Então existem diagramas para eu fazer essas representações em relação a sequências, a direções de onde
+
+ele vem, por onde ele percorre, para onde ele vai.
+
+E aí são os fluxogramas, são os diagramas de sequência e os diagramas de atividades.
+
+Tá bom.
+
+O segundo que nós temos aqui como os tipos comuns são chamados de diagramas estruturais.
+
+Esses mostram a estrutura de um sistema ou entidades relacionadas, como diagrama de classes, diagrama
+
+de componentes, diagramas de objetos, entre outros.
+
+Quando eu estou falando em estrutura pessoal, isso é importante de se atentar.
+
+Eu estou falando em algo estático.
+
+Estou falando em algo fixo.
+
+Como assim?
+
+Vamos por partes.
+
+Imagina que você queira construir uma casa?
+
+Para que você faça o levantamento das paredes, você precisa ter um alicerce basicamente no sistema.
+
+Funciona da mesma maneira para que você tenha um sistema, um produto ou um serviço existente, você
+
+precisa de um alicerce, de uma estrutura para ele.
+
+O diagrama estrutural ou grupo de diagramas que fazem parte de diagramas estruturais.
+
+Eles funcionam para que você, de certa forma, desenhe este alicerce, ou seja, desenhe a estrutura.
+
+Tá bom?
+
+Então tudo que for relacionado a estrutura que for fixo, que não mudar, que for constante, você vai
+
+utilizar o diagrama estrutural.
+
+E aí nós temos o terceiro também, que são os diagramas comportamentais exibem o comportamento e a interação
+
+entre diferentes partes do sistema, como diagramas de caso de uso, diagramas de estado, diagramas
+
+de comunicação e entre outros.
+
+Quando eu falo em diagramas comportamentais, eu estou querendo falar sobre como o sistema funciona,
+
+como a funcionalidade funciona, como que os eventos funcionam.
+
+Eu estou falando do comportamento.
+
+Eu estou falando de como que o sistema, como que o serviço, como que o produto vai se portar à medida
+
+em que o usuário for utilizando determinada funcionalidade, determinado modo, for, clicando ou navegando
+
+em determinados menus, for clicando em determinados botões?
+
+O que que vai mostrar, o que que vai abrir, o que que vai fechar, entre outras coisas.
+
+Tá bom, então esses são os três tipos nos quais nós devemos nos atentar e entender e saber diferenciar.
+
+Porque em cada um dos momentos, em cada uma das etapas ao decorrer do projeto, nós utilizaremos alguns
+
+desses em específico.
+
+Então, essa hora é a hora importante de você pegar um caderno e uma caneta e fazer as anotações e escrito
+
+mais uma vez tudo aquilo que você escreve.
+
+E a absorção acaba sendo melhor porque você está fazendo duas coisas você está escrevendo, está sendo
+
+obrigado a ler.
+
+Então seu cérebro está gravando duas vezes a mesma coisa, Tá bom.
+
+Fora que para quando você for estudar, praticar, rever, você tem uma facilidade maior.
+
+Não é todo mundo que tem notebook, não é todo mundo que consegue deslocar o notebook para qualquer
+
+local da casa.
+
+Se você tem aqui um caderno, uma caneta, você, em um dia muito quente, pode sair da da frente do
+
+seu computador, do seu quarto.
+
+Pode ir para uma área, pode deitar num tapete, pode deitar numa rede, enfim, pode estudar em um
+
+campo, entre outras possibilidades.
+
+Então assim.
+
+Papel e caneta fundamental.
+
+Galera, esquece esse bloco de notas, Vamos fazer a moda antiga para essa etapa aqui.
+
+Apesar de a gente estar estudando coisas tecnológicas, tá bom.
+
+Muitas coisas não podem ser deixadas de lado, tá?
+
+Muitas coisas, infelizmente ou felizmente, a gente tem que manter a risca.
+
+Bom, aqui estão alguns exemplos de aplicações não só relacionadas a diagramas, mas um contexto geral
+
+a ilustrações.
+
+Então, nós temos os fluxogramas, que são usados para representar sequências ou atividades em processos.
+
+Nós acabamos de comentar.
+
+Temos os diagramas UML, que é a maior parte do curso no qual nós abordaremos.
+
+Bateremos forte nisso.
+
+Daqui então são aplicados as modelagens de sistemas de software, inclusive ao direcionamento deste
+
+curso.
+
+Temos os organogramas, que são representações de estrutura hierárquica de uma organização.
+
+Como assim?
+
+Provavelmente você já viu em alguma apresentação de PowerPoint aquela cadeia hierárquica, aquela ramificação
+
+em relação aos profissionais ou às áreas no qual existe o dono.
+
+E ele está numa cadeia lá acima, superior a todos e abaixo dele vêm sendo outras ramificações diretores,
+
+coordenadores.
+
+Aí vem os gerentes abaixo de gerentes, vem ali outras pessoas, outros demais funcionários, até chegar
+
+no menos tão importante quanto deveria.
+
+Então os organogramas, eles tem essas determinadas representações também são conceitos ilustrativos.
+
+Também temos os mapas mentais.
+
+Esse não está dentro da nossa grade curricular.
+
+Porém, eu vou tentar trazer algumas coisas, como aula bônus para que nós, para que nós façamos,
+
+possamos olhar e entender, pelo menos de forma superficial.
+
+Porque também é bem importante que que os mapas mentais fazem auxiliam na organização de ideias e informações.
+
+Os mapas mentais.
+
+Eles são muito utilizados tanto na área de Product Owner.
+
+Se você é um produto Owner, é bom você estudar bastante sobre mapas mentais e também a área de User
+
+Experience, que também usa bastante, não só a parte de UML, mas também esse conceito de mapas mentais,
+
+principalmente por lidar diretamente com o cliente, entender as necessidades, personas e etc.
+
+Tá bom.
+
+A conclusão geral desta aula pessoal.
+
+Os diagramas são ferramentas poderosas e versáteis, essenciais para a representação visual de informações
+
+complexas em uma variedade de contextos.
+
+Desempenha um papel fundamental na comunicação, eficaz na análise de sistemas, no planejamento e na
+
+documentação, proporcionando uma compreensão mais clara e simplificada de conceitos e processos.
+
+Beleza.
+
+Então, resumidamente, seria uma espécie de gráfico aqui para dentro da nossa área de software, né?
+
+Então, como eu já bati aulas anteriores, ao decorrer da evolução tecnológica, muitas coisas foram
+
+modificadas, muitas coisas ficaram obsoletas.
+
+Se nós olharmos para linguagem de programação, principalmente, muitas linguagens surgiram, muitas
+
+dessas deixaram de ser utilizadas, muitas dessas foram substituídas.
+
+Porém, a nossa modelagem de dados permanece firme e forte desde 1994.
+
+Beleza, então nós entendemos que isso daqui, de certa forma, é uma espécie de linguagem universal.
+
+Da mesma maneira que nós podemos enxergar as Libras, né?
+
+Para o contexto diário, para os surdos e os mudos, independente da sua nacionalidade, seja você brasileiro,
+
+espanhol, americano, uruguaio, dentre qualquer outra.
+
+A linguagem é uma só.
+
+Diferente dos idiomas que nós temos, né?
+
+Nós temos ali o português brasileiro, o português de Portugal.
+
+Temos vários tipos de espanhóis, né?
+
+Temos o argentino, o uruguaio, o paraguaio, né, o espanhol da Espanha e por aí vai.
+
+Só que as libras é universal, É uma única linguagem para o mundo inteiro.
+
+Aqui nós devemos enxergar os diagramas, o modelo de linguagem de UML, da mesma forma como uma espécie
+
+de linguagem universal, uma representação ilustrativa universal.
+
+Tá bom.
+
+Bom, por enquanto nós vamos ficando por aqui.
+
+Espero que vocês estejam gostando.
+
+Me despeço de vocês, Fiquem com De
