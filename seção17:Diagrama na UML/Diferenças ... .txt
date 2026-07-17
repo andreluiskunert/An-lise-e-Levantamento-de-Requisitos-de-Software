@@ -1,0 +1,305 @@
+Olá aluna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Nesta aula nós daremos continuidade ao anterior, então falaremos
+
+ainda um pouco mais sobre os nossos diagramas.
+
+Bom, aqui nesta aula nós iremos nos adentrar.
+
+Iremos nos aprofundar um pouco a mais sobre quais as diferenças entre os diagramas que
+
+fazem parte do grupo estrutural para os diagramas que fazem parte do grupo comportamental.
+
+Beleza.
+
+Os diagramas estruturais e os diagramas comportamentais são duas categorias ou
+
+dois grupos principais dos diagramas de modelagem de dados unificada.
+
+Cada um desses grupos possui a sua própria função e próprio foco na representação de sistemas de software.
+
+Tá bom.
+
+A seguir, as principais diferenças entre os dois tipos de
+
+diagramas, ou seja, a diferença entre os dois grupos existentes.
+
+Tá bom.
+
+Então, falando um pouco a respeito sobre os diagramas estruturais, qual é o foco
+
+dos diagramas estruturais? Os diagramas estruturais se concentram na representação da estrutura estática
+
+do sistema, ou seja, nos elementos estáticos e as suas relações do sistema.
+
+Eles representam principalmente a organização dos elementos no sistema,
+
+como classes, objetos, componentes, pacotes e seus relacionamentos.
+
+Então, aqui adentro um pouco do que eu já comentei na aula anterior.
+
+Então, quando nós falamos de diagramas estruturais, nós sempre pensamos naquilo que
+
+é fixo, ou seja, naquilo que está estático, né? Bem, até
+
+a vocês o exemplo de um alicerce, de uma casa, onde
+
+para que haja a casa, existe a necessidade de um alicerce.
+
+Da mesma forma, para quando há um sistema, existe a necessidade de uma estrutura.
+
+Quando nós vamos fazer a atividade dessa estrutura, nós usamos os
+
+diagramas estruturais e então fazemos ali as representações estáticas, né?
+
+Acabei dando o exemplo lá do banco de dados para
+
+vocês, fazendo um pequeno comparativo, né? Em relação a tabelas.
+
+Então, é mais ou menos dessa maneira no qual nós vamos abordar os estruturais e os
+
+diagramas que fazem parte deste grupo e os diagramas de classe, diagramas de objetos, diagramas
+
+de componentes de implantação, diagramas de estrutura composta, dentre alguns outros, fazem parte deste grupo.
+
+E aí a sua utilização no contexto geral.
+
+Usados para descrever a estrutura do sistema, mostrando os componentes principais e as suas relações.
+
+Fornecendo uma visão estática.
+
+Então, aqui a gente está falando de uma visibilidade global.
+
+Quando que eu vou utilizar diagramas estruturais? Utilizar diagramas estruturais? Quando
+
+eu estiver fazendo o escopo, o desenho do meu sistema, quando
+
+eu fizer a parte de arquitetura, quando eu entrar para a
+
+parte de engenharia, quando eu estipular como vai ser o banco,
+
+como vai ser a infra, como que vai ser a comunicação.
+
+Então, os diagramas estruturais têm este conceito e aqui nós temos um organograma
+
+até puxando um pouco do que nós citamos ao anterior, né? Então temos
+
+aqui um organograma com uma ramificação hierárquica do diagrama no contexto geral.
+
+Dentro do diagrama existe o grupo estrutural e abaixo
+
+do estrutural tem todos os diagramas pertinentes ao grupo.
+
+O único diagrama que não foi mencionado no texto anterior, se
+
+eu não me recordo mal, foi o diagrama de perfil.
+
+Beleza.
+
+Agora, falando um pouco sobre os diagramas comportamentais, quais são os focos
+
+desses? Concentram se nos aspectos dinâmicos do sistema, ou seja, no comportamento
+
+e interação entre os elementos do sistema em um tempo de execução.
+
+Eles representam o comportamento e a interação entre objetos ou componentes,
+
+mostrando como eles se comunicam e se comportam em diferentes situações.
+
+Então, quando eu estou falando em comportamental, estou adentrando muito em interação.
+
+Beleza, Como que se porta? Como que
+
+funciona? O que que acontece? Quais e
+
+os resultados? Quanto tempo leva? Então,
+
+os diagramas que são pertinentes a
+
+esses e os diagramas de caso
+
+ou chamados de caso de uso.
+
+Diagrama de sequência de atividades de comunicação de Estado e entre alguns outros.
+
+Tá bom? E aí? A utilização geral
+
+desses diagramas são para descrever o comportamento
+
+do sistema, mostrando como os elementos interagem
+
+e respondem a diferentes estímulos ou eventos.
+
+Então, aqui é quando nós fazemos a ilustração de um usuário, fazendo acesso,
+
+utilizando, destrinchando e estressando não só um sistema, mas uma ferramenta, um serviço,
+
+uma funcionalidade, um modo ou quaisquer outras coisas que estejam sendo desenvolvidas.
+
+Tá bom.
+
+E aqui nós temos um outro organograma com a visão agora apenas dos diagramas comportamentais.
+
+Tá bom.
+
+E aqui, se eu não estou enganado, o único diagrama que não está
+
+adentrando é o diagrama de estado de máquina TA ou máquina de estado.
+
+Mas isso é independente aqui no texto.
+
+O que eu acrescentei foram os mais conhecidos, os mais utilizados.
+
+Isso aí também é variável de conhecimento de profissional para profissional,
+
+de empresa para empresa, cultura para cultura, equipe para equipe.
+
+Mas, na maioria dos casos, 80 a 90% são esses os quais eu fiz as citações.
+
+Tá bom? Dando continuidade, vamos entender aqui então as
+
+principais diferenças entre as estruturas e os comportamentos.
+
+Tá bom.
+
+Os diagramas estruturais representam a estrutura estática do sistema,
+
+enquanto os comportamentais descrevem o comportamento dinâmico do sistema.
+
+Pessoal, aqui tem duas palavrinhas chave.
+
+Então estamos falando de estático e dinâmico.
+
+Tudo que é estático não mexe.
+
+Tudo que é dinâmico mexe.
+
+Tudo que é estático permanece.
+
+Tudo que é dinâmico se modifica.
+
+Então, quando eu estou falando em estático, eu estou falando em estrutural.
+
+E quando eu estou falando em dinâmico, eu estou falando em comportamental.
+
+Mais uma vez, caderninho e caneta na mão para vocês anotarem isso daqui.
+
+Elementos representados.
+
+Olha só.
+
+Os diagramas estruturais lidam principalmente com classes, objetos, componentes e seus relacionamentos.
+
+Enquanto os diagramas comportamentais se concentram nas interações,
+
+eventos e fluxos de controle entre esses elementos.
+
+Lembra que na aula anterior nós falamos que existiam três grupos fluxos estruturais e comportamentais.
+
+Digamos que os diagramas de fluxos.
+
+Eles também se enquadram dentro dos diagramas comportamentais.
+
+Tá bom.
+
+Então, aqui as diferenças entre esses.
+
+Lembrando que quando eu falo em estrutura citando mais uma vez, é quando eu
+
+estou a fazer uma solução para um problema, para uma dor, para uma causa.
+
+Quando eu falo em comportamento é quando eu vou destrinchar, estressar e exibir ou mostrar
+
+quais são ações daquilo que eu acabei de efetuar, daquilo que eu acabei de desenvolver.
+
+As visões entre estático e dinâmico.
+
+Enquanto os diagramas estruturais oferecem uma visão estática do sistema, os diagramas comportamentais fornecem
+
+uma visão dinâmica, mostrando como o sistema se comporta e interage em diferentes cenários.
+
+Ambos os tipos de diagramas são fundamentais para uma representação abrangente
+
+de um sistema de software, oferecendo diferentes perspectivas que são complementares
+
+para entender completamente a estrutura e o funcionamento de um sistema.
+
+Então, mais uma vez, quando eu vou utilizar diagramas estruturais, quando eu estou
+
+na fase inicial do meu projeto, onde eu preciso fazer o levantamento dos
+
+requisitos, onde eu preciso fazer o mapeamento das dores atuais, das necessidades atuais,
+
+onde eu preciso fazer o mapeamento de uma suposta solução para essas dores.
+
+Então aí quando eu estou falando na solução, eu
+
+não estou falando apenas no sistema, mas onde ele
+
+vai ser alocado, quais vai ser os meios de
+
+tráfegos de informação ou de comunicação e entre
+
+outras informações, né? Arquitetura? No contexto geral, beleza.
+
+Agora, quando eu tenho um produto, uma funcionalidade, um módulo já desenvolvido, eu
+
+vou adotar a usabilidade dos diagramas comportamentais que aí vai me trazer dinamismo.
+
+Eu vou conseguir destrinchar e estressar a ferramenta, a funcionalidade,
+
+o produto, seja o que for, e conseguir mostrar
+
+de uma forma ilustrativa o que acontece com determinadas
+
+ações, o que acontece com determinadas navegações, Quais são
+
+os tempos que nós temos entre esses percursos? Então
+
+existe aqui o lance da direção, né? Por onde
+
+começa? Aonde percorre e por onde termina? Tá bom.
+
+E aí nós temos o organograma com uma
+
+ramificação completa, né? Então as ordens aqui.
+
+Então nós temos o diagrama UML no contexto geral.
+
+Dentro dos diagramas UML nós temos dois grupos estruturais e comportamentais, e
+
+dentro desses grupos nós temos ali os tipos de diagramas específicos.
+
+Tá bom? Então, o que é importante de anotar, ressaltar, entender
+
+e praticar? Entender as diferenças entre os diagramas comportamentais e os
+
+estruturais tá bom? Uma vez que vocês entendem isso, vocês
+
+conseguem subentender onde e quando cada um desses tipos de
+
+grupos de diagramas seriam bem representados? E uma vez que
+
+você consegue distinguir onde os grupos, eles são bem representados.
+
+Aí basta você escolher o melhor tipo de diagrama para fazer a ilustração devida,
+
+de acordo com a necessidade, com o momento propício a ocasião e etc.
+
+Beleza pessoal, eu vou me despedindo por aqui, até para a aula não se estender tanto.
+
+Espero que vocês estejam entendendo e principalmente que vocês estejam gostando.
+
+Me despeço por aqui.
+
+Fiquem com Deus.
+
+Até breve.
