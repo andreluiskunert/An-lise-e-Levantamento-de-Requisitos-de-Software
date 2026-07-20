@@ -1,0 +1,443 @@
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados DML.
+
+E nesta aula trazendo a vocês a plataforma no qual nós utilizaremos daqui até o término do curso.
+
+Que foi inclusive mencionada na aula anterior e é o nosso drywall.
+
+Bom, nesta aula eu vou utilizar como modelo e exemplo para nós aprendermos, para
+
+nós explorarmos, para nós sabermos do que essa plataforma é capaz, o que ela
+
+nos entrega, quais são os recursos, o que é possível fazer, entre outras funcionalidades.
+
+Beleza.
+
+Iniciando a aula, vocês inicialmente vão abrir o navegador de vocês, independente
+
+se seja o Google Chrome, Microsoft Edge, Mozilla Firefox, o Opera, enfim.
+
+E vocês vão digitar Draw your
+
+ou drywall? Beleza? E vocês pressionaram
+
+Enter? Quando vocês pressionarem Enter, vocês
+
+serão redirecionados e o primeiro link
+
+disponível será esse do diagrama Net.
+
+HTTPS.
+
+AP.
+
+Net.
+
+É o nosso programinha, ou melhor, a nossa plataforma drywall.
+
+Uma vez que você clicou e você está acessando pela primeira
+
+vez, você ainda não tem nenhum cache ou algo do tipo.
+
+Ele vai inicialmente abrir nesta telinha aqui para você.
+
+Pedindo para que antes de você utilizar a ferramenta, você já escolha um local para salvar o arquivo.
+
+E aí ele dá alguns opcionais, onde você pode salvar no Google Drive, no OneDrive,
+
+no aparelho que seria no seu próprio desktop, no Dropbox, em GitHub ou em GitLab.
+
+Tá bom.
+
+Caso você ainda não se decidiu onde você quer salvar, você simplesmente pede para decidir mais tarde.
+
+Tá bom? E aqui nós temos a nossa
+
+telinha inicial da nossa plataforma de drywall.
+
+Bom, não sei se recordam em aulas anteriores, mas eu mencionei que esta
+
+plataforma ela é possível de utilizar se online da mesma forma que
+
+nós estamos acessando no momento, que é através do endereço de URL.
+
+Mas caso nós precisemos, nós também podemos fazer o download, ou seja, utilizar e criar
+
+em nossa própria máquina, seja no notebook, seja no desktop, a fim de que se
+
+por exemplo, eu acabar ficando sem internet, você tem um opcional, uma válvula de escape
+
+e você ainda tem uma produtividade, principalmente se você estiver pensando no contexto de trabalho.
+
+Beleza? Bom, dando continuidade como que a ferramenta ela é
+
+composta, né? Quais são as distribuições das ferramentas que
+
+nós temos em relação a menus, submenus e etc.
+
+Vamos lá.
+
+A parte superior da tela nós temos ao lado esquerdo e menu vertical.
+
+Todos os menus composto da plataforma.
+
+Então nós temos o primeiro menu que é o menu de arquivo.
+
+Esse menu ele é necessário e responsável por fazer quaisquer procedimentos que são relacionados a arquivo.
+
+Ou seja, se eu quero criar um novo arquivo, se eu quero abrir um novo arquivo
+
+já existente, se eu quero salvar um arquivo no qual eu estou fazendo a criação, se
+
+eu quero compartilhar o meu arquivo, se eu quero nomear o meu arquivo, se eu quero
+
+renomear o meu arquivo, se eu quero fazer uma cópia, uma importação, exportação de arquivo.
+
+Tudo vai estar dentro deste menu.
+
+Beleza.
+
+Já o nosso segundo menu, em relação a edição, é o menu que possibilita você fazer
+
+ou desfazer ações, copiar ou colar determinados objetos, recortar os los ou substituí los, se necessário.
+
+Entre outras variações.
+
+Beleza.
+
+Já o nosso terceiro menu, ele se chama visualização.
+
+O nosso terceiro menu.
+
+Ele está relacionado a quais ferramentas ou a quais recursos
+
+nós estamos visualizando ou podemos visualizar na nossa tela.
+
+Então, todos os recursos que estão esticados significa os recursos que estão habilitados e
+
+que nós estamos utilizando ou que estão disponíveis para ser utilizados de alguma forma.
+
+Beleza.
+
+À medida em que eu clico ou que eu fico, alguns dos demais, eles acabam aparecendo na minha tela também.
+
+Mas por padrão eu costumo a não ticar nenhum deles.
+
+Beleza, nós podemos ir trabalhando e visualizando também cada um desses
+
+recursos aqui, à medida em que as aulas forem acontecendo.
+
+E não tem problema nenhum.
+
+Já o nosso quarto menu, ele chama Ordenar, Drenar, né? E aqui nós
+
+podemos fazer aqui algumas ordenações em relação à nossa página, ao nosso arquivo.
+
+Beleza? E aí também nós vamos explorar, uma vez que
+
+eles aqui ainda nem estão habilitados, porque eu ainda não
+
+possuo algo para poder fazer as modificações e ordenações.
+
+Beleza.
+
+Nosso quinto menu, ele se chama Extras.
+
+Por quê? Porque aqui
+
+existe opções adicionais.
+
+Existe customizações no qual eu posso estar acrescentando caso eu julgue necessário.
+
+Um deles é o idioma.
+
+Então, geralmente, por padrão, ele vem no idioma português Portugal.
+
+Caso você não se sinta confortável e queira fazer a mudança, ou se
+
+talvez você queira se aperfeiçoar a utilizar programas em outro idioma, que geralmente
+
+é o inglês, você pode vir aqui em idioma e fazer a alteração.
+
+O que é interessante ressaltar, uma vez que você mudar o
+
+idioma você vai precisar atualizar a página para poder fazer a
+
+visualização das mudanças, tá? Assim como outros recursos disponíveis aqui.
+
+Quando modificados, a página precisa ser atualizada para que você consiga fazer a verificação da mudança.
+
+O outro é a aparência.
+
+O que seria a aparência? Como eu estou
+
+visualizando o programa? Por padrão, ele vem
+
+automático e geralmente é na cor clara.
+
+Eu posso, caso eu necessite, mudar para cor escura.
+
+Beleza.
+
+E aí, uma vez que eu mudo para cor escura, todo o layout dele é mudado.
+
+Eu, em particular não costumo utilizar dessa forma, não acho legal.
+
+Um dos poucos programas que eu utilizo na cor clara.
+
+Mas não tem problema, se você quiser utilizar na cor escura, não vai
+
+mudar as funcionalidades nem os locais de onde as ferramentas estão alocadas.
+
+Tá bom, vou dando continuidade ainda nos extras eu também tenho a
+
+possibilidade de adição de temas, então aqui eu tenho o tema clássico.
+
+Eu posso colocar um tema azulado e aí novamente ele pede para mim fazer a atualização da página.
+
+Então vamos atualizar aqui para ter a percepção da mudança
+
+no qual ele fez para carregar aqui um pouco aqui.
+
+Olha só o meu menu.
+
+Ele ficou azulado.
+
+Beleza.
+
+Então, são algumas modificações que eu posso estar trabalhando para me sentir mais confortável,
+
+né? Para deixar a plataforma mais ao meu gosto, mais ao meu critério, para
+
+que eu fique mais à vontade quando eu for fazer os meus trabalhos.
+
+Beleza.
+
+Bom, esses são os menus importantes que nós temos aqui na parte superior.
+
+Fora ele, nós temos o sexto menu, o nosso último menu, que é sobre ajuda.
+
+E aqui, na verdade é um menu entre aspas de suporte que você pesquisa sobre alguma
+
+ferramenta, algum recurso que você talvez não esteja encontrando, teclas de atalho, entre outras coisas.
+
+E ele vai te dar as possibilidades necessárias.
+
+Além de que ele mostra também a última versão atual do programa.
+
+Tá bom.
+
+Bom, fora tudo isso que nós temos também na parte superior, nós temos aqui alguns outros ícones.
+
+Esses outros ícones, eles são pertinentes a zoom.
+
+Então, quando eu quero aproximar ou quando eu quero diminuir a aproximação, então o zoom.
+
+Ele tem esta percepção, além de outras possibilidades de ações entre fazer e desfazer
+
+lixeira para deletar um objeto, entre outras coisas que nós veremos que existem teclas
+
+de atalho no teclado que nós vamos fazer utilização e acaba sendo mais fácil,
+
+mais rápido e mais prático, porque você não precisa parar, levar sua mão até
+
+o mouse, arrastar até o determinado ícone para poder fazer a determinada ação necessária.
+
+Beleza.
+
+Já o nosso lado esquerdo, na parte vertical, nós temos alguns menus.
+
+Esses menus aqui.
+
+Eles são pertinentes ao que nós podemos criar fazendo a utilização desta ferramenta.
+
+Então nós temos um menu geral que ele engloba diversos objetos, diversas formas geométricas.
+
+Nós temos alguns outros que são mais específicos, então eu tenho, por exemplo, aqui fluxograma.
+
+Eu tenho aqui relação de entidades.
+
+Quando eu quiser fazer algo que tenha relação com banco de dados, eu tenho propriamente
+
+o menu específico para UML, que é um dos que nós mais vamos utilizar.
+
+E nós temos aqui um botão chamado Mais Formas.
+
+Para que serve esse botão? Se eu, por um acaso, não encontrar nada
+
+do que eu tenha necessidade de utilizar em algum desses menus, eu posso
+
+vir aqui e ticar algumas outras opcionais que não ficam habilitadas por padrão.
+
+Porque? Porque é
+
+muita coisa.
+
+Beleza, Imagina que eu queira fazer aqui uma ilustrativo de S protótipos eu posso marcar.
+
+Imagina que eu queira vir aqui e fazer um desenho de uma arquitetura
+
+de rede? Então vai existir aqui um menu específico com as opcionais ou
+
+os objetos pertinentes a criação de redes que eu posso estar alocando.
+
+Beleza.
+
+Então, por enquanto, nós manteremos dessa forma, pelo menos de início.
+
+E à medida em que nós formos nos aprofundando, nós vamos nos
+
+adentrando e se houver necessidade, nós vamos acrescentando mais recursos aqui.
+
+Tá bom.
+
+Já ao nosso lado direito, na parte vertical, nós temos aqui algumas propriedades.
+
+Beleza.
+
+Primeira em relação ao diagrama, que é o que a visibilidade da sua documentação.
+
+Então como você quer visualizar que aqui já existe, né? Por padrão, algumas
+
+checagens a grade seriam essas linhas divisórias aqui que vocês possuem para.
+
+deixar os seus objetos mais ordenados, as linhas mais segmentadas e retas, seguindo ali uma hierarquia.
+
+Então ajuda bastante a visualização da página também, que aqui nós temos
+
+a percepção que temos uma única folha e ela está em vertical.
+
+Aqui está configurado no momento para uma folha sulfite.
+
+Nós vamos ver já, já aqui.
+
+É possível aumentar ou diminuir o tamanho disso? Mas aqui nós conseguimos também ter
+
+a visualização da página à medida em que o projeto vai se estendendo.
+
+Eu também consigo ter uma percepção se está cobrindo uma
+
+única página, se passou para uma segunda e assim sucessivamente.
+
+Eu tenho opcionais de acrescentar a cor de fundo e aí
+
+eu posso estar escolhendo por padrão a folha sulfite e branca,
+
+né? Mas eu posso trocar a cor de fundo caso
+
+eu tenha necessidade, posso acrescentar sombras, esboços e outros opcionais.
+
+E aqui nós temos outras opções de setas de pontos de conexão de guias que vão ser exibidos.
+
+E aqui, como eu falei, o tamanho do papel, que é o tamanho do arquivo.
+
+Por padrão, ele vem como uma folha sulfite.
+
+Você tem uma outra série de variedades de tamanhos e
+
+tem o personalizado caso você queira fazer um tamanho específico.
+
+Além de que você pode virar este papel, este arquivo para retrato
+
+ou paisagem, que seria a folha em horizontal, a folha em deitado.
+
+Caso você queira fazer alguma representatividade que você sabe que vai
+
+se estender mais para o lado do que para baixo.
+
+Você consegue fazer toda essa estrutura, toda essa configuração ao decorrer da criação
+
+dos seus projetos? Beleza, aí nós temos algo aqui relacionado a dados aqui.
+
+Envolve algumas conexões que não tem muita necessidade de nós sabermos no momento
+
+e também a limpeza de estilização que não vem ao caso por enquanto.
+
+Bom galera, então inicialmente a composição do programa é feita desta forma.
+
+E aqui eu já vou também adiantar alguns processos.
+
+Vamos lá? Eu falei que aqui nós temos as
+
+possibilidades de zoom para aproximar ou distanciar o zoom.
+
+Só que eu consigo fazer isso também de outra forma, além do
+
+que eu posso usar aqui as porcentagens, né? Mas segurando a tecla
+
+control no teclado e arrastando a bolinha do seu mouse para
+
+baixo, eu tenho uma distanciação, ou seja, eu tenho um distanciamento,
+
+ou seja, eu estou retirando o zoom e estou dando -1.
+
+E aí quando eu permaneço o control pressionado e rolo
+
+a bolinha do mouse para cima, eu estou dando zoom.
+
+Então vocês podem observar aqui o que ele vai aumentando ou
+
+diminuindo à medida em que eu vou fazendo a lá.
+
+50% 30% 120%.
+
+Agora aproximando se em 175.
+
+Permanecendo no 100.
+
+Beleza.
+
+Segunda coisa, nós temos aqui também duas barras de rolagem, uma em vertical, que nós subimos e
+
+descemos o documento para verificação em vertical e uma barra de rolagem em horizontal, para que nós
+
+também possamos verificar os nossos objetos da esquerda para a direita ou da direita para a esquerda.
+
+Só que mais uma vez utilizando o mouse acaba sendo um pouco massivo.
+
+Eu posso para nesta ocasião segurar o espaço no teclado e observa que a minha seta
+
+vai virar uma seta de quatro pontas agora e quando eu mantenho ela pressionada, eu clicando
+
+com o botão esquerdo do mouse e arrastando para qualquer lugar, eu consigo navegar pela minha
+
+página, então se eu clicar e arrastar para a esquerda, eu arrasto para a esquerda.
+
+Se eu clicar e arrastar para a direita e o arrasto para a direita,
+
+Se eu clicar e arrastar para baixo, eu arrasto o arquivo para baixo.
+
+Se eu clicar e arrastar para cima, eu arrasto para cima.
+
+Se eu clicar e arrastar em diagonais independentes, seja para cima e para baixo, ele também vai fazer.
+
+Então acaba sendo um pouco mais fácil você navegar pelos seus arquivos, você se encontrar e se adentrar.
+
+Então tanto o espaço quanto o zoom, né, que ele pode ser
+
+feito mais uma vez, né? Tanto quanto o controle quanto o alt.
+
+Para que vocês possam dar o zoom.
+
+Eles acabam funcionando em conjunto.
+
+Então eu vou navegando, vou dando o zoom, vou navegando, vou retirando o zoom à medida que seja necessário.
+
+Beleza.
+
+Por enquanto, que nós vamos aprender sobre a nossa plataforma.
+
+É isso.
+
+Não vou adentrar porque ela já se estendeu bastante e eu vou me despedindo por aqui.
+
+Espero que vocês estejam entendendo o que vocês estejam gostando.
+
+Me despeço de vocês Fiquem co
