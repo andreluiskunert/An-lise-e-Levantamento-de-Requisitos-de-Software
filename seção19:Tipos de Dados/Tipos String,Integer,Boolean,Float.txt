@@ -1,0 +1,501 @@
+Olá aluna! Olá
+
+aluno! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML
+
+e desta vez trazendo a vocês uma aula para falarmos um pouco sobre tipos de dados.
+
+A vela.
+
+Como assim? Aula anterior você falou que a
+
+partir daqui nós começaremos a parte prática.
+
+Pois é galerinha, eu deixei passar despercebido aqui na nossa grade curricular algo
+
+que é muito importante, algo que nós vamos utilizar inclusive em alguns diagramas.
+
+Então eu preferi não entrar na prática e passar esta aula anteriormente
+
+para após a prática, para que nós já façamos com entendimento daquilo.
+
+Beleza.
+
+Bom, dando início a esta aula, mais uma vez uma aula teórica,
+
+mas para nós termos o entendimento de algo bem importante aqui.
+
+Bom, o que acontece quando nós estamos falando de tecnologia? Nós estamos falando
+
+de dados, então, inicialmente, o que são os dados pessoal? Os dados
+
+são os conjuntos de informações que nós geralmente utilizamos para determinados fins.
+
+Bom, o que que pode ser considerado dados dentro da informática?
+
+Todo o grupo de dados que esteja armazenado com um propósito.
+
+Então, se eu falar a respeito de uma empresa que faz gestão
+
+empresarial, todas as informações que ela guarda sobre as empresas no qual
+
+ela gerencia é um determinado dado? Se eu falo, por exemplo,
+
+sobre telemarketing, então clientes, números de telefone, endereços, e-mails e etc.
+
+Também são conjuntos de dados.
+
+E aí, o que acontece? Para que nós possamos utilizar da maneira
+
+devida todos esses dados, ou melhor, para que nós possamos gravar de
+
+forma adequada esses dados da maneira em que eles devem ser gravados.
+
+Nós temos separações de dados.
+
+Tá Então, existe, na verdade, tipos de dados específicos.
+
+E esses tipos de
+
+dados específicos? Existem
+
+finalidades específicas? Como
+
+assim? Vamos lá.
+
+Bom, quando eu falo, por exemplo, de um e-mail, eu estou
+
+falando de um tipo de dado que é relacionado a e-mail.
+
+Quando eu estou falando de um dado, por exemplo, que é sobre telefone,
+
+eu estou falando em um tipo de dado que é relacionado a telefone.
+
+Cada um desses dados, eles tem uma classificação e são pertencentes a um grupo específico.
+
+E aqui eu vou passar para vocês o entendimento disso.
+
+Porquê? Porque alguns diagramas no qual nós vamos desenhar e principalmente
+
+vocês que querem entrar na área, vocês que já estão atuando
+
+na área, muitas vezes vocês vão ter de dizer em alguns
+
+diagramas quais são os tipos de dados para aquelas determinadas ocasiões.
+
+Então, assim, são coisas que envolvem desenvolvimento, né? Para quem trabalha na
+
+área de desenvolvimento, tem o conhecimento, mesmo que superficial, em programação.
+
+Vai saber do que eu to falando.
+
+Mas você saber disso não quer dizer que você tenha que saber programar.
+
+Beleza, Mas você precisa saber dessas regrinhas aqui sim.
+
+Para trabalhar com o ML.
+
+Bom, então vamos lá.
+
+A primeira coisa que nós devemos nos atentar é que os dados
+
+são classificados ta em primeiro grupo, que chama se Grupos numéricos.
+
+Beleza.
+
+E esses grupos? Na verdade
+
+eles possuem duas classificações.
+
+Então dentro dos grupos numéricos eu tenho subgrupos onde eu posso destinar
+
+a falar sobre números inteiros e também a falar sobre números reais.
+
+Bom, falando um pouquinho sobre números inteiros, o que eles
+
+são ou como eles se compõem? Geralmente os números inteiros.
+
+Eles são aqueles que não possuem componentes decimais ou fracionários, podendo ser
+
+positivos ou negativos Então, aqui a regrinha básica de escola, Galera, número
+
+inteiro seria aqui os exemplos 24 é um número inteiro positivo.
+
+Número zero é um número inteiro, porém é um número neutro.
+
+Ele não é nem positivo e nem negativo.
+
+Ele é um número e não acrescenta valor ao número -12.
+
+Esqueci de acrescentar um sinal aqui de negativo, mas número -12 seria um número inteiro, porém negativo.
+
+Então, quando eu falo de número inteiro, são números que não são quebrados, tá? Números
+
+que não possuem pontos, não possuem vírgulas, não possuem outras casas após essas vírgulas.
+
+Beleza.
+
+Agora, sobre os meus números reais são aqueles que podem possuir componentes decimais ou fracionários.
+
+Eles podem também ser positivos ou negativos.
+
+Só que, diferente dos meus números inteiros, aqui
+
+eu já consigo fazer o quê? Frações.
+
+Consigo adicionar casas decimais e aqui existem alguns tipos.
+
+Por exemplo, eu tenho 24,01.
+
+seria o quê? Um número real
+
+positivo, com duas casas decimais.
+
+Por quê? Porque após o
+
+ponto, eu tenho duas casas.
+
+Eu tenho o número 144.
+
+Seria um número real positivo, porém com nenhuma casa decimal eu teria que
+
+o -13,3 seria um número real, porém negativo e com uma casa decimal.
+
+E eu também tenho o número 0,0, que seria número real com casa decimal.
+
+Seria número com valor vazio.
+
+Não é número, nem positivo e nem negativo.
+
+Valor neutro e novamente, número zero.
+
+100 casas decimais.
+
+Então, seria ali o número representado.
+
+Beleza? Bom, por que que eu necessito saber dessas regras? Porque
+
+quando nós formos armazenar determinadas informações para cada lugar que essas
+
+informações forem armazenadas, nós vamos precisar dizer qual é o tipo
+
+de dado que vai ser colocado ali, qual vai ser o
+
+que melhor lhe cabe devido à situação ou às circunstâncias? Vamos
+
+dar continuidade aqui nós vamos nos adentrando um pouco mais.
+
+Existe um outro tipo de dado que é classificado como um dado literal.
+
+Tá.
+
+O que é um dado literal? Ele é construído por uma
+
+sequência de caracteres e aí pode conter letras, dígitos, símbolos especiais.
+
+Pode ter ali a junção de maiúsculo e minúsculo entre várias finalidades.
+
+Esse tipo de dados é também muitas vezes chamado de alfanumérico.
+
+Então, quando eu falar em alfanumérico, quando eu falar em dados em cadeia ou
+
+quando eu falar em cordão, eu estou falando em tipo de dado literal.
+
+Agora, para quem trabalha com desenvolvimento, para quem trabalha com banco de
+
+dados, sempre vai ouvir falar em string, tipo de dado em string.
+
+Então, toda vez que eu falar que o tipo de dado é string, significa que aquele
+
+meu determinado campo, ele abriga textos, abriga caracteres especiais, abriga textos e números, tudo junto.
+
+Ou seja, ele aceita qualquer tipo de caractere.
+
+Beleza.
+
+Bom, usualmente os dados literais são representados nos algoritmos pela coleção
+
+de caracteres delimitada em seu início e término com aspas.
+
+Bom, como assim? Isso daqui não é necessário vocês saberem,
+
+porque isso seria levado em consideração justamente dentro da área
+
+de programação, para quando você precisar dizer que um determinado
+
+dado é representado por string, você colocar as aspas.
+
+Agora, dentro da UML, você não precisa colocar isso.
+
+Basta você dizer se ele é string ou não.
+
+Mas vamos dando continuidade aqui o disse que o dado tipo literal
+
+possui o comportamento de dado pelo número de caracteres nele contido.
+
+O que é interessante de ressaltar, e eu acabei não acrescentando no texto pessoal.
+
+Quando nós estamos falando em string, principalmente quando nós estamos pensando no contexto de banco de dados
+
+e geralmente o UML é o que mais lhe cabe e para desenho de banco de dados.
+
+Nós geralmente falamos que as strings elas tem dois tipos que seriam char e VARCHAR.
+
+Quais as diferenças de char e de varchar? A diferença é que quando
+
+eu uso char eu estou utilizando um campo de texto que provavelmente ele
+
+vai ter para todos os dados quase que a mesma quantidade de caracteres.
+
+Como assim? Bom, imagina que eu
+
+estou colocando um campo de CPF.
+
+Nós sabemos que CPF possui 11 dígitos, então quando eu coloco char eu estou dizendo
+
+que todas as informações daquele campo terão pertinência com a mesma quantidade de caracteres.
+
+Agora, quando eu falo que é varchar, eu estou dizendo que é um campo variável.
+
+O que poderia ser um campo variavel? Um
+
+campo de endereço? Porque a pessoa pode colocar
+
+a rua, o número da residência, se é
+
+apartamento, se tem complemento, entre outras coisas.
+
+E aí a forma de escrita.
+
+Ela pode ser extensa e ser abreviada e também o tamanho e pode aumentar ou diminuir conforme o tamanho
+
+da palavra da rua, conforme o tamanho da palavra da avenida, conforme o tamanho da palavra do bairro.
+
+Ainda assim, é algo que a gente não consegue estimar, que vai ser sempre com exatidão a mesma quantidade.
+
+Então varchar a gente sempre vai utilizar dessas duas formas.
+
+Eu vou identificar aqui o meu campo.
+
+Ele sempre vai conter informações iguais.
+
+Vou achar.
+
+Eu vou identificar que o meu campo sempre vai ter informações variáveis com.
+
+Às vezes sem caracteres, às vezes 30, às vezes 20, às vezes 15.
+
+Então eu uso varchar.
+
+Beleza, Dando continuidade.
+
+Bom, e aqui eu tenho os exemplos, né?
+
+No qual nós podemos colocar os campos de
+
+forma literal, né? Tecnicamente, como uma string.
+
+Então, aqui, sempre quando eu escrever dentro de aspas, isso envolve desenvolvimento, tá? Então,
+
+estamos pensando aqui se você estivesse fazendo um programação e quisesse armazenar dados.
+
+Beleza.
+
+Então sempre você vai fazer a utilização das aspas
+
+para representar que aquele determinado dado é uma string.
+
+Olha só que bacana o último exemplo que eu dei aqui, ó.
+
+Note que, por exemplo, 1,2 entre as aspas representa um tipo de
+
+dado literal de três comprimentos, construído pelos caracteres um ponto e dois.
+
+Beleza diferente de eu colocar 1,2 sem as aspas, que seria identificado como número real.
+
+Então, como que eu vou diferir a minha string?
+
+Ela pode ser tanto o texto quanto o número.
+
+Como que eu vou diferir quando é número e quando é
+
+texto? Quando tiver aspas, então 1,2 entre aspas é considerado string.
+
+Representação textual Tipo de dado textual.
+
+Agora, quando eu coloco 1,2 sem as aspas, aí eu estou fazendo uma representação em números reais.
+
+Beleza.
+
+E aí nós também temos um outro tipo de dados que são chamados de booleanos.
+
+Vocês vão ouvir muito falar sobre dados Boolean.
+
+Bom, os tipos de dados booleanos são os tipos lógicos e geralmente são
+
+utilizados para representar dois únicos valores que são possíveis, verdadeiros ou falsos.
+
+Beleza.
+
+E aí é comum encontrar outras referências por pares de verdadeiros ou
+
+falsos, como sim, não é e não é um e zero.
+
+True false.
+
+Tudo que tem representação de sim, não é ou não é.
+
+Tudo é considerado como booleano.
+
+Beleza.
+
+Então, nos algoritmos apresentados nesta aula aqui, os
+
+valores lógicos, eles sempre serão delimitados pelos pontos.
+
+Então, por exemplo, aqui eu tenho V de verdadeiro e o F de falso.
+
+Tá, mas não vamos nos adentrar isso aqui.
+
+Então, o que que eu tenho de resumo aqui para um entendimento maior Toda
+
+vez que eu falar sobre números inteiros significa que eles não possuem parte
+
+fracionária e podem ser positivos ou negativos, ou seja, Número um Número 100.
+
+Número -1000.
+
+Número zero.
+
+Número -33.
+
+Números que não são quebrados não constituem de pontos ou vírgulas.
+
+Tá bom.
+
+Agora, números reais possuem frações e podem ser positivos e negativos,
+
+né? Então, se ele possui fração, ele pode ser quebrado.
+
+Ele pode ter uma casa, duas casas decimais.
+
+Ele pode ser positivo, pode ser negativo.
+
+Então 13,1 23,33 -14,2 e assim sucessivamente.
+
+E agora? Os dados literais são
+
+esses que são considerados textos, né?
+
+Geralmente são colocados dentro das aspas.
+
+Tá.
+
+Agora, se você acompanhou essa aula e mesmo assim você não entendeu o porque
+
+que é necessário, eu vou dar um exemplo bem bacana aqui, Olha só.
+
+Inclusive a gente vai começar a fazer isso a partir das próximas aulas.
+
+AS Vou usar o conceito do Excel pensando aqui que nem todo mundo sabe sobre banco
+
+de dados, tá? Imagina assim que dentro do Excel você tem ali algumas colunas e
+
+que essas colunas você tem ali nome, sobrenome, e-mail, telefone, endereço, RG, CPF e idade.
+
+Beleza? Bom, para cada uma dessas colunas, geralmente
+
+você vai colocar um tipo de dado específico.
+
+Então vamos lá.
+
+O que eu colocar em telefone geralmente sempre vai ser pertinente a telefone e vai ser um determinado
+
+tipo de dados diferente do que eu colocar em nome ou sobrenome, que aí já são dados textuais.
+
+E também diferente de idade, que também já é um outro tipo de dado.
+
+Beleza.
+
+Então, pensando nesta lógica, nós sabemos que quando nós vamos utilizar
+
+um Excel para cada coluna, nós temos um tipo de dados.
+
+Esses tipos de dados que nós colocamos no Excel.
+
+Eles também podem ser classificados das mesmas maneiras que nós acabamos de ver nesta aula.
+
+Por exemplo, a minha coluna de nome e sobrenome.
+
+Ela seria uma coluna de tipo string, um tipo literal.
+
+Já a minha coluna de RG e CPF, ela poderia ser variável
+
+porque eu poderia colocar o RG, o CPF só com os números.
+
+Aí eles seriam identificados como números inteiros.
+
+Ou eu poderia acrescentar os pontos e os traços que
+
+existem entre as separações, tanto do RG quanto do CPF.
+
+Aí já não seria mais números, Seriam string.
+
+Porque? Porque possuem
+
+caracteres especiais.
+
+Beleza.
+
+Agora, diferente de idade, porque idade sempre vai ser número.
+
+Idade não possui ponto.
+
+Você faz um ano, dois anos, três anos, quatro anos.
+
+Você não faz 5,5 anos, 5,6 anos.
+
+Entendeu? Então, ali seria um tipo
+
+de dado inteiro, por exemplo.
+
+E aí, o que acontece? Pensando em tudo isso e levando
+
+para o desenho de UML em banco de dados? Toda vez
+
+que você tiver a necessidade de ilustrar determinadas informações em determinados
+
+tipos de diagramas, você muitas vezes vai ter que especificar para
+
+qual tipo de informação deve ser armazenado naquele determinado campo.
+
+Beleza.
+
+Então, o que acontece aqui? Próxima aula nós
+
+entraremos na prática agora sim, usando esses
+
+conceitos que nós vimos agora nesta aula.
+
+Então vamos argumentando e adentrando mais a fundo conforme nós formos aprendendo sobre o diagrama.
+
+Já adiantando que vai ser um diagrama de classe.
+
+E aí nós vamos pegar esses conceitos e talvez até voltar
+
+um pouco nesses slides aqui para nós entendermos na prática.
+
+Beleza? Bom, eu espero que vocês estejam
+
+entendendo e principalmente, que vocês estejam gostando.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
