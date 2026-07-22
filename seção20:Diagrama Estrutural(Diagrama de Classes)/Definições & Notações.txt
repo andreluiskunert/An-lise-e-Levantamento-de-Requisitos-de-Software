@@ -1,0 +1,635 @@
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a partir desta aula, um novo módulo
+
+módulo no qual nós começaremos a aprender sobre os diagramas.
+
+Inicialmente, nós passaremos a aprender primeiramente os diagramas que compõem o grupo estrutural e deste grupo o
+
+primeiro que nós vamos aprender que nós vamos estudar e praticar é o diagrama de classes.
+
+Beleza.
+
+Então, a aula que ela vai ter um embasamento teórico e prático.
+
+Então, antes de nós colocarmos a mão na massa, eu vou passar aqui um pouco para
+
+vocês sobre o que é o diagrama de classes, o que ele faz, como ele
+
+se comporta, como que se estrutura, quais as regras, o que existe por trás, Beleza.
+
+Para que nós, após estudarmos isso, possamos colocar a mão na massa com embasamento teórico.
+
+Beleza.
+
+Portanto, o dito diz que os diagramas de classes são os mais populares entre os tipos de diagramas.
+
+Bom, então nas aulas anteriores, né? Nós falamos um pouco
+
+e vimos de forma superficial que entre os grupos de
+
+diagramas estruturais e comportamentais existe um total de 14 diagramas.
+
+Então podemos dizer que dos 14 diagramas, o diagrama mais popular, o diagrama
+
+mais conhecido, talvez o diagrama mais utilizado no mundo inteiro, seja o diagrama
+
+de classe, justamente porque se fala de estrutura sistêmica, estrutura de software, e
+
+ele é um dos mais utilizados para fazer a elaboração disso daí.
+
+Beleza.
+
+Então, a definição de diagrama de classe.
+
+O que é um diagrama
+
+de classe? Diagrama de classe.
+
+Nós sabemos, já que é um tipo de diagrama pertencente ao UML,
+
+né? A linguagem de modelagem unificada e esse tipo de diagrama específico.
+
+Ele descreve um sistema ao visualizar diferentes tipos de objetos dentro
+
+de um sistema e os tipos de relações estáticas entre eles.
+
+Também ilustra as operações e atributos das classes.
+
+Eles são normalmente usados para explorar conceitos de domínio, compreender os requisitos de software
+
+e descrever projetos detalhados de uma forma bem resumida, mas também bem detalhada.
+
+O que o texto está querendo nos dizer aqui? Que o
+
+diagrama de classes ele tem, na verdade, três importâncias dentro de
+
+levantamento de requisitos dentro da área de engenharia de software.
+
+Beleza.
+
+Então ele é visto como um diagrama que faz ilustrações estáticas, Porém
+
+ele também faz utilização de representações de atributos, operações e classes.
+
+Nós vamos ver aqui nesta aula sobre o que é cada um desses nomes.
+
+Beleza.
+
+E ele também é usado para fazer o quê? Exploração de
+
+conceitos de domínio para entender os requisitos de forma mais aprofundada.
+
+Tá bom.
+
+Então, o que que nós podemos ter o entendimento
+
+aqui? Olha só, existem notações de diagramas de classe.
+
+E eu trouxe alguns exemplos para vocês.
+
+Os exemplos estão ao lado direito da tela, na parte inferior.
+
+Tá bom.
+
+Bom, então a primeira notação, ela na verdade se chama classe.
+
+Tá, peguei aqui algumas ilustrações da internet.
+
+Está em inglês, mas não tem problema.
+
+Eu vou mostrar para vocês também o porque que eu mantive em inglês para
+
+vocês terem uma percepção na hora de usar o nosso programa, nossa plataforma.
+
+Beleza? Bom, então vamos imaginar assim, que quando
+
+nós estamos desenhando os diagramas de classe.
+
+Existe a classe dentro desse diagrama.
+
+O que é essa classe e o que ela representa? Olha
+
+só, as classes representam os objetos centrais de um sistema.
+
+Então vamos imaginar aqui um cenário hipotético.
+
+Vamos colocar aqui que nós estamos construindo um sistema de uma pizzaria.
+
+Se nós pensássemos em objetos em classes que compunham o sistema de
+
+uma pizzaria, o que poderia ser? Especificamente o nome dessa classe? Nós
+
+podemos falar que poderia ser uma tabela dentro de um banco
+
+de dados, por exemplo, e que essa tabela gravaria determinados informativos.
+
+Então eu poderia, na verdade, para um sistema de pizzaria ter várias tabelas,
+
+ou seja, ter várias classes e cada classe guardando uma determinada informação.
+
+Eu poderia ter uma tabela com o nome cliente, eu poderia ter uma tabela com o nome estoque.
+
+Eu poderia ter uma outra tabela com o nome cardápio.
+
+Eu poderia ter uma outra tabela, como o nome bebida.
+
+E assim sucessivamente.
+
+Beleza.
+
+Então, geralmente isso é representado por um retângulo com até três compartimentos.
+
+Tá, então aqui nós estamos vendo exatamente três compartimentos.
+
+Olha só.
+
+A primeira mostra o nome da classe, enquanto no meio
+
+mostra os atributos da classe que são características dos objetos.
+
+E o inferior lista as operações da classe, o que representa o comportamento delas.
+
+Então, se passando novamente pelo cenário hipotético da pizza, eu tenho uma tabela chamada cliente.
+
+Beleza.
+
+Então, o meu primeiro cenário é o que é o nome da tabela? O nome
+
+da minha classe, então, chamaria se cliente, porque eu sempre vou acrescentar um nome que
+
+tenha facilidade de identificação de acordo com os dados que eu vou gravar ali dentro.
+
+Beleza.
+
+Segundo, é os atributos.
+
+O que são os atributos? São as características,
+
+ou melhor, são as informações que vão ser
+
+armazenadas ali, dentro da tabelinha de clientes.
+
+Pensando no cenário hipotético da pizzaria, então o que poderia ser os atributos
+
+ou as características ou as informações dentro dessa tabelinha? Então, quando o
+
+cliente ele vai pedir a pizza, eu preciso saber alguns informativos dele.
+
+Eu preciso saber do nome dele, saber do telefone dele para caso o
+
+motoboy vá até a localidade e não consiga encontrá lo, ele não atende.
+
+Eu preciso entrar em contato, eu preciso saber do endereço, porque senão o motoboy não chega.
+
+Ele saber de formas de pagamento, saber sem dinheiro, sem cartão.
+
+Então tudo isso são que informativos? TiVos
+
+características são chamados de atributos beleza.
+
+Já o terceiro é que, como nós falamos, são as operações da classe.
+
+Isso representaria determinado comportamento.
+
+Por exemplo, o que seria o comportamento? Vamos levar em consideração
+
+que o cliente ele está utilizando um aplicativo da pizzaria.
+
+Dentro do aplicativo existem objetos, né? E esses objetos poderiam ser
+
+ali as pizzas, no qual ele pode fazer o pedido.
+
+E vamos levar em consideração que ele pode tanto adicionar quanto remover pedidos, adicionar
+
+ou remover pizzas, adicionar ou remover bebidas, adicionar ou remover sobremesas, por exemplo.
+
+Então, quando nós estamos falando aqui do terceiro, que são as
+
+operações da classe, nós estamos falando deste tipo de comportamento.
+
+Quais são aqui
+
+os comportamentos? Adição.
+
+Remoção.
+
+Adição.
+
+Remoção.
+
+Adição do pedido, Remoção do pedido, adição do produto,
+
+Remoção do produto, Adição do item Remoção do item.
+
+Isso é um comportamento da ferramenta do sistema Beleza, Então, não falando do
+
+cliente, mas da plataforma que talvez o cliente estaria ou que o cliente
+
+estivesse utilizando para fazer a solicitação da pizza, por exemplo, né? Então, quando
+
+a gente fala no iFood, então nós sempre colocamos os itens no carrinho.
+
+Aquilo dali, de certa forma, também é um comportamento.
+
+Nós fizemos uma ação.
+
+O comportamento foi levar o objeto até o carrinho.
+
+E aí dentro do carrinho eu tenho outros comportamentos de adicionar mais itens ou removê los, por exemplo.
+
+Bom, e aí? O que é válido ressaltar, galera,
+
+é que esses dois últimos compartimentos, eles são opcionais.
+
+Beleza, geralmente nós colocamos quando nós temos um entendimento, um conhecimento um pouco mais
+
+robusto, um pouco mais aprofundado, não só sobre bancos de dados, não só sobre
+
+UML, mas principalmente de programação, principalmente do projeto para acrescentar os detalhes devidos.
+
+Tá bom, então a notação de classes sem os dois últimos comportamentos.
+
+Ela é chamada de classe simples e contém apenas o nome da classe.
+
+Eu poderia usar inicialmente, por exemplo, como um escopo, um rascunho, um papel
+
+de pão, né? Como geralmente a gente chama uma classe simples, então eu
+
+colocaria apenas os nomes e as relações, ou seja, as ligações entre elas.
+
+To falando de uma outra forma para um melhor entendimento, fazer as
+
+tabelas e as ligações entre essas tabelas conforme eu fosse levantando.
+
+Mais informações, mais requisitos, mais detalhes, eu ia acrescentando os demais
+
+informativos, né? Seriam ali as características que são chamadas de atributos.
+
+Beleza? Bom, Segundo seria
+
+a interface ou interface.
+
+O símbolo de interface nos diagramas de classe indica um
+
+conjunto de operações que detalharam a responsabilidade de uma classe.
+
+Ou seja, eu tenho uma classe chamada cliente dentro da minha pizzaria.
+
+Ou melhor, eu tenho uma tabela chamada cliente dentro da minha pizzaria.
+
+Qual seria a responsabilidade?
+
+É algo opcional.
+
+Então não é porque isso existe que eu tenho de utilizar.
+
+Isso se enquadra em determinados projetos, em determinados conceitos, ocasiões.
+
+Então, não é em tudo que é oportuno de acrescentar.
+
+E também nós temos o pacote que está ao lado direito, na parte inferior da tela, chamada Package name.
+
+O símbolo de pacote é usado para agrupar as classes
+
+ou interfaces que são semelhantes em natureza ou relacionadas.
+
+O agrupamento destes elementos de design usando o símbolo de embalagem melhora a legibilidade do diagrama.
+
+Então, aqui nós estamos com duas coisas separadas.
+
+A primeira é que o pacote ele é usado para agrupar as classes ou as interfaces.
+
+Posso usar agrupamentos só de interface, como só de classe
+
+e são semelhantes em natureza ou em relacionamentos, Ou seja.
+
+Vou colocar aqui o exemplo hipotético do cliente o pizzaiolo.
+
+Qual a relação entre o cliente e o pizzaiolo?
+
+Qual é os detalhes de natureza ou relação que
+
+tem entre o pizzaiolo e a pizza? Eu posso
+
+usar esse pacote nele para fazer esses agrupamentos? Beleza.
+
+E o segundo é o que é Boas práticas.
+
+Então o agrupamento desses elementos usados melhora a legibilidade do diagrama.
+
+Então aqui estou falando em melhores práticas de construção também.
+
+Tá bom, tá bom.
+
+E aí nós temos outros conceitos que vão além do que nós estamos falando.
+
+Porém, antes de nós entrarmos nisso daqui, que seria os relacionamentos, e aí existe variedades também,
+
+vamos para a prática sobre o que nós acabamos de falar, que são esses anteriores aqui.
+
+Então, primeiro de tudo aqui sobre as classes.
+
+Então vamos aqui até a nossa ferramenta.
+
+Então você vai abrir aí o navegador e vai digitar drywall e vai entrar no AP Diagrama Net.
+
+Beleza.
+
+Acessou a plataforma.
+
+Vocês vão minimizar o menu geral e vão maximizar o último menu, que é o de UML.
+
+Beleza.
+
+E aí? Dentro de UML nós temos todas
+
+as ferramentas, componentes, objetos são pertinentes ao
+
+ML e principalmente a diagramas de classe.
+
+Então, os primeiros objetos que nós teremos aqui são pertinentes aos diagramas de classe.
+
+E aí, por que
+
+eu mantive lá? Em
+
+inglês? Porque aqui ó.
+
+Por mais que você tenha a plataforma configurada para português do Brasil,
+
+os detalhes dentro dos objetos dos componentes ainda vão permanecer em inglês.
+
+Então eu mantive dessa forma lá no nosso slide, justamente para vocês terem o entendimento aqui.
+
+Beleza? E aí nós temos aqui o Classe Name simples,
+
+temos o objeto, temos o Interface, temos o Classe Name
+
+com propriedades só de tipo e temos outros atributos mencionados.
+
+Tá.
+
+Inicialmente nós vamos pegar um simplezinho aqui, que pode ser
+
+esse Classe Name aqui, o Classe que nós temos, o
+
+Classe e o Classe dois, né? Vamos pegar o Classic.
+
+Uma vez que eu clico, ele já vai para minha tela aqui no centro, Eu segurando o control, vou
+
+rolar o botão do mouse para que eu tenha um zoom e aqui eu consigo fazer determinadas edições.
+
+Então nós temos algumas identificações que são fundamentais, mas eu não vou me adentrar por enquanto.
+
+Por enquanto, nós vamos entender aqui o conceito da classe.
+
+Beleza? Então nós vamos usar o que nós estamos vendo nessa
+
+aula, juntamente com o que nós vimos na aula anterior.
+
+O que vocês vão ter aqui? O entendimento
+
+e amarração dos dois ensinamentos dos dois conteúdos.
+
+Então vamos levar aqui em consideração o cenário hipotético da pizzaria e
+
+vamos imaginar aqui que nós temos a nossa classe chamada cliente.
+
+Beleza? Então, geralmente aqui em cima eu
+
+vou colocar o nome desta minha classe,
+
+como foi mencionado ali no texto.
+
+E aí eu tenho que os meus atributos que eu posso estar acrescentando que seria aqui o fio de beleza.
+
+Só que o que que é bacana aqui o.
+
+Note que além do fio eu tenho uma outra palavra chamada
+
+type, ou seja, o tipo seria o que? Vamos lá.
+
+Os atributos nós acabamos de ver aqui nesta aula que seriam as características ou
+
+as informações que precisam ser gravadas agora, o tipo e os tipos de dados
+
+que nós vimos na aula anterior, que vai ser gravado dentro daquele local específico.
+
+Então, levando em consideração lá no exemplo do Excel, as
+
+colunas vão ter determinados nomes e vão guardar determinadas informações.
+
+Quais os tipos de informações vão ser guardadas
+
+naquelas colunas? Então aqui nós podemos especificar.
+
+Então vamos por partes.
+
+Então, para mim, ter aqui um controle do cliente, inicialmente eu preciso saber o nome dele.
+
+Beleza? E eu também preciso saber do que eu preciso
+
+saber de telefone, de e-mail para contato, de endereço, forma
+
+de pagamento, entre outros informativos que eu achar necessário.
+
+Beleza.
+
+Então eu fiz aqui o meu primeiro.
+
+Eu acrescentei o nome Como que eu posso fazer para acrescentar demais?
+
+Eu posso ver com o botão direito, copiar e botão direito colar.
+
+E aí eu vou colocar aqui e vou acrescentando
+
+tá bom? E ele já vai esticando automaticamente.
+
+Ou eu posso fazer control C control V no teclado, que também é mais fácil.
+
+Então, se eu tiver fazendo vocês não tiverem visualizando o menuzinho
+
+aqui, é porque eu tô usando Control C Control V.
+
+Beleza, então vamos lá.
+
+Eu tenho o nome, eu tenho o endereço, beleza?
+
+E eu também tenho a forma de pagamento.
+
+Não vou me estender muito.
+
+Beleza, vou adentrar apenas os três, porque para vocês terem um entendimento um pouquinho melhor sobre.
+
+Os tipos dos dados no qual nós falamos na aula anterior.
+
+Então aqui eu poderia especificar assim o que
+
+o tipo, então que o tipo seria? String.
+
+Por que? Porque eu
+
+vou gravar texto.
+
+Lembra que na aula anterior nós falamos que o tipo de dado literal que
+
+é identificado como string geralmente é o tipo usado para usarmos e gravarmos texto.
+
+Beleza.
+
+Então, aqui seria a string, o endereço ele
+
+também seria string? Porque? Porque eu vou
+
+gravar texto, Eu vou gravar números também.
+
+Então eu também tenho que ter uma variação.
+
+A forma de pagamento ela também seria em string.
+
+Porque aqui eu não consigo mencionar.
+
+Aqui eu não sei se é dinheiro, se é cartão.
+
+Então aqui eu poderia colocar como textual também.
+
+Só que fora tudo isso, para nós termos aqui alguma coisinha diferente, nós podemos colocar.
+
+Se bem que aqui o endereço nós poderíamos fazer separado, né?
+
+Nós poderíamos colocar assim ó rua, beleza e número da rua.
+
+Que aí o número da rua já seria um outro tipo de dado armazenado.
+
+E aí poderia ser o número inteiro que aí seria identificado como int ou Integer.
+
+Beleza? Bom galera, e aí, dando continuidade para nós
+
+finalizarmos e não nos estender tanto, nós poderíamos
+
+aqui também junto a forma de E pagamento.
+
+Nós também poderíamos colocar aqui o telefone, né? Então
+
+vou deixar o telefone aqui como um segundo campo.
+
+Vamos colocar aqui o telefone que aí ele também seria.
+
+Int ou.
+
+Integer Depende aí de como você quer escrever, mas aqui seria nome por extenso e nome abreviado.
+
+Beleza Então galera, por todavia, não vou me estender bastante, mas para que vocês tenham
+
+entendimento, a explicação genérica aqui imagina que isso é uma tabela lá no seu Excel.
+
+Para quem ainda não tem entendimento de banco de dados, beleza, é que esta tabela você chama ela
+
+de cliente, ou seja, dentro da tabela cliente você vai gravar as informações dos seus clientes da pizzaria.
+
+Beleza? E essas informações que
+
+você vai guardar dos
+
+clientes? Cada uma dessas.
+
+Aqui é uma coluna com uma informação específica.
+
+Então, a coluna Nome sempre vai gravar o nome, que é nome textual, então vai ser um tipo string.
+
+Telefone sempre vai gravar número de telefone, então é número.
+
+Então vai ser o tipo int ou Integer.
+
+Rua novamente é texto, então será a string.
+
+O número da rua vai ser uma
+
+coluna separada da rua? Vai ser
+
+número? Então é int ou Integer.
+
+E a forma de pagamento é string.
+
+Beleza? Bom, por que que nós geralmente identificamos os
+
+tipos dos dados aqui na frente? Porque geralmente quem
+
+desenha não é quem constrói o banco de dados.
+
+Beleza.
+
+Geralmente quem desenha não é quem programa o sistema.
+
+São cargos, áreas, departamentos diferentes.
+
+Apesar de todas elas serem da tecnologia.
+
+Então, quando o cara desenha, ele sempre leva para um administrador
+
+de banco de dados, para um arquiteto de banco de dados.
+
+E esses caras que vão fazer ali a estrutura na prática? Então, quando você
+
+já coloca os tipos de dados específicos, você já facilita na hora da
+
+criação, porque aí ele não tem que parar, ficar perguntando, bater e etc.
+
+Claro que quando você faz isso daqui, você não vai fazer por conta e responsabilidade sua.
+
+Obviamente, um administrador, um arquiteto de banco de dados, ele tem muito mais conhecimento do
+
+que você, que é um analista de requisitos e uma pessoa que trabalha com ML.
+
+Então ele para banco de dados tem mais conhecimento do que você, isso é fato.
+
+Mas sempre vai haver reuniões, levantamento de requisitos, as pessoas estarão presentes, haverá mapeamentos, desenhos,
+
+rabiscos e aí, a partir de tudo isso é que você vai extrair as informações.
+
+E já montar o desenho, montar o escopo com tudo o que deve ter contido.
+
+Tá.
+
+Então imagina que no momento da reunião do bate papo.
+
+Brainstorm.
+
+Independente do que seja, tem um analista de banco de dados lá e
+
+ele já falou, né? O que ele acha para o banco de dados
+
+ficar legal, né? Ele colocou ali o que que é necessário ter, Quais
+
+as informações, quais os tipos de dados? E você ouvindo, foi anotando.
+
+Então na hora de você desenhar, você vai pegar aquilo que
+
+você mapeou, suas anotações e vai colocar da maneira devida.
+
+Beleza.
+
+Então é basicamente isso daqui.
+
+Na próxima aula nós daremos continuidade.
+
+Ainda falando sobre isso, então seria a parte dois do nosso diagrama de classe.
+
+Não vou me estender por enquanto, porque ela já ficou muito extensa.
+
+Então vou me despedindo por aqui.
+
+Espero que vocês estejam entendendo e, principalmente, que vocês estejam gostando.
+
+Fiquem com Deus.
+
+Até breve!
