@@ -1,0 +1,575 @@
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a continuidade da aula anterior, então aqui será a parte dois sobre a aula dos diagramas
+
+de classe.
+
+Bom, recapitulando sobre a aula anterior, nós aprendemos então sobre o que é uma classe, o que são
+
+os atributos e também o que são as operações.
+
+Então eu mostrei a vocês também o que seriam os tipos de dados, quais as relações entre as informações
+
+que são armazenadas.
+
+E agora nós vamos falar um pouquinho a respeito sobre relacionamentos entre essas classes.
+
+Beleza?
+
+Bom, antes de mais nada, o que são os relacionamentos?
+
+Os relacionamentos, galera?
+
+Eles nada mais são do que a ligação ou a amarração entre as classes que você tem que compõem um sistema.
+
+Beleza, Então vou colocar aqui de maneira hipotética, mais uma vez, o cenário de uma pizzaria.
+
+Imagina que você esteja construindo um sistema, um aplicativo de pizzaria.
+
+Então você tem determinadas classes condizentes a esse sistema.
+
+Então você tem a classe do cliente, a classe do pizzaiolo, a classe dos ingredientes, a classe da
+
+pizza, a classe dos pedidos, entre outras classes que forem necessárias.
+
+Os relacionamentos, eles servem para você interligar, interconectar, amarrar, atrelar essas classes
+
+umas às outras.
+
+Só que aí tem um porém.
+
+Qual é esse porém?
+
+O porém é que existem vários tipos de relacionamentos, cada um deles com uma determinada finalidade.
+
+Cada um deles com determinado propósito.
+
+Cada um deles com uma determinada ocasião.
+
+E aqui é o que nós vamos ver, identificar e entender quais são esses tipos e quando ou como vamos utilizá
+
+los?
+
+Beleza.
+
+Então, inicialmente eu tenho aqui uma pequena tabela e aí eu tenho os tipos de notações e tenho aqui
+
+os tipos de relacionamentos também.
+
+Então note que eu tenho aqui uma seta contínua, uma seta que tem uma mudança na ponta da seta, uma
+
+seta pontilhada tracejada.
+
+Aí eu tenho uma outra seta tracejada com outro tipo de ponta de seta, entre outras opções.
+
+Mais uma vez passando a vocês aqui os outros tipos que nós temos, Não precisa se preocupar com os nomes
+
+em inglês que nós veremos 1A1 dessas aqui e entenderemos em português o que são.
+
+Mas vocês devem ter uma noção de que existem ao total oito tipos de relacionamentos que é possível fazer
+
+dentro do diagrama de classe e que esses oito tipos são muito utilizados, só que são variáveis de acordo
+
+com as ocasiões.
+
+De acordo com as circunstâncias.
+
+Tá bom.
+
+Bom, o primeiro que nós vamos ver chama se associação.
+
+Tá ao lado direito inferior da tela para vocês visualizarem.
+
+Então a representação dele ali é uma linha contínua entre duas classes.
+
+Tá bom.
+
+É um termo amplo que abrange praticamente qualquer conexão lógica ou relacionamento entre classes.
+
+Por exemplo, passageiros e companhia aérea podem estar vinculados conforme a imagem, tá?
+
+Então imagina que eu tenho uma classe chamada Passageiro e eu também tenho uma outra classe chamada
+
+companhia aérea.
+
+Qual é a relação que os passageiros possuem com a companhia aérea?
+
+Qual é a relação que a companhia aérea possui com os passageiros?
+
+Ambos têm ligações.
+
+Então, quando os dois lados tem associação, tem ligação.
+
+Quando os dois lados possuem vínculo, eu vou utilizar o tipo associação, que é literalmente uma linha
+
+em que amarra as duas pontas.
+
+Beleza.
+
+O segundo tipo chama se Associação Dirigida.
+
+Diferente da anterior, é uma linha, porém com uma seta direcionada.
+
+Tá bom.
+
+Refere se a uma relação direcional representada por uma linha com uma seta na ponta.
+
+A ponta da seta representa o fluxo direcional contido no container, ou seja, em que uma associação
+
+dirigida possui uma seta.
+
+Disse que uma determinada classe tem dependência da outra classe.
+
+Ou seja, a minha classe no qual eu tenho o início da linha, ela vai depender ou ela terá dependência
+
+da outra, onde existe a ponta beleza.
+
+Então aqui eu estou dando novamente o exemplo da dos passageiros e do plano de companhia aérea.
+
+Eu estou dizendo que o meu plano de companhia depende dos meus passageiros.
+
+Então, como que uma empresa de aviação funciona se eu não tenho passageiros?
+
+Eu não tenho vôos.
+
+Então a minha companhia aérea depende de haver passageiros.
+
+Então, a dependência está na ponta da seta.
+
+Ou seja, a companhia aérea depende dos passageiros.
+
+Beleza.
+
+O terceiro tipo de relacionamento.
+
+Associação reflexiva.
+
+E aqui a ligação já não é mais de pontas, mas tem números e símbolos.
+
+Vamos entender.
+
+Isso ocorre quando uma classe pode ter múltiplas funções ou responsabilidades.
+
+Por exemplo, um funcionário que trabalha em um aeroporto.
+
+Pode ser piloto, engenheiro de avião, despachante de passagens, guarda ou membro de equipe de manutenção.
+
+Então, aqui no exemplo, imagina que eu tenho uma classe chamada funcionário dentro da minha classe
+
+funcionário.
+
+Eu posso ter piloto, eu posso ter engenheiro de avião, eu posso ter despachante de passagens, eu
+
+posso ter guarda, eu posso ter membros de equipe, membros de manutenção, membros da limpeza, aeromoças,
+
+entre outras.
+
+Beleza.
+
+Se o tripulante de manutenção for gerenciado pelo engenheiro de avião, poderá haver um relacionamento
+
+gerenciado por duas instâncias da mesma classe.
+
+Beleza.
+
+Então, quando há uma relação por duas instâncias da mesma classe, eu vou utilizar este determinado
+
+símbolo onde eu estou falando que é zero para muitos.
+
+Beleza.
+
+Então, toda vez que haver este símbolo, o asterisco significa que você está fazendo uma representação
+
+múltipla que há muitos mais de um, no caso, beleza.
+
+E aí, de novo, nós temos a multiplicidade e a associação lógica ativa.
+
+Quando se representa a cardinalidade de uma classe em relação a outra.
+
+Por exemplo, uma frota pode incluir vários aviões, enquanto um avião comercial pode conter de zero
+
+a muitos passageiros.
+
+A notação zero e o asterisco no diagrama significa zero para muitos.
+
+Como eu acabei de mencionar anteriormente, ou seja, uma frota de avião, ela pode ter nenhum passageiro
+
+quanto ela pode ter mais de 100 passageiros.
+
+Então eu vou associar como zero e muitos.
+
+Beleza, poderia colocar diferente.
+
+Pode ser só zero e um.
+
+Então, em vez do asterisco, eu acrescento o número um.
+
+Mas aí depende da ocasião.
+
+Aqui, como estamos falando de companhia aérea, vários passageiros, sempre haverá muitos.
+
+Mas, por exemplo, levando em consideração um carro de Fórmula um, quantos pilotos pode haver dentro
+
+do carro?
+
+Zero ou um?
+
+Não pode ter vários?
+
+Então não existiria a opção do asterisco.
+
+Então, ao invés do asterisco, seria o número um, por exemplo.
+
+Então, aqui, só fugindo um pouquinho do contexto para vocês entenderem como funciona essa virada de
+
+chave de zero a muitos ou zero ou um.
+
+Beleza.
+
+Temos um próximo relacionamento que chama a agregação e aqui ele já muda até o tipo de amarração.
+
+Refere se a formação de uma classe especifica como resultado de uma classe ser agregada ou construída
+
+como uma coleção.
+
+Aqui talvez eu esteja falando em aramaico para muitas pessoas, porque esta parte sobre classe, sobre
+
+coleção, sobre biblioteca que está na linha de baixo refere se muito à linguagem de programação.
+
+Então, aqui, digamos que eu esteja desenhando uma arquitetura sistêmica para o desenvolvedor dar uma
+
+olhada e começar a programar.
+
+Então entra muito esse conceito aqui, beleza?
+
+Por exemplo, a classe Biblioteca é composta por um ou mais livros, entre outros materiais.
+
+Na agregação, as classes constituídas não dependem fortemente do ciclo de vida do container.
+
+Como assim?
+
+Vamos lá.
+
+No mesmo exemplo, os livros permanecerão mesmo assim quando a biblioteca for dissolvida.
+
+Para mostrar a agregação em diagrama, desenhe uma linha da classe Pai até a classe filha com o formato
+
+de diamante próximo a classe Pai.
+
+Aqui, de forma resumida, o que a agregação está dizendo é que eu tenho determinadas classes.
+
+Então para uma biblioteca eu tenho uma classe chamada livraria ou biblioteca independente, e eu também
+
+tenho uma outra classe chamada livros.
+
+Quando eu tenho uma agregação, eu digo que os livros estão sendo agregados à minha biblioteca.
+
+Beleza.
+
+Então, se os livros estão sendo agregados à minha biblioteca, o sinalzinho de diamante vai ficar onde
+
+há a agregação.
+
+Ou seja, mesmo que um dia a biblioteca feche, não exista mais, seja dissolvida, como o texto menciona,
+
+os livros ainda continuarão a existir.
+
+E ainda junto a isso existe a representação múltipla.
+
+Observe que para uma biblioteca existir eu preciso ter uma biblioteca e muitos livros, então a notação
+
+é o que?
+
+Um para muitos um asterisco, ou seja, uma biblioteca e vários livros.
+
+O símbolo de asterisco.
+
+Ele representa essa parte de multiplicidade.
+
+Eu não consigo ter uma biblioteca.
+
+Se eu só tenho um livro, dois livros, eu tenho que ter múltiplos livros.
+
+Então, por isso que essa anotação é um para muitos.
+
+Beleza, então, lá atrás eu mencionei zero para muitos.
+
+Zero para um com exemplo da anotação do carro de Fórmula um.
+
+E aqui nós estamos vendo um para muitos.
+
+Beleza, pode ser um para um também.
+
+Nós vamos entender, se possível, aqui nos exemplos.
+
+Outro tipo de relacionamento chama se composição.
+
+Relação de composição é muito semelhante à relação de agregação com a única diferença, sendo seu objetivo
+
+principal de enfatizar a dependência da classe contida no ciclo de vida do container.
+
+Ou seja, a classe contida será destruída quando a classe container foi destruída.
+
+Aqui nós estamos falando de novo de programação sobre classes.
+
+Aqui existe dentro da linguagem de programação, tá?
+
+Por exemplo, no bolso lateral de uma bolsa de ombro também deixará de existir quando a bolsa de ombro
+
+for destruída.
+
+Ou seja, se eu destruo a bolsa, eu destruo o bolso.
+
+Beleza.
+
+Para mostrar um relacionamento de composição em um diagrama ML, use uma linha direcional conectando
+
+as duas classes com o losango preenchido adjacente.
+
+A classe container é a seta direcional, a classe contida, ou seja, aonde a dependência.
+
+Os meus livros é dependente da minha livraria.
+
+Note que aqui eu estou fazendo para as mesmas situações, diferentes tipos de ligação.
+
+Olha só.
+
+Livros e biblioteca Agregação, Livros e biblioteca Composição.
+
+Eu posso ter variações.
+
+Beleza, depende do que eu quero representar ou do que eu quero mostrar dentro do meu diagrama.
+
+Legal.
+
+Bom, o nosso próximo chama se herança ou generalização.
+
+Pode ser chamado de duas formas.
+
+Refere se a um tipo de relacionamento em que uma classe associada é filha de outra virtude de assumir
+
+as mesmas funcionalidades da classe pai.
+
+Em outras palavras, a classe filha é um tipo específico de classe pai.
+
+Para mostrar a herança de um diagrama UML, uma linha sólida da base classe filha até a classe Pai é
+
+desenhada usando uma ponta de seta não preenchida, então tem diferença de seta preenchida que tem cor
+
+e a não preenchida é apenas o contorno.
+
+O centro sempre não vai haver preenchimento.
+
+Então eu tenho ali uma conta no banco e uma conta fixa, por exemplo.
+
+Beleza.
+
+Mais um tipo que seria a realização de toda a implantação da funcionalidade definida em uma classe por
+
+outra classe para mostrar o relacionamento em UML.
+
+Uma linha quebrada com uma ponta de seta sólida não preenchida, desenhada a partir da classe que define
+
+a funcionalidade da classe que implanta a função.
+
+No exemplo, as referências de impressão são definidas através da interface de configuração da impressora,
+
+então sendo implementadas pela impressora.
+
+Ou seja, eu tenho a configuração da impressora e eu tenho que a impressão.
+
+Ou seja, a funcionalidade da impressora.
+
+Então aqui eu estou falando de uma ação realização a partir das configurações da impressora.
+
+Eu tenho a impressora pronta para fazer a impressão.
+
+Beleza?
+
+Bom, então o resumo até aqui é o seguinte ao total, existem oito tipos de relacionamentos.
+
+Beleza.
+
+Cada um deles, como vocês observaram, tem uma determinada finalidade.
+
+E aí?
+
+Por isso, existe diversos tipos de representações e para cada um deles vai ser de acordo com a ocasião
+
+ou de acordo com o que você quer mostrar dentro do seu diagrama.
+
+Para nós termos entendimento, vamos voltar aqui para o nosso diagrama dentro do drywall e vamos criar
+
+uma segunda classe.
+
+Então, imaginemos que nós quiséssemos, por exemplo, fazer uma ligação entre o cliente e entre o cliente
+
+e o pedido.
+
+Então vamos colocar aqui o pedido e pedido.
+
+Bom, o que deve ser mencionado no pedido?
+
+O item.
+
+Vou colocar bem básico aqui para a gente não estender tanto.
+
+Beleza, O valor?
+
+É aqui o valor.
+
+Ele pode dar quebrado, então pode ser bullying.
+
+Beleza.
+
+Nós também temos forma de pagamento.
+
+E aí pode ser string.
+
+Nós temos também o tempo, né?
+
+Tempo de entrega.
+
+E aí entra outros tipos de dados que nós não vimos.
+
+Eu não me recordo mal.
+
+Mas existe um tipo de dado chamado data, né?
+
+Você poderia colocar aqui date que aí fica mais original.
+
+Tá bom.
+
+E aí?
+
+Aqui nós poderíamos tirar.
+
+Não, Nós podemos deixar o telefone também, porque no pedido nós precisamos do telefone para que quando
+
+não houver o contato do motoboy, nós possamos ligar para o cliente.
+
+Tá?
+
+E além do pedido, também nós precisamos do endereço.
+
+Então vamos manter aqui o endereço.
+
+Endereço.
+
+E Que aqui a gente pode juntar a rua e o número.
+
+Vamos deixar assim a string.
+
+Mas eu poderia fazer separadamente, da mesma forma que foi mencionada aqui, ó, a rua como um campo
+
+e o número como outro.
+
+Beleza.
+
+Bom, como seria a representação entre essas duas classes aqui?
+
+Levando em consideração que nós estivéssemos falando do cenário hipotético de um sistema de pizzaria,
+
+bom, para o meu pedido existir, eu preciso ter um cliente.
+
+Beleza.
+
+Então, a dependência aqui é que o cliente faz um pedido.
+
+Então eu poderia fazer uma notação desta forma aqui, por exemplo.
+
+Beleza.
+
+O cliente efetua um pedido e aqui eu posso adicionar comentários, tá?
+
+Isso daqui também é bem válido de a gente acrescentar.
+
+Eu posso colocar título aqui.
+
+Eu posso colocar assim o efetua ou realiza não efetua para realiza, ou seja, o meu cliente efetua
+
+ou realiza pedidos.
+
+Beleza.
+
+Se eu levar no cenário da configuração que nós havíamos falado anteriormente, eu posso fazer um para
+
+um ou para muitos.
+
+Então todos esses tipos de notações e associações.
+
+Olha aqui ó, eu tenho na parte inferior o eu tenho vários aqui, caso eu queira fazer a utilização,
+
+então eu poderia colocar aqui um para muitos eu poderia colocar também em texto, caso eu queira eu
+
+poderia colocar assim o um cliente efetua muitos pedidos, então eu poderia colocar assim o que um cliente
+
+efetua.
+
+Muitos pedidos.
+
+Beleza.
+
+Então, Anotação um para muitos aqui.
+
+E aí vocês podem organizar de forma que vocês achem melhor.
+
+Pode dar a cor de destaque.
+
+Enfim, dá para fazer várias coisinhas aqui.
+
+Não vamos nos adentrar muito na formatação por enquanto, porque nós estamos aprendendo sobre os diagramas,
+
+né?
+
+Então, à medida em que nós vamos aprendendo, nós vamos acrescentando os adicionais.
+
+Como diz o velho ditado nós vamos enfeitando o pavão.
+
+Beleza, então aqui seria um determinado tipo de associação.
+
+Beleza.
+
+E aí a gente pode voltar lá no slide, por exemplo, e ver em qual ele se enquadra.
+
+A associação dirigida é o melhor que se enquadra e no qual eu acabei de direcionar o.
+
+Refere se a uma relação direcional representada por uma linha.
+
+Como a ponta da seta aponta, representa um fluxo direcional contido no container.
+
+Então o fluxo direcional é que sempre o cliente vai vir primeiro do pedido.
+
+Não tem como haver um pedido antes de haver um cliente.
+
+Beleza.
+
+Então o cliente é quem efetua um ou mais pedidos.
+
+Por que que aqui não pode ser zero?
+
+Porque se for zero não existe pedido, então não existe zero pedido.
+
+Então um cliente efetua um ou vários pedidos.
+
+Beleza.
+
+Bom, a aula se estendeu um pouco mais do que eu imaginei.
+
+Vou me despedindo por aqui.
+
+Na próxima aula nós daremos continuidade e veremos ainda mais coisas sobre o diagrama de classe para
+
+então nós entrarmos em exercícios de fixação destas aulas aqui.
+
+Beleza?
+
+Me despeço por aqui, Fiquem com Deus e até a parte três.
