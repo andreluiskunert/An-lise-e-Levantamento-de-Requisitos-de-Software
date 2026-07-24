@@ -1,0 +1,317 @@
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+E trazendo a vocês a parte três sobre diagramas de classe.
+
+Dando continuidade às aulas anteriores, onde nós estávamos falando sobre classes,
+
+sobre atributos, sobre operações, sobre relacionamentos, nós falaremos um pouco a
+
+respeito nesta aula sobre como desenhar um diagrama de classe.
+
+Então, aqui nós vimos em aulas anteriores o
+
+que são os diagramas de classe, para que
+
+eles servem? O que são as classes? Quais
+
+são os atributos? O que são identificados?
+
+Quais são as operações? Como que é
+
+feito os relacionamentos? Quais os tipos de
+
+relacionamentos quando usa cada tipo de relacionamento.
+
+Então, todas as regras pertinentes para se criar um diagrama de classe.
+
+Nós já sabemos.
+
+Então aqui basta saber como colocar tudo isso em prática, ou seja, como nós podemos
+
+usar tudo o que nós vimos para começar a desenhar um diagrama de classe.
+
+Então vamos lá.
+
+Os diagramas de classe.
+
+Eles andam de mãos dadas com o design de orientação a objetos.
+
+Para quem não sabe o que é um objeto, é qualquer
+
+coisa dentro de um sistema que tenha interação com o usuário.
+
+Um botão é um objeto.
+
+Um menu é um objeto.
+
+Um banner é um objeto.
+
+Um link é um objeto.
+
+E por aí vai.
+
+Beleza.
+
+Assim, saber o básico é uma parte fundamental para poder desenhar bons diagramas de classe.
+
+Quando necessário.
+
+Para descrever uma visão estática de um sistema ou
+
+suas funcionalidades, você deve desenhar diagramas de classe.
+
+Aqui já estou dizendo mais uma vez quando utilizar os diagramas de classe.
+
+E aqui textinho para vocês.
+
+Anotem no papel de pão, folha e caneta na mão.
+
+A seguir, os passos que você precisa seguir para criar diagramas de classe.
+
+Vamos lá.
+
+Primeiro passo identificar os nomes das classes.
+
+Beleza.
+
+Então, partindo para um cenário hipotético e eu não vou dar de
+
+novo o cenário de pizzaria, acho que vocês já estão enjoando disso.
+
+Daí vamos colocar aqui um cenário hipotético bem diferente.
+
+Vamos colocar um cenário hipotético de um hotel.
+
+Tá.
+
+Primeiro passo para mim fazer um desenho de diagrama de classe e
+
+identificar os objetos primários, ou seja, o que o sistema vai ter.
+
+O que o sistema vai guardar? Quem são
+
+os usuários que vão utilizar? O que precisa
+
+existir no sistema para poder haver a hospedagem?
+
+Então eu vou fazer aqui um mapeamento básico.
+
+Eu preciso ter hóspedes, então vai existir uma classe chamada hóspede.
+
+Eu preciso ter quartos, então vai haver uma classe chamada quartos.
+
+Eu preciso ter agenda.
+
+Então haverá uma classe chamada agenda.
+
+Eu preciso ter funcionários, então haverá uma classe, funcionários.
+
+E aí dentro de classe, funcionários, pode haver várias outras classes.
+
+Pode haver cozinheiro, pode haver faxineira, pode haver arrumadeira,
+
+pode haver o cara que leva a mala, enfim.
+
+Então, aqui o primeiro passo é fazer a identificação fundamental.
+
+Tá bom? Segundo passo é o quê? Distinguir as
+
+relações, ou seja, determinar como cada uma das
+
+classes ou objetos estão relacionados entre si, que
+
+é o que nós vimos na aula anterior.
+
+Quais as ligações que uma classe tem com
+
+a outra? Quem é dependente de quem?
+
+Qual o tipo de ligação? É um
+
+para um? É um para muitos é
+
+zero, para um é zero para muitos.
+
+Entenderam? Então aqui é bem
+
+importante de vocês entenderem.
+
+E aí, Olha só, cuidado com as semelhanças e abstrações entre eles.
+
+Isso ajudará a agrupá los e desenhar os diagramas de classe.
+
+Terceiro passo criar a estrutura, ou seja, primeiro adicione
+
+o nome das classes e ligue os conectores apropriados.
+
+Então, se nós viermos aqui, eu, por já ter feito a classe Cliente na primeira aula,
+
+acabei acrescentando alguns adicionais, porque nós vimos sobre as características que são os atributos, as operações.
+
+E aí, após isso já estar pronto, nós fizemos a outra classe, que é o pedido.
+
+Beleza.
+
+Só que o correto é nunca haver isso daqui.
+
+Então, o que o texto está dizendo é que primeiro você precisa apenas criar
+
+as classes e fazer os relacionamentos entre elas e os atributos, você acrescenta após.
+
+Então, aqui o primeiro de tudo é você identificar as classes.
+
+Fazer essas classes e relacionar essas classes após a relação.
+
+Aí sim você vem destrinchando sobre os atributos que cada uma delas vai conter.
+
+Beleza.
+
+O que o texto está dizendo é sobre isso daqui.
+
+E aí, no caso, é possível adicionar atributos e funções, métodos e operações posteriormente.
+
+Que eu acabei de mostrar aqui de novo.
+
+E aí também existe o caso das melhores práticas.
+
+O que são as melhores práticas? No conceito geral, é aquilo que
+
+deixa o seu trabalho mais profissional, mais organizado, otimiza mais o tempo,
+
+deixa mais fácil, mais rápido, às vezes mais simples, com mais
+
+detalhes, mais robusto, mais complexo, mais perfeito e por aí vai.
+
+Os diagramas de classes podem tender a ficar incoerentes à medida em que se expandem e crescem.
+
+Ou seja, pode começar a ficar bagunçado.
+
+É melhor evitar criar diagramas grandes e dividi los em
+
+diagramas menores, que podem ser ligados entre si mais tarde.
+
+Vou colocar aqui um outro cenário hipotético.
+
+Estou fazendo um sistema de gestão empresarial.
+
+Nossa, se eu fizer um sistema de gestão empresarial, eu tenho de fazer vários módulos
+
+do sistema, porque cada módulo vai ser independente ou vai ser necessário para um departamento.
+
+Então vai ter um módulo específico para o RH.
+
+Um outro modelo específico para departamento pessoal.
+
+Um outro modo específico para suporte do TI, um outro modo específico para quem é de marketing,
+
+um outro modo específico, para quem é o coordenador do sistema, área do TI, desenvolvimento e etc.
+
+Um outro modo específico para diretoria.
+
+Um outro modo específico para operação.
+
+Um outro modo específico para marketing, um outro modo específico para vendas.
+
+Só que eu já falei dez.
+
+Beleza, Então imagina você criar um diagrama complexo que cada
+
+módulo aí vai ter muitas coisas para serem destrinchada.
+
+Então imagina você criar tudo isso em um lugar só? Então, aqui as melhores
+
+práticas e o que você dividir é desenhar cada um desses dois módulos separados.
+
+E após você junta eles se necessário.
+
+Beleza.
+
+Você pode muito facilmente fazer isso com o Creator, que é uma ferramenta
+
+ajuda a melhorar a legibilidade dos seus diagramas usando simples notação de classe.
+
+Você pode criar rapidamente uma síntese de alto nível no seu sistema.
+
+Um diagrama detalhado pode ser criado separadamente, conforme necessário
+
+e até mesmo ligado ao primeiro para fácil referência.
+
+Quanto mais linhas se sobrepõe no seu diagrama de classes mais ordenadas se torna.
+
+O leitor vai ficar confuso ao tentar encontrar o caminho.
+
+Certifique se que não há duas linhas que se cruzam.
+
+Ou seja, nunca deixar duas linhas passando em X
+
+em cruzamento, né? Use cores para agrupar módulos comuns.
+
+Cores diferentes em classes diferentes ajudam o leitor a diferenciar entre vários grupos.
+
+Então, aqui são várias técnicas, várias táticas que vocês podem estar fazendo.
+
+Um exemplo.
+
+Olha só.
+
+Eu quero fazer aqui uma diferenciação de cor.
+
+Eu posso fazer isso daqui, por exemplo.
+
+Olha só.
+
+Beleza.
+
+Então eu consigo falar aqui que são classes diferentes.
+
+As ligações eu eu posso fazer de outras formas.
+
+Eu posso fazer as alterações aqui ao lado direito.
+
+Então ela deixou de ser uma linha contínua e virou uma linha pontilhada.
+
+Vou pressionar Control Z.
+
+Posso vir aqui ao lado direito e usar as notações mais apropriadas.
+
+Olha só, tem aqui o um para muitos.
+
+Acabei de passar por ela aqui, ó.
+
+Olha aqui ó.
+
+Poderia usar essa anotação aqui, por exemplo.
+
+Enfim, tudo isso você utiliza como prática e técnica nas melhores práticas.
+
+Beleza? Então, esta aula é mais para vocês entenderem como pegar
+
+todo o aprendizado das duas aulas anteriores e como transformá los
+
+em produtividade e colocar em alta performance para vocês performar melhor.
+
+Com esta aula eu não vou me estender muito, é
+
+mais informativos, mais dicas para vocês também terem anotações.
+
+A partir da próxima aula.
+
+Nós faremos aqui alguns exercícios bem bacanas para fixar tudo
+
+o que nós acabamos de aprender nessas três aulas anteriores.
+
+Beleza.
+
+Vou ficando por aqui.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.

@@ -1,0 +1,1103 @@
+Olá, Luna!
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+E nesta aula nós iremos exercitar tudo aquilo que nós vimos a aprender nas aulas anteriores.
+
+Então aqui vai ser mais um exercício de fixação colocar em prática tudo o que nós vimos, tudo que nós
+
+aprendemos e absorvemos, principalmente as técnicas e as melhores metodologias de uso e as boas práticas.
+
+Então eu vou trazer a vocês aqui um caso sobre uma pizzaria e nós vamos tentando destrinchar a medida
+
+do possível tudo o que é necessário para uma construção de um sistema que envolve uma pizzaria.
+
+Beleza.
+
+Então, como nós já vimos nos textos anteriores de aulas anteriores, inicialmente nós precisamos saber
+
+quais são as classes que vai compor esse nosso diagrama.
+
+Então o primeiro de tudo, e nós sabemos quais são essas classes.
+
+Então nós vamos destrinchar aqui juntos para que vocês façam e me acompanhem à medida em que vai sendo
+
+executado.
+
+Então vamos abrir aqui o nosso menu de UML.
+
+Inicialmente nós vamos usar o nosso Classe Name aqui, tá bom?
+
+Então você vai clicar uma primeira vez.
+
+E aqui nós temos para uma pizzaria, obviamente o principal de todos, que é o cliente.
+
+Então vocês vão digitar aí cliente?
+
+Beleza?
+
+Então, praticamente para minha pizzaria existir, eu necessito de um cliente.
+
+Tá bom, não vamos nos preocupar no momento em relação a atributos, a operações, nem a tipos de dados.
+
+Vamos tentar focar no principal, que é saber quais são as classes e quais as ligações entre elas.
+
+Beleza.
+
+E aí, a medida do possível, nós vamos acrescentando mais detalhes.
+
+Nós sabemos também, obviamente, que dentro de uma pizzaria existe o pizzaiolo, então nós podemos
+
+fazer um Control C Control V aqui e vamos digitar pizzaiolo.
+
+Agora não me recordo se pizzaiolo tem dois ls, mas vou manter com um.
+
+Se eu estiver errado, me perdoem.
+
+Beleza.
+
+Bom, fora isso, o que nós temos também dentro de uma pizzaria?
+
+Nós temos o pedido.
+
+Então Control V aqui de novo.
+
+Nós sabemos que possui aqui os pedidos.
+
+Beleza.
+
+Além dos pedidos, geralmente quem faz as entregas é um motoboy.
+
+Então nós vamos acrescentar aqui o motoboy também, porque querendo ou não, ele faz parte de um ciclo
+
+do sistema da pizzaria, né?
+
+Então, para que haja as entregas, necessita de um motoboy.
+
+Beleza?
+
+Bom, fora isso, nós sabemos também que necessita dos produtos.
+
+O que que é os produtos aqui?
+
+Os produtos.
+
+Na verdade eles não são só as pizzas, tá, mas os produtos.
+
+Eles podem ser qualquer item que a pizzaria a venda pode ser bebida, pode ser doce, pode ser sobremesa,
+
+pode ser aperitivos, petiscos, enfim, pastéis, tudo que a pizzaria tiver vendendo.
+
+Claro que se é uma pizzaria, o carro chefe são pizzas, mas isso não quer dizer que ela tenha de se
+
+limitar apenas a esse tipo de item.
+
+Tá bom.
+
+Então vamos colocar aqui uma classe chamada produto.
+
+Beleza?
+
+Além dos produtos, nós precisamos também dos itens do pedido.
+
+Vamos imaginar assim que eu entrei em contato com uma pizzaria e eu realizei um pedido, só que dentro
+
+do meu pedido pode conter um ou vários itens.
+
+Pode ter apenas uma pizza, como pode ter várias pizzas, pode ter uma pizza e um refrigerante.
+
+Um refrigerante pode ter apenas um refrigerante.
+
+Enfim, é uma.
+
+É algo variável, né?
+
+Então nós vamos colocar aqui que além do pedido, nós também temos o item do pedido.
+
+E aqui entra uma regrinha bem básica, que é sempre quando houver dois nomes, acrescentar o underline
+
+entre eles ao invés de um espaço, porque muitas das vezes esses nomes que vão ser adicionados nas classes
+
+aqui são nomes que os programadores vão dar para as variáveis deles.
+
+São nomes que vão ser usados em tabelas dentro de bancos de dados, entre outras necessidades.
+
+Beleza.
+
+Agora vamos destrinchar um pouquinho mais isso daqui.
+
+Então vamos lá.
+
+O contexto geral para uma pizzaria eu preciso de um cliente para fazer os pedidos.
+
+Eu preciso de produtos para existir os pedidos, eu preciso dos itens para que os pedidos sejam criados.
+
+Eu preciso de um motoboy para fazer o envio desses pedidos.
+
+Eu preciso também de um pizzaiolo para realizar esses pedidos.
+
+E para fazer esses pedidos?
+
+Beleza.
+
+Só que aqui dentro dos meus produtos eu posso colocar outras coisas.
+
+O que que eu posso estar acrescentando aqui, ó?
+
+A minha pizzaria.
+
+Ela vende pizzas.
+
+Beleza.
+
+Mas elas também podem vender ela no caso, né?
+
+Estou falando de uma pizzaria só.
+
+Sobremesa.
+
+E ela também pode fazer a venda de.
+
+Bebidas ou bebida?
+
+Beleza.
+
+E aí nós temos aqui para as pizzas os sabores delas.
+
+Obviamente, todas as pizzas.
+
+Elas terão ingredientes diferentes.
+
+Então nós temos aqui os sabores.
+
+Vou colocar como?
+
+Singular ao invés de plural.
+
+E os ingredientes para que os sabores sejam gerados?
+
+Beleza.
+
+E além de tudo isso, nós também precisamos de um estoque.
+
+Porque todos os ingredientes eles vão ter que ser controlados em um estoque.
+
+Para mim, sempre saber se é possível fazer ou não aquela pizza a partir dos ingredientes que eu tenho
+
+disponível.
+
+Não tem como eu vender uma pizza de carne seca sem a carne seca.
+
+Não tem como eu controlar se tem ou não uma carne seca no meu estoque se eu não possuir estoque.
+
+Então eu vou acrescentar o estoque aqui.
+
+E aqui, galera, está algo bem simples até o momento, beleza?
+
+O que nós fizemos aqui é identificação de todas as classes que irá compor o sistema da pizzaria.
+
+Beleza.
+
+Agora a nossa segunda etapa é fazer o quê?
+
+A ligação entre essas classes, ou seja, quais são as relações entre essas classes aqui?
+
+Vamos fazer por partes.
+
+Nós podemos pegar aqui algum principal para fazer o início, mas nós também podemos fazer por partes.
+
+Lembrando que o lado do cliente é o lado do recebimento e o lado do pizzaiolo é o lado de efetuar esses
+
+determinados pedidos.
+
+Então um cria e o outro recebe.
+
+Bom, eu posso partir dessas duas origens, porém o que eu vou fazer?
+
+Eu vou utilizar nenhum e nem outro.
+
+Eu vou aqui a partir do meu produto, que eu entendo que no momento é o principal, o que pode ser o
+
+meu produto aqui pessoal, o meu produto?
+
+Ele pode ser um serviço que eu faço a venda?
+
+Bom pessoal, o produto num contexto geral é tudo aquilo que pode ser vendido.
+
+Tá bom?
+
+Então, um produto ele é considerado um serviço.
+
+O produto.
+
+Ele é considerado um sistema.
+
+O produto ele é considerado um alimento.
+
+O produto ele é considerado uma bebida.
+
+Enfim, o produto Ele pode ser.
+
+Num contexto geral.
+
+Tudo o que você conseguir vender seu produto pode ser o conhecimento.
+
+Então, se você vender as aulas, de certa forma é um produto, desde que você tenha algo inventado.
+
+Ou seja, o meu curso é um produto, tá bom?
+
+Agora, no contexto da pizzaria, o que seriam os produtos?
+
+Tudo o que ela vende?
+
+O que que ela vende?
+
+Ela vende bebidas.
+
+Ela também faz a venda de pizzas.
+
+E as sobremesas também faz parte dos produtos.
+
+Beleza.
+
+Então, nós temos esses carinhas aqui.
+
+Porém, eu não estou gostando dessas setinhas aqui, deixa eu puxar um zoom para poder fazer algo mais
+
+organizado.
+
+Por bem dizer, eu poderia ficar arrastando aqui manuseando as setinhas, mas eu não quero fazer isso
+
+por enquanto.
+
+Eu quero fazer uma ligação direta, Tá bom, O meu eu posso deixar aqui no canto e nós vamos inventando
+
+aqui conforme as necessidades.
+
+Tô com o mouse um pouquinho ruim aqui, então se eu acabar arrastando as coisas erradas, não liguem,
+
+beleza.
+
+Vamos lá dando continuidade aqui ó, Então eu vou inventar de uma forma que fique explícito, tá pessoal,
+
+que esses carinhas aqui eles fazem parte e tem uma ligação com o que tá acima.
+
+Tá bom.
+
+Então eu vou acrescentar aqui também.
+
+Uma certa organização.
+
+Zoação.
+
+Então, toda vez que vocês forem usar o mouse e não der para vocês conseguirem organizar da maneira
+
+que vocês quiserem, vocês usam as setas no teclado de vocês.
+
+Isso vai ajudar bastante.
+
+Beleza, Então aqui eu sei que quando eu tenho um produto, esse produto, ele pode ser bebidas, como
+
+ele pode ser as pizzas, que é o carro chefe da pizzaria, porém também pode ser sobremesas que aqui
+
+eu poderia destrinchar, poderia ser pizzas, doces, poderia ser esfirras, enfim, todo outro tipo
+
+de açúcar que envolver e eu puder usar junto a massas, né?
+
+Agora, quando eu falo nas pizzas, eu sei que as pizzas elas possuem sabores, então aqui eu posso
+
+fazer uma ligação e mencionar que para cada pizza eu possuo um sabor.
+
+Beleza.
+
+Então, como eu vou fazer essa ligação?
+
+Essa ligação?
+
+Ela não vai ser igual a ligação aqui entre o direcionamento, né?
+
+Nós vimos nas aulas anteriores aí os tipos de ligações.
+
+Não vou me adentrar em detalhes.
+
+Beleza.
+
+Então, se você estiver em dúvida, volta lá no caderninho no que vocês anotaram, tá bom?
+
+E aqui eu vou utilizar o diamante e vai ser esse carinha.
+
+Aqui o então diamante ligado na pizza é a ponta ligada no sabor.
+
+Beleza.
+
+Deixa eu deixar retinho aqui que eu tenho um toque quanto a isso.
+
+Beleza.
+
+E aí, para que os meus sabores eles sejam girados, eu preciso do quê?
+
+Dos meus ingredientes.
+
+Então eu vou arrastar o motoboy para fora aqui para nós mantermos uma linha a ser seguida.
+
+Bom, e aqui galera, como que eu vou ordenando ou vou fazendo hierarquias?
+
+Eu poderia fazer tudo para baixo?
+
+Poderia.
+
+Só que se eu levar em consideração que é um diagrama que talvez fique muito grande, ele vai ficar muito
+
+em vertical, Então eu posso arrastar algumas coisas para horizontal também.
+
+Beleza.
+
+Isso não muda muita coisa.
+
+E aqui eu vou acrescentar esse outro tipo de linha, onde não há seta alguma para nenhuma direção.
+
+Beleza.
+
+E vocês vão fazendo aí a verificação do que é cada uma delas com base nas aulas anteriores.
+
+Beleza?
+
+Então, aqui ó, se vocês observarem até certo ponto, eu tô fazendo uma engenharia reversa, né?
+
+Eu poderia falar que primeiro existem os ingredientes pra serem criados, os sabores transformados em
+
+pizzas para então existir um produto.
+
+Só que eu fiz de forma inversa porque?
+
+Porque eu sei que o meu produto é a matéria final, então eu parto de trás para frente do produto.
+
+Eu quebro para as pizzas, das pizzas, para os sabores existentes e dos sabores.
+
+Quais ingredientes eu uso para criar aqueles sabores?
+
+Tá bom?
+
+E aí?
+
+Outra coisa, esses ingredientes eles ficam geralmente dentro do estoque.
+
+Então eu vou levar em consideração que eu fosse fazer numa folha sulfite.
+
+Estão vendo que existe essa linha pontilhada aqui, ó?
+
+Essa linha seria o término da folha, Então tudo que passa para o outro lado, tecnicamente seria uma
+
+segunda folha.
+
+Então eu vou tentar enquadrar tudo dentro de uma folha só.
+
+Então, aqui, ao invés de eu arrastar para o lado de novo, eu vou manter para baixo.
+
+Beleza.
+
+E aqui no nosso ingrediente para o nosso estoque, vai haver um outro tipo de ligação que vai ser a
+
+ligação de seta com o nosso diamante sem preenchimento.
+
+Tá bom.
+
+Então vai ser esse tipo de ligação aqui.
+
+O que é uma ligação de relação?
+
+Então a seta sempre vai ficar apontada para o estoque.
+
+Já o nosso diamante, ele vai ficar apontado para os ingredientes.
+
+Beleza, Eu vou até aumentar um pouco aqui para melhorar a nossa visualização.
+
+Bom, por enquanto até este momento seria isso.
+
+Pessoal, outra coisa também que é ligada ao estoque seria no caso as bebidas.
+
+Tá bom.
+
+Então as bebidas ela teria aqui a mesma ligação, Então eu posso copiar e colar esse carinha aqui,
+
+ó.
+
+Onde?
+
+Novamente, aqui eu vou ter a ligação da seta sempre apontada para o estoque.
+
+E as minhas sobremesas, elas também vão se enquadrar nesse mesmo contexto.
+
+Então eu vou usar aqui mais uma vez para fazer esse tipo de ligação.
+
+Bom, e aí, se vocês tiverem dúvida de como vai ordenando essas linhas aqui ó.
+
+Sempre vão fazendo as modificações através desses pontinhos azuis, tá?
+
+E aí vocês vão conseguir fazer a modificação ou a mudança da melhor maneira devida?
+
+Beleza.
+
+Então eu posso dizer aqui, num contexto geral, que dentro do meu estoque existem as sobremesas que
+
+também dentro do meu estoque existem as bebidas e que também dentro do meu estoque existem os ingredientes
+
+no qual eu crio os sabores das minhas pizzas.
+
+Beleza, eu poderia fazer algo mais detalhado e para sobremesa também.
+
+Quebrar ingredientes?
+
+Eu poderia.
+
+Eu poderia também para bebidas se fosse algo artesanal, pois eu estou vendendo um caldo de cana e aí
+
+o caldo de cana ele é misturado com limão, com gengibre, com abacaxi, enfim, com qualquer outro
+
+tipo de fruta.
+
+Seria algo levado em consideração como ingrediente, porque o caldo de cana tecnicamente só seria produzido
+
+após a junção de dois itens, então os itens eles seriam considerados ingredientes nesse contexto.
+
+Mas eu não vou detalhar tanto a esse ponto para não ficar muito complexo, afinal, é o primeiro diagrama
+
+que nós estamos criando, de certa forma completo, né?
+
+Então é o primeiro que nós estamos visualizando, fazendo o passo a passo, então não tem necessidade
+
+de a gente adentrar muito sobre isso aqui.
+
+Beleza.
+
+E aí, beleza, tudo isso daqui.
+
+No qual nós fizemos a ligação.
+
+Foi no contexto para ser gerado o produto.
+
+Quando eu tenho o produto, tecnicamente, eu tenho um item de pedido.
+
+Então, quando o meu usuário ele solicita um produto, ele acaba realizando um pedido.
+
+Então, aqui o produto e o pedido é onde existe a ligação.
+
+E aí, qual é o tipo de ligação?
+
+Eu não tenho um pedido se não existe um produto e eu também não tenho um produto se não existir um pedido.
+
+Como assim, Ávila?
+
+Vamos imaginar que o produto, ele só vai existir quando o cliente realizar o pedido.
+
+Beleza, Pizzaiolo não vai sair produzindo pizzas à toa, sendo que ninguém pediu as pizzas.
+
+Da mesma maneira, o pedido ele só vai existir quando as pizzas forem produzidas.
+
+Tá bom, não vai haver pedido sem nenhum item.
+
+Então aqui o tipo de ligação que nós vamos fazer.
+
+É esse mesmo tipo de ligação sobre os ingredientes e os sabores, né?
+
+Porque não dá para mim ter sabor se eu não tiver ingrediente.
+
+Assim como não dá para ter ingrediente se eu não tiver sabor.
+
+Então vai ser basicamente a mesma coisa aqui.
+
+Então, esse tipo de ligação nós não temos direcionamento, tá bom.
+
+Então, por isso que nós usamos essa linha que não possui setas.
+
+Beleza.
+
+E aí, quando o item de pedido ele é criado, aí sim eu tenho um pedido a ser feito.
+
+Se eu não me engano, nós temos um pedido aqui.
+
+Acabei não criando, né?
+
+Na verdade, tenho sim o Tá aqui no meio pedido.
+
+Beleza.
+
+Então, aqui nós temos o pedido.
+
+Onde os pedidos?
+
+Eles sempre serão zero para muitos.
+
+Como assim?
+
+Zero para muitos?
+
+Vários itens pode compor um único pedido.
+
+Beleza, então não necessariamente será vários para vários.
+
+Eu posso ter aqui inúmeras pizzas e inúmeras bebidas, e tudo isso ser gerado em um único pedido.
+
+Então, aqui o tipo de ligação que nós vamos fazer é semelhante a este diamante preenchido.
+
+Se você não recorda o que é o diamante preenchido, você tem de voltar em algumas aulas aí para você
+
+ter um entendimento e absorção.
+
+Beleza, Então eu vou fazer a ligação aqui e aí.
+
+Por enquanto, nós só estamos fazendo as amarrações como vocês estão observando.
+
+E detalhe tá.
+
+Essas amarrações aqui nós não estamos especificando se é um para muitos, se é zero para um e por aí
+
+vai.
+
+Nós poderemos fazer e acrescentando detalhes à medida do possível.
+
+Vamos ver o quanto a aula se extende para nós fazermos essas criações aqui.
+
+Beleza?
+
+E aí, beleza?
+
+Quando eu tenho o pedido feito, eu vou colocar pedido no singular, tá?
+
+Eu não vou colocar pedido no plural para não confundir a cabeça.
+
+Então assim vários itens podem gerar um pedido Beleza?
+
+E aí esse pedido?
+
+Ele tem duas ligações aqui.
+
+Quais seriam essas ligações?
+
+Esse pedido ele tem ligação com o cliente?
+
+Porque que ele tem ligação com o cliente?
+
+Porque só existe um pedido se o cliente fazer a solicitação.
+
+Então, novamente, este tipo de ligação é uma ligação que não tem direcionamento.
+
+Tá, então por isso que não existe a seta.
+
+Da mesma forma que não existe cliente sem o pedido.
+
+Beleza.
+
+Então não existe cliente.
+
+Se ele não fizer pedido.
+
+Não tem como uma pizzaria ter um cliente se não há pedido para ela realizar.
+
+Então a gente segue mais ou menos nesse ponto.
+
+Bom, dando continuidade o pedido, ele também é amarrado a quem?
+
+Ao motoboy?
+
+Por quê?
+
+Porque quando há o pedido, basicamente nós também temos o envio deste pedido.
+
+E não vai haver motoboy se não há pedido.
+
+Como que o motoboy vai trabalhar e ganhar dinheiro se ninguém fez nenhuma solicitação?
+
+Beleza.
+
+Da mesma maneira, nós falamos que o pizzaiolo, ele também só atua quando há o pedido.
+
+Beleza.
+
+Então eu falei que teria dois tipos de ligações aqui, mas na verdade são três, porque todo mundo aqui
+
+tá atrelado ao pedido.
+
+E aqui, basicamente, galera, a gente já tem um desenho de como seria a amarração dos dados de uma
+
+pizzaria.
+
+Ou seja, o cliente para fazer a solicitação de um pedido precisa ter dentro da pizzaria toda essa verificação
+
+e essa análise aqui por trás.
+
+Tá, então vamos começando aqui o de trás para frente.
+
+Nós fizemos a engenharia reversa para criar.
+
+Porém, para fazer a leitura, vamos aqui o.
+
+Dentro da pizzaria existe um estoque no qual há inúmeros ingredientes.
+
+A junção desses inúmeros ingredientes.
+
+Aqui eu coloquei uma linha.
+
+Deixa eu deletar.
+
+A junção desses inúmeros ingredientes aqui.
+
+Faz com que seja criado os sabores de pizzas.
+
+Beleza.
+
+Então eu juntando lá o brócolis com queijo e com bacon, eu tenho uma pizza de brócolis.
+
+Eu juntando a cebola com a calabresa e a pimenta.
+
+Eu tenho uma pizza baiana, eu juntando o presunto com queijo, azeitona e sei lá mais o que que precisa
+
+ovos.
+
+Eu tenho uma pizza portuguesa, beleza?
+
+Então a junção dos ingredientes vai fazer com que haja criação dos sabores.
+
+Beleza?
+
+Esses sabores é o que é utilizado para fazer a criação das pizzas, que consequentemente, junto ou
+
+sozinhas e juntos a quem?
+
+A bebidas ou a sobremesas?
+
+Mas também podem ser sozinhas.
+
+Geram se produtos finais esses produtos finais.
+
+E o que é um determinado ou vários determinados itens de um determinado pedido?
+
+Ou seja, eu posso entrar em contato e solicitar apenas uma bebida.
+
+Como eu posso solicitar duas pizzas e uma bebida?
+
+Como eu posso solicitar três sobremesas, quatro pizzas e duas bebidas?
+
+Enfim.
+
+Então, tudo isso daqui é direcionado direcional para o produto.
+
+O produto é o que?
+
+Produto é o item final no qual vai ser vendido.
+
+Tá bom?
+
+E aí?
+
+O item do pedido Ele pode conter vários produtos, né?
+
+Um item de pedido, ou seja, um item de pedido.
+
+Ele pode conter vários produtos desses aqui, tá bom.
+
+E aí quando eu tenho um item de pedido, eu posso ter aqui vários itens de pedido.
+
+Na verdade, né?
+
+Porque como eu mencionei, eu posso ter várias bebidas, várias pizzas, várias sobremesas.
+
+Eu posso ter vários itens de pedido transformados em um único pedido, tá?
+
+Então, depois que eu tenho o meu pedido, aí sim entra o caso do meu pizzaiolo em preparar o que ele
+
+precisa, que é as pizzas que o motoboy faz, a entrega e que o cliente faz o recebimento.
+
+Então o cliente, o motoboy e o pizzaiolo, eles só interagem com o pedido, tá?
+
+Então, o pedido existe quando há uma solicitação do cliente.
+
+O motoboy só realiza a entrega do pedido quando o cliente faz a solicitação do pedido.
+
+O pizzaiolo só cria ou faz ou assa as pizzas só quando o cliente faz a solicitação do pedido.
+
+Então, aqui os três estão atrelados.
+
+Beleza.
+
+E aqui é a nossa primeira parte, no qual nós estamos falando de classes e relações entre elas.
+
+Só que as minhas relações aqui elas não estão completas, porque elas não estão completas, porque aqui
+
+eu estou fazendo a relação.
+
+Porém não estou mencionando sobre como ela é.
+
+Como assim eu não disse aqui que é zero para um, um para muitos nem nada do tipo?
+
+Ou seja, por exemplo, quantos pedidos um cliente ele pode fazer?
+
+o cliente.
+
+Ele pode fazer vários pedidos.
+
+Beleza.
+
+Então, aqui pode ser um para muitos.
+
+Então eu poderia colocar aqui o um para muitos, que aí seria a nossa hashtag aqui, o perdão, o nosso
+
+asterisco.
+
+Na verdade, né?
+
+E aqui eu posso aumentar o tamanho também, até para ficar mais visível, ver se fica melhor.
+
+Não ficou melhorzinho.
+
+Aqui é a mesma coisa.
+
+O pizzaiolo ele pode fazer zero ou muitos pedidos, né?
+
+Aqui não é muito um para muitos.
+
+Por quê?
+
+Porque o pizzaiolo pode passar o dia sem fazer nenhum pedido.
+
+Dependendo da pizzaria no qual ele estiver, possa ser que ele não tenha nenhum pedido a ser realizado,
+
+que ninguém tenha ligado, entrado em contato e solicitado uma pizza.
+
+Possa ser que os pedidos possam ser e possam ser tidos apenas em bebidas e sobremesas, por exemplo.
+
+Então aqui, na verdade seria zero para muitos, porque um pizzaiolo pode fazer?
+
+Nenhuma.
+
+Como várias pizzas.
+
+O motoboy a mesma coisa seria zero para muitos, porque ele pode fazer zero entregas, como muitas entregas.
+
+Ta bom, então aqui nós podemos fazer zero para muitos.
+
+Na verdade aqui é um para muitos, né?
+
+Porque necessita existir um motoboy na verdade né?
+
+Não tem como não haver o motoboy.
+
+Beleza, então aqui são algumas das opcionais que nós temos Agora sobre as pizzas, por exemplo, sabores,
+
+quantos sabores pode conter dentro de uma pizza?
+
+Um ou vários?
+
+Beleza, Então nós podemos escrever também, como já foi mencionado nas aulas anteriores, para facilitar
+
+também a interação dos diagramas, né?
+
+Para facilitar a leitura.
+
+Por exemplo, aqui o.
+
+estoque ingrediente um estoque guarda muitos ingredientes.
+
+Eu poderia ser aqui um para muitos.
+
+Vou colocar aqui a hashtag de muitos, né?
+
+Mas eu vou copiar e colar isso daqui, porque aqui poderia ser um estoque para muitos ingredientes conforme
+
+nós formos fazendo.
+
+E nós vamos também aprendendo a editar.
+
+Então vamos trocando o cor, aumentando o tamanho e tudo que for necessário para uma melhor visibilidade
+
+das informações no diagrama, tá?
+
+No momento não vamos nos atentar a isso.
+
+Só foque no que eu estou colocando e presta atenção no porquê.
+
+Beleza.
+
+Agora sobre os ingredientes, né?
+
+Aqui, da mesma forma, vários ingredientes para vários sabores, né?
+
+Então, aqui poderia ser vários para vários, porque quando eu tenho apenas um ingrediente, tecnicamente
+
+eu não tem um sabor, nunca uma pizza é um sabor só.
+
+Então, aqui poderia ser vários para vários.
+
+Então asterisco, asterisco, asterisco, asterisco.
+
+E aí eu quero que vocês façam todos os demais que vocês acharem que tem necessidade.
+
+Porque se eu ficar fazendo todos e mostrando como é, vocês não vão ter ali o pensamento fora da caixinha,
+
+o momento do exercício e pensar como seria, como poderia é deduzir as coisas, tá?
+
+Então esses outros aqui eu quero que vocês pratiquem.
+
+Beleza.
+
+Agora, dando continuidade que nós também precisamos acrescentar a cada uma dessas classes e o que elas
+
+gravaram, né?
+
+Então seria que de certa forma, seriam os atributos e os tipos de dados desses atributos?
+
+Por exemplo, o que eu preciso saber de um cliente?
+
+Eu preciso saber o nome do meu cliente.
+
+Vamos colocar aqui o nome.
+
+Vou copiar e colar essa caixinha aqui.
+
+E vou jogar aqui dentro também.
+
+Eu preciso saber o endereço desse cliente.
+
+Endereço porque eu preciso.
+
+O endereço porque eu preciso saber onde ele mora para mim poder passar para o motoboy fazer a entrega.
+
+E eu também preciso do telefone.
+
+Porque?
+
+Porque qualquer imprevisto eu tenho que entrar em contato com esse cara aqui.
+
+Assim é o mínimo do mínimo.
+
+Para esse tipo de diagrama.
+
+Beleza.
+
+Agora, sobre o pedido, eu também preciso saber algumas informações que seriam Qual foi a hora do pedido
+
+então?
+
+Hora do pedido realizado Porque eu preciso anotar quando que o pedido entrou para o pizzaiolo fazer
+
+e eu também preciso passar uma estimativa para o cliente.
+
+Então hora do pedido entrega, porque eu preciso falar para ele mais ou menos quantos minutos ele precisa
+
+esperar até as pizzas chegarem até a casa dele.
+
+Então vamos colocar aqui o hora.
+
+Pedido entrega.
+
+Beleza.
+
+Sobre o motoboy, nós temos aqui o nome do motoboy, porque nós precisamos saber quem tá saindo para
+
+fazer a entrega.
+
+Caso dê algum pepino, alguma confusão, erro de valor, maquininha parou, Troco não voltou, certo?
+
+A gente tem que falar com alguém.
+
+E o celular também.
+
+Por quê?
+
+Porque ele também precisa entrar em contato com a pizzaria para quando ele tiver lá no estabelecimento
+
+do cliente, o cliente não atender ele, ele entrar em contato com a pizzaria e a pizzaria, entrar
+
+em contato com o cliente ou ele mesmo entrar em contato direto com o cliente, por exemplo.
+
+Bom galera, e aqui nós já estamos colocando os atributos.
+
+Ainda não estamos falando sobre os tipos de dados.
+
+Lembra que os tipos de dados é tecnicamente o que vai ser gravado em cada um dos campos, né?
+
+String Integer, né?
+
+Seria tipos de números inteiros.
+
+Boolean e por aí vai.
+
+Bom, vou fazer mais alguns aqui para nós termos um aprendizado mais amplo.
+
+Vamos falar um pouco sobre o item do pedido, O que pode ser o item do pedido?
+
+Aqui, literalmente é a quantidade, tá?
+
+Por que que é a quantidade?
+
+Porque eu vou ter vários produtos e eu vou precisar saber as quantidades de cada um desses produtos.
+
+A quantidade total.
+
+Beleza.
+
+Para o produto eu preciso do nome, do preço.
+
+Porque Do nome?
+
+Do preço?
+
+Porque eu preciso saber se é uma pizza?
+
+Eu preciso saber se é um Refrigerante.
+
+Eu preciso saber se é uma esfirra e eu preciso saber quanto custa cada um.
+
+Então vou acrescentar o preço aqui, por exemplo.
+
+Beleza.
+
+Para bebida, para pizza e para sobremesa não vamos colocar nada, porque aí é muita coisa para a gente
+
+acabar acrescentando, tá?
+
+Então vamos manter desta forma aqui, ó.
+
+É só realinhar.
+
+As nossas ligações.
+
+Beleza.
+
+Show de bola!
+
+Agora, para os nossos sabores, eu também preciso saber do que aqui.
+
+Algumas informações básicas O nome.
+
+Então, todo sabor de pizza tem um nome, né?
+
+Pizza de brócolis Pizza Portuguesa.
+
+pizza nordestina, Enfim.
+
+E nós também precisamos saber do tamanho, porque pode ser um brotinho, pode ser uma pizza grande,
+
+pode ser uma pizza, uma pizza extra grande e por aí vai.
+
+E os ingredientes?
+
+Nós também precisamos saber do quê?
+
+Do nome?
+
+Do ingrediente, né?
+
+Catupiry, mostarda, cheddar, enfim, tudo o que tiver lá dentro do estoque.
+
+E qual é a quantidade disponível de cada um?
+
+E dentro do estoque, apenas a quantidade.
+
+Beleza.
+
+E aí, como foi mencionado anteriormente, né?
+
+Em aulas anteriores, na verdade, nós devemos nos atentar a nunca permitir com que as linhas elas passem
+
+umas pelas outras, né?
+
+Isso é boas práticas porque dificulta a leitura do usuário para o diagrama.
+
+Se nós olharmos aqui as nossas linhas, nenhuma está passando uma pela outra.
+
+Então nós estamos aqui dentro das boas práticas, beleza?
+
+E aqui nós poderíamos fazer algumas coisas para identificação.
+
+Então, por exemplo, nós sabemos aqui que aqui dentro de produto existem grupos.
+
+Então nós poderíamos trabalhar com cores.
+
+Tá em degradê.
+
+Então uma cor mais forte e vir clareando conforme vai adentrando a mais.
+
+Da mesma forma, aqui para o pedido, o cliente que iniciou o pedido ele poderia ser uma cor mais forte.
+
+Pizzaiolo?
+
+Cliente?
+
+Motoboy?
+
+Poderia ser outras cores semelhantes, porém como a tonalidade mais fraca.
+
+Bom, então acredito que nós tenhamos anotado tudo, né?
+
+Com exceção do pizzaiolo, né?
+
+Que que nós precisamos saber do pizzaiolo?
+
+Nada.
+
+Nós sabemos que tem o pizzaiolo e que ele trabalha com pedidos, então aqui o pizzaiolo ele também não
+
+teria informativo por enquanto.
+
+Beleza, Então vamos deletar aqui essas informações.
+
+Vou aumentar um pouco aqui.
+
+Para nós mantermos tudo bem bacaninha.
+
+E aí, o que fica faltando, galera?
+
+É aquilo que eu comentei com vocês sobre os tipos de dados.
+
+Então, para cada tipo de dado aqui, eu quero que vocês, como exercício de fixação, façam da maneira
+
+que vocês achem que é correto o nome, qual é o tipo de dado?
+
+Vai ver.
+
+Texto então é o tipo de string, o endereço.
+
+Aqui não tá dividido como rua e número em campos separados.
+
+Então provavelmente tanto a rua quanto o bairro, quanto o CEP, quanto o número da residência vai vir
+
+no mesmo campo.
+
+Qual é o melhor tipo de dado para armazenar esse tipo de informação?
+
+String também.
+
+Já para o telefone é um tipo numérico, mas não é um tipo quebrado, então não é um número real, não
+
+é um número inteiro.
+
+Qual é o tipo de dado?
+
+Integer ou Int?
+
+Se vocês preferirem abreviar.
+
+E assim vocês vão fazendo, galera, todos os demais.
+
+Beleza, Espero que vocês estejam entendendo o que vocês estejam gostando.
+
+Espero que esta aula tenha servido de muita serventia, que vocês tenham conseguido expandir o horizonte
+
+e sair daquela parte de slide no qual nós trabalhamos um pouco.
+
+E que vocês comecem a enxergar tudo aquilo em conceitos práticos.
+
+E que a parte conceitual ela sirva de muita serventia para abranger e facilitar na hora da criação.
+
+No prático aqui.
+
+Eu vou ficando por aqui, porém eu em breve trago mais aulas com mais exercícios sobre.
+
+Me despeço de vocês, Fiquem com Deus e até breve.
