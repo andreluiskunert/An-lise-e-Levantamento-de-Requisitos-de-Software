@@ -1,0 +1,557 @@
+Olá aluna!
+
+Olá aluno.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Ainda nas aulas de diagrama de classes, hoje vou trazer um exercício de fixação sobre um diagrama relacionado
+
+a biblioteca, Então vai ser mais um diagrama que nós trabalharemos na prática, no qual farei passo
+
+a passo com vocês.
+
+Beleza.
+
+Então, inicialmente vamos minimizar o menu geral e vamos expandir o menu de UML.
+
+E mais uma vez nós vamos usar aqui o Class Name, que é para nós criarmos as nossas classes e partindo
+
+das boas práticas e tudo que vimos nas últimas aulas.
+
+Nós sabemos que para montagem de um diagrama de classe, inicialmente nós necessitamos distinguir e
+
+achar as classes que vão compor este diagrama.
+
+Beleza.
+
+Então, quando eu falo de uma biblioteca, obviamente eu preciso para que uma biblioteca exista, a
+
+própria biblioteca.
+
+Então, o nosso primeiro class name aqui é nossa primeira classe.
+
+Ela vai se chamar Biblioteca.
+
+Beleza?
+
+Bom, a biblioteca geralmente ela é frequentada por pessoas.
+
+Então, para que uma biblioteca possa existir, tem que haver pessoas que frequentem essa biblioteca.
+
+Então eu vou copiar e colar aqui e vou colocar aqui.
+
+Pessoa.
+
+Não vou colocar como cliente, tá?
+
+Vou colocar como pessoa.
+
+Cliente geralmente é aquele que compra, né?
+
+A pessoa, no caso de uma biblioteca, principalmente se ela for pública, ela pode fazer aluguéis,
+
+né?
+
+Mas vamos lá.
+
+Bom, além de uma pessoa, para que a biblioteca possa existir, nós também precisamos de livros.
+
+Então vamos colocar aqui uma outra classe chamada Livros.
+
+Beleza.
+
+Bom.
+
+Esses livros aqui.
+
+Na verdade, eles podem ter gêneros, né?
+
+Nós podemos fazer subdivisões entre livros de romance, livros de terror, livros religiosos, livros
+
+de ficção, livros de estudo, livros de tecnologia e por aí vai.
+
+Porém, se nós formos trabalhar dessa forma, vai ficar algo muito complexo, muito extenso e a aula
+
+vai ficar muito maçante.
+
+Vai ficar uma aula muito comprida.
+
+Então vamos manter apenas desta forma.
+
+E se vocês quiserem, após a construção do diagrama, destrinchar um pouco mais com base no que vocês
+
+souberem.
+
+Putz, melhor ainda que vocês vão conseguir praticar ainda mais do que eu tô passando.
+
+Tá bom.
+
+Então vamos deixar assim por enquanto.
+
+Então, para uma biblioteca existir novamente, eu preciso do estabelecimento, a própria biblioteca.
+
+Preciso de livros para compor a minha, a minha biblioteca.
+
+E eu também preciso das pessoas para frequentar a minha biblioteca.
+
+Bom, geralmente as pessoas que frequentam a biblioteca.
+
+Elas também podem ser pessoas variadas.
+
+Essas pessoas.
+
+Elas podem ter aqui subdivisões também.
+
+Neste caso, para o diagrama não ficar muito curto, vamos fazer dessa forma aqui ó.
+
+Vamos colocar que as pessoas podem ser professores que vão até as bibliotecas para estudar, pegar livros
+
+e passar isso adiante para os alunos.
+
+E vamos colocar aqui também os próprios estudantes frequentem essas bibliotecas.
+
+Estudante?
+
+Beleza.
+
+E aqui nós temos já um pequeno diagrama.
+
+Bom, por que que eu estou fazendo um menor do que o da pizzaria para nós vermos outras coisas além
+
+do que nós vimos na aula anterior.
+
+Beleza, então vamos lá.
+
+Primeira coisa que nós precisamos após nós já termos as nossas classes, obviamente, é fazer o relacionamento.
+
+Então aqui nós sabemos que o tipo de relacionamento é direcional, então nós podemos fazer dessa forma
+
+aqui, por exemplo.
+
+Beleza.
+
+Nós sabemos que as pessoas elas possuem relação com os livros.
+
+Beleza.
+
+Então nós podemos fazer da seguinte forma aqui o.
+
+Nós podemos arrastar a biblioteca para cá e colocamos o livro entre as pessoas e a biblioteca.
+
+Qual o tipo de relação que nós temos entre os livros e a pessoa?
+
+O tipo de relação.
+
+Ele não é direcional, porque sempre vai haver uma pessoa com um livro, né?
+
+Nunca diferente disso.
+
+Então, o tipo de relação no qual nós vamos fazer e o tipo de relação que não possui setas.
+
+Então, se vocês se recordam, nós estudamos cada uma dessas aqui em aulas anteriores, tá bom?
+
+E aqui nós também temos um outro tipo de relação, que é entre a biblioteca e os livros.
+
+E aí, qual é o tipo de relação?
+
+Nós vamos usar o diamante, porém o diamante que não possui preenchimento.
+
+Lembrando que o diamante, ele vai ficar para o lado da biblioteca e a seta vai ficar para os livros.
+
+Porque há uma dependência aqui.
+
+E os livros compõem a biblioteca.
+
+E uma biblioteca não existe sem livros.
+
+Beleza.
+
+Fora isso, nós precisamos distinguir o que também são para muitos, se é um para um se e zero para
+
+zero, e assim sucessivamente.
+
+Então aqui uma biblioteca.
+
+Ela pode compor um ou vários livros.
+
+Beleza.
+
+Então eu vou fazer da seguinte forma Aqui, ó, eu vou pegar esse número um.
+
+Na verdade, eu vou pegar uma ferramenta de Python aqui e vou colocar um asterisco.
+
+Beleza.
+
+Na verdade, vai ser assim um asterisco.
+
+Por quê?
+
+Porque para a biblioteca existir, ela pode ter pelo -1.
+
+Quer dizer, no mínimo, né?
+
+Um ou vários livros.
+
+Então eu acrescento desta forma aqui.
+
+Beleza, poderia colocar um pouco mais para baixo aqui, ó, fica melhorzinho.
+
+Agora, quanto aos livros e às pessoas.
+
+Pode ser zero para muitos, porque uma pessoa pode ir na biblioteca e alugar um livro.
+
+Como ela pode alugar muitos livros?
+
+Como ela pode alugar Nenhum livro?
+
+Beleza.
+
+Então, a relação aqui seria zero para muitos.
+
+E aí eu vou fazer o seguinte, eu vou deixar em negrito aqui, vou aumentar um pouco.
+
+Eu acho que fica mais visível, pelo menos na aula.
+
+Claro que vocês não vão deixar desse tamanho no dia a dia, tá galera?
+
+Mas para vocês conseguirem visualizar, tá?
+
+Eu acho que na última aula eu deixei muito pequeno e ficou um pouco dificultoso.
+
+Assim, eu acredito que fique melhor de acompanhando o que nós vamos fazendo ao decorrer da aula.
+
+Beleza então a zero para muitos e zero para muitos.
+
+Beleza.
+
+Fora esses carinhas aqui, nós também temos as pessoas e os estudantes aqui.
+
+Como existe uma dependência, né?
+
+Uma direção.
+
+Aqui nós não precisamos colocar porque.
+
+Porque nós estamos apenas distinguindo quem são os tipos das pessoas.
+
+Não precisamos estipular se é uma pessoa, se é várias pessoas, se é um estudante, se é vários estudantes,
+
+se é um professor, se é vários professores.
+
+Não tem necessidade.
+
+Agora, outra coisa que nós precisamos fazer também é acrescentar os atributos e os tipos de dados.
+
+Nesse caso aqui, galera, qual é o tipo de dado e qual é o tipo de atributo para biblioteca?
+
+Vamos imaginar aqui para a biblioteca ela precisa ter um nome.
+
+Ou seja, como eu vou identificar essa biblioteca?
+
+Como eu vou ir até essa biblioteca se eu não sei o nome?
+
+E também ela necessita do endereço, porque se eu não sei do endereço, eu não sei onde ela fica.
+
+Consequentemente eu não consigo ir até o local.
+
+Então, os tipos de dados aqui, né?
+
+Para o nome seria String.
+
+Nós já sabemos o porquê e nós também teríamos.
+
+O endereço, que também seria em string.
+
+Essa parte das operações aqui no momento eu vou deixar sem.
+
+Tá bom.
+
+Já para os nossos livros existem algumas variedades aqui.
+
+Então, como eu mencionei no início da aula, nós poderíamos fazer subdivisões e acrescentar gêneros,
+
+acrescentar outras coisas adicionais.
+
+Porém, eu vou tentar deixar tudo dentro do contexto da classe Livros, tá?
+
+Então, inicialmente nós temos aqui o nome do livro, que também seria em tipo de dado string.
+
+Nós também precisaríamos ter aqui o que a edição do livro Beleza, que também seria String.
+
+Qual o ano de publicação desse livro?
+
+Então aqui já seria diferente.
+
+Seria int né?
+
+Porque o ano nós estamos falando de número, qual é o autor deste livro?
+
+Então, mais uma vez, nós colocaríamos aqui o tipo de string.
+
+E nós também poderíamos colocar a editora.
+
+Edição e editora é diferente, tá?
+
+Então, editora também seria String.
+
+Como eu mencionei, eu poderia colocar gênero aqui.
+
+Eu poderia.
+
+E aí eu facilitaria o diagrama, né?
+
+Eu poderia colocar aqui gênero, gênero, string também.
+
+E aí seriam alguns adicionais para a nossa classe Livros, né?
+
+Então seria aqui esses atributos com esses tipos de dados para as pessoas.
+
+Bom, as pessoas para ir até a biblioteca, elas precisam de alguns informativos para a biblioteca saber
+
+quem é a pessoa onde ela mora.
+
+Dados específicos para busca, né?
+
+Saber se a pessoa não tem passagem ou algo do tipo.
+
+Então aqui nós poderíamos colocar assim algo bem básico o nome como string.
+
+Aí nós também teríamos.
+
+Um endereço.
+
+Porque eu preciso saber onde essa pessoa que está alugando o livro mora.
+
+E eu também precisaria aqui de telefone.
+
+Porque de telefone, Porque geralmente, quando nós agendamos e alugamos livro, na verdade nós acabamos
+
+tendo determinado tempo para entrega.
+
+Então se esse tempo foi expirado, eu preciso entrar em contato com essa pessoa.
+
+Então aqui seria o tipo inteiro.
+
+Beleza.
+
+E aí nós também poderíamos ter e-mail caso ela não atende o telefone, que aí aqui seria tipo e-mail.
+
+Nós vamos entender que existe um tipo e-mail, mas eu vou deixar string, vai?
+
+Eu acho que fica melhor aqui para vocês entenderem porque nós não passamos por esse tipo de dado ainda,
+
+tá?
+
+E vamos colocar aqui também alguma identificação, RG, CPF.
+
+Vamos deixar apenas o RG.
+
+Aí o RG.
+
+Ele também pode ser identificado como string.
+
+Por quê?
+
+Porque entre os números existem pontos, né?
+
+Então, se eu quero deixar o RG deitadinho, né?
+
+E dois números, ponto.
+
+Outros três números, pontos, mas não sei quantos números.
+
+Tracinho.
+
+Outros números eu vou deixar como string.
+
+Se eu quero armazenar apenas os números sem os pontinhos, né?
+
+Aí eu deixo como int, por exemplo.
+
+Beleza?
+
+E aí, como ficou um pouquinho grande?
+
+Aqui nós vamos selecionar aqui essas duas classes.
+
+Vamos arrastá las para baixo e vamos trazer.
+
+As nossas ligações direitinho.
+
+Beleza.
+
+E aí o professor pode ter aqui uma titulação e uma titulação.
+
+Eu sou professor do quê?
+
+Eu sou professor de tecnologia, por exemplo.
+
+Não pode ter um professor de informática, professor de engenharia, professor de matemática, de português.
+
+E por aí vai.
+
+E já o estudante, ele tem outras informações, né?
+
+Ele pode ter aqui o número de matrícula, que também seria string e o ano do ingresso e que é o ano
+
+do ingresso.
+
+Quando ele foi matriculado?
+
+Quando ele se inscreveu, vamos colocar aqui o ano de ingresso.
+
+E aí, como se trata de números, vai ser do tipo inteiro.
+
+Nós poderíamos colocar aqui também outro informativo.
+
+Ao invés disso, nós poderíamos colocar o tipo data, né, que é o data.
+
+E aí nós teríamos o dia, o mês e o ano da matrícula, por exemplo.
+
+Seria algo um pouco mais eficaz, na minha opinião.
+
+Tá bom.
+
+E aí, Por que que eu quero deixar esse diagrama pequeno desta maneira?
+
+Porque nós também precisamos, além de saber criar, além de saber relacionar.
+
+Além de saber distinguir quais os atributos, além de saber distinguir quais os tipos de dados, saber
+
+também fazer uma formatação adequada, né?
+
+Dar cores avivamento de certa forma para o diagrama, para ter uma leitura mais legal, mais dinâmica,
+
+mais simples, mais didática, por assim dizer.
+
+Então, aqui o exemplos que eu poderia dar para vocês, o eu poderia acrescentar para cada um dos atributos,
+
+tá?
+
+Um tipo de formatação como negrito e para o tipo de dado itálico.
+
+É claro que eu posso já ir escrevendo e formatando, tá?
+
+Mas eu, em particular, prefiro fazer primeiro uma coisa só depois eu faço toda a outra coisa.
+
+Beleza.
+
+Eu ia ter que ficar parando para digitar.
+
+Aí leva o mouse, muda, leva o mouse de novo.
+
+Então aqui nós vamos fazendo as formatações.
+
+Tá.
+
+Bom, eu vou fazer o seguinte, galera, eu vou editando aqui, mas eu vou adiantar o vídeo para não
+
+ficar muito extenso.
+
+E assim que eu terminar para todas as classes de formatar todos os atributos e todos os tipos de dados,
+
+eu volto com vocês.
+
+Beleza galera, terminamos aqui O que nós podemos fazer para melhorar a visibilidade?
+
+Além de acrescentar negrito, itálico que nós acabamos de contemplar para os diagramas aqui.
+
+Nós também temos os preenchimentos ta?
+
+Esses preenchimentos.
+
+Nós podemos ter aqui algumas cores para melhorar a visibilidade, no qual nós podemos brincar um pouco.
+
+Então eu poderia, por exemplo, para o nome das classes acrescentar uma cor mais forte.
+
+Beleza.
+
+E para os atributos, por exemplo, eu poderia acrescentar outra cor que seja semelhante, mas que não
+
+dê tanto destaque, por exemplo, esse mais clarinho aqui.
+
+Lembrando que quando eu faço a seleção todos de uma vez, olha só, estou segurando o shift no teclado.
+
+Beleza?
+
+Seria mais ou menos isso.
+
+Só que o que que eu quero ressaltar?
+
+Estudante?
+
+Professor?
+
+Eles de certa forma são ligados a à pessoa, né?
+
+São direcionados à pessoa.
+
+Então, aqui há uma certa dependência.
+
+Esses carinhas aqui.
+
+Tecnicamente, eles seriam um subgrupo, né?
+
+Dentro do grupo Pessoas.
+
+Tá bom.
+
+Então, para esta parte aqui, eu poderia, por exemplo, dar um destaque diferente.
+
+Eu poderia colocar aqui.
+
+Deixa eu dar uma olhada.
+
+Poderia fazer assim, ó.
+
+Poderia colocar marrom com os tipos de dado um pouco mais claro.
+
+Eu sempre vou buscar cores semelhantes.
+
+Tá.
+
+Algo nesse sentido aqui.
+
+Olha só, eu sei que os livros compõem a biblioteca com uma cor que as pessoas que são aqui contempladas
+
+por estudantes e professores são de outra.
+
+Tá bom.
+
+E aqui vocês podem brincar de certa forma pessoal, com tudo que vocês quiserem, tá?
+
+Estou mostrando o básico, mas vocês podem mudar o tipo de linha que é o contorno das classes.
+
+Caso vocês queiram, vocês podem fazer aqui a mudança do tipo de letra.
+
+Podem acrescentar outra fonte, mudar tamanho, podem mudar aqui o tamanho também da classe se quiserem
+
+aumentar aqui a classe também para ter uma visibilidade melhor.
+
+Enfim, existem aqui outras predefinições que vocês podem estar fazendo, mas eu não costumo muito enfeitar
+
+o pavão nisso daqui.
+
+Eu acho que o basico é bem mais funcional, beleza?
+
+E aí, existem estilos pré definidos também?
+
+Olha só, se vocês quiserem acrescentar para economia de tempo também é bem bacana.
+
+Bom, eu espero que vocês estejam entendendo o que vocês estejam gostando.
+
+Espero que esta aula tenha complementado as aulas anteriores, que vocês tenham tido uma absorção melhor
+
+ainda.
+
+Vou ficando por aqui.
+
+Próxima aula daremos início a um novo diagrama.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.
