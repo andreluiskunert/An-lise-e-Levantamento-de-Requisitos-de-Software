@@ -1,0 +1,515 @@
+Olá, Luna!
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Ainda no módulo de Diagramas Estruturais, nós passaremos a partir dessa aula, a aprender um novo tipo
+
+de diagrama, que é o diagrama de objetos.
+
+Então, aqui nesta aula nós vamos fazer algo teórico, assim como fizemos para o diagrama de classe
+
+para entender os porquês.
+
+Quais as definições?
+
+Como que se utiliza quando se utiliza?
+
+Quais as melhores práticas para então nós colocarmos tudo o que nós anotarmos em folha de caderno para
+
+realmente prática?
+
+Beleza.
+
+Bom, o que é o diagrama de objetos?
+
+Quais as definições que nós temos?
+
+Por que que ele é utilizado?
+
+Onde ele é representado?
+
+Vamos ver tudo isso aqui.
+
+Um diagrama de objetos representa uma instância específica de um diagrama de classes em um determinado
+
+momento.
+
+Opa!
+
+Vamos por parte que a primeira linha já complicou a cabeça da maioria e eu tenho certeza.
+
+Vamos lá.
+
+Primeiro de tudo é que aqui nós temos a necessidade de ter pelo menos o superficial de programação orientada
+
+a objetos.
+
+Nós precisamos entender inicialmente o que é uma instância.
+
+Beleza.
+
+Por que que eu digo isso?
+
+Porque aqui está sendo mencionado que o diagrama de objetos ele representa uma instância de um diagrama
+
+de classe.
+
+Diagrama de classe nós aprendemos nas últimas aulas.
+
+E nós entendemos para quê que ele serve, O que ele representa.
+
+Aonde nós utilizamos?
+
+E aqui nós estamos falando de algo que é a parte ou que é uma parte do diagrama de classe.
+
+Então, tecnicamente, o que seria uma instância?
+
+Vamos por partes.
+
+Aqui o Quando representando visualmente, você terá muitas semelhanças com diagrama de classes.
+
+Por que o texto menciona que há semelhanças?
+
+Porque o diagrama de objetos na construção é bastante parecido com o diagrama de classes que nós aprendemos
+
+nas últimas aulas.
+
+Beleza.
+
+Porém, esse carinha aqui, ele é usado para representar instâncias.
+
+Tá bom, então eu vou tentar dar um exemplo aqui bem resumido para vocês entenderem, porque geralmente,
+
+no mundo da programação orientada a objetos, nós falamos muito em classes e também falamos muito em
+
+instâncias.
+
+E geralmente as pessoas confundem porque classes e instâncias das classes são semelhantes.
+
+Tem pessoas, tem artigos que condiz muitas vezes que falam que são as mesmas coisas dependendo da situação,
+
+dependendo da ocasião.
+
+Dependendo do momento.
+
+Porém, são coisas distintas.
+
+São coisas diferentes, mas que tem ligação, que tem relação uma com a outra.
+
+Tá bom, então eu vou dar um exemplo bem básico aqui ó.
+
+Nós vimos nas aulas anteriores que o diagrama de classes ele faz a construção e relação das classes.
+
+Beleza.
+
+Então, se eu falar para vocês aqui que existe uma classe chamada Pessoas, o que seria a instância
+
+da classe Pessoas?
+
+Pessoas, eu estou colocando no plural.
+
+Eu estou generalizando.
+
+Beleza.
+
+Quando eu falo em instância, é como se eu separasse essas pessoas para mim, trabalhar de forma unificada
+
+em cada uma.
+
+Então, o que seria a instância das pessoas?
+
+Seria cada uma das pessoas que compõem a classe Pessoas?
+
+Então, a instância ela poderia ser Weslei A instância poderia ser Daniel.
+
+A instância poderia ser Rebecca.
+
+A instância poderia ser Anderson.
+
+Aí você poderia ser João e todas as outras pessoas que compõem a classe Pessoas.
+
+Beleza, Eu acho que ficou entendível até aqui.
+
+O que é uma instância, né?
+
+Então, assim, quando nós falamos que o diagrama de objetos ele representa a instância, é que nós
+
+separamos a classe por pacotes menores, por partes separadas, e o diagrama de objetos nós usamos para
+
+representar, para ilustrar e para mostrar essas partes que estão separadas.
+
+Beleza?
+
+Olha só.
+
+Dando continuidade no texto, um diagrama de objetos incide sobre os atributos de um conjunto de objetos
+
+e como eles se relacionam entre si.
+
+Um exemplo bem básico aqui, ó nós temos uma conta bancária, então imagina que a classe, ela é a conta
+
+bancária.
+
+Se nós fôssemos fazer a divisão de uma classe chamada conta bancária.
+
+Tecnicamente, nós teríamos os tipos das contas.
+
+Então os nomes das classes eles mostrariam que existe a conta poupança, existe a conta corrente, existe
+
+a conta de cartão de crédito.
+
+E que, apesar de serem contas bancárias, elas em determinadas ocasiões possuem informações diferentes.
+
+O que seriam essas informações?
+
+As informações seriam o que nós já vimos dentro das classes.
+
+Os atributos, né?
+
+Então aqui o texto fala Olha só, Os atributos de classes são diferentes para cada um dos tipos de contas.
+
+Por exemplo, o objeto de cartão de crédito possui um limite de cartão de crédito porque ele é um cartão
+
+de crédito.
+
+Então a sua propriedade é limite de crédito.
+
+Enquanto uma poupança e uma corrente possuem taxas e juros.
+
+Então, se eu coloco um dinheiro na conta poupança, vai me render Determinados centavos, por bem dizer
+
+que o rendimento não é muito, mas através de juros.
+
+Então são que características diferentes.
+
+Nós aprendemos que os atributos são características.
+
+Então, quando nós falamos em diagramas de objetos, nós temos de entender que nós não estamos mais
+
+falando da classe num contexto generalizado, mas que nós estamos adentrando a esta classe e vendo quais
+
+as possibilidades de haver coisas dentro dessa classe e falarmos sobre elas de forma separada.
+
+Eu acho que ficou entendido até aqui, né?
+
+Vamos dando continuidade, Olha só.
+
+Os diagramas de objetos não são usados apenas no caso de uso bancário, né?
+
+Eu acabei de falar, por exemplo, a situação sobre a classe Pessoas, no qual a pessoa, né?
+
+A classe pessoas é uma classe generalizada e que cada pessoa pertencente a essa classe é uma instância.
+
+Mas aí, no contexto geral, nós podemos usar o diagrama de objetos para quase tudo.
+
+Assim como nós usamos diagramas de classes, você pode criar um diagrama de objetos para árvores genealógicas,
+
+departamentos corporativos ou qualquer outro sistema com partes inter-relacionadas.
+
+Então, tudo que tiver inter-relação.
+
+Nós podemos usar o diagrama de objetos.
+
+E aí nós temos os elementos de objetos.
+
+Então os elementos.
+
+Eles são o que?
+
+O que nós usamos para construir o diagrama de objetos?
+
+O que é usado?
+
+Quais as formas geométricas, quais os tipos de seta, como que é feito o relacionamento e tudo mais.
+
+Então, olha só.
+
+Diagramas de objetos são fáceis de criar.
+
+São feitos de objetos representados por retângulos e ligados por linhas.
+
+O que são os objetos?
+
+Objetos são instâncias de uma classe.
+
+De novo, o exemplo para fixar na cabeça de vocês Eu tenho uma classe chamada carro.
+
+Quais são as instâncias do carro?
+
+O modelo do carro é uma determinada instância.
+
+O ano do carro é uma determinada instância.
+
+A potência do carro é uma determinada instância.
+
+A versão do carro é uma determinada instância.
+
+Então, tudo que tem inter-relação com a classe geral, com a classe global é considerado instância.
+
+Beleza.
+
+Então, aqui ele tá dando exemplo.
+
+A classe é carro, o modelo é Nissan e o ano é 2007.
+
+Seriam as instâncias do objeto?
+
+Beleza.
+
+E aí nós temos os títulos de classes.
+
+O que são os títulos de classes?
+
+São atributos específicos de uma determinada classe.
+
+Então, os títulos eles incluem.
+
+Aqui é um outro exemplo.
+
+Tá?
+
+Nome, Sexo.
+
+Idade, Membros.
+
+Falando em um diagrama familiar, por exemplo, eu vou mostrar para vocês aqui o.
+
+Então eu tenho um diagrama onde tem o marido e a mulher.
+
+Então tem o Jack e Adil.
+
+E aí nós temos os sexos, as idades e também tem os filhos.
+
+Então tudo é representado por informativos e o nome Jack.
+
+Idade 45.
+
+Ele é o que considerado o sexo masculino.
+
+Já Adil é mulher.
+
+Idade 42.
+
+Tem os demais.
+
+William é um homem.
+
+Idade dez anos.
+
+Robert também é um ano, Idade 13 e a Clarissa é uma mulher.
+
+Idade 17.
+
+Beleza.
+
+E aí?
+
+Outra coisa que é interessante, eu já adiantando note que para masculino é uma cor, que para feminino
+
+é outro.
+
+Vamos dar uma continuidade aqui.
+
+Olha só.
+
+Atributos de classe são representados por retângulos com duas abas que indicam o elemento de software.
+
+Aqui nós estamos falando de coisas genéricas do cotidiano, para vocês entenderem.
+
+Porém, quando nós formos praticar, nós vamos colocar em contexto de software para uma melhor fixação.
+
+Os links são linhas que conectam duas formas de um diagrama de objetos em uma a outra.
+
+O diagrama de objetos corporativo abaixo ou, no caso, no próximo slide.
+
+Como departamentos são ligados como um organograma tradicional.
+
+Eu vou voltar alguns slides para vocês entenderem e não ficar algo obscuro, tá?
+
+Vamos lá.
+
+Todas as classes, instâncias, títulos de classes e atributos ficam dentro dos retângulos, como vocês
+
+estão observando nesse exemplo bancário.
+
+As ligações e dependências sempre são ligadas por setas.
+
+Beleza.
+
+Da mesma forma em que nós estamos falando desse diagrama que compõe uma hierarquia familiar, por bem
+
+dizer.
+
+Então nós temos ali o marido e a mulher e os filhos, Tá, e todos eles também tem relação e ligação.
+
+E aí, por que que a seta está sendo ligada à mulher?
+
+Porque é a mulher quem gera os filhos, né?
+
+Não é o homem.
+
+É por isso que a ligação está amarrada à mulher.
+
+Beleza.
+
+E aqui é sobre o contexto corporativo.
+
+Então, existe uma empresa inicialmente, né?
+
+Então ela é como se fosse uma classe global.
+
+E aí nós falamos dos outros demais, que aí existe, os departamentos.
+
+Então tem um departamento que é de business, o Departamento dois, que é de development.
+
+E aí dentro dos business.
+
+Nós temos o departamento 03h04, que é Support Marketing.
+
+Dentro do development tem o departamento de produto um, dois.
+
+É qualidade de software que é o que é.
+
+E já no departamento quatro existem o departamento oito, né?
+
+Seria a área de content e a área de design, por exemplo?
+
+Beleza, então aqui é uma espécie de organograma hierárquico.
+
+Show!
+
+E aí, onde nós podemos fazer as aplicações dos diagramas de objetos?
+
+Bom, geralmente nós fazemos as aplicações para examinar uma interação específica de um sistema geral.
+
+Geralmente, também nós usamos para obter uma visão geral de alto nível do sistema que está sendo desenvolvido.
+
+E também nós usamos para testar um diagrama de classes que foi criado com uma estrutura global usando
+
+diagramas de objetos para os uns casos mais específicos, ou seja, o diagrama de objetos.
+
+Ele é usado após a construção do diagrama de classes, quando há o diagrama de classes.
+
+Para fazer algumas separações, subdivisões e entender um pouco mais a fundo sobre algumas classes,
+
+caso haja necessidade.
+
+Então, quando você utiliza o diagrama que nós aprendemos nas aulas anteriores.
+
+Geralmente após, utiliza se o diagrama de objetos.
+
+Não é em todos os contextos, todas as ocasiões, não é em todas as empresas, não são todos os profissionais,
+
+não é toda a equipe, não é exigido de forma obrigatória.
+
+Mas se você preza por boas técnicas, quer fazer um trabalho prestativo, bacana e bem profissional.
+
+É legal de fazer aderência, sim.
+
+Vantagens e desvantagens dos diagramas de objetos.
+
+Primeiro, as vantagens Possibilita diferentes visões do sistema.
+
+Oferece um estado estático do sistema em determinado momento e agiliza o desenvolvimento.
+
+Agora a desvantagem.
+
+Geralmente ele é trabalhoso na implantação.
+
+Porque?
+
+Porque se é um sistema grande, robusto a vários diagramas que você vai ter que quebrar por determinadas
+
+partes.
+
+Beleza.
+
+E aqui tem algum exemplo de código em Java para vocês que tem um superficial em programação?
+
+Vocês que estão estudando já estudaram, vocês que desenvolvem de alguma forma alguma linguagem, provavelmente
+
+vão entender um pouco sobre o que tá aqui.
+
+Mas o que que eu quero que vocês entendam aqui?
+
+Inicialmente, nós temos uma classe chamada cliente.
+
+É que em linguagem de Java, geralmente nós passaríamos.
+
+E os nomes, né?
+
+Os atributos dentro da determinada classe, entre as chaves.
+
+Então aqui eu estou dizendo que meu nome vai ficar lá dentro do nome CPF.
+
+Dentro do CPF tudo vai estar em string.
+
+Beleza E que locações teria um outro tipo?
+
+A quadra seria uma outra classe?
+
+Teria outras informações?
+
+Ginásio também.
+
+Então aqui estou falando sobre o que?
+
+Olha só.
+
+Cliente Locação.
+
+Quadra?
+
+Ginásio.
+
+Percebem a hierarquia?
+
+O cliente faz a locação de quadras dentro do ginásio.
+
+Entendeu como foi quebrado tudo aquilo que nós vimos como diagrama de classe?
+
+Então, quando nós fazemos as instâncias, tecnicamente é isso que acontece na linguagem de programação.
+
+Beleza, talvez tenha ficado ainda um pouco confuso, principalmente se você nunca ouviu falar sobre
+
+instância.
+
+Se você está aprendendo a primeira vez, se é o primeiro contato com coisas que falam sobre objetos,
+
+sobre distâncias.
+
+Talvez tenha ficado ainda um pouco nebuloso.
+
+Não tem problema, porque nós teremos outras aulas para adentrar ainda mais para exemplificar, ainda
+
+mais, para praticar ainda mais, para expandir os horizontes ainda mais.
+
+E com certeza, após o término deste capítulo, por bem dizer, vocês terão aptidão de criar o diagrama
+
+de objetos.
+
+Beleza?
+
+Por enquanto eu vou ficando por aqui.
+
+Não vou prolongar a aula, senão vai ficar muito massante e vai ficar muito pesado.
+
+Então vou me despedindo de vocês.
+
+Próxima aula nós damos continuidade.
+
+Vamos pegar tudo isso que nós estamos visualizando em slide e transformar em prática.
+
+Que eu acredito que conforme nós formos fazendo, os horizontes vão se expandindo.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
