@@ -1,0 +1,261 @@
+Olá, Luana!
+
+Olá, Luana.
+
+Como vocês estão?
+
+Sejam bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a segunda aula sobre diagramas de objetos.
+
+Bom, apesar da explicação e do detalhamento que eu dei na aula anterior, eu resolvi fazer um infográfico
+
+ta bom, que mostra a relação entre alguns conceitos sobre o que é classe, o que é objeto, o que é
+
+atributo, o que é método e o que é instância.
+
+Como eu mencionei na aula anterior, há algumas coisas que são bem semelhantes e por muitas vezes acaba
+
+realmente confundindo, principalmente se é o seu primeiro contato em relação a isso, principalmente
+
+se você ainda não estudou programação orientada a objetos, não entende muito bem, não sabe como funciona,
+
+realmente acaba bagunçando.
+
+Então eu criei esse infográfico Justamente para ilustrar vocês o que é cada coisa de forma separada.
+
+Porém, quais as relações entre elas quando estão juntas?
+
+Eu acredito que dessa maneira fica mais perceptível de vocês entenderem.
+
+Tá bom?
+
+Então aqui eu tenho um infográfico bom, aonde contém todos os mencionados.
+
+Nós temos os objetos, as classes, atributos, métodos e instâncias.
+
+Tá bom?
+
+Bom, quando a gente fala sobre objetos, geralmente a gente está falando de coisas.
+
+Tá bom.
+
+Então o objeto geralmente vai ser alguma coisa.
+
+Isso de um contexto geral, Independente se você está pensando em sistema de software, independente,
+
+se você está pensando em serviço ou se você está pensando em um mundo paralelo à tecnologia.
+
+Beleza.
+
+Geralmente um objeto.
+
+Eles são coisas.
+
+Bom, já as instâncias pessoal geralmente são exemplos reais dessas coisas.
+
+Beleza é aonde a classe ela se enquadra, a classe.
+
+Ela geralmente vai ser o conjunto ou grupo ou categorias de um determinado objeto.
+
+Então as relações entre esses três seria dessa forma.
+
+Ou seja, eu tenho aqui como um exemplo o meu carro, o meu carro.
+
+De certa forma, ele é um objeto.
+
+Beleza.
+
+O que seria os exemplos reais de um carro?
+
+O nome do carro?
+
+O modelo do carro?
+
+O fabricante?
+
+O ano de fabricação?
+
+O ano do modelo Renavam.
+
+Qual é a potência?
+
+Quantos cavalos tem?
+
+Qual é o motor, se é oito ou 16 válvulas, quantos pistões e por aí vai.
+
+Beleza.
+
+Tudo que eu falo, que é característico do meu objeto, enquadra se como instância.
+
+Agora, quanto à classe, o que que a classe tem a ver com o objeto?
+
+Por que que as pessoas confundem?
+
+Porque a classe ela é um conjunto ou grupos ou categorias deste determinado objeto?
+
+Então, no exemplo que eu estou mostrando a você o carro, ele é um objeto.
+
+Qual é a classe que ele é pertencente?
+
+Ele é pertencente à classe de veículos?
+
+Qual uma outra classe que é pertencente a carro?
+
+Poderia ser vans, Poderia ser utilitários.
+
+Observa que a classe mudou, porém o objeto ele é o mesmo.
+
+O objeto continua sendo o carro.
+
+Porém, a classe ela poderia ser três.
+
+A classe Ela poderia ser veículo, van ou utilitário.
+
+Beleza.
+
+Então, quando eu falo na classe, eu geralmente estou falando no conjunto das informações do objeto
+
+ou em grupos de informações do objeto ou propriamente das categorias de informações do objeto Beleza.
+
+E quanto a instâncias, geralmente são exemplos reais daquele meu determinado objeto.
+
+Quais são as características, as informações peculiares daquele objeto em si?
+
+Beleza.
+
+E aí entra o quesito no que nós estudamos em aulas anteriores, lá no diagrama de classe, que é o que?
+
+Atributos e métodos?
+
+Beleza.
+
+O que são os atributos?
+
+Os atributos são as qualidades e os métodos são os comportamentos, o modo de interação.
+
+Qual é a ação que aquilo vai ter?
+
+Beleza.
+
+Por exemplo, o que que é o atributo da classe?
+
+Nome?
+
+Modelo Fabricante Ano de fabricação Ano de Modelo Número do Renavam Potência do motor e por aí vai.
+
+Então observa que quando eu falo na instância é que quando eu falo no atributo são semelhantes.
+
+Qual a diferença?
+
+A diferença é que quando eu falo no atributo, eu falo nas qualidades que o carro possui.
+
+Agora, quando eu falo na instância, eu falo especificamente sobre cada uma das qualidades.
+
+Olha só a diferença é a percepção que nós temos E já os métodos, o que que seria os métodos?
+
+Seria o comportamento.
+
+Então, por exemplo, o que o carro faz?
+
+Levando em consideração o exemplo, que é um carro?
+
+O carro, ele liga o carro, ele desliga o carro, acelera o carro, freia o carro, transporta pessoas,
+
+o carro buzina, o carro liga farol, o carro apaga farol.
+
+O carro liga a seta, o carro apaga a seta, o carro da ré, o carro estaciona e por aí vai.
+
+Beleza.
+
+Então, se vocês pararem para observar o contexto geral, é isso daqui.
+
+E aí, o que vocês devem ter atenção e é fundamental.
+
+Não teve espaço para mim poder escrever.
+
+Atributos e métodos pertencem à classe Beleza.
+
+Já os valores dos atributos pertencem ao objeto.
+
+Então, quando eu falo em atributos, eu falo também em métodos.
+
+Eu digo que eles são pertencentes à classe.
+
+Agora, quando eu estou falando que os valores desses atributos, que aqui no caso é as instâncias,
+
+eles são pertencentes aos objetos.
+
+Então, de forma resumida, o objeto vai ser as coisas, as instâncias, elas vão ser os valores pertencentes
+
+a esses objetos.
+
+As classes vai ser grupos, conjuntos ou categorias desses objetos.
+
+Os atributos vão ser as características ou qualidades.
+
+E os métodos vão ser os Comportamentos, modos de agir, ações e etc.
+
+Beleza.
+
+Então, o que que eu quero que vocês façam?
+
+Desenhe isso daqui num caderninho.
+
+Folha de papel na mão faz um rabisco, mesmo que um papelzinho de pão, tá?
+
+Para vocês poderem fixar e entender conforme o andamento do curso, porque isso é muito importante e
+
+não só no diagrama de objetos isso vai ser utilizado.
+
+Mas isso daqui é um contexto geral para linguagem de programação.
+
+Se você quer ser um desenvolvedor.
+
+Principalmente para quem quer fazer análise de requisitos também para quem quer se tornar um arquiteto
+
+de software, um engenheiro de software e por aí vai.
+
+Tá bom.
+
+Então, esse contexto aqui é usado em várias áreas, de diferentes formas.
+
+Inclusive em vários outros diagramas.
+
+Então, possa ser que quando nós viermos a estudar outros diagramas, aprender outros tipos, nós tenhamos
+
+que falar novamente sobre isso daqui.
+
+Então o interessante é exercitar, fixar, absorver para não ter dificuldade à medida em que o curso
+
+for evoluindo.
+
+Beleza.
+
+Espero que a junção desta aula com a aula anterior tenha de certa forma expandido um pouco mais a forma
+
+de vocês estarem entendendo sobre esse contexto geral entre objeto, instância, classe, atributo,
+
+método e tudo mais.
+
+E que se por um acaso vocês precisarem, voltem à aula anterior e embase a aula anterior com o que vocês
+
+estão vendo agora.
+
+Acredito que também vai dar uma boa clareada.
+
+Beleza?
+
+Não vou me estender bastante.
+
+Vou me despedindo por aqui.
+
+A próxima aula nós começamos a colocar a mão na massa e colocar tudo isso daqui que nós estamos vendo
+
+de forma teórica, na prática.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
