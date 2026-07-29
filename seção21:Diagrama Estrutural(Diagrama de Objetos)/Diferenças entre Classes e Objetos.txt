@@ -1,0 +1,489 @@
+Olá, Luna! Olá
+
+Luna! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+E nesta aula nós faremos a criação dos dois diagramas que aprendemos nas aulas
+
+anteriores diagramas de classe e diagramas de objetos e entenderemos as diferenças entre eles
+
+para um mesmo conceito, para um mesmo propósito, olhando para um mesmo lugar.
+
+Tá bom.
+
+Então, nós vimos em aulas anteriores as diferenças entre ambos.
+
+Para que serve cada um? Como utilizar cada um? Quando
+
+utilizar cada um, entendemos as diferenças do que é classe,
+
+do que é objeto, do que é método, do que
+
+é atributo, do que é relacionamento, do que é instância.
+
+Mas, apesar de serem semelhantes, talvez ainda alguns de vocês tenham dúvidas.
+
+Devido a isso, eu criei esta aula especificamente para mostrar
+
+os dois em comparativos na prática para um mesmo objetivo.
+
+Beleza.
+
+Então, inicialmente eu quero começar falando o seguinte Não, nós vamos criar
+
+aqui uma pequena classe que vai se chamar Carro Beleza? E aqui
+
+nós vamos colocar aquilo que nós já viemos aprendendo nas aulas anteriores.
+
+Vamos colocar aqui o tipo de dado int.
+
+Vamos colocar a marca Tipo de dado vai ser string.
+
+Vamos copiar e colar isso daqui para acrescentar aqui também.
+
+Vamos colocar o modelo.
+
+E também é tipo string.
+
+Vamos colocar um outro tipo de dado aqui chamado quilometragem.
+
+E ele é um tipo de dado double.
+
+Beleza.
+
+Depois vocês pesquisam em detalhes sobre tipos de dados.
+
+Vocês vão encontrar o double, Vocês vão entender para que ele serve.
+
+Tá bom.
+
+Nós temos aqui também o valor da diária.
+
+E também vai ser double.
+
+E nós vamos colocar a cor do carro que ele também é em string.
+
+Bom, o que nós estamos fazendo aqui é construindo uma classe.
+
+Beleza? E esta
+
+classe? Ela possui
+
+aqui alguns atributos.
+
+E para cada atributo nós temos o tipo de dado que vai ser armazenado daqui.
+
+Nós vimos lá no início dos diagramas de classe.
+
+Beleza.
+
+Bom, por que que eu estou fazendo novamente? Porque eu quero fazer um
+
+comparativo com vocês e mostrar que uma classe é diferente de um objeto.
+
+Como nós vamos fazer essa diferenciação? Vocês vão copiar e
+
+colar esse mesmo carinha que nós acabamos de fazer.
+
+Só que aqui nós vamos colocar assim o carro um.
+
+E dois pontos carro.
+
+Estou falando que na minha classe carro eu vou falar especificamente de um único carro.
+
+Tá bom.
+
+E aqui nós vamos acrescentar algumas informações.
+
+Então nós vamos colocar aqui o ano do carro e a marca do carro.
+
+Lembrando que string é dentro de aspas, né? Aí
+
+nós vamos colocar aqui o modelo do carro.
+
+Bom, se é GM nós podemos colocar aqui o Astra, por exemplo.
+
+Quilometragem do carro nós vamos colocar aqui igual A891000 km rodados, por exemplo, 89.000.
+
+ponto noventa.
+
+Vamos colocar aqui algo desse tipo o valor da diária 94 R$.
+
+Imagina que fosse uma locação? Então vamos colocar
+
+aqui 94,00 não é virgula tá e ponto.
+
+Eu coloquei errado é a cor.
+
+Nós vamos colocar aqui também String então dentro de aspas branco.
+
+Bom, o que eu quero que vocês entendam é que isso daqui é completamente diferente disso daqui.
+
+Beleza, Isso daqui eu utilizo quando eu estou criando o diagrama de classe.
+
+Isto daqui eu utilizo quando estou criando o diagrama de objeto
+
+beleza uma classe, ela é criada ilustrada desta forma, um objeto.
+
+Ele é criado e ilustrado desta forma.
+
+Lembra que quando eu falo em classe, eu falo num conceito genérico, como eu expliquei em aulas anteriores.
+
+E quando eu falo em objeto, eu estou falando de um determinado grupo em específico.
+
+Eu estou falando de um objeto, daquele determinado grupo.
+
+Beleza.
+
+Então, quando vocês forem ilustrar, praticar, desenhar e etc.
+
+Vocês precisam entender a diferença entre ambos.
+
+Tá bom? Então, o que eu quero
+
+mostrar para vocês fora esta Essa diferença.
+
+Como eu falei, nós vamos criar dois diagramas que são relacionados a concessionária e um
+
+vai ser um diagrama de classe e o outro vai ser o diagrama de objetos.
+
+E vamos ter aqui as diferenças entre ambos.
+
+Beleza, Vamos começar com o diagrama de classe.
+
+Eu vou utilizar esse carinha aqui que nós já começamos e vou deixar o
+
+de objetos aqui acima um pouco escondido, para ele não roubar a nossa atenção.
+
+Então, pensando no diagrama de classes, nós sabemos que estamos falando
+
+de locação, pois estamos falando de valores, de áreas e etc.
+
+Quando eu estou falando de locação, obviamente eu preciso ter uma locadora.
+
+Beleza, Então eu vou colocar aqui o Lo Locadora, tá um
+
+carro, ele é locado pela locadora e ele é locado pelo.
+
+Cliente Então nós vamos colocar o cliente aqui.
+
+Beleza.
+
+O cliente geralmente para fazer a locação, ele ele paga um.
+
+Alô, aluguel, beleza? E aqui, como nós já tínhamos colocado alguns atributos
+
+e tipos de dados, então, querendo ou não, vamos ter de fazer
+
+todos os outros antes de fazermos os relacionamentos, para acabar não confundindo
+
+a nossa cabeça, né? Então, por exemplo, para locadora, nós precisamos
+
+do CNPJ dela para saber que ela não é falsa, né?
+
+E também nós precisamos do endereço para ir até o local.
+
+Isso daqui nós sabemos que são informações básicas e eu não vou esticar.
+
+Poderia haver mais coisas, mas para não prolongarmos a aula.
+
+Beleza.
+
+Quanto ao meu cliente, eu preciso ter o contato dele, pois eu preciso falar com ele para alguma necessidade.
+
+Eu preciso ter o CPF dele para saber se ele não tem o nome sujo, por
+
+exemplo, se ele consegue realmente fazer a locação e o endereço caso ele queira dar
+
+um perdido, roubar o carro, alguma coisa para mim, poder ir atrás dele, por exemplo.
+
+Beleza.
+
+Agora, quanto a nossa.
+
+Quanto aos nossos valores de aluguéis, nós precisamos ter aqui a data
+
+e hora do aluguel, porque eu preciso cobrar a partir disso.
+
+Então, aqui pode ser o tipo de data,
+
+né? Nós também temos a quilometragem percorrida.
+
+quanto que ele rodou com o carro,
+
+né? E pode ser o tipo double.
+
+E o valor do aluguel? E
+
+também pode ser no tipo double.
+
+Beleza? Deixa eu aumentar um pouquinho aqui esta
+
+classe para ficar tudo em uma linha só.
+
+Bom pessoal, e aí, falando de relacionamento, sem entrar muito em detalhes, pois nós já estudamos sobre isso,
+
+nós vamos fazer o seguinte aqui vamos utilizar a seta que possui uma ponta e não tem preenchimento.
+
+Na verdade eu posso usar essa daqui assim mais fácil, mas eu
+
+queria, Aqui não tem preenchimento né? Para gente fazer da maneira correta.
+
+Deixa eu achar ela aqui.
+
+Pode ser essa daqui, só que eu vou alterar a linha dela para linha contínua ao invés de pontilhada.
+
+Beleza.
+
+E nós sabemos que a relação entre o cliente e o aluguel é o cliente.
+
+O carro existe, né? Então sempre
+
+eu vou fazer a locação.
+
+Eu vou colocar aquela ação, né? Alugar
+
+um carro a partir do aluguel.
+
+Esse aluguel ele vem do cliente.
+
+Então, aluguel e alugar são coisas diferentes.
+
+Então, um cliente ele
+
+aluga errado? Aluga.
+
+Um carro?
+
+Beleza.
+
+E aí o aluguel? Ele tem referência com a
+
+locadora, O carro também tem referência com a locadora.
+
+E o cliente também tem referência com a locadora.
+
+Então, todos esses outros aqui nós vamos fazer a utilização desse carinha aqui, ó.
+
+Beleza? Então aqui galera, tecnicamente eu estou dizendo que é
+
+um diagrama de classe e que esse diagrama é relacionado
+
+à locadora onde a locadora ela possui carros e
+
+ela também possui clientes e ela também efetua aluguel.
+
+Esses aluguel, esses aluguéis, eles são efetuados para os clientes, aluguéis que são de carros.
+
+Beleza.
+
+Isso daqui que nós acabamos de desenhar é completamente diferente
+
+disso daqui que nós vamos desenhar agora, tá? Como
+
+já existe aqui as informações em específico, eu vou
+
+acrescentar um control C Control V para economizarmos tempo.
+
+Beleza.
+
+Então o nosso carro aqui nós já temos que é o carro um.
+
+Beleza.
+
+A locadora nós não temos, então vamos copiar e colar.
+
+Ainda to com o mouse um pouquinho ruim.
+
+Eu peço perdão a vocês.
+
+Eu preciso trocar isso aqui.
+
+E aqui nós podemos colocar assim, ó.
+
+Locadora atual.
+
+Locadora E aqui, no tipo de string nós poderíamos colocar
+
+o CNPJ, né? Poderia colocar aqui números relacionados ao PJ,
+
+ao CNPJ, no caso o endereço também endereço igual a.
+
+Rua.
+
+ABC vírgula um dois três, que é o número, por exemplo.
+
+Da mesma forma, nós poderíamos ter o carro dois, né?
+
+Porque eu estou falando de objetos? Eu posso falar especificamente
+
+não de forma genérica, mas de quantos objetos eu quiser.
+
+Então, aqui, por exemplo, poderia ser carro dois e aí o ano poderia ser aqui 2008.
+
+Poderia ser da marca.
+
+Volkswagen VW poderia ser um Jetta, por exemplo.
+
+E aqui eu não vou alterar para não ficar muito extensa.
+
+Sei lá, a cor preta mesmo, a quilometragem do Astra.
+
+Beleza.
+
+Bom, quanto ao aluguel, ele também seria diferente.
+
+Por que aquele seria diferente? Porque
+
+nós temos agora dois objetos.
+
+Então, quando nós estamos falando de dois objetos, nós teremos também dois aluguéis.
+
+Então, eu poderia colocar aqui o aluguel um.
+
+Beleza.
+
+E aí eu acrescentaria os valores.
+
+Dia 13 do dois de 2024, por exemplo.
+
+3000 quilômetros percorridos.
+
+O valor do aluguel 188 R$, por exemplo.
+
+Informações fictícias.
+
+O que vier na cabeça que eu vou acrescentando.
+
+E aí eu falo que esse carinha do aluguel um ele seria pertinente ao carro um ao meu objeto número um.
+
+Beleza.
+
+Da mesma forma, eu teria o aluguel número dois, que seria relacionado ao objeto carro número dois.
+
+E aí nós poderíamos fazer as alterações aqui para dia 16.
+
+Dois.
+
+A101000 km percorrido, por exemplo.
+
+E aí o valor sairia a 880 R$, por exemplo.
+
+Beleza.
+
+E aí? Quanto ao
+
+cliente? Eu poderia manter
+
+como um cliente atual.
+
+Então, aí eu colocaria assim o cliente atual dois pontinhos O meu
+
+cliente, né? E aqui eu colocarei os dados do meu cliente.
+
+Então vou colocar aqui o Wesley Ávila.
+
+O meu CNPJ.
+
+Perdão, o meu CPF.
+
+No caso, né? Um, dois, 3,123 ponto
+
+um dois três Traço dois dois.
+
+Meu endereço.
+
+Rua x PT.
+
+Quatro quatro quatro.
+
+Bom, e aí? Nós temos aqui, entre aspas, do
+
+nosso diagrama de objetos, o que nós precisamos fazer
+
+aqui? Fazer as relações entre os nossos objetos.
+
+Então aqui nós faríamos através daquela seta que não possui direcionamento.
+
+Não sei se vocês se recordam, mas nós já viemos a utilizá la em aulas anteriores.
+
+É esta daqui, ó.
+
+E aí nós teríamos esse tipo de relação.
+
+Bom galera, perdão a demora, eu tive de adiantar o vídeo aqui.
+
+O mouse tá bem ruim e a prolongar muito a aula.
+
+Mas para vocês entenderem a diferença, tá? Então,
+
+aqui esse primeiro é o qual nós fizemos.
+
+Ele seria o nosso diagrama de classe, onde nós fazemos a representação das classes, né? Lembrando
+
+que é de forma genérica e aqui nós temos a partir do diagrama de classes.
+
+Como eu mencionei em aulas anteriores, o nosso diagrama de objeto
+
+que surge a partir dos objetos que serão existentes as classes.
+
+TA, então seria o mesmo projeto.
+
+Vamos colocar assim por bem dizer.
+
+Imagina que seja um sistema de locação de carros.
+
+Seria o mesmo projeto, porém de visões, perspectivas, passando informações diferentes.
+
+Então, quando você olha para o diagrama de classes, deixa eu dar um zoom aqui.
+
+Quando você olha para o diagrama de classes, você tem as classes, os
+
+atributos e os tipos de dados e os seus devidos relacionamentos, claro.
+
+Só que quando você olha para o diagrama de objetos, você vê que
+
+além dessas informações no qual eu acabei de mencionar, existe também o que.
+
+Quais são os objetos em específico? Quais são
+
+as informações, as características daquele determinado objeto.
+
+Eu não falo mais no genérico, mas eu adentro, né? Eu digamos que
+
+aprofundo um pouco mais, saio da superfície, entro numa camada mais abaixo
+
+e eu começo a falar especificamente sobre as características de cada um.
+
+Então, quando eu falo na classe Carro, eu falo que pode existir 1 milhão de carros.
+
+Quando eu entro com objeto, eu estou falando especificamente
+
+de um dos carros, daqueles 1 milhões possíveis.
+
+Beleza, então a diferença é essa.
+
+Espero que seja útil a vocês.
+
+Que isso daqui, complementando com as aulas e as explicações anteriores, tenha uma
+
+abrangência maior, uma absorção maior, um aprendizado maior na cabeça de vocês.
+
+Beleza.
+
+Aula já ficou bastante extensa.
+
+Eu vou me despedindo por aqui.
+
+Próxima aula nós damos continuidade com um novo tipo de diagrama.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
