@@ -1,0 +1,547 @@
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Como prometido, a partir desta aula nós iremos abordar um novo tipo de diagrama que também faz parte
+
+do Grupo de Diagramas Estruturais.
+
+Nós falaremos e teremos algumas aulas para aprender um pouco a respeito sobre diagramas de componentes.
+
+Tá bom.
+
+Então, assim como o diagrama de classes, o diagrama de objetos, Nós tivemos algumas aulas teóricas
+
+e após nós fomos para a parte prática.
+
+Assim também será para o nosso diagrama de componentes.
+
+Então, primeiro nós vamos entender de forma teórica o que ele é, para que ele serve, quando, como
+
+se utiliza, como que cria, principalmente para que então nós possamos colocar a mão na massa e entender
+
+o conceito na prática, Tá bom?
+
+Bom, o diagrama de componentes, O diagrama de componentes é essencial para criar um sistema de software.
+
+Eles também podem ser feitos usando um software de diagramação ML.
+
+E ajudam a sua equipe a entender a estrutura de um sistema existente e a criar novos sistemas.
+
+Calma aí que o conceito ele tá bem superficial.
+
+Vamos aprofundar um pouco mais sobre isso daqui, ó.
+
+O diagrama de componentes mostra o relacionamento entre diferentes componentes de um sistema para fins
+
+de UML 2,0.
+
+O termo componente refere se a um módulo de classes que representa sistemas ou subsistemas independentes
+
+com capacidade de interagir com o restante do sistema.
+
+Para isso, existe uma abordagem de desenvolvimento em torno de componentes.
+
+O desenvolvimento baseado em componentes que na sigla em inglês se chama CBD.
+
+Bom, até aqui eu falei aramaico para maioria.
+
+Eu acredito que sim.
+
+Vamos entender um pouco melhor sobre o que nós lemos até aqui.
+
+Primeiramente, o que são componentes?
+
+Tá.
+
+Nós falamos dentro da parte de software.
+
+Engenharia de Software.
+
+Arquitetura de Software.
+
+Que os componentes.
+
+Eles são partes de um determinado software e essas partes Elas possuem na verdade, três conceitos básicos.
+
+Tá bom.
+
+Então existe componentes que são componentes de entrada.
+
+Esses componentes.
+
+Eles envolvem a capacitação e a reunião de elementos que entram no sistema, ou seja, ele permite a
+
+entrada de dados, a entrada de informações para dentro do sistema.
+
+Aí nós também temos um segundo tipo de componente, que é o componente de processamento.
+
+Beleza que aí esse componente de processamento ele faz os processos de transformação que convertem a
+
+entrada dos dados que foi feito daquele primeiro componente de entrada?
+
+Beleza.
+
+E aí nós temos o terceiro tipo de componente, que é o componente de saída que ele faz as transferências
+
+de elementos produzidos na transformação até o seu destino final.
+
+Ou seja, entrei com uma informação, fiz uma determinada ação.
+
+Isso teve a característica de componentes de entrada.
+
+Essas informações, essas ações, teve um determinado processamento, ou seja, o componente de processamento.
+
+E no fim ele vai me dar um resultado, vai me dar algum retorno, vai trazer alguma informação, vai
+
+gravar alguma informação no determinado sistema?
+
+Isso depende muito da funcionalidade, do que eu tô fazendo.
+
+Mas, por fim, vai ser o que?
+
+Um componente de saída que vai me dar o elemento final.
+
+Beleza?
+
+Então, quando nós estamos falando de diagramas de componentes, nós temos que ter isso em mente que
+
+os componentes podem ser partes de um determinado sistema beleza e que essas partes elas são divididas
+
+em três.
+
+Existe as partes do sistema que são usadas para captação de dados, ou seja, entrada dos dados.
+
+Existe outra parte do sistema que é para o processamento desses dados que entraram e existe uma última
+
+que é a saída, ou seja, o retorno daquilo que entrou e teve o seu processamento, ou seja, o resultado.
+
+Uma tela que vai ser exibida, informações de busca, alguma gravação dentro do banco de dados a partir
+
+de informações que nós importamos depende e é variável quanto a isso.
+
+Beleza.
+
+Então esses componentes que são entrada, processamento e saída, eles são baseados no conceito de desenvolvimento
+
+baseado em componentes, que é o CBD.
+
+Beleza.
+
+O que o CBD faz?
+
+Ele permite com que os programadores consigam fazer a reutilização de determinados componentes em outros
+
+projetos ou em outras partes do mesmo sistema, ou até mesmo em outros sistemas, em outros produtos,
+
+por exemplo.
+
+Vou dar um exemplo.
+
+Imagina que eu sou um desenvolvedor front end.
+
+E aí eu crio por dia ou por semana vários sites, independente de ser loja virtual, produto, cosmético,
+
+perfumaria, peças automotivas, enfim.
+
+E aí eu tenho um padrão que geralmente quando eu faço a criação do menu para os meus sites, eu tenho
+
+home sobre contato e produtos, beleza?
+
+Então eu tenho um menu que envolve essas cinco funcionalidades ou essas cinco páginas.
+
+Digamos que eu fiz um site para Natura, a Natura teve lá o Home sobre contatos e os produtos.
+
+Só que agora eu vou criar um site para merchan, por exemplo, empresa de pneus.
+
+Eu também vou precisar ter o home, o sobre o contato e os produtos, tá?
+
+Para que que eu vou criar do zero se eu já tenho isso pronto em outro lugar?
+
+Então, o conceito CBD, ele é justamente esse reaproveitamento daquilo que nós já temos, ou seja,
+
+dos componentes que já estão prontos.
+
+E aí entra naquele quesito independente se é um componente de entrada, se é um componente de processamento
+
+ou se é um componente de saída.
+
+Eu faço o reaproveitamento dele em outros lugares, como eu mencionei anteriormente, possa ser que
+
+seja no mesmo produto, no mesmo serviço, no mesmo projeto, como possa ser, que seja em outros locais,
+
+em outros produtos, em outros projetos ou em outros serviços.
+
+Beleza.
+
+Agora, voltando ao conceito do diagrama de componentes.
+
+Para que serve o diagrama de componentes numa visão mais simplificada?
+
+justamente para fazer a ilustração desses componentes, ou seja, dessas partes do sistema, dessas
+
+partes do serviço, dessas partes do produto, independente se seja de processamento, de entrada ou
+
+de saída.
+
+Tá bom.
+
+Agora, dando continuidade.
+
+O diagrama de componentes identifica os diferentes componentes para que todo o sistema funcione corretamente.
+
+Então, todos os componentes que são pertinentes a entrada, todos os componentes são pertinentes a
+
+processamento ou todos os componentes que são pertinentes a saída.
+
+O diagrama de componentes faz a identificação e tem uma visão ampla para que o sistema ele funcione
+
+corretamente.
+
+Beleza.
+
+O mais comum em uma abordagem de programação orientada a objetos é o desenvolvedor sênior.
+
+Usar o diagrama de componentes para agrupar classes com base em um objeto comum para que o desenvolvedor
+
+e outras pessoas envolvidas.
+
+Analisem o projeto de desenvolvimento de software de uma forma mais genérica.
+
+Beleza?
+
+Então olha só que importância tem essa última parte aqui do nosso texto.
+
+Então entendemos que o diagrama de componentes, ele é usado voltado a programação orientada a objetos.
+
+Quando nós falamos de objetos de um sistema.
+
+Beleza.
+
+E nós vemos que o desenvolvedor sênior, ele geralmente tem conhecimento nesse tipo de diagrama, porque
+
+geralmente ele faz a criação disso para simplificar a codificação que ele fez do determinado projeto
+
+para que as pessoas envolvidas elas consigam fazer as análises do projeto de uma forma mais genérica.
+
+E aí, o que ele geralmente faz?
+
+Ele faz o agrupamento das classes com os objetos.
+
+Então isso tá bem fresquinho na nossa cabeça, porque os dois diagramas anteriores nós aprendemos e
+
+entendemos o que é classes e o que são objetos também, né?
+
+Então não preciso bater muito nessa tecla nem entrar na forma granular mais detalhista sobre isso,
+
+porque nós vimos em aulas anteriores.
+
+Beleza.
+
+Então, aqui nós já temos o entendimento do porquê, de como e de quando se utiliza o diagrama de componentes.
+
+Agora, o que nós precisamos verificar além disso?
+
+Os benefícios que o diagrama de componentes oferece.
+
+Olha só.
+
+Embora o diagrama de componentes pareça complexo à primeira vista, ele é indispensável na criação do
+
+seu sistema, porque ele imagina a estrutura física do sistema.
+
+Ele presta atenção aos componentes do sistema e como eles se relacionam.
+
+E ele também enfatiza o comportamento do serviço quanto a interface.
+
+Então ele enfatiza o comportamento entre o front end e o back end de uma forma mais clara.
+
+Beleza.
+
+E aí?
+
+Nós temos aqui também como fazer a utilização.
+
+O diagrama de componentes em UML.
+
+Dá uma visão geral do sistema de software.
+
+Como já foi mencionado em textos anteriores, compreender o comportamento exato do serviço fornecido
+
+por cada software fará de você um desenvolvedor melhor, um arquiteto de software melhor, um engenheiro
+
+de software melhor, um analista de requisitos melhor, independente da área que você tenha a obrigatoriedade
+
+ou necessita do contato.
+
+Quanto a isso aqui.
+
+Beleza.
+
+O diagrama de componentes descreve sistemas de software implantados em qualquer linguagem ou estilo
+
+de programação.
+
+Olha só outro ponto bem importante também.
+
+Então vamos imaginar aqui determinadas empresas startups locais onde as programações elas variam, tecnologias
+
+elas variam.
+
+Então você entra em um lugar e é programado.
+
+Em C, você vai para um outro.
+
+É Java.
+
+Aí você vai para um terceiro é Python.
+
+Enfim, aqui é dito que esse tipo de diagrama ele pode ser implantado em qualquer linguagem ou estilo
+
+de programação, independente de qualquer linguagem ou de estilo.
+
+Front end, back end mobile.
+
+Você consegue fazer a usabilidade de uma forma bem assertiva.
+
+Beleza.
+
+A linguagem de modelagem é um conjunto de convenções para diagramas baseados em objetos e possui várias
+
+aplicações em diagramas de componentes.
+
+A UML determina que componentes e pacotes sejam conectados e as linhas que representam conectores de
+
+uma montagem e de delegação.
+
+Vamos entender isso daqui mais a fundo.
+
+Assim como os diagramas de classe, os diagramas de objetos que nós vimos em aulas anteriores possuem
+
+determinados objetos, formas geométricas, tipos de relacionamentos Os específicos.
+
+Aqui não vai ser diferente, tá?
+
+Então, se você já começou a se habituar com isso das aulas anteriores aqui, você vai pegar rapidinho
+
+e não vai ser um bicho de sete cabeças.
+
+Por quê?
+
+Porque existem formas geométricas específicas para fazer a relação com o diagrama de componentes.
+
+Beleza.
+
+O diagrama de componentes pode ser simples e geral ou detalhado e complexo.
+
+De toda forma, recomendamos reconhecer um símbolo UML apropriado.
+
+Veja a seguir os tipos de formas mais comuns ao ler e criar um diagrama de componentes.
+
+Vamos lá.
+
+Bom, o primeiro símbolo que nós temos existente dentro do diagrama de componentes obviamente chama
+
+se símbolo de componente.
+
+A entidade necessária para executar uma função de estereótipo.
+
+O componente fornece e consome comportamento em interfaces ou por meio de outros componentes.
+
+Considere componentes como um tipo de classe.
+
+Beleza.
+
+Na UML zero, o componente tem uma forma de bloco retangular com dois triângulos menores saindo da seta
+
+lateral.
+
+Agora na UML 2,0, o componente tem uma forma de bloco retangular com uma pequena imagem.
+
+De forma antiga no diagrama de componentes.
+
+Nós vamos visualizar aqui ao lado direito inferior da tela, esses bloquinhos que estão sendo mencionados.
+
+Tá bom.
+
+Então é dito ali o primeiro com dois retângulos menores.
+
+É esse carinha aqui.
+
+E o segundo seria esse daqui.
+
+Beleza.
+
+Existem versões de UML 1,0 e 2,0 que tecnicamente não mudam muitas coisas, né?
+
+Tem umas melhorias ou outras, mas tem pessoas que é old school e ainda mantém a usabilidade da primeira
+
+forma, tá?
+
+Então, o símbolo de componente no qual nós acabamos de falar.
+
+Existem 2/2 de serem criados ou é criado?
+
+Deste primeiro exemplo, o primeiro bloco ou é utilizado da segunda forma.
+
+Este segundo bloco tá bom.
+
+Eu em particular gosto de utilizar o primeiro.
+
+Tá assim é costume e anos de usabilidade e dificilmente eu lembro de colocar esse carinha aqui que é
+
+mais atual.
+
+Então geralmente eu sempre desenho usando o primeiro, tá?
+
+O segundo símbolo é o símbolo de nó.
+
+É simplesmente um bloquinho igual vocês estão vendo aqui ao lado direito inferior da tela.
+
+Representa objetos de hardware ou software em nível superior aos componentes.
+
+Beleza.
+
+Então nós temos camadas.
+
+Nós vamos entender isso na prática.
+
+Mas nós vamos entender que as camadas elas são ou profundas ou superficiais.
+
+Então, quando nós vamos falar sobre os nós, são representações de hardware ou software em nível superior
+
+aos componentes.
+
+Então, geralmente é aonde existe a interação do usuário.
+
+A gente pode falar que são níveis superficiais.
+
+Tá bom.
+
+E aí também nós temos um outro símbolo, que é o símbolo de interface.
+
+E aqui mostra a entradas ou materiais que componentes recebem ou fornece, lembrando a componentes entrada
+
+ou saída.
+
+Então, quando nós estamos falando de interface, nós não estamos olhando para o componente de processamento,
+
+por exemplo, que é dito entradas ou materiais que ele recebe ou fornece.
+
+Se ele recebe, é um componente de entrada.
+
+Se ele está fornecendo, é um componente de saída.
+
+Beleza.
+
+A interface.
+
+Ela pode ser representada por notas ou símbolos de texto com formatos de pirulito, soquete e bola de
+
+soquete.
+
+Então, aqui nós estamos falando que existem também duas opcionais.
+
+Existe apenas essa de interface ou essa outra onde também é acrescentado os atributos, assim como os
+
+diagramas que nós vimos nas aulas anteriores.
+
+Beleza.
+
+Aí nós temos também o símbolo de porta, que seria esse quadrado com este risquinho aqui, que ele especifica
+
+um ponto separado entre o componente e o ambiente.
+
+O símbolo de porta é um pequeno quadrado, então é esse que vocês estão visualizando aqui.
+
+O que vale ser ressaltado?
+
+Olha só um ponto de interação separado entre componente e ambiente.
+
+Aqui nós estamos falando sobre componente, o ambiente onde esse componente se encontra.
+
+O que é o ambiente?
+
+Geralmente é onde ele está hospedado, né?
+
+Onde ele está armazenado?
+
+Onde ele está.
+
+Localmente, por aí vai.
+
+Vamos entender isso quando tiver as necessidades práticas.
+
+Beleza.
+
+Também temos o símbolo de pacote.
+
+Agrupa vários elementos do sistema e é representado por pastas de arquivos.
+
+Assim como as pastas de um arquivo agrupam várias folhas.
+
+O pacote pode ser desenhado em torno de vários componentes.
+
+Beleza.
+
+E aí nós temos também os símbolos ali ao lado direito inferior da tela.
+
+E aí nós temos também o símbolo de notas.
+
+Com ele, os desenvolvedores fixam uma meta análise no diagrama de componentes.
+
+Aqui seria uma espécie de comentário que você consegue fazer.
+
+Então você vai colocando as notinhas e vai fazendo comentários ao decorrer, se necessário, né?
+
+Uma explicação breve, um detalhamento maior, alguma coisa nesse sentido.
+
+O símbolo de independência é o nosso último até então, tá?
+
+Ele mostra que uma parte do sistema depende da outra.
+
+A dependência é representada por linhas tracejadas que vinculam um componente ou elemento a outro.
+
+Beleza.
+
+Então aqui seria a setinha que faz a relação entre os diagramas, por exemplo.
+
+Tá.
+
+Então, quando eu falar que um componente tem dependência do outro, eu vou fazer uma relação usando
+
+a linha pontilhada.
+
+Beleza?
+
+Bom galera, não vou me estender muito.
+
+Eu acho que o conteúdo já tá bem massivo até aqui.
+
+Teremos outras aulas teóricas para complementar o que nós começamos a estudar agora, pois existe aqui
+
+ainda algumas coisas para nós aprofundarmos, para comentarmos, para olharmos com mais calma antes
+
+de fazermos a prática.
+
+Então eu vou me despedindo por aqui.
+
+Porém, próxima aula nós daremos continuidade com base de onde nós paramos.
+
+Beleza?
+
+Espero que vocês estejam entendendo e principalmente, que vocês estejam gostando do curso.
+
+Ele é preparado literalmente para nós abordarmos de forma detalhada e minuciosa todos os diagramas que
+
+são compostos dentro da UML.
+
+Vou me despedindo por aqui.
+
+Fiquem com Deus e até breve.
