@@ -1,0 +1,298 @@
+Olá aluna! Olá, aluno!
+
+Como vocês estão?
+
+Eu espero que
+
+vocês estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a parte dois dos diagramas de componentes.
+
+Dando continuidade ao início da aula teórica, nós vamos abordar aqui alguns
+
+outros conceitos quanto a diagramas de componentes, para que nós tenhamos um
+
+entendimento mais completo e após, nós possamos fazer as devidas práticas.
+
+Beleza? Bom, então na aula anterior eu
+
+mostrei a vocês o que é o
+
+diagrama, para que ele serve? Quando? Como
+
+se utiliza? Mostrei também algumas formas geométricas
+
+que são utilizadas, as relações e atributos
+
+que também são contextualizados dentro desse diagrama.
+
+E aqui eu vou passar algumas outras coisas que são relacionadas
+
+com base da aula anterior para nós termos uma absorção melhor.
+
+Tá bom.
+
+Então, como já foi mencionado na aula anterior, ressaltando aqui e reforçando principalmente,
+
+existem três maneiras comuns de criar o compartimento de nome de componentes.
+
+Tá bom.
+
+Então, existem aqui três figuras abaixo e vocês conseguem ter
+
+uma observação do que muda de uma para outra.
+
+Vamos dando continuidade.
+
+Olha só.
+
+É sempre necessário incluir o texto do componente entre aspas
+
+angulares ou logotipo do componente e logotipo do componente.
+
+Você pode tanto pôr um quanto o outro quanto utilizar os dois.
+
+Tá bom, Essa diferença é importante, pois o retângulo com apenas
+
+um nome dentro representa classificadores, ou seja, elementos de classe.
+
+Então aí entra no contexto do diagrama de classe.
+
+Então, para mim, fazer a separação do que é um diagrama de classe para um diagrama de componente.
+
+Eu faço essa distinção, tá? Então
+
+nós temos três figuras aqui, ó.
+
+A primeira é Eu posso, entre as aspas, acrescentar o nome, como é
+
+dito, como na segunda figura, ao invés de acrescentar o nome, eu posso
+
+colocar o ícone em específico, né? Um logotipo que representa a componente.
+
+Tá bom? Como eu posso utilizar os
+
+dois? Eu em particular, acho esta
+
+terceira opção uma opção mais completa.
+
+Beleza.
+
+Então nós vamos abordar desta terceira forma, onde nós iniciaremos com
+
+as aspas acrescentando os nomes, porém também acrescentaremos o logotipo.
+
+Acredito que ficará bem mais completo.
+
+Beleza.
+
+Dando continuidade.
+
+Assim como na notação de classe, o componente também tem um
+
+espaço para listar interfaces semelhante a como atributos e métodos.
+
+Na notação de classe são adicionados.
+
+Então aqui ele está falando que existe um espaço também para informações adicionais,
+
+assim como nós acrescentamos métodos e atributos dentro do diagrama de classes.
+
+Então, por isso que existe a figura que existe ali entre as aspas do nome,
+
+o logotipo na parte de cima e abaixo, existe ali alguns nomezinhos em interface.
+
+Beleza.
+
+A interface representa locais onde os grupos de classes
+
+no componente se comunicam com outros componentes do sistema.
+
+Beleza, então, é a representatividade da comunicação entre componentes.
+
+Outra maneira de representar a interface é estender um símbolo de caixa de componentes.
+
+Veja um rápido resumo dos símbolos mais usados.
+
+Então vamos lá.
+
+O primeiro é a interface fornecida, uma linha reta a partir
+
+de uma caixa de componentes e com um círculo anexado.
+
+Esse símbolo representa a interface na qual um componente
+
+produz informações usadas pela interface necessária de outro componente.
+
+Beleza.
+
+Ele produz informações de outro componente.
+
+Um componente produz informações que é vinda de outro componente.
+
+Ele não produz informações de si próprio.
+
+Beleza.
+
+Então, quando isso acontece, temos essa figura de representação da interface necessária
+
+uma linha reta na caixa de componentes e com um semi-círculo anexado.
+
+Também é representado com uma seta tracejada ou com uma seta aberta.
+
+Então, aqui, na verdade, nós podemos desenhar de duas formas, sendo este tipo de figura.
+
+Ou a seta tracejada que nós já vimos na aula anterior.
+
+Beleza.
+
+Esse símbolo representa a interface na qual o componente requer informações para executar a função correta.
+
+Bom, então quando eu utilizo isso, quando eu preciso fornecer informações de uma
+
+função correta, eu vou acabar fazendo a ilustração utilizando esse tipo de figura.
+
+E aí, o que eu quero mostrar
+
+para vocês além deste slide? Vamos lá.
+
+Gostaria que vocês abrissem comigo o nosso querido drywall, porque aqui
+
+nós vamos fazer algumas modificações para poder contextualizar esse diagrama.
+
+Tá que eu quero que vocês entendam.
+
+Os 2/1 diagramas no qual nós já estudamos aqui no curso Diagrama de Classe Diagrama de Objetos Nós
+
+achamos todas as formas geométricas aqui dentro do nosso último menu, que é o menu de UML.
+
+Beleza.
+
+Para o nosso diagrama de componentes, nós teremos alguns objetos aqui.
+
+Por exemplo, nós teremos aqui o modo que isso foi mencionado na aula anterior.
+
+Nós teremos o package, que também foi mencionado na aula anterior.
+
+Nós teremos a notação.
+
+Porém, por exemplo, para essas figuras que nós estamos visualizando agora nesta aula, nós não temos
+
+neste menu aqui, porque existe uma diferenciação entre UML 1,0 UML 2,0 UML 2,5, no
+
+qual eu já comentei que faz algumas mudanças, algumas variações que não são tão agravantes.
+
+Porém, quando se trata de programa, quando se trata de ferramenta, às vezes
+
+aquilo que é mais recente acaba ficando separado daquilo que é mais antigo.
+
+Vamos colocar desta forma para um entendimento melhor.
+
+Então vamos entender aqui que este menu de UML.
+
+Ele possui formas geométricas, componentes de diagramas antigos UML 1,0, UML 1,5, por exemplo.
+
+É que se eu precisar de objetos de formas geométricas mais recentes, mais
+
+atualizadas, eu vou ter de adicionar um outro módulo para mim poder trabalhar.
+
+Ou seja, para o diagrama de componentes nós vamos utilizar dois módulos, que é este módulo
+
+de UML que já está habilitado e vamos clicar aqui no botão de mais formas.
+
+E vamos achar aqui também o nosso UML 2,5.
+
+Tá bom.
+
+Quando vocês clicar em UML 2,5, vocês vão ver aqui uma breve ilustração
+
+de componentes que você vai ter quando você habilitar este módulo, modo, tá?
+
+E aí, dentre esses componentes, nós temos aqui o componente de portas.
+
+Nós temos aqui o de figura necessária, por exemplo, que é o que nós estamos falando na aula atual.
+
+Tá bom.
+
+Então o que nós vamos fazer aqui, ó? Vamos
+
+marcar o ML 2,5 e vamos pedir para aplicar.
+
+Uma vez que nós fizermos a aplicação, ele já estará habilitado
+
+aqui ao menu vertical do lado esquerdo da tela de vocês.
+
+Provavelmente vai ficar aqui a ordem hierárquica, assim como o meu.
+
+De baixo para cima será o segundo.
+
+Beleza.
+
+Então nós daremos trabalho aos diagramas de componentes, fazendo uma junção, uma mesclagem.
+
+Utilização de componentes que vão ficar tanto em UML quanto em UML 2,0.
+
+Beleza.
+
+Como é a minha primeira vez habilitando ele, demorou um pouco aqui para carregar.
+
+E Os objetos, as formas geométricas.
+
+Mas eu tenho aqui, ó.
+
+Eu tenho aqui os tipos de portas nos quais eu posso fazer utilização.
+
+E aqui nós também podemos ter a percepção, por exemplo,
+
+para outras formas geométricas que são mais completas, por exemplo.
+
+Então, caso eu queira fazer a utilização de componentes já adicionando interfaces, olha só, eu tenho
+
+esse tipo onde eu já vou poder colocar o nome do componente acima ao lado direito.
+
+Ele já vem com o logotipo de verificação que é um componente
+
+e abaixo ele possui ali outras partes né? Outros locais para me
+
+importar, outros tipos de informações, por exemplo, informações de interface, beleza.
+
+Diferente do ML 1,0, por exemplo.
+
+E se eu fosse fazer a utilização, eu só teria o determinado módulo aqui.
+
+Beleza.
+
+Então, por enquanto eu não vou me estender.
+
+Eu só queria mostrar a vocês que dentro do diagrama de
+
+componentes nós vamos utilizar conceitos de UML usando conceitos de UML.
+
+2,5, por exemplo, são nada mais nada menos do que figuras, ilustrações, formas geométricas atualizadas
+
+que de certa forma vão facilitar para algumas coisas, porém para outras vão dificultar.
+
+Na medida em que nós fomos fazer as criações, nós fomos estudando, fomos praticando.
+
+Eu vou tentar deduzir para vocês o que é melhor utilizar de um que é melhor de utilizar de
+
+outro, que não é legal de utilizar de um, o que não é legal de utilizar de outro.
+
+Para nós cairmos no conceito cotidiano e ter uma abrangência
+
+maior, uma facilidade maior de manipulação no dia a dia.
+
+Beleza.
+
+Espero que vocês estejam gostando do curso.
+
+Me despeço por aqui.
+
+Fiquem com Deus.
+
+Até breve.
+Rolage
+
+That's all for today, folks
