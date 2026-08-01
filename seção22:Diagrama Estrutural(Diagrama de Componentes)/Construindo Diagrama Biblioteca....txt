@@ -1,0 +1,389 @@
+Olá, Luna!
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do e-mail.
+
+Nesta aula, trazendo a vocês outro conceito prático, desta vez vamos falar um pouco sobre livraria.
+
+Beleza?
+
+Então, assim como nós desenhamos casos de diagramas de classe e objetos sobre uma livraria, não poderia
+
+faltar também o conceito de diagramas de componentes para nossa livraria.
+
+Beleza.
+
+Então, primeiro de tudo é que nós precisamos identificar os componentes.
+
+Então, diferente da aquilo que nós fizemos na aula anterior, usando o ML 2,5.
+
+Esse carinha eu vou utilizar o ML 1,0.
+
+Beleza?
+
+Então nós vamos utilizar este conceito de módulo aqui.
+
+Claro que se vocês optarem, tiverem gostado de utilizar este outro carinha aqui.
+
+O que foi o que nós usamos na aula anterior?
+
+Este tipo de componente é a mesma coisa.
+
+Beleza.
+
+Tanto que se vocês observarem que o módulo aqui ó esse carinha grandão, ele tem uma miniatura aqui
+
+dentro, que é uma espécie de logotipo.
+
+Então vocês podem utilizar ambas as formas, não importa a qual vocês utilizem.
+
+Não existe certo e errado.
+
+Beleza.
+
+A diferença é que existe um que é mais atual e o outro é mais antigo.
+
+Tá bom.
+
+Um Você consegue acrescentar mais informações, o outro você não precisa acrescentar muita coisa.
+
+Tá.
+
+Mas são ambos os módulos.
+
+Ambos os componentes.
+
+Então eu quero fazer com esse daqui para vocês entenderem que é possível fazer de duas formas usando
+
+vários componentes.
+
+Tá bom?
+
+Então, primeiro de tudo, nós precisamos identificar o que, o que são os nossos componentes dentro
+
+da livraria.
+
+Então a livraria ela tem a necessidade de ter um componente de livros.
+
+Então vamos iniciar aqui digitando o componente de livros.
+
+Beleza.
+
+Além dos nossos livros, nós precisamos de um local para guardar os livros, então vamos colocar aqui
+
+o banco.
+
+De dados para os livros serem armazenados.
+
+Nós também vamos precisar ter membros ou clientes, né?
+
+Que são as pessoas que vão alugar ou comprar o livro, Então nós vamos digitar aqui o membros.
+
+Beleza?
+
+E nós também vamos precisar de um outro modo específico que se chama pesquisa.
+
+Por quê?
+
+Porque o membro para poder achar um livro, ele vai ser obrigado a fazer determinadas pesquisas.
+
+Beleza, Então vamos digitar aqui o Pesquisa.
+
+Bom, e aí, por que que eu escolhi fazer aqui um exemplo de biblioteca?
+
+Primeiro de tudo, porque neste exemplo nós vamos utilizar aqui algumas outras ferramentas que nós vimos
+
+nas primeiras aulas teóricas de diagramas de componentes que nós acabamos não usando no exemplo passado,
+
+no exemplo da aula passada.
+
+Então eu escolhi este exemplo justamente para trazer aqui outras ferramentas que são necessárias de
+
+acordo com a necessidade, dependendo daquilo que você vai ilustrar.
+
+Beleza.
+
+O que nós vamos precisar aqui, ó, Seria esse carinha aqui o nosso pacote.
+
+Beleza?
+
+O que nós vamos fazer com ele?
+
+O nosso package.
+
+Ele vai ser aqui, na verdade, uma transação.
+
+Tá, então vamos descrever aqui a transação e nós vamos entender o porquê.
+
+Além dele, nós vamos também utilizar as notas.
+
+Eu não me recordo onde está as notas aqui.
+
+Talvez eu demore um pouco para achar o momento.
+
+Olha só, ao invés de eu procurar, vou digitar as notas e aí provavelmente ele vai trazer algo que
+
+eu queira aqui ó.
+
+Pode ser esse carinha aqui, ó, o ícone de notas, tá?
+
+Então, tudo aquilo que vocês não acharem, pessoal, talvez vocês digitando consigam achar, principalmente
+
+se vocês souberem o nome em inglês.
+
+Facilita ainda mais.
+
+Beleza?
+
+E aqui nós vamos montar o nosso caso de biblioteca.
+
+Tá?
+
+Então, primeiro de tudo, nós vamos trabalhar com um conceito no qual nós não trabalhamos.
+
+No exemplo passado, que é esse carinha aqui, ó, eu vou voltar uns slides.
+
+Lembram da setinha tracejada que eu mencionei na primeira aula teórica de diagrama de componentes seria
+
+aqui o símbolo de dependência para o nosso sistema de biblioteca funcionar.
+
+O que mais vai existir, na verdade, vai ser dependência.
+
+Vocês vão entender o porquê.
+
+Olha só, existe aqui, inicialmente a transação.
+
+A transação imagina que fosse ali e de certa forma, a passagem de livros da biblioteca para o membro,
+
+né?
+
+Fosse ali, de certa forma, o aluguel ou a compra do livro.
+
+Beleza, a transação.
+
+Para que ela aconteça, na verdade ela possui dependências e existe duas dependências.
+
+Por quê?
+
+Porque ela depende do livro existir e também depende do membro para que possa fazer a locação ou a compra
+
+do livro.
+
+Mesmo o livro existindo e não houver membro, não vai haver alocação a transação, o aluguel ou a compra.
+
+Da mesma forma que se houver um membro e não haver o livro que ele quer que ele queira, também não
+
+vai haver a necessidade da transação.
+
+Então, aqui, inicialmente, o que nós teremos são dependências.
+
+Então, nada mais justo do que nós procurarmos aqui uma setinha que tenha tracejado.
+
+Pode ser essa daqui mesmo, para que nós possamos fazer as nossas dependências aqui direitinho.
+
+Beleza?
+
+Então vamos lá.
+
+Eu vou falar aqui que existe a dependência inicialmente da minha transação.
+
+Com os meus membros.
+
+Beleza.
+
+E existe também a dependência.
+
+Deixa eu copiar qual é mais fácil, né?
+
+E existe também a dependência das minhas transações.
+
+Com os meus livros, beleza?
+
+Então, aqui é a primeira ligação no qual nós faremos que não existe, ou melhor, que não existiu.
+
+Dentro do exemplo passado.
+
+Beleza.
+
+Outra coisa também que é dependente é o seguinte para que o meu membro ele exista, ele tem de ter um
+
+determinado cadastro.
+
+Ele precisa estar sendo identificado em algum local, porque eu vou precisar saber do nome dele.
+
+Eu vou precisar saber do endereço quando ele fez a locação ou quando ele realizou a compra, qual foi
+
+o valor, se foi uma venda, quando ele vai entregar, caso tenha sido locado livro, então o meu membro,
+
+ele também depende de existir um banco de dados para que ele possa existir.
+
+Então não tem como haver um membro se não houver um local aonde essas informações elas sejam armazenadas,
+
+então aqui o existirá uma outra dependência que é os membros.
+
+Com o banco de dados.
+
+Beleza.
+
+Então nós podemos deixar dessa forma aqui, por exemplo.
+
+Bom, eu não sei vocês, mas eu tenho um pouco de TOC quanto essas coisas aqui.
+
+Deixa eu deixar mais ajustado aqui.
+
+Beleza, não tá 100%, mas só para nós termos um entendimento.
+
+Beleza.
+
+O que mais precisa ter dentro do banco de dados, galera?
+
+Dentro do banco de dados também há necessidade de haver livros.
+
+Então vamos arrumar isso daqui, ó.
+
+Para nós termos uma visão melhor, podemos deixar aqui, vamos arrastar esse para cá e aí tá tudo certo,
+
+Beleza?
+
+Então, aqui os meus livros.
+
+Eles também dependem de estar dentro do banco de dados para que haja a transação e etc.
+
+Beleza, Então vamos usar aqui mais uma vez a nossa seta de dependência.
+
+Para nós podermos fazer tudo aquilo que é necessário.
+
+Vai ser mais ou menos isso daqui, beleza?
+
+E aí, O que mais é necessário?
+
+Pessoal, Olha só.
+
+Entre os livros E o banco de dados.
+
+Nós teremos outra coisa aqui, que é aquela nossa seta sem pontas nenhuma.
+
+Que na verdade é algo independente, né?
+
+Não existe aqui dependência.
+
+Deixa eu achar ela um momento.
+
+Aí vocês vão me perguntar mas por que que você está colocando esta amarração?
+
+Se você já está dizendo que existe uma dependência entre livre banco de dados?
+
+Eu estou colocando porque eu estou dizendo que quando eu fizer uma pesquisa, terá a necessidade de
+
+haver informações disponibilizadas de livros do banco de dados para o meu modo de pesquisa.
+
+Aqui o que nós vamos utilizar é a ferramenta da interface necessária e interface fornecida, aquela
+
+que nós usamos nas aulas anteriores.
+
+Beleza.
+
+Então nós vamos achar ela aqui só o momento.
+
+É aqui.
+
+Galera, eu vou falar o seguinte aqui é necessário.
+
+Lembrando que o necessário é a bolinha.
+
+Olha só a interface necessária.
+
+Para fornecer o meu campo de pesquisa.
+
+Beleza.
+
+Então aqui eu estou dizendo que o meu banco de dados é o meu livro e os meus livros.
+
+Eles são necessários para que eu forneça algum tipo de pesquisa dos membros.
+
+Beleza.
+
+Bom, fora isso, o que que nós precisamos?
+
+Existe aqui a nota?
+
+O que é a nota?
+
+A nota nada mais vai ser aqui do que um símbolo relacionado a transação.
+
+Aqui eu posso fazer da seguinte forma Eu posso colocar esses carinhas aqui ó, só para representar uma
+
+amarração entre a transação e as minhas notas, para mostrar o que e a transação aqui ó.
+
+Como que se fosse a representação de um livrinho, tá?
+
+Eu poderia colocar um livrinho no lugar?
+
+Eu poderia, mas aí já não ficaria.
+
+E de certa forma inventado como um diagrama de componentes, porque não faz parte um ícone de livro
+
+dentro do diagrama de componentes.
+
+Mas isso daqui seria para fazer uma ilustração do que eu estou fazendo de transação.
+
+Eu estou usando os livros para fazer transação aos membros, por exemplo.
+
+Tá algo bem básico.
+
+Claro que quando nós vamos fazer isso daqui, nós devemos nos atentar, deixar tudo desdentado, bonitinho,
+
+tudo no mais perfeito posicionamento possível.
+
+Beleza, Porque isso daqui é algo que você tem de fazer de forma profissional.
+
+Porém, se eu ficar perdendo tempo mexendo e editando tudo o que precisa, acaba sendo muito massiva
+
+e muito chata, né?
+
+Mas vocês podem ir fazendo as correções à medida em que vocês acharem necessário.
+
+Beleza?
+
+Bom, por que que eu fiz desta forma aqui, galera?
+
+Por que que eu resolvi usar este componente?
+
+Porque é um componente que também é bastante utilizado.
+
+As pessoas, elas muitas vezes vão utilizar esse daqui por ser mais antigo e a maioria dos casos mais
+
+conhecidos por todo mundo também.
+
+Principalmente para as pessoas old school.
+
+As pessoas mais antigas com certeza vão conhecer mais este tipo de componente do que o da UML 2,0.
+
+E aí galera?
+
+Assim como todos os outros diagramas, nós podemos fazer as identificações aqui o Por cores, né?
+
+Fazer a separação legalzinho do que é cada coisa.
+
+Beleza.
+
+E aí fica mais fácil a identificação, assim como os textos, né?
+
+Nós colocamos textos na aula anterior sobre o que é, o que precisa ser fornecido de cada lugar, cada
+
+informação.
+
+Vou deixar para vocês acrescentarem para esse diagrama como um exercício de absorção.
+
+Beleza?
+
+Bom, espero que estejam entendendo que estejam gostando.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.
