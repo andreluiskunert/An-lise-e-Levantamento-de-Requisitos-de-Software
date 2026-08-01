@@ -1,0 +1,473 @@
+Olá Luna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+E a partir desta aula nós vamos começar a colocar a mão na massa com base no aprendizado das aulas teóricas.
+
+E eu vou tentar fazer assim como os diagramas
+
+anteriores, tanto diagrama de classes quanto diagrama de objetos.
+
+Começar por algo básico, sem muitos informativos, e a medida na
+
+qual nós formos entendendo, nós formos absorvendo, nós vamos nos adentrando,
+
+acrescentando mais informativos, vendo mais detalhes e aprofundando ainda mais.
+
+Beleza.
+
+Bom, o que eu quero trazer para vocês na aula de hoje é um diagrama de componentes bem
+
+básico, bem resumido, sem muitos informativos, só para nós entendermos como é criado, como é feito as relações.
+
+Então eu vou trazer para vocês um diagrama de componentes em relação a compras online.
+
+Tá bom? Então
+
+vamos lá.
+
+Partindo do início.
+
+Primeiro de tudo, nós precisamos desenhar aqui os nossos modos.
+
+Beleza.
+
+Então, como foi mencionado nas aulas anteriores, nós podemos
+
+fazer a utilização aqui de alguns objetos, né? Alguns
+
+conceitos, algumas formas que estão dentro de UML.
+
+Mas nós também precisamos nos atentar e observar o que nós temos disponível dentro de UML 2,5.
+
+Para que nós possamos utilizar aqui o que existe de melhor no momento ou para ocasião.
+
+Beleza, Então nós vamos dar uma fuçada aqui bem básica em todos eles.
+
+E eu não vou me estender tanto, até porque, como eu mencionei, a
+
+intenção é ensinar a criar por enquanto e não adentrar a detalhes.
+
+Então nós vamos utilizar aqui o componente existente dentro de 2,5.
+
+Vocês vão ficar ali e vai ter um componente.
+
+Beleza? Bom, primeiro de tudo, para que nós possamos
+
+desenhar o diagrama de componentes, nós vamos precisar
+
+entender algumas coisas, né? O que é pertinente
+
+a compras online? O que precisa existir para
+
+que exista a possibilidade de uma compra online?
+
+Então, primeiro de tudo, nós precisamos ter produtos.
+
+Então, a minha compra online, ela pode ser de qualquer coisa que seja vendido de forma virtual.
+
+Desde produtos cosméticos, objetos, variedades, assessórios alimentícios e etc.
+
+Beleza, Então vamos colocar que é produtos no contexto genérico.
+
+Não precisamos informar aqui inicialmente que tipo de produto e nem como que ele é vendido.
+
+Beleza.
+
+A segunda coisa para que o produto seja vendido eu preciso ter um cliente para efetuar a compra.
+
+Beleza.
+
+Então existe o produto.
+
+E para que exista à venda, precisa haver um consumidor, um consumidor.
+
+Ele é o cliente.
+
+Beleza.
+
+E geralmente, quando o cliente, ele interage com um produto e
+
+ele efetua uma compra, ele gera uma ordem de serviço.
+
+Beleza.
+
+Ordem de serviço é aquilo que é necessário para rastreio do pedido para que exista
+
+todo trâmite logístico, desde o preparo do pedido até o envio, entrega e etc.
+
+Beleza.
+
+E junto a tudo isso, existe a obrigatoriedade de haver uma conta.
+
+Beleza.
+
+Então eu não consigo fazer uma compra se eu não possuir uma conta.
+
+Beleza.
+
+Existe a necessidade do cadastro, por mais que eu faço um pagamento em pics que hoje em dia é possivel.
+
+Eu necessito ainda assim possuir uma conta dentro da loja virtual para que exista ali os informativos.
+
+Os dados em relação ao cliente.
+
+Para que a compra ela funcione eu vou precisar saber do endereço da pessoa, do
+
+nome da pessoa onde ela reside para que eu possa fazer todo trâmite de envio.
+
+Beleza.
+
+Então nós vamos trabalhar com base nesses quatro componentes no qual eu mencionei agora.
+
+Beleza.
+
+Então, primeira coisa que nós vamos fazer, como
+
+eu mencionei anteriormente, vamos criar algo bem básico.
+
+Então, para alguns informativos aqui, nós vamos deletar para não confundirmos o que precisa.
+
+Beleza, Então, inicialmente nós vamos deixar dessa forma aqui ó, só com nosso componente beleza.
+
+E aqui nós vamos nomear os nossos componentes para que nós tenhamos uma identificação
+
+e a partir destas identificações, nós consigamos fazer tudo aquilo que é necessário.
+
+Então, como eu mencionei, o nosso primeiro componente vai se chamar produtos, que é aquilo
+
+que vai ser necessário haver dentro da minha loja virtual para mim fazer as vendas.
+
+Eu vou ter também a necessidade de ter a ordem no qual eu
+
+mencionei que aquilo que é gerado quando o cliente efetua uma compra, né?
+
+A ordem de serviço, por exemplo, eu vou colocar aqui só como ordem.
+
+Nós vamos saber o que é uma ordem de serviço.
+
+Nós vamos ter aqui o cliente, como eu mencionei.
+
+E também vamos ter a conta.
+
+Beleza, Então, inicialmente são esses quatro aqui bem básicos.
+
+Tá bom galera, Então, partindo da proposta dos slides aqui,
+
+o que nós já comentamos em aulas anteriores Boas práticas.
+
+Aqui nós estamos acrescentando o nome dos componentes, além do logotipo para facilitar a identificação.
+
+Tá bom, nós poderíamos deixar lá entre as aspas, como nós também tínhamos visto.
+
+Isso também ajuda, mas eu não quero adentrar a
+
+detalhes por enquanto, então vamos manter desta forma aqui.
+
+Beleza? Bom pessoal, e aí existe uma outra coisa aqui
+
+que nós precisamos nos atentar, que é o que nós
+
+falamos na aula anterior sobre as interfaces fornecidas e necessárias.
+
+Beleza.
+
+Então eu comentei brevemente sobre algumas coisas que nós tínhamos na UML 2,0 no término da aula anterior.
+
+Porém, para esta ocasião, o que nós vamos usar está contido dentro de UML 1,0
+
+e é este carinha aqui chamado Lollipop Beleza, que é o tal do pirulito.
+
+Tá bom.
+
+Por que que nós vamos utilizar ele? Se nós partimos
+
+do princípio que para interface fornecida para interface necessária.
+
+Nós temos a bolinha e nós temos a meia lua.
+
+Aqui nós já conseguimos, ao invés de utilizar dois tipos
+
+de formas, utilizar um que já representa ambas as ocasiões.
+
+Que de certa forma para um lado vai significar a
+
+interface fornecida para outro lado vai significar interface necessária.
+
+Como assim?
+
+Não entendi.
+
+Olha só, vamos voltar lá no slide.
+
+Tá vendo aqui o que existe essa meia lua na
+
+interface necessária? Se nós formos olhar aqui dentro do componente.
+
+Olha só, deixa eu usar um aqui já existe a meia lua aqui, ó.
+
+Beleza.
+
+E se nós voltarmos no slide anterior, nós temos aqui a interface fornecida.
+
+Nós já temos a bolinha aqui também.
+
+Então, quando eu utilizo esse ícone, quando eu faço a relação entre os componentes,
+
+eu já por obrigatoriedade, Falo sempre qual lado vai ser, o quê, qual lado
+
+vai ser interface fornecida, qual lado vai ser a interface necessária, por exemplo.
+
+Então é esse ícone que nós vamos usar para essas amarrações aqui.
+
+Beleza? E aí, como nós vamos fazer? Olha
+
+só, inicialmente nós temos o cliente, temos o
+
+produto, temos a conta e temos a ordem.
+
+Beleza.
+
+Digamos que para o cliente funcionaria da seguinte forma Olha só, nós temos aqui o pirulito para
+
+o lado do cliente e temos a forma geométrica do balão para o lado da ordem.
+
+Por quê? Porque é o
+
+cliente que vamos lá.
+
+Voltando no slide, para vocês entenderem, interface fornecida é o lado da bolinha,
+
+ou seja, o cliente fornece informações para que seja necessário gerar uma ordem.
+
+Então, se vocês forem olhar no slide novamente.
+
+Olha só a meia lua, Ela está para o lado do da ordem, né? Então
+
+aqui eu já estou dizendo que existe a interface fornecida é, existe a interface necessária.
+
+Tá bom? Aí pessoal, eu posso fazer
+
+de várias formas, tá? Eu posso
+
+deixar isso daqui mais no meio.
+
+Eu posso deixar isso daqui mais na ponta.
+
+Aqui não existe uma regra.
+
+O que nós precisamos e devemos nos atentar que exista a ligação é que além
+
+da ligação, né, nós temos aqui uma visibilidade do que nós estamos querendo representar.
+
+Beleza.
+
+Mas por enquanto seria isso daqui.
+
+Então, aqui eu estou falando que a relação entre o cliente e a ordem é
+
+que é fornecido os dados do cliente necessário para que seja gerada uma ordem.
+
+E aí, como que seria? aqui para os produtos
+
+seria quase que a mesma coisa, porque eu seria.
+
+Eu teria a necessidade de fornecer informações dos produtos.
+
+Então fornecida é a bolinha completa, vai ficar para o
+
+lado de cá para que seja necessário criar uma ordem.
+
+Beleza, então seria mais ou menos isso daqui.
+
+Olha só, forneço informações, os produtos, forneço informação do cliente, as duas informações do produto
+
+e do cliente e gerado a ordem de serviço, porque aí eu tenho os
+
+dados do cliente para fazer os envios e eu tenho os dados do produto
+
+para mim saber qual produto eu vou fazer o envio para ele, por exemplo.
+
+Beleza.
+
+E aqui a mesma coisa e aqui não tem necessidade.
+
+Por exemplo, o cliente, a conta não tem necessidade de a gente falar o que é fornecido e o que é necessário.
+
+Porque que é uma amarração? Todo
+
+cliente obrigatoriamente precisa ter uma conta.
+
+Beleza, Então, aqui, na verdade, nós podemos utilizar uma linha no qual
+
+nós já estamos acostumados, que é aquela linha que não possui direcionamento.
+
+Nela não possui relação, não possui seta, como vocês preferirem.
+
+Tá que a gente simplesmente tá fazendo uma identificação de que
+
+existe uma relação, uma amarração entre cliente e conta beleza.
+
+Além disso, pessoal, nós também temos uma outra amarração que é entre a conta e a ordem.
+
+Por quê? Porque a partir da conta que eu vou fazer
+
+o pagamento da ordem de serviço, eu vou pagar o produto.
+
+A ordem de serviço gerada.
+
+Então, aqui novamente, vai ter a necessidade de trabalharmos com o que é fornecido.
+
+O que é necessário, então, necessário para
+
+gerar a ordem de serviço? Pagar.
+
+a conta.
+
+Beleza.
+
+Então, seria mais ou menos isso daqui.
+
+E para que nós possamos ter um entendimento, tá claro que nós podemos deixar isso daqui mais.
+
+Hierárquico visualmente.
+
+Sim, mas no momento não é necessário porque é algo muito pequeno.
+
+O que nós podemos fazer aqui? Além disso,
+
+nós também podemos falar sobre as relações.
+
+O que elas significam.
+
+Então, aqui, ó, nós podemos fazer o seguinte vamos até fazer uma outra mudança aqui, ó.
+
+Porque entre a conta, até para facilitar o entendimento.
+
+Olha só.
+
+Entre a conta e a ordem de serviço existe o pagamento, né? O
+
+pagamento nós podemos fazer da seguinte forma nós podemos utilizar esta linha aqui,
+
+porém, ao invés de ela ser contínua, eu vou colocar ela como tracejada.
+
+Tá bom? Por que que eu vou
+
+colocar ela como tracejada? Porque aqui eu
+
+vou fazer um tipo de amarração.
+
+Olha só.
+
+Aqui eu vou especificar.
+
+Deixa eu dar um zoom aqui para poder arrancar esse shield aqui.
+
+Olha só, eu vou especificar o
+
+que é o quê? Beleza.
+
+Então aqui eu estou falando que eu forneço informações da minha conta.
+
+E aqui existe informações fornecidas da ordem de serviço e que existe o pagamento para isso.
+
+Tá.
+
+Como que eu vou fazer essas identificações aí? Nós vamos
+
+usar coisas que nós já usamos em outros diagramas.
+
+Por exemplo, existe aqui o title que nós podemos usar para fazer descrições.
+
+então, aqui eu posso colocar assim o pagamento.
+
+Beleza.
+
+E eu deixo aqui mais ou menos.
+
+Aqui eu posso colocar outras informações como.
+
+Detalhes.
+
+Da conta.
+
+Deixa eu dar um shift enter aqui.
+
+Quebrar a linha, ficar melhor visualmente.
+
+Beleza, aqui ó.
+
+Nós podemos colocar assim o.
+
+Copiar e colar esse aqui, ó.
+
+Detalhes do cliente Poderia ser informações do cliente também.
+
+Tá pessoal, nós vamos colocar como detalhe aqui.
+
+E aqui ó.
+
+Também teria um outro informativo que seria o código do item, por exemplo Código do item.
+
+Beleza.
+
+Então esses aqui seriam os informativos necessários para que nós fizéssemos da
+
+forma mais básica um diagrama de componentes relacionado a compras online.
+
+Beleza.
+
+Então eu forneço detalhes do cliente, forneço o código do
+
+item código do produto para que seja gerado uma ordem.
+
+Eu também forneço detalhes da minha conta para que seja efetuado o determinado pagamento.
+
+Beleza.
+
+Lembrando aqui que fornecido e necessário são esses carinhas né? Então eu forneço
+
+sempre com a bolinha completa, é o necessário e exatamente a meia lua.
+
+Então para que seja necessário gerar uma ordem, eu tenho aqui que no caso fornecer três
+
+informações, ou seja, para gerar a ordem de serviço eu forneço as informações do cliente e
+
+forneço as informações do pedido e eu também forneço os detalhes da conta e o pagamento.
+
+E aí a minha ordem é gerada.
+
+Beleza.
+
+Então, aparentemente, né, Eu sei que pareceu um bicho de sete cabeças.
+
+Foi bem diferente do que nós viemos trabalhando tanto em diagrama de classes quanto diagrama de objetos.
+
+Talvez a maioria de vocês tivesse ficado com medo de não entender sobre este tipo de diagrama, mas como
+
+vocês acabaram de visualizar, é um dos mais simples e é um dos mais fáceis de se interpretar.
+
+Como vocês podem observar, desde que vocês saibam o que
+
+significam cada um dos recursos que vocês estão usando.
+
+Bom, eu espero que vocês estejam entendendo que vocês estejam gostando.
+
+Espero que minha explicação esteja servindo de aprendizado e que vocês consigam absorver.
+
+Vou me despedindo por aqui para não estender tanto a
+
+próxima aula, nós faremos um outro exemplo para melhor fixação.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
