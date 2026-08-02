@@ -1,0 +1,481 @@
+Olá Luna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de
+
+Dados do ML, trazendo a vocês um terceiro exemplo sobre diagramas de componentes.
+
+Nós vamos falar agora a respeito de um diagrama que vai ser um pouco mais elaborado do que os anteriores.
+
+Tá bom? Então, sem muita delongas, nós vamos minimizar
+
+aqui o menu geral e vamos fazer a utilização
+
+novamente dos dois menus sobre UML e UML 2,5.
+
+Tá bom.
+
+Bom, eu vou está utilizando aqui novamente o modelo mais recente,
+
+tá? Espero que não esteja confundindo a cabeça de vocês.
+
+Espero que vocês estejam entendendo que este tipo de componente
+
+é o mesmo componente que nós utilizamos no ML 1,0.
+
+Tá bom, eu vou tirar aqui algumas propriedades para nós falarmos especificamente sobre os componentes e
+
+eu quero que vocês prestem atenção em outro conceito que eu vou estar mostrando, tá bom?
+
+Bom, aqui no caso, nós faremos um exemplo de um sistema de cobrança onde nós
+
+atribuiremos não apenas o que é relacionado ao sistema, mas também outros conceitos mais elaborados.
+
+Vocês vão entender aqui o conceito.
+
+Tá? Então, primeiro de tudo, vocês vão falar
+
+aqui que este primeiro componente chama se cobrança.
+
+Ponto.
+
+Ou seja, ele é um executável.
+
+Tá.
+
+Tudo que é ponto é executável.
+
+Espero que vocês saibam sobre isso daqui,
+
+tá? Não vou aprofundar muito sobre isso.
+
+Beleza.
+
+O nosso segundo vai se chamar Registro.br xD.
+
+Beleza.
+
+E aqui nós estamos dizendo que é programas.
+
+Tá.
+
+Então, eu construí aqui, de certa forma, dois componentes pertinentes a programas.
+
+Ou dois programas diferentes, no qual um faz cobranças.
+
+E outro faz registros.
+
+Beleza.
+
+Aqui, neste caso, nós temos o conceito do que é necessário e do que é fornecido.
+
+Como nós aprendemos em aulas anteriores, nós viemos
+
+utilizando este componente de UML normalzinho aqui, ó.
+
+Se vocês se recordam, nós estávamos utilizando esse carinha aqui.
+
+Eu vou dar o zoom para vocês lembrarem.
+
+Beleza? O que nós faremos aqui? Nós vamos fazer
+
+aquilo que nós já trabalhamos em aulas anteriores e
+
+vamos dizer aqui o que está sendo colocado como
+
+necessário e o que está sendo colocado como fornecido.
+
+Beleza.
+
+Bom, se eu não quiser utilizar essa segunda parte aqui deste
+
+componente, eu ao invés dele, posso também utilizar uma seta.
+
+Não me recordo se em aulas teóricas eu cheguei a comentar alguma coisa sobre,
+
+mas eu me recordo que eu não passei sobre isso nos exemplos anteriores.
+
+Por isso eu resolvi trazer esse terceiro exemplo, porque ao invés
+
+da meia lua, eu também posso estar utilizando uma seta pontilhada.
+
+Tá.
+
+E aí eu posso estar escolhendo qualquer tipo de seta
+
+aqui, porque por mais que eu escolha, eu posso depois
+
+fazer aqui a troca, né? Sobre os elementos aqui.
+
+Interessante você já pegar uma que não tenha legenda como essa daqui, por exemplo, porque senão
+
+toda vez você vai precisar ficar deletando legenda, então já pega uma que ela é limpa.
+
+Beleza.
+
+E aí vocês podem fazer dessa forma aqui, o que também funciona perfeitamente.
+
+Tá.
+
+Então, aqui no caso galera, eu estou falando da mesma forma como a
+
+meia lua, tá? Eu estou dizendo que para haver um registro eu forneço
+
+a cobrança, ou seja, necessário haver o registro quando é fornecido uma cobrança.
+
+Então, ao invés da meia lua, eu também posso fazer a
+
+utilização da seta, tá? E aí vocês geralmente vão utilizar aquilo
+
+que fica mais legível, mais entendível para as pessoas no projeto.
+
+Então, pessoas, existem pessoas que se habituam melhor com a seta.
+
+Existem pessoas, são poucas que se habituam melhor com a meia lua, tá? Mas aqui no
+
+caso você está falando da mesma forma que se você estivesse utilizando a meia lua.
+
+Então, sempre quando houver, a bolinha é fornecido.
+
+E é sempre quando houver seta ou meia lua é necessário, ou seja, para haver um
+
+registro é fornecida a cobrança, Então é necessário haver a cobrança para existir um registro.
+
+Beleza.
+
+E além disso, nós vamos fazer outra utilização, que é o que nós vamos
+
+criar um outro tópico aqui embaixo e esse vai se chamar Curso DLL.
+
+Beleza? Para quem não sabe, DLL
+
+é como se fosse uma biblioteca.
+
+Também não vou me estender muito a respeito.
+
+Se vocês tiverem dúvidas, vocês pesquisam porque é um assunto um
+
+pouco longo e já não vai caber dentro do curso, tá?
+
+Então é algo assim que é fora do curso, mas
+
+que é necessário vocês terem um conhecimento pelo menos superficial.
+
+Então pesquisem aí Google, YouTube, veem coisas relacionadas
+
+para vocês entenderem do que nós estamos falando.
+
+Se eu sair do conceito sobre os diagramas e começar a explicar sobre DLL, nós vamos
+
+nos dispersar e acabar não falando do que nós precisamos, que é o real importante.
+
+Beleza.
+
+Mas dando continuidade para este carinha aqui, nós vamos fazer algo bem semelhante.
+
+Então para simplificar e facilitar a vida, eu vou copiar e colar este carinha aqui.
+
+E para nosso registro eu vou fazer aqui o.
+
+Eu vou ligar esta ponta no registro e vou ligar esta outra ponta aqui no curso.
+
+Beleza, não vou deixar por dentro porque fica um pouco
+
+esquisito, então vai acabar precisando ter um espacinho aqui, tá?
+
+Mas vai ficar mais ou menos nesse sentido aqui.
+
+Beleza.
+
+E para o usuário vai ser do mesmo modo.
+
+Então eu vou ter aqui.
+
+Uma outra biblioteca.
+
+chamada pessoa, né? É, esta biblioteca também
+
+vai ter relação com o registro.
+
+Beleza? Então vocês
+
+vão entendendo.
+
+À medida que eu for fazendo aqui, eu vou comentando sobre o que é cada conceito.
+
+Tá bom? Então, aqui na
+
+biblioteca, né? Vamos imaginar que
+
+é um programa de cobrança.
+
+Então, existem os cursos no qual as pessoas compram, elas fazem um registro e aí a cobrança.
+
+Beleza, Vamos dando continuidade aqui deste curso.
+
+Nós temos algumas outras coisas.
+
+Vocês vão entender que bacana que vai ficar no final, porque
+
+vocês vão conseguir assimilar algumas coisas que já vieram estudando em
+
+outros diagramas, tá? Então nós vamos colocar aqui o curso.
+
+O pai,
+
+né? Y.
+
+E aí, vamos colocar outra coisa aqui? Vamos colocar como
+
+curso um curso oferecido pelo Y, né pai? E
+
+aqui nós também vamos colocar para pessoa, aluno, pai.
+
+E vamos colocar aqui também.
+
+Professor.
+
+Pai.
+
+Beleza? E aqui nós
+
+também teremos essas ligações.
+
+Então, novamente, eu vou copiar e colar para facilitar a vida.
+
+E aqui nós vamos fazer a amarração necessária.
+
+Então esse carinha vai ficar ligado aqui, copiando e colando de novo.
+
+E este outro carinha vai ter ligação para cá.
+
+Mais uma vez copiando e colando, né? Facilita
+
+a vida aqui do que a gente fica
+
+procurando ali dentro toda hora, né? Dentro da.
+
+Os menus de componentes toda hora ficar indo e voltando la
+
+com o mouse acaba dispersando um pouco o tempo, né? Mas
+
+vamos fazendo aqui a medida em que eu vou fazendo, eu
+
+vou comentando para vocês entenderem sobre o que se trata.
+
+Beleza, deixa eu só arrumar esse aqui e jogar um pouquinho mais para o lado.
+
+Para ficar melhor, tá? Outra coisa que
+
+nós faremos aqui para vocês entenderem melhor.
+
+É acrescentar legendas.
+
+Então nós vamos criar um title aqui.
+
+Vamos colocar assim o sistema De cobrança.
+
+Beleza.
+
+Aqui nós vamos
+
+colocar como? Curso.
+
+E para este próximo.
+
+Aqui nós podemos colocar como.
+
+Usuário.
+
+Beleza.
+
+Então, aqui eu tenho as divisões sobre e sobre o que é cada coisa.
+
+Tá, mas eu vou envolver um pouco mais.
+
+Eu vou aperfeiçoar um pouco mais.
+
+Nós colocaremos aqui um outro conceito que ele é relacionado à BPM.
+
+Tá, não vou explicar muito por agora porque teremos aulas especificas sobre BPM,
+
+mas para vocês terem um entendimento, nós podemos criar alguns retângulos aqui
+
+para fazer divisórias E para colocar sobre o que é cada coisa.
+
+Tá, então é o que nós vamos fazer aqui para poder fazer a diferenciação.
+
+Então vamos primeiramente diminuir aqui um pouco.
+
+E aqui ao lado vocês observam que existe uma legenda.
+
+Vocês podem até aumentar isso daqui.
+
+E aqui vocês vão colocar como programas.
+
+Beleza? Deixa eu tirar o zoom
+
+para vocês entenderem aqui, ó.
+
+Ou seja, eu estou dizendo que o que estiver dentro deste retângulo se trata de programas.
+
+Beleza, eu vou até aumentar um pouco mais, porque isso daqui
+
+tem que ficar ordenado conforme todo o tamanho do restante.
+
+Beleza.
+
+Bom, vou selecionar isso daqui, vou copiar e colar e eu vou colocar aqui abaixo.
+
+é o meu segundo quadradinho aqui ó.
+
+Vai ser relacionados a bibliotecas, beleza? E o meu
+
+terceiro que eu também vou copiar e colar.
+
+Será relacionado a classes.
+
+Beleza? Então aqui ó, eu estou
+
+falando de um sistema em determinadas
+
+camadas superficiais e vou aprofundando elas.
+
+Beleza, dizendo o que existe de componente dentro do meu sistema de cobrança.
+
+Tá, então o meu sistema de cobrança, ele gira em torno de certa forma, de dois modos.
+
+Vamos colocar assim, que são os componentes de cobrança e de registros.
+
+Beleza é que esses carinhas eles funcionam a partir de bibliotecas que nós temos dentro dos programas.
+
+Tá, então dentro dos programas aqui de vamos colocar como módulos e dentro dos módulos do
+
+programa de Sistema de Cobranças nós temos as bibliotecas relacionadas a cursos e a pessoas.
+
+Beleza.
+
+A minha biblioteca de cursos, ela é relacionada com o que eu faço de venda.
+
+Tá bom, eu imagina que a minha biblioteca seja a Udemy.
+
+Tenho vários cursos a serem oferecidos.
+
+Tá bom.
+
+E aqui as pessoas.
+
+Elas são os usuários.
+
+Então são as pessoas que adquirem os cursos para fazerem os determinados estudos.
+
+Beleza.
+
+É que para mim, gerar essas bibliotecas aqui, eu preciso de determinadas classes.
+
+Primeiro tipo de diagrama que nós estudamos, nós
+
+aprendemos o que é classes, né? Sobre estrutura.
+
+Sobre aquilo que é fixo, Sobre o que é estático.
+
+Que envolve arquitetura e infraestrutura e por aí vai.
+
+Então eu tô dizendo que, para mim, construir a minha biblioteca de
+
+curso, eu tenho de ter os cursos e os cursos oferecidos.
+
+É que da mesma forma, para mim, ter os usuários, eu preciso ter não só os alunos, mas os professores.
+
+Então, a Udemy, ela funciona mais ou menos dessa forma aqui.
+
+Claro que de uma forma mais robusta, mais complexa, com
+
+mais detalhes, mas é uma hierarquia superficial disso daqui.
+
+Então, para existir as pessoas aqui que são os usuários, né?
+
+Existem dois tipos que são os professores e os alunos.
+
+Os professores são quem lecionam, quem ministram.
+
+No caso, eu sou uma pessoa que faz parte aqui.
+
+No caso desse tipo de classe, já vocês que estão acompanhando, vocês fazem parte do tipo de aluno.
+
+Porém, ambos, tanto eu quanto você, somos considerados uma pessoa ou um usuário.
+
+Beleza.
+
+E aí? Este usuário é quem é utilizado para fazer
+
+o registro quando há a compra ou a venda de
+
+um curso, né? Eu estou falando de um professor.
+
+Ele faz a venda do curso.
+
+Se eu estou falando de um aluno, ele faz a compra do curso e aí a cobrança.
+
+Ela só é gerada quando esse registro é gerado, né? Então ele vai
+
+pegar os dados do usuário, independente do professor ou do aluno, vai pegar
+
+os dados do curso para fazer o registro e então formular a cobrança.
+
+Beleza.
+
+E aí? Aqui ó, eu tenho a divisão
+
+do que se trata cada uma dessas partes.
+
+Então o programa aqui já é a parte no qual
+
+o usuário, né? Ele faz a manipulação, faz as ações,
+
+né? A interação de uma forma mais simplificada, Porém,
+
+por baixo disso daqui existem essas camadas mais aprofundadas.
+
+Existem as bibliotecas, que é um conceito geral dos dados e que
+
+para gerar esses dados aqui existe uma camada mais baixa ainda.
+
+Então imagina que essa camada de classes aqui o fossem
+
+tabelas no banco de dados onde gravam determinadas informações.
+
+Uma tabela de curso para gravar todos os cursos, uma tabela
+
+de curso oferecido para mostrar quais os cursos estão sendo oferecidos.
+
+Uma tabela de alunos.
+
+Uma tabela de instrutor de professor para então gerar o que é necessário.
+
+Beleza.
+
+Aqui é um outro exemplo de diagrama de componentes, também com
+
+alguns detalhes no qual eu acabei não passando na aula anterior.
+
+E eu acredito que vai também ajudar a vocês aperfeiçoarem e a praticarem com este tipo.
+
+Lembrando que ao invés das setinhas pontilhadas, eu também poderia ter utilizado o meia Lua.
+
+Assim como nas aulas anteriores, optei em não utilizar por enquanto, por agora,
+
+para mostrar a vocês que existem outras ferramentas que tem o mesmo propósito,
+
+a mesma funcionalidade, o mesmo tipo de ilustração para um mesmo conceito.
+
+Beleza, vou ficando por aqui para não me prolongar muito.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.
