@@ -1,0 +1,450 @@
+
+Olá, Luna.
+
+Olá, Luna.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a partir desta aula, um novo tipo de diagrama,
+
+mais um diagrama que faz parte do Grupo de Diagramas Estruturais.
+
+Vamos falar daqui para mais algumas aulas sobre o diagrama de implantação.
+
+Beleza? Então, nas últimas aulas
+
+nós aprendemos bastante sobre diagramas.
+
+Falamos sobre diagramas de classe, diagramas de objeto, diagramas de sequência e agora
+
+nós teremos aulas específicas, tanto teórica quanto prática, como vocês já estão habituados.
+
+Para falarmos um pouco sobre o diagrama de implantação.
+
+Então teremos aqui a parte teórica para mostrar, para entender
+
+como este diagrama funciona, onde é utilizado e etc.
+
+E também a parte prática para nós colocarmos a mão na massa e realmente
+
+praticarmos e Exercitarmos e fixarmos aquilo que nós viermos a trabalhar em teoria.
+
+Beleza.
+
+Bom, sobre o diagrama de implantação, os diagramas de implantação são usados
+
+para visualizar os processadores nós dispositivos de um sistema ou links de
+
+comunicação, entre eles a colocação de arquivos de software neste hardware.
+
+Bom.
+
+Tá um pouco superficial.
+
+Vamos nos aprofundar um pouco mais.
+
+Vamos lá.
+
+Um diagrama de implantação é um tipo de diagrama UML, como nós sabemos
+
+que mostra a execução de arquitetura de um sistema, incluindo nós, como ambientes
+
+de execução de hardware ou software, é o líder que os conecta.
+
+Então, inicialmente, neste parágrafo, nós devemos nos
+
+atentar algumas coisas primeiramente sobre os nós.
+
+Quem atua voltado a rede de computadores, área de infraestrutura, conhece bastante esse termo.
+
+E é um termo bem comum dentro destas áreas.
+
+Tá bom? Bom, os nós, eles nada
+
+mais são do que pontos de conexão.
+
+Tá bom, seja de hardware para hardware ou de hardware para software.
+
+Beleza.
+
+Então, quando nós estamos falando de um diagrama de implantação, ele vai
+
+mostrar a execução da arquitetura de um sistema, incluindo estas amarrações, estas
+
+ligações ou estas conexões que fazem entre o hardware e o software.
+
+Beleza.
+
+Os diagramas de implantação são normalmente usados para visualizar
+
+o hardware e software físico de um sistema.
+
+Usando você pode entender como um sistema será fisicamente implantado no hardware.
+
+Os diagramas de implantação ajudam a modelar a topologia de hardware de um sistema em comparação
+
+com outros tipos de diagramas que, em sua maioria, esboçam componentes lógicos de um sistema.
+
+Então, se nós fizermos um comparativo inicial do que nós já trabalhamos
+
+até aqui Com este diagrama que nós vamos trabalhar, vamos entender
+
+que diagramas de classe, diagramas de objeto e diagramas de componentes.
+
+Eles esboçam os componentes lógicos e aquilo que existe dentro de um sistema.
+
+Porém, aquilo que não é palpável é o software, ou seja, aquilo que o homem não consegue tocar.
+
+Agora, sobre o diagrama de implantação, ele está voltado mais ao lado físico, ao hardware.
+
+Beleza.
+
+Então, quando nós estamos falando do hardware, obviamente nós estamos falando de componentes.
+
+Então significa que o homem ele consegue tocar.
+
+Então o diagrama de implantação, ele vai ser usado mais neste tipo de contextualização.
+
+Contextualização de hardware.
+
+Beleza.
+
+E aí nós temos aqui algumas coisas que é interessante ressaltar.
+
+A primeira delas é Notas do diagrama de implantação.
+
+A fim de desenhar um diagrama de implantação, você precisa primeiro se
+
+Familiarizar com as seguintes notações diagramas de implantação e elementos do
+
+diagrama de implantação, assim como os outros diagramas que nós vimos.
+
+Existem objetos, formas geométricas específicas e aqui não é diferente que também existem objetos
+
+formas geométricas específicas que são pertinentes ou próprias para se ilustrar diagramas de implantações.
+
+Tá bom e é o que nós vamos trabalhar aqui.
+
+Então, a primeira delas chama se nodos
+
+ou nódulos, como vocês optarem? Tá.
+
+Então, pode ser chamado de nodos ou nódulos.
+
+Beleza.
+
+Que são os nodos? O nó, representado como
+
+um cubo, é uma entidade física que executa
+
+um ou mais componentes, subsistemas ou executáveis.
+
+Um nó pode ser um hardware ou um elemento de software.
+
+Então, quando eu estou falando neste primeiro componente, significa que eu posso
+
+fazer através dele tanto uma ilustração do que é físico de
+
+um determinado hardware, de um determinado componente, de um determinado equipamento.
+
+Como eu posso também falar de um determinado elemento, de
+
+um software específico? Nós vamos entender como fazer essas diferenciações.
+
+Tá bom? Mas o
+
+que vocês precisam se
+
+atentar aqui? Os nódulos.
+
+Eles são uma das principais entidades dentro do diagrama de implantação.
+
+Beleza.
+
+Segundo deles, nós temos o artefato ou os artefatos.
+
+Tá bom.
+
+Os artefatos.
+
+Eles são elementos concretos que são causados por um processo de desenvolvimento.
+
+Exemplo de artefatos são bibliotecas, arquivos, arquivos
+
+de configuração, arquivos executáveis e etc.
+
+Então, quando eu vou utilizar um artefato, quando eu quiser fazer uma extração dentro de
+
+um componente físico, algum tipo de execução, algum tipo de arquivo, algum tipo de pasta
+
+ou algum tipo de biblioteca se for levado em consideração uma ilustração de desenvolvimento.
+
+Uma ilustração de programação.
+
+Ou uma ilustração de uma determinada plataforma que possui tecnologia, por exemplo.
+
+Beleza.
+
+Aí nós temos a associação de comunicação, que são representados por dois nódulos ou dois nódulos.
+
+Isso é representado por uma linha sólida entre dois nós.
+
+Ou seja, entre dois componentes.
+
+Lembrando que esses componentes são identificados como hardwares ou elementos de software.
+
+Beleza.
+
+E aí mostra o caminho de comunicação entre esses nós,
+
+né? Então, nada mais é do que as ligações no
+
+qual nós já visualizamos em diagramas anteriores, né? E
+
+aqui nós não chamamos de relações, né? Mas existe
+
+uma ligação para as comunicações elas darem certo? Beleza.
+
+E aí nós temos também um outro tipo que se chama dispositivos.
+
+Um dispositivo é um nó que é usado para representar um recurso computacional físico em um sistema.
+
+Um exemplo de um dispositivo é um servidor de aplicações.
+
+Quando eu falo em servidor, eu penso em dois locais ou duas maneiras.
+
+Duas possibilidades seria um servidor em nuvem, o servidor Cloud.
+
+Pensamos em WS, por exemplo.
+
+Mas nós temos servidores on premise.
+
+Nós temos servidores físicos.
+
+Então, quando nós estamos falando dessa segunda possibilidade,
+
+servidores físicos, eles são utilizados para essa ilustração.
+
+Então, novamente, representa um recurso computacional físico.
+
+Beleza.
+
+E aí nós temos também as especificações de implantação.
+
+Especificações de implantação É um arquivo de configuração, como
+
+um arquivo de texto ou um documento XML.
+
+E ele descreve como um artefato é implantado em um determinado nó.
+
+Beleza.
+
+Então vamos colocar aqui uma seguinte situação.
+
+Eu vou dar o exemplo aqui da empresa sem parar,
+
+por exemplo, a empresa sem parar, como todo mundo sabe.
+
+Ela possibilita você ter um determinado cartão para fazer
+
+abastecimento sem precisar pagar na hora em determinados postos.
+
+Beleza.
+
+Partindo deste princípio, nós entendemos que dentro das bombas existe um determinado programinha
+
+que tem a obrigação de fazer a leitura desses cartõezinhos para poder entender
+
+o que tá válido, para poder entender que tem saldo e assim sucessivamente.
+
+Tá bom.
+
+Então vamos imaginar que o nó ele poderia ser cada uma das bombas ou cada
+
+um dos computadores que vai nessas bombas para poder fazer a leitura dos programas, etc.
+
+Para poder fazer a identificação do cartão.
+
+Então seriam considerados nós.
+
+Beleza.
+
+Cada nó uma determinada bomba.
+
+E este tipo de especificação de implantação, que seria um arquivo de texto
+
+ou XML, seria este outro que nós estamos visualizando na tela agora.
+
+Seria uma espécie de manual, instrução, uma espécie de codificação de leitura.
+
+Enfim, depende da ocasião.
+
+Beleza.
+
+Mas aqui no caso, nós precisamos entender que este determinado componente específico,
+
+né? Este objeto, esta forma como vocês optaram em chamar ela
+
+é aquela que faz a implantação de um arquivo de configuração.
+
+Beleza, Então ela vai fazer a descrição de como um determinado artefato vai ser implementado no nó.
+
+Então, quando um exemplo, um analista de suporte, um analista de implantação for fazer a instalação.
+
+Então imagina que você tem um determinado posto na sua cidade ou no seu bairro e
+
+você quer fazer a instalação para começar a passar o sem parar no seu posto.
+
+Então, sem parar, ele vai disponibilizar um analista de implantação, por exemplo, e este vai até o
+
+seu posto e vai ter como obrigação de instalar em cada nó, ou seja, de instalar
+
+em cada bomba o determinado programinha que vai fazer a leitura do cartão do sem parar.
+
+E aí, como ele vai fazer? Ele vai usar este arquivo,
+
+né? Esta é a especificação de implantação que vai descrever
+
+como que deve ser feito a implantação ou a implementação.
+
+Beleza.
+
+Então nada mais é do que um determinado manualzinho.
+
+Então ele vai lá com diagrama,
+
+né? Ele vai abrir no
+
+computador, no celular? Não sei.
+
+Talvez desenhado num papel de pão.
+
+Enfim, são inúmeras as possibilidades.
+
+Mas o fato é que ele vai olhar para aquilo e ele vai entender como ou quais os passos ele
+
+deve seguir para fazer a implantação em cada um dos nós dentro do seu posto de gasolina, por exemplo.
+
+Beleza.
+
+Bom, eu espero que vocês tenham entendido esse exemplo aqui.
+
+Se não entendeu, não tem problema.
+
+Nós teremos outras aulas para falar a respeito do diagrama de implantação, então
+
+com certeza terão outros exemplos e outras formas de abordar isso daqui.
+
+Talvez se você não entendeu 100% agora você entenda ao
+
+decorrer das nossas futuras aulas, tá bom? Dando continuidade.
+
+Assim como todos os outros diagramas que nós estudamos até aqui, o
+
+diagrama de implantação, ele possui alguns passos ou melhores práticas que são
+
+necessárias para fazer uma ilustração boa, profissional, concisa, precisa e etc.
+
+Beleza, Então, aqui existem alguns passos que nós precisamos saber.
+
+Precisamos entender, precisamos distinguir ou discernir para começar a desenhar um diagrama de implantação.
+
+Primeiro passo dentre esses quatros é identificar a fidelidade do seu diagrama de implantação.
+
+E para fazer isso, você precisa identificar os nós e dispositivos
+
+dentro do sistema que você está visualizando com o diagrama.
+
+beleza da primeira parte é identificar os nós, né? Quais
+
+são os equipamentos ou quais são os elementos? Quais são
+
+os dispositivos que você vai ter dentro desse sistema por
+
+completo para você poder fazer a ilustração? Já o segundo
+
+passo descubra as relações entre os nós e os dispositivos.
+
+Então você vai precisar fazer uma ligação e mensurar como que eles se
+
+conectam, como que eles interagem, como eles se comunicam, quais as formas.
+
+Existem n formas.
+
+Pode haver uma comunicação por arquivo.
+
+Você sobe um arquivo e ele faz a leitura.
+
+Pode ser uma comunicação via API.
+
+Pode ser um outro tipo de serviço.
+
+Enfim, depende muito do projeto, do contexto e da atuação.
+
+Mas o fato é que você precisa descobrir a relação entre eles.
+
+Uma vez que você saiba como eles estão conectados, proceda para adicionar as associações
+
+de comunicação ao diagrama, ou seja, fazer a relação precisa e necessária entre eles.
+
+Ta bom? Terceiro passo identificar que outros
+
+elementos como componentes, objetos ativos, você precisa
+
+adicionar para complementar ou completar o diagrama.
+
+Então, quais os outros elementos que existem que é legal ou que é necessário ilustrar o que
+
+é necessário e outras pessoas visualizarem para um entendimento mais completo, mais detalhado e por aí vai.
+
+Então você pode fazer esse tipo de incremento também, adicionar outros elementos
+
+para você ter um diagrama mais robusto para o bem dizer.
+
+Beleza.
+
+E o quarto passo.
+
+Adicionar dependências entre componentes e objetos conforme necessário.
+
+Então é o tipo de relação que nós já vimos em diagramas
+
+anteriores, né? Então, quais são as dependências que um tem de outro,
+
+né? O que é preciso e o que é necessário? Um
+
+para muitos, um para um, zero para muitos, zero para um.
+
+Enfim, tudo isso dá para fazer aqui dentro do diagrama de implantação também.
+
+Então alguns conceitos de relação que nós abordamos em aulas anteriores.
+
+Para diagramas anteriores, como diagrama de classes, diagrama de objetos e diagrama de sequências,
+
+nós podemos também acrescentar aqui para uma melhor ilustração para quem precisar visualizar.
+
+Tá bom? Bem, então esta foi a
+
+nossa primeira aula sobre diagrama de implantação.
+
+Como vocês já estão habituados, é uma aula mais teórica para
+
+nós entendermos os porquês desse diagrama, né? Entendermos contextos, como se
+
+utiliza, quais as regras, melhores práticas e por aí vai.
+
+Para que então, nas próximas aulas nós possamos começar a trabalhar? Beleza, então, espero
+
+que até aqui você tenha entendido que você tenha absorvido o máximo possível.
+
+Se não absorveu, não tem problema.
+
+Nas próximas aulas nós daremos continuidade.
+
+Falando mais ainda sobre diagrama de implantação.
+
+Então vou me despedindo por aqui e fiquem com Deus até a próxima aula.
