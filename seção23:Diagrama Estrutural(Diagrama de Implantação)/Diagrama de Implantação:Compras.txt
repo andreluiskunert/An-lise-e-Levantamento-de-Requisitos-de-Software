@@ -1,0 +1,717 @@
+Olá, Luana.
+
+Olá, aluno!
+
+Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a segunda aula sobre diagramas de componentes.
+
+Bom, na aula anterior, para quem acompanhou, nós aprendemos um pouco à parte conceitual sobre esse
+
+tipo de diagrama.
+
+Nós entendemos onde ele é utilizado, o porquê ele é utilizado, quais são as melhores práticas, como
+
+fazer os desenhos, quais são os passos a serem seguidos.
+
+E aqui, nessa segunda aula pertinente ao diagrama de implantação, eu vou trazer uma parte prática,
+
+ou seja, nós construiremos um diagrama de implantação juntos.
+
+Para vocês entenderem como funciona a montagem, tá bom?
+
+Bom, o exemplo que eu estou trazendo a vocês é de um diagrama de compras online.
+
+Tá, eu me recordo de já termos feito diagramas Com este propósito.
+
+Não vou me recordar se foi diagramas de classe, se for diagrama de objetos ou componentes, ou se teve
+
+para ambos, beleza.
+
+Mas o fato é que nós já trabalhamos em algum momento, em alguma ocasião, este tipo de diagrama, e
+
+eu resolvi trazer ele mais uma vez, porque nós já nos habituamos e já entendemos de certa forma o contexto
+
+sobre compras online.
+
+Beleza.
+
+Primeiro de tudo, aqui com drywall aberto, nós vamos minimizar o menu geral e para este carinha para
+
+esta sala nós vamos utilizar os dois menus que e o menu de ML e o ML 2,5.
+
+Por quê?
+
+Porque para o diagrama de implantação nós vamos utilizar também um componente que nós utilizamos no
+
+diagrama passado no diagrama anterior, que foi o diagrama de componentes e o nome do que nós vamos
+
+usar também.
+
+Se chama Componentes, que poderá ser este carinha aqui dentro do ML ou aqui dentro do ML 2,5 Seria
+
+este carinha aqui componente?
+
+Tá bom, então o que eu vou fazer aqui?
+
+Eu vou desenhando passo a passo, colocando quais são aqui os objetos ou as formas que nós vamos utilizar
+
+para essa criação.
+
+E eu vou explicando o porquê à medida para caso vocês não se recordem o que significa ou o que é exatamente
+
+conforme foi passado na aula anterior.
+
+Tá bom.
+
+Então, com os dois menus abertos aqui ó.
+
+O primeiro modelo que nós vamos pegar está em o ML 2,5.
+
+Beleza.
+
+Se eu não me recordo mal, ele está aqui um pouco ao término.
+
+E ele se chama Artefato ou Artefactos?
+
+Beleza.
+
+E esse carinha aqui, ó.
+
+Para quem não se recorda o artefato, ele é um elemento que é causado por um processo de desenvolvimento,
+
+ou seja, artefatos são algum tipo de arquivo ou algum tipo de configuração, ou algum tipo de executável,
+
+algum tipo de programa ou algo do tipo relacionado a algum desses conceitos no qual estou mencionando.
+
+Tá bom, então o nosso artefato aqui, nesse caso ele vai se chamar Clube do Livro.
+
+Então vamos colocar assim o clube.
+
+O Clube do Livro.
+
+Ponto.
+
+O ar.
+
+Beleza.
+
+Mais uma vez, por que que eu coloquei Clube do Livro?
+
+Como foi mencionado aqui agora a pouco, significa que vai ser um tipo de biblioteca, um tipo de arquivo
+
+ou um tipo de configuração ou executável.
+
+Bom, vamos entender a medida em que a aula for acontecendo.
+
+Após esse artefato, nós também vamos utilizar um outro carinha que está aqui que ele possui o nome
+
+de Development specific.
+
+Ta bom ou especificação de desenvolvimento?
+
+Então, se você olhar aqui também em o ML 2,5, ele vai estar ao lado dos artefactos ou dos artefatos
+
+que é esse carinha aqui.
+
+Tá bom, então cliquei e joguei aqui para minha tela.
+
+Para quem não se recorda, para que o desenvolvimento serve, né?
+
+O development.
+
+Ele serve para mostrar qual é o tipo de aplicação ou aonde vai rodar aquela sua determinada aplicação.
+
+Então, aqui para o development nós vamos colocar assim o web.
+
+XML.
+
+Beleza.
+
+E vamos manter ele aqui.
+
+Após isso, nós teremos um outro carinha que ele se chama Componente.
+
+oponente, porém ele não é aquele componente que nós usamos em aulas anteriores.
+
+Vamos por partes, vamos entender assim o vou fazer aqui.
+
+A utilização primeiramente deste carinha aqui.
+
+O que é um componente?
+
+Tá bom.
+
+E aqui eu vou só escrever Componente.
+
+Beleza?
+
+E embaixo eu vou colocar assim o user, ou melhor, serviço de o usuário.
+
+Eu ia escrever em inglês, mas vou manter em português, assim como os outros.
+
+Beleza.
+
+E eu não quero por enquanto esse carinha aqui, esse ícone ao lado, tá?
+
+Vocês vão entender o porque aqui.
+
+Eu estou falando que é um serviço de usuário aí para este serviço de usuário.
+
+Aí sim eu vou utilizar ou este módulo aqui ou este componente que eu acabei de criar.
+
+Tá, é aqui para este componente.
+
+Nós vamos colocar assim o vamos deletar esse de cima.
+
+Manter este componente como negrito já está editado no caso.
+
+Vamos colocar assim novamente.
+
+Serviço de Usuário.
+
+Beleza.
+
+E nós vamos entender as diferenças desses dois carinhas aqui.
+
+Aproveitando que eu já criei este tipo de modelo, né?
+
+Esse tipo de forma.
+
+Eu vou copiar e colar ele.
+
+Vou manter um outro componente, só que eu vou colocar assim o serviço.
+
+Online.
+
+Beleza.
+
+Não sei se vocês estão conseguindo entender aqui, mas vamos por partes.
+
+Esse outro development aqui eu vou copiar e colar ele também.
+
+Só que eu vou trocar o nome, eu vou colocar assim o web traço dos traços já tá bom.
+
+E aqui nós entenderemos os porquês de cada um.
+
+Beleza.
+
+Ainda está faltando coisas aqui, mas vamos começando as explicações necessárias para o entendimento
+
+e não virar uma bola de neve.
+
+Beleza pessoal?
+
+Então, primeiramente, para que serve o diagrama de implantação mesmo?
+
+Como vocês se recordam, né?
+
+Eu tenho certeza que vocês se recordam porque isso foi passado na aula anterior.
+
+O diagrama de implantação ele mostra a execução de arquitetura de um sistema, incluindo nós, como
+
+ambientes de execução de hardware ou software.
+
+E o que os conecta?
+
+Beleza, Então os diagramas de implantação.
+
+Geralmente eles são usados para visualizar o hardware e o software físico de um sistema.
+
+Beleza.
+
+Então, o que eu estou mostrando aqui são partes de um software.
+
+Tá bom.
+
+Observa que eu tenho formatos de arquivos em específico e isso representa que pode ser uma biblioteca,
+
+pode ser um arquivo executável, pode ser um sistema de aplicação rodando na web e assim sucessivamente.
+
+E aí eu também tenho os componentes.
+
+Eu acredito que vocês se recordam que os componentes, eles também têm um papel fundamental em indústria
+
+atividade.
+
+Beleza.
+
+Aqui nós vamos fazer as ligações.
+
+Tá pessoal?
+
+Então eu vou procurar aqui algum tipo de ligação que geralmente nós usamos, que não precisa haver,
+
+no caso, nenhum tipo de seta e nenhum tipo de legenda.
+
+Eu vou pegar esse daqui porque eu achei já com mais facilidade e eu vou deletar aqui.
+
+essas duas legendas.
+
+Então imagina aqui o que é o meu artefacto do livro pontuar ele de certa forma e a minha aplicação.
+
+Tá bom, ele é o meu sistema online de venda de livros.
+
+Beleza, Ele se chama Clube do Livro.
+
+Imagina você entrando no site lá www.
+
+Clube do Livro br por exemplo, ou www Clube do Livro Ponto.
+
+App ponto br.
+
+Não sei.
+
+Poderia ser assim também.
+
+Olha só, fica mais entendível.
+
+Tá bom.
+
+Mas imagina que os artefactos aqui ó.
+
+Ele é a minha aplicação que está rodando online.
+
+Tá bom, O que que é aqui a minha especificação?
+
+Ah, minha especificação é a forma no qual eu estou fazendo a execução.
+
+É uma execução via web XML.
+
+Beleza?
+
+Então aqui eu vou fazer uma ligação simplesmente para ilustrar que.
+
+A minha aplicação de artefato é o meu web.
+
+Eles estão em conjunto.
+
+Tá bom.
+
+Ou seja, o meu artefato aqui ó, o meu Clube do livro, que é a minha aplicação.
+
+Ela existe porque existe uma relação com arquivos XML da mesma forma.
+
+Eu vou fazer essa relação e falar que tambem a minha aplicação.
+
+Ela possui um arquivo que chama lib jar lib, para quem não sabe vem de biblioteca né?
+
+Então é uma biblioteca de web tools.
+
+Beleza que da mesma forma o meu serviço de venda de livros, ele também tem o que aqui galera?
+
+Ele também possui uma ligação com o meu serviço de usuário, ou seja, o meu usuário.
+
+Ele acessa o meu endereço de clube do livro e ele tem um determinado serviço, então ele vai fazer o
+
+login logout.
+
+Ele vai ter possibilidade de fazer ali a inserção de livros para o carrinho de compra, formas de pagamento
+
+e etc.
+
+Beleza.
+
+E esses meus componentes aqui ele de certa forma e um componente relacionado ao serviço.
+
+Beleza, Qual a diferença aqui pessoal?
+
+A diferença é que eu estou separando o que é um determinado componente de certa forma serviço com um
+
+outro componente que é o serviço dentro do sistema.
+
+Então imagina aqui dentro do sistema eu tenho um serviço, só que pra esse serviço existir existe o
+
+back end, né?
+
+Existe uma programação de serviço que roda por baixo e é o que o usuário não vê.
+
+Da mesma forma, existe o que o serviço online, né?
+
+Então o serviço online ele também é pertinente Aonde?
+
+Ao meu clube do livro?
+
+Não sei se vocês estão conseguindo acompanhar.
+
+Espero que estejam conseguindo entender aqui o que está acontecendo.
+
+Tá bom?
+
+Então aqui eu estou falando as formas de implantação para que exista uma página, uma aplicação web,
+
+um site, uma loja virtual, enfim, como vocês quiserem chamar, que é o Clube do livro e para ele
+
+existir.
+
+Existe aqui tudo isso por baixo, tudo isso por trás.
+
+Tá bom.
+
+Existe aqui o arquivo XML.
+
+Existe uma biblioteca?
+
+Existe serviços?
+
+Existe componentes?
+
+E por aí vai.
+
+Só que aí também eu preciso fazer uma outra ilustração novamente.
+
+Olha só o tipo de implantação.
+
+Aqui ele mostra o que a ligação entre hardware e software ou software apenas.
+
+Aqui eu também tenho uma comunicação com outro carinha.
+
+Esse outro carinha nós vamos encontrar se eu não to me recordando mal no término de UML.
+
+Deixa eu ver se eu acho aqui o.
+
+Término de UML 2,5.
+
+Na verdade, tá.
+
+Que é esse cara aqui?
+
+O Development Target.
+
+E aí existe um nude, né?
+
+Vamos lá, Nude.
+
+Nós estudamos na aula anterior.
+
+Eu queria ter achado na verdade um nude separado desse development target.
+
+Beleza?
+
+Como vai demorar muito tempo e muita forma geométrica e nunca dá para decorar onde está cada coisa,
+
+eu vou usar ele e eu vou fazer uma separação.
+
+Simplesmente assim.
+
+Tá.
+
+Eu vou separar esse cara desse aqui, ó.
+
+Porque nós vamos usar separados e vocês vão entender o porquê.
+
+Beleza.
+
+Primeira coisa para que que serve o Node ou nodo ou nodos, né?
+
+Olha só, é um cubo que representa uma entidade física que executa um ou mais componentes, subsistemas
+
+ou executáveis.
+
+Pode ser um hardware ou um elemento de software.
+
+Opa, pera aí, Estamos chegando em algum lugar.
+
+Então, aqui eu tô querendo mencionar que na minha aplicação para que tudo rode, eu preciso ter ele
+
+armazenado em algum lugar.
+
+Eu preciso ter ele rodando em algum lugar e este lugar ele pode ser lógico.
+
+Ou este lugar.
+
+Ele pode ser físico.
+
+Como texto anterior na aula anterior nos mencionou.
+
+Ou seja, eu posso ter um banco de dados, algum lugar que armazene algum tipo de servidor que seja
+
+em nuvem.
+
+Nós temos aí exemplos Cloud, WS e por aí vai.
+
+Ou pode ser on premise e servidores físicos dentro de uma própria empresa.
+
+Aqueles robustos líderes e etc que também podem funcionar para manter o determinado sistema armazenado.
+
+Bom, eu falei bastante sobre uma situação que aconteceu comigo em particular e ainda está acontecendo,
+
+que é eu fui contratado para uma empresa como analista de requisitos e arquitetura que existia para
+
+um determinado sistema que nós iríamos criar do zero e fazer implantação.
+
+Estava tudo estava toda em cloud, estava em nuvem e nós percebemos que não havia necessidade de gastar
+
+dinheiro com aquilo e que servidores físicos eles comportariam.
+
+E aí existe uma série de regras, principalmente de arquitetura, premissas básicas, que é perguntas
+
+bem simples onde está os outros sistemas que conversariam com esse sistema?
+
+E onde está os clientes ou os usuários?
+
+Tá.
+
+Então, como tudo tá dentro da mesma empresa, não tem a necessidade de eu fazer algo em nuvem.
+
+Então eu posso fazer algo dentro on premise.
+
+Beleza.
+
+Então, no caso, podemos sim utilizar ainda hoje coisas dentro da própria empresa.
+
+Falam se que é defasado.
+
+Na verdade não é.
+
+Depende muito da necessidade da ocasião.
+
+Nesse caso, o sistema.
+
+Ele foi desenvolvido para fazer comunicação interna com outros sistemas já existentes da empresa.
+
+Então é aceitável.
+
+Agora, se, por exemplo, fosse uma comunicação com outros clientes de outros países, outras cidades
+
+e por aí vai, já não seria tão cabível.
+
+Tá bom, mas só um resumo para vocês entenderem que aqui, nesse contexto no qual eu estou fazendo,
+
+ele pode funcionar nessas duas ocasiões.
+
+Nós vamos fazer o seguinte a princípio de tudo esse development, nós vamos arrancar o nome porque não
+
+é necessário.
+
+E este quadrado aqui.
+
+Nós, na verdade, apenas vamos aumentá lo para que tudo o que nós viemos a desenhar fique dentro dele.
+
+Tá bom?
+
+Como vocês observaram por ele, está entre aspas a frente sobrepôs.
+
+Então vocês vão clicar com o botão direito e vai haver uma opção chamada para trás.
+
+Quando vocês clicarem, ele vai jogar para trás e nós vamos conseguir enxergar aqui o que nós precisamos.
+
+Tá bom.
+
+Então por que que eu tô colocando dentro desse quadradão assim?
+
+Por bem dizer, de uma forma mais ignorante, né?
+
+Porque eu estou falando que tudo isso daqui, a todas essas aplicações, todos esses tipos de arquivos,
+
+bibliotecas, tipos de serviços, APIs, tudo isso é uma coisa só, ou seja, um sistema pessoal.
+
+Ele é a junção de muitas coisas separadas.
+
+Acredito que não seja difícil de entender, né?
+
+Um sistema.
+
+Ele só existe pelo fato de existir inúmeras coisas separadas.
+
+Existe o banco de dados?
+
+Existe as APIs, existe os serviços, existem as bibliotecas, Existe várias coisas, pessoal, várias
+
+coisas que em conjunto, em comunicação simultânea, homogênea, torna o sistema cabível, utilizável.
+
+Beleza, então aqui eu tô querendo dizer isso.
+
+Juntando tudo isso dentro de um quadrado só.
+
+Tá bom.
+
+É que que vai fazer esse nosso Node.
+
+Se nosso node e o nosso nó, eu poderia colocar aqui que ele é o nosso servidor de banco de dados.
+
+Tá bom.
+
+Ou seja, tudo que nós fizermos vai ter que ser gravado em algum lugar.
+
+Ou seja, o usuário teve um novo acesso ou criou se um novo usuário no sistema.
+
+Vou ter que gravar esse novo usuário no banco de dados.
+
+Opa, Usuário fez uma compra de um determinado livro.
+
+Vou ter que gravar essa compra no banco de dados.
+
+Opa!
+
+O estoque do livro eram dez, caiu para nove.
+
+Vou ter que gravar isso no banco de dados.
+
+Tudo vai ser controlado.
+
+Beleza, Então, meu servidor de banco de dados, ele vai servir justamente para isso.
+
+E aqui eu posso deixar algo mais detalhado e falar assim o que ele vai guardar no servidor de banco
+
+de dados?
+
+Vai guardar usuário?
+
+Beleza, Ele vai guardar também aqui os serviços.
+
+Beleza.
+
+Ele vai guardar aqui o inventário.
+
+Inventário nada mais é do que os livros, né?
+
+O estoque, quantidade de entrada e de saída.
+
+Ele vai guardar as vendas.
+
+E por aí vai.
+
+Beleza, então meu servidor de banco de dados vai ser o cara que vai fazer essa amarração para todo
+
+o meu sistema, que é o Clube do Livro.
+
+Beleza?
+
+E aí só vai faltar mais uma coisa para nós fecharmos com chave de ouro que é a ligação.
+
+Então eu tenho que falar aqui o tipo de comunicação que vai haver entre a minha aplicação e o meu banco
+
+de dados.
+
+Tá bom.
+
+E nada mais justo do que eu colocar aqui algo bem simples para o entendimento de todos.
+
+Então eu vou colocar aqui que a minha comunicação ela vai ser nada mais nada menos do que por TCP IP.
+
+Então eu vou vir aqui e pegar uma ferramenta de title mesmo, tá?
+
+E eu vou colocar aqui TCP, IP, TCP, IP.
+
+Ah tá.
+
+E aí eu vou colocar aqui ó.
+
+Eu posso deixar em cima?
+
+Eu posso fazer algo mais legal ainda?
+
+O que é transpassar esse até aqui?
+
+Eu acho que fica mais legal a leitura, tá?
+
+Assim, galera, muitas coisas são práticas do dia a dia.
+
+Às vezes eu acabo não passando porque eu esqueço.
+
+Mas quando você está fazendo um trabalho e é algo voltado ao profissional, seu dia a dia, você sempre
+
+vai querer enfeitar o pavão, né?
+
+Deixar o mais organizado possível, o mais legível possível, o mais bonito possível e por aí vai.
+
+Beleza, Então, aqui nada mais, nada menos.
+
+Eu estou dizendo que a comunicação entre o banco de dados onde vai ficar guardado as informações e a
+
+minha aplicação, que é o Clube do livro, vai ter uma comunicação em TCP IP.
+
+Beleza.
+
+Então, isso daqui é um diagrama de implantação.
+
+Tá.
+
+Então, novamente, um diagrama de implantação relacionado a compras online, né?
+
+Ou a vendas online, como vocês optarem.
+
+Beleza?
+
+Então, aqui eu estou novamente para um um um contexto geral.
+
+Eu tenho aqui a minha aplicação que ela é formada através de web.xml.
+
+Serviços de Usuário, Serviços online e nossa biblioteca.
+
+Vamos colocar assim.
+
+E tudo isso está sendo gravado dentro do banco de dados.
+
+E as comunicações, né?
+
+Por que que eu digo comunicação?
+
+Porque o banco de dados.
+
+Ele precisa conversar com a minha aplicação e ele não precisa apenas gravar, mas ele também precisa
+
+enviar informações quando necessário.
+
+Por quê?
+
+Porque eu vou ter que identificar através de serviços online.
+
+Por exemplo, se aquele login senha é que o usuário está digitando, ele é válido ou se ele é existente,
+
+então eu vou ter que bater aqui no banco de dados.
+
+O banco de dados vai ter que me dar o retorno.
+
+Eu vou ter que verificar a quantidade de livros, eu vou ter que verificar a disponibilidade da venda.
+
+Eu vou ter que verificar uma série de situações.
+
+Então a comunicação aqui ela é ida e volta.
+
+Não é só o sistema que vem aqui e envia as informações.
+
+Só teve um novo usuário.
+
+Eu vou cadastrar um novo usuário.
+
+Teve uma nova venda.
+
+Eu vou cadastrar uma nova venda?
+
+Não porque.
+
+Porque quando já existe aqui, o banco tem que enviar para lá para informar.
+
+Como que eu vou dar a mensagem na tela para o usuário falando que o login a senha dele tá errada?
+
+Através do banco eu vou vir aqui e vou bater no banco e o banco vai falar se existe ou não para mim
+
+retornar para o usuário, por exemplo.
+
+Beleza galera, Esse é o primeiro exemplo de alguns outros que eu vou passar para vocês como diagrama
+
+de componentes.
+
+Eu espero que vocês estejam entendendo.
+
+Espero que essa segunda aula tenha clareado um pouco mais a cabeça de vocês e juntando com o que vocês
+
+já absorveram de forma teórica, seja bastante necessário para nós prolongarmos ainda mais esses casos,
+
+né?
+
+Esses tipos de exemplos.
+
+Vou me despedindo por aqui.
+
+Essa aula já tá ficando bastante extensa, Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
