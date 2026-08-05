@@ -1,0 +1,623 @@
+Olá Luna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML.
+
+Trazendo a vocês um segundo exemplo sobre diagrama de implantação, nós trabalharemos nesta aula
+
+a respeito sobre um diagrama de implantação voltado a um sistema de biblioteca.
+
+Acredito que vocês também estejam familiarizados quanto a isso, pois
+
+me recordo que nós trabalhamos também em alguns diagramas anteriores.
+
+Beleza.
+
+Então, sem muitas delongas, vamos dar início hoje Nós vamos utilizar aqui o
+
+menu de UML por enquanto e vamos adicionar este carinha chamado Block.
+
+Tá bom? Vocês já vão entendendo
+
+o que nós iremos fazer.
+
+Primeiramente, nós vamos colocar aqui o chamado sistema de login.
+
+Tá bom?
+
+Sistema de
+
+login? Beleza.
+
+É aqui no sistema de login eu vou dizer para vocês que
+
+é Quais são as funcionalidades que o sistema de login terá dentro
+
+do sistema de gerenciamento de biblioteca? Beleza? Bom, quando um sistema de
+
+login ele existe, ele tem aqui, entre aspas, três ou mais funcionalidades.
+
+Por que que eu digo três ou mais funcionalidades?
+
+Porque todo sistema tem variação de usuários, né? A
+
+gente pode colocar que existe usuários comuns, usuários administrativos,
+
+ou existe perfil gerencial ou um perfil usuário normal.
+
+Tá.
+
+Além disso, existe um registro de usuário que quando o usuário.
+
+Ele tenta fazer login.
+
+Só que login não existe e ele precisa ter o cadastro inicial.
+
+Tá bom.
+
+Então eu vou colocar como esses três exemplos apenas, Mas
+
+dependendo do contexto, eu tenho vários tipos de usuário.
+
+Beleza.
+
+Dependendo do sistema, eu tenho vários tipos de usuário.
+
+Trabalhei em uma empresa, por exemplo, que era um sistema CRM e
+
+haviam quatro ou cinco tipos de usuários com permissões e acessos diferentes.
+
+Então, por isso que eu digo que é bem variável no nosso contexto serão apenas três.
+
+Então vamos colocar assim o inicializa.
+
+O painel de usuário vamos entender que é usuário comum.
+
+Para economizar tempo, iniciar painel de usuário administrativo
+
+e registra Registra OPA Registra novo usuário.
+
+Beleza.
+
+Seriam esses carinhas aqui? Por enquanto tá
+
+bom, beleza? Aqui eu estou dizendo
+
+que existe dois tipos de painéis.
+
+Olha só.
+
+Dependendo do login da pessoa vai ser inicializado.
+
+Um painel de usuário pode ser colocado como usuário comum.
+
+Vamos especificar melhor isso daqui para o melhor entendimento, tá? E
+
+também existe um outro tipo de painel que quando ele e
+
+logado, inicializa um outro tipo de usuário que é o administrativo.
+
+Sendo assim, eu vou ter de ter dois tipos de
+
+painéis, concordam ou não? Então aqui eu posso colocar assim.
+
+O.
+
+Painel Usuário comum.
+
+Tá? E aí? O que
+
+que existe dentro do painel
+
+de usuário comum? Existe
+
+a inicialização? Então vamos
+
+colocar assim o inicializa.
+
+Check out.
+
+Barra Retorno.
+
+Inicializa.
+
+Busca de livros.
+
+Afinal, uma biblioteca, né? E
+
+também tem o logout.
+
+Tá bom, então o que seria isso daqui? Check out, retorno, check out
+
+retorno e verificar se ele já fez o acesso no sistema alguma vez.
+
+E se ele está retornando, né? Ele inicializa a
+
+busca de livros? Porque? Porque dentro da minha
+
+livraria, meu sistema de biblioteca, no caso, eu
+
+tenho uma função, um menu ou um modo
+
+que é para fazer a busca de livros.
+
+Então o meu usuário, como ele tem acesso, Ou seja, quando ele faz o login, ele vai
+
+ter a possibilidade de fazer consulta de livros dentro do sistema, da biblioteca, do sistema, da livraria.
+
+E aí, caso ele já não queira mais utilizar o sistema, ele
+
+também tem a opção do logout, ou seja, desconexão do sistema.
+
+Beleza.
+
+E aí eu vou copiar e colar esse carinha aqui.
+
+E aí nós teremos outro que é
+
+quem? Usuário administrativo, bom usuário administrativo.
+
+Ele tem alguns opcionais a mais né? Então
+
+vamos colocar assim o usuário administrativo ele inicializa.
+
+E adiciona ou remove gêneros, ou seja, ele consegue fazer a modificação dos
+
+gêneros dos usuários comuns, se é feminino, masculino, fazer as trocas e etc.
+
+Ele também tem aqui inicialização do que ele inicializa de adicionar barra, remover livros.
+
+Vamos colocar aqui também Ações, né? Não como
+
+futuro, mas como presente, adicionar ou remover livros.
+
+Ele também tem a opção de inicializa o gerenciamento de usuários.
+
+Bom, ele tambem inicializa taxas, vamos colocar a taxa são as cobranças.
+
+E aí caso ele também não queira mais utilizar o sistema, ele também tem a opção de logout.
+
+Beleza, Então aqui eu estou dizendo pessoal que o meu sistema de biblioteca tem dois tipos de usuários.
+
+Cada tipo de usuário tem uma determinada permissão
+
+ou determinadas permissões ou funcionalidades dentro do sistema.
+
+Beleza, até aqui eu estou falando da aplicação visual Interface, né?
+
+Aqui o que é interagido com o usuário? Porém, eu tenho
+
+aqui o que vem por baixo, o nosso famoso back end.
+
+A nossa programação, que é o que o usuário não vê e que com certeza muda de um para o outro.
+
+Então aqui nós vamos utilizar quem? Nada
+
+mais nada menos do que os componentes.
+
+Vamos achar um componente bacana aqui.
+
+O que nós podemos
+
+colocar aqui? Os atributos.
+
+Então vamos colocar assim o checkout do sistema.
+
+Checkout do sistema.
+
+Beleza.
+
+E aqui nós vamos colocar coisas que são
+
+relacionadas a programação, tá? Então, opa, perdão.
+
+Vamos colocar aqui o.
+
+Checkout.
+
+O livro? Void Quem tem entendimento de
+
+programação vai saber, tá? Quem não tem?
+
+Não vou me adentrar à detalhes porque
+
+isso aqui é complexo e tecnicamente existe
+
+um curso só para isso aqui.
+
+Tá bom.
+
+Então, se você tem dúvidas, tenta procurar aqui o curso de Lógica de Programação, por exemplo.
+
+Vocês vão ter uma noção bem bacana do que está sendo falado nessas linhas.
+
+Tá bom Retorno
+
+Livro? Beleza.
+
+Então, aqui é a minha primeira função, meu primeiro componente.
+
+Vamos colocar assim, por bem
+
+dizer, né? O segundo
+
+é o que busca
+
+de livros? Busca? De.
+
+Livros.
+
+E aqui vai ter o
+
+que? Uma função chamada busca.
+
+Galera Resumo tá? Só para vocês não ficarem perdido
+
+a função Ela vai ser de certa forma, uma
+
+programação dentro do back end, tá? Colocar se de
+
+uma forma bem resumida, bem superficial e bem obsoleta.
+
+Mas para vocês entenderem a função dentro da programação.
+
+Como o nome diz, função, né? Ela vai ser encarregada, ou
+
+seja, é uma programação que vai ser encarregada de fazer determinada
+
+função, de fazer determinada ação, que é aquilo que você condiz.
+
+Ou seja, eu tenho uma função chamada busca.
+
+Dentro da função busca vai haver uma programação específica
+
+que vai ser utilizada para realizar buscas dos livros.
+
+Tá bom, eu vou ter uma função chamada retorno do livro.
+
+O que essa função do retorno vai fazer? Vai fazer o seguinte quando
+
+a função de busca achar, o livro, vai fazer o retorno do livro
+
+na tela para o usuário conseguir enxergar o livro que foi buscado.
+
+Rebuscado, tá? Então a função
+
+ela tem esse propósito.
+
+Assim, uma forma bem leiga de explicar para vocês entenderem.
+
+Beleza.
+
+Agora já para o nosso painel administrativo,
+
+são outras, né? Quais são as funções
+
+aqui que nós tínhamos Delegado? Vamos lá.
+
+Nós tínhamos primeiro a dos
+
+gêneros, né? Gerenciamento de gêneros.
+
+Vamos colocar aqui G.
+
+Gerenciamento de gêneros, gêneros.
+
+Esse aqui vai ficar, infelizmente, um pouquinho maior por
+
+conta dos caracteres, né? A palavra é maior.
+
+E aqui nós vamos colocar assim o adicionar, adicionar gênero e também remover gênero.
+
+São duas funções.
+
+Remover gênero.
+
+Beleza.
+
+Nós temos.
+
+Qual a outra? Gerenciamento de livros, né? Então
+
+é o administrador que vai fazer a utilização,
+
+a adição ou a remoção dos livros.
+
+Então, gerenciamento de livros? Aí
+
+ele faz o quê? Adiciona
+
+livros ou remove livros, né?
+
+Então ele pode adicionar livros.
+
+Ou.
+
+Remover livros?
+
+Beleza.
+
+Nós temos o gerenciamento do usuário, O que faz o gerenciamento do usuário pessoal Gerenciamento de.
+
+Usuarios O gerenciamento de usuários vai fazer o quê?
+
+A visualização né dos usuários Visualizar usuários é remover.
+
+Usuários.
+
+Ele vai cadastrar
+
+usuários? Não.
+
+Porque? Porque o cadastro de usuários vai ser aqui na parte
+
+de login, onde o usuário vai optar em se cadastrar.
+
+Aqui ele só vai fazer o que a visualização ou a remoção.
+
+Então, se um dia for solicitado, que faça a exclusão da conta, Eu usuário Wesley,
+
+fiz a conta no sistema de gerenciamento de biblioteca, usei por três dias, não gostei.
+
+Aí tem lá, né? Um
+
+botãozinho de excluir conta.
+
+Quando você faz a solicitação de exclusão da conta, geralmente é um processo de serviço, né?
+
+Existe uma API que vai fazer a exclusão do seu perfil do banco de dados.
+
+Quando não é dessa forma, existe um cara, uma pessoa que tem o perfil gerencial, administrativo.
+
+Ela acessa o sistema.
+
+Ou ela acessa o banco de dados e ela faz a exclusão de forma manual.
+
+Ou seja, ela vai lá dar um.
+
+1A1 delete, né? Dentro do
+
+banco de dados, por exemplo.
+
+Beleza.
+
+E aqui, dando continuidade, nós teríamos o outro, que é as taxas.
+
+Gerenciamento de taxas.
+
+O que seria gerenciamento das taxas? Pessoal, seria
+
+todo o controle de valores, né? Para frete
+
+dos livros, descontos e por aí vai.
+
+Então aqui a gente pode colocar assim o controle controlar taxa, por exemplo.
+
+Beleza, Então aqui são as funções que cada um dos perfis eles teriam.
+
+E aqui, o que nós vamos fazer? Nada mais nada
+
+menos do que as ligações que vocês já estão acostumados.
+
+Eu vou utilizar aqui o processo da seta, mas eu não gostaria de
+
+utilizar, tá? Eu gostaria, na verdade, de deixar a ligação sem setas alguma.
+
+A vila.
+
+Por quê? Porque aqui a gente tá entendendo como um
+
+tipo de relação igual ao diagrama de classe, tá? E
+
+eu não acho legal para esse tipo de diagrama.
+
+Tem gente que vai ter uma interpretação um pouco
+
+estranha, né? Então, eu não gosto de deixar assim.
+
+Eu posso fazer o seguinte, vamos ver se dá ao invés de eu deixar com seta.
+
+Infelizmente ele só dá opção com seta ou
+
+de linha, né? Vamos deixar com seta mesmo.
+
+Acho menos errôneo, tá? E aí para os dois, Não
+
+sei se vocês se atentaram, mas independente do perfil, eu
+
+tenho o logout, tá? Então o logout ele vai ser
+
+para ambos, então vou acrescentar ele aqui no meio.
+
+Por isso que eu deixei o espaço.
+
+Eu posso colocar aqui o.
+
+Vamos colocar assim O logout é aqui.
+
+É inicializar.
+
+Login.
+
+Um.
+
+Sistema.
+
+E uma função de deslogar.
+
+Obviamente, né?
+
+Inicializar.
+
+Logout Sistema.
+
+Às vezes a função de login é login logout.
+
+Tá pessoal? Mas eu vou deixar separadinho
+
+aqui para vocês entenderem que existe ambos.
+
+Tá.
+
+E tanto o meu perfil de usuário comum quanto o meu perfil de usuário administrativo.
+
+Eles terão ambos.
+
+Beleza.
+
+E aí eu só vou mudar o tipo de seta, tá?
+
+Porque essa função aqui ela não interage de certa forma
+
+com os perfis, né? É só uma função para desconexão.
+
+E aí isso está ligado diretamente à os usuários.
+
+Já essas outras funções aqui, elas estão ligadas à aplicação.
+
+Beleza.
+
+Resumidamente, seria isso daqui.
+
+E aqui não é como nós não ligamos.
+
+Obviamente vai haver a ligação aqui desses blocos.
+
+Tá bom.
+
+Beleza.
+
+O que eu poderia fazer? Eu poderia colocar
+
+aqui as pertinências em relação a cores também.
+
+Vamos colocar aqui o que esses seriam amarelos e que todo o restante seria verde.
+
+Não vai ficar muito Brasil, né?
+
+E seria azul, por exemplo.
+
+Um azul mais escuro.
+
+Aqui o Opa foi.
+
+Preenchimento? Perdão, não
+
+me atentei.
+
+Tem que ser o contorno, né?
+
+E o de baixa aqui, ó.
+
+Esse aqui.
+
+É a vila.
+
+Não entendi por que que é alteração das cores, a alteração das cores.
+
+Ela funciona para mostrar para você o que está ligado ao que tá.
+
+Então, assim, de certa forma, meu primeiro bloco, ele é a minha aplicação web,
+
+que já está hospedada em algum lugar e é a telinha no qual o
+
+usuário faz a interação, aonde tem os menus, os botõezinhos e por aí vai.
+
+Este tipo de tela ele vai ser variável de acordo com que o perfil de usuário tá.
+
+Possa ser que seja comum e possa ser que seja administrativo para ambos usuários.
+
+Eu vou ter funções, que é o que?
+
+O que vai poder ser feito com aqueles
+
+usuários, o que eles vão poder acessar,
+
+como eles vão poder interagir? Eles vão
+
+poder fazer? De certa forma é isso.
+
+Quando eu estou agregando a cores as funções, eu estou dizendo que quando
+
+é amarelo, tem ligação a diretamente com os perfis, tá bom? Agora, quando
+
+é em azul a função, ela tem uma ligação direta com o sistema.
+
+Tá bom.
+
+Afeta o sistema?
+
+Afeta a tela.
+
+Aqui eu não afeta a tela.
+
+Beleza.
+
+Por que? Porque
+
+E logout.
+
+Logout.
+
+Simplesmente vai ser um botãozinho, um menuzinho embaixo do seu perfil com o link de logout.
+
+Vai ter para ambos.
+
+Só que quando for tipos de usuários diferentes, a minha tela vai mudar.
+
+Quando for um usuário comum, ele só vai ter uma tela
+
+de pesquisa ou um campo de pesquisa, por exemplo, né? E
+
+a visibilidade daquilo que ele pesquisou? Agora, quando é um usuário
+
+administrativo, ele vai poder ter ali uma tela que vai mostrar
+
+o gênero dos usuários, quantos usuários existem no sistema e tudo
+
+que é relacionado a taxa, livros e etc, né? Então
+
+são visões diferentes as telas e as interfaces, elas mudariam.
+
+Então é mais para vocês terem um entendimento de que essas funções azuis estão ligadas.
+
+Azuis no caso, né? Estas funções azuis,
+
+elas estão ligadas a aplicação diretamente.
+
+E a função amarela está ligada a perfis dos usuários diretamente.
+
+Beleza.
+
+Poderia colocar aqui da maneira da aula anterior sobre aonde
+
+está, né? Poderia colocar aqui um bloco indicando que isso
+
+daqui está dentro de um lugar e colocar aqui um
+
+módulo, né? Um nó indicando o tipo de comunicação.
+
+Mas eu não vou fazer isso para esse.
+
+Para vocês entenderem que existe bastante diferença entre
+
+os tipos de desenhos, porque é bastante variável
+
+o que eu quero ilustrar? O que eu
+
+quero mostrar? O que eu quero mostrar como
+
+comunicação? Beleza, De certa forma é isso.
+
+Espero que aqui a sua cabeça tenha expandido a sua absorção
+
+também tenha sido um pouco mais do que as aulas anteriores.
+
+Vou me despedindo também.
+
+Fiquem com Deus até a próxima aula.
