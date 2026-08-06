@@ -1,0 +1,269 @@
+Olá Luna.
+
+Olá aluno! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML.
+
+Dando continuidade aos nossos exercícios de fixação sobre
+
+diagramas de implantação, estou trazendo a vocês.
+
+Nesta aula um diagrama de implantação voltado a uma gestão hospitalar.
+
+Beleza? Bom, sem delongas, o que nós faremos aqui, assim
+
+como aulas anteriores, é minimizar o menu geral e maximizar
+
+os dois menus abaixo, que são UML e UML 2,5.
+
+Beleza.
+
+Na aula anterior nós usamos um componente chamado block.
+
+É este componente.
+
+Nós faremos a utilização mais uma vez.
+
+Bom, então eu vou achá lo aqui para que nós possamos dar início.
+
+E ele está aqui em UML comum.
+
+Tá, não é o ML 2,5 ml comum.
+
+E aqui nós faremos um desenho bem simples e
+
+bem rápido, tá? Porém com informativos relacionados a comunicação.
+
+Nas aulas anteriores nós fizemos outros dois tipos de diagramas de implantação voltados a outro contexto.
+
+Nessa eu não me recordo qual sistema de compras ou de
+
+vendas online e também o sistema de gerenciamento da biblioteca.
+
+Aqui nesse contexto, é algo mais simples,
+
+tá? Porém com informativos um pouco diferentes.
+
+O que eu quero ressaltar aqui nesta aula ressaltar aquilo que nós acabamos não
+
+vendo devido às necessidades dos outros diagramas, né? Então, como eu comentei, as necessidades
+
+elas vão surgir conforme as necessidades do projeto, conforme os tipos de desenho,
+
+conforme os tipos de arquitetura, os tipos de infraestrutura e por aí vai.
+
+E aqui nós sabemos também que uma gestão hospitalar envolve muito
+
+mais coisas do que eu Vou acabar acrescentando para vocês.
+
+Mas eu quero que vocês utilizem como base e vocês acabem acrescentando mais coisas além do que eu passar.
+
+Beleza? Então levem como
+
+um exercício de fixação.
+
+Então, para uma gestão hospitalar, inicialmente, nós obviamente precisamos ter um
+
+hospital, né? Então vamos colocar assim o servidor local do hospital.
+
+Beleza, Todo hospital pessoal possui, obviamente, para que se guarde os dados, um banco de dados.
+
+Correto? Então nós vamos colocar
+
+aqui da seguinte forma.
+
+Servidor de banco de dados.
+
+Tá bom.
+
+Assim como a banco de dados.
+
+Em todos os hospitais também em todos os hospitais há máquinas para os usuários fazerem ali o seu trabalho.
+
+Então para os atendentes tem ali as máquinas dos atendentes, né? Para fazer
+
+registros, saber se você vai passar no clinico, no ortopédico, no pediátrico, enfim.
+
+E aí os próprios médicos também.
+
+Eles geralmente possuem um computador, porque hoje em dia, né? A gente sabe
+
+que os médicos também estão muito em chat GPT e Google às vezes.
+
+Infelizmente, eles acabam também, mesmo com muitos anos de
+
+estudo, não sabendo exatamente o que você tem.
+
+Recorre a internet para muitas coisas.
+
+Outras vezes o sistema, né que eles utilizam, permite que eles visualizem exames na web.
+
+Então, hoje em dia a gente quase já não vê mais uma chapa de
+
+raio x física, por exemplo, né? Então eles fazem um raio x, liberam.
+
+Depois de determinado tempo o médico, ele vai, acessa aquele
+
+endereço, ele faz a tratativa ali, olhando na tela mesmo.
+
+Então, resumidamente, tudo está no digital, tudo está no tecnológico.
+
+Tá.
+
+Independente disso, haverão máquinas para serem utilizadas.
+
+Então, aqui neste contexto, nós vamos colocar assim o.
+
+Local de trabalho do cliente, né?
+
+Do cliente não é do funcionário.
+
+Beleza.
+
+O que que seria o local de trabalho
+
+do funcionário? Seria o computador que ele faz
+
+a utilização? Aqui estou colocando num contexto genérico.
+
+Por quê? Porque haveria ou haverão inúmeras máquinas,
+
+inúmeros computadores, inúmeros notebooks e por aí vai.
+
+Beleza.
+
+E da mesma forma que eu falei que existem várias máquinas, também haverão que várias impressoras.
+
+Por que haverão várias impressoras? Porque através das impressoras é
+
+onde nós vamos ali ter o nosso atestado, por exemplo,
+
+onde será impresso a receita do medicamento, entre outras coisas.
+
+Tá bom, então por enquanto nós vamos fazer a utilização apenas
+
+desses carinhas aqui, tá? E aí, como nós vamos fazer a
+
+ligação aqui para esse diagrama de implantação? É bem simples.
+
+Na verdade, nós utilizaremos mais uma vez essa linha aqui, deletando essas duas legendas.
+
+Tá bom.
+
+E junto a isso, nós também utilizaremos a Taito, né?
+
+Que é o que? Para inserirmos um título ou
+
+uma descrição entre as comunicações? Então, inicialmente eu vou
+
+ligar o Taito a esse meu servidor do hospital.
+
+Tá bom.
+
+E este servidor do hospital junto ao Taito Eu vou ligar no
+
+local de trabalho, ou seja, nos equipamentos, nas máquinas, computadores, notebooks, etc.
+
+E aqui? Qual será o tipo de comunicação? Aqui galera,
+
+nós vamos colocar assim a rede primária, tá bom? Resumidamente,
+
+isso aqui é um termo bastante utilizado para quem é
+
+da área de infra, para quem geralmente atua na área
+
+de redes de comunicação, telecomunicações e por aí vai.
+
+Tá.
+
+É um termo bem comum, na verdade.
+
+E quando nós dizemos que a rede é primária e secundária e por aí vai.
+
+Quer dizer que existem várias redes dentro do local e
+
+que dentre todas essas redes, ela está utilizando uma
+
+específico? Vou dar um exemplo bem claro aqui ó.
+
+Você na empresa geralmente possui wi fi próprio da empresa, próprio dos funcionários.
+
+Porém, se você observar, geralmente tem wi fi, que é para os convidados, eu indica que
+
+há dois tipos de redes ali, que há uma rede primária, é uma rede secundária, então
+
+no caso você utilizaria a rede primária por ser um funcionário, porem a secundária seria para
+
+os convidados né? Seriam redes apartadas por motivos de segurança, roubo de dados, informações e etc.
+
+Então aqui está sendo utilizado da mesma forma.
+
+Então estou dizendo que o tipo de rede aqui ela é primária.
+
+Beleza.
+
+E aí, como todo bom sistemático, eu vou deixar essa
+
+linha aqui ajustada, né? E aí a mesma coisa
+
+serão para os demais, tá? Então nós vamos copiar.
+
+Essas linhas aqui e vamos fazer a ligação devida também para cá.
+
+E aí nós podemos.
+
+Também ajustar de acordo com a necessidade.
+
+E nós também vamos fazer isso para impressoras.
+
+Tá bom.
+
+E aí, como eu mencionei a aula dessa vez ela é bem curta.
+
+Eu simplesmente queria passar esse tipo de informativo para vocês.
+
+E eu gostaria, na verdade, que vocês exercitassem, né? Então
+
+eu tenho feito muito passo a passo com vocês.
+
+Porém, eu gostaria de tirar um pouco essa dependência da minha parte em
+
+relação a atividades e práticas e deixar vocês exercitarem conforme a imaginação.
+
+Então, assim, o que mais é pertinente dentro do hospital? Que de
+
+certa forma é ligado ou é entrelaçado entre hardware ou software que
+
+precisasse ser ilustrado, que precisasse existir aqui dentro deste diagrama de implantação.
+
+Então nós colocamos aqui que existe o servidor do banco de dados
+
+que existe, as impressoras que existem, o servidor do hospital propriamente.
+
+Que também existe o local de trabalho dos funcionários.
+
+O que mais nós precisaremos acrescentar aqui? Então imagina você aí
+
+com hospitais próximos a casa de vocês, O que geralmente
+
+vocês observam quando vocês vão no hospital? Que existe de
+
+tecnologia e que necessariamente, o que obrigatoriamente compõe uma uma
+
+rede ou uma comunicação, uma integração entre sistemas? Beleza, vou
+
+deixar vocês pensando e quebrando a cabeça um pouquinho nisso
+
+daqui, tá bom? Então eu vou me despedindo por aqui.
+
+A próxima aula nós daremos continuidade com mais um outro exemplo de diagrama de implantação.
+
+Então eu vejo vocês até lá.
+
+Fiquem com Deus.
+
+Até breve.
