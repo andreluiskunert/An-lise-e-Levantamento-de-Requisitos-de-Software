@@ -1,0 +1,427 @@
+Olá Luna! Olá!
+
+Como vocês estão?
+
+Eu espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML.
+
+Trazendo a vocês mais um exemplo sobre diagramas de implantação.
+
+Dessa vez nós vamos falar e vamos criar juntos um diagrama
+
+de implantação voltado a um servidor de gerenciamento de hotéis.
+
+Beleza.
+
+Então, dentre os diagramas que nós trabalhamos relacionados a implantação até o momento,
+
+eu acredito que este daqui ele vai ser aquele que é um pouco
+
+mais complexo ou até mesmo um pouco mais completo, um pouco mais robusto.
+
+Beleza.
+
+Então, sem muitas delongas, eu já tenho aqui os meus menus de UML e UML abertos.
+
+Tá bom.
+
+Nós mais uma vez vamos utilizar aqui o nosso bloco Beleza?
+
+E nós vamos construir este carinha aqui de trás para frente.
+
+Tá bom, eu vou fazer separado inicialmente, porém nós faremos algumas junções aqui
+
+ao decorrer das aulas, porém nós iremos fazer algumas junções ao decorrer
+
+desta aula e vocês vão entender como que vai funcionar estas camadas.
+
+Tá.
+
+Desde a mais superficial até a mais profunda.
+
+Tá bom.
+
+Primeiro de tudo, nós vamos colocar aqui estação de trabalho do cliente.
+
+Tá bom? Então vamos
+
+colocar assim, ó.
+
+Estação de trabalho do cliente, Tá bom?
+
+Embaixo nós vamos colocar assim o PC,
+
+né? Personal Computer, o famoso computador.
+
+Tá bom, por enquanto vamos manter dessa forma.
+
+Vamos copiar e colar este bloco também.
+
+E aqui nós vamos colocar o seguinte.
+
+Vamos colocar assim ó ó S.
+
+E vamos colocar aqui Windows dez ou Windows 11, como vocês optarem.
+
+Beleza.
+
+E vamos criar um terceiro bloco deste aqui.
+
+E aqui nós vamos colocar assim o servidor de aplicação.
+
+Beleza.
+
+E aqui nós vamos colocar assim o servidor.
+
+De gerenciamento de hotel.
+
+Gerenciamento de
+
+hotel? Beleza.
+
+Bom, não sei se vocês entenderam até aqui, mas eu estou fazendo camadas.
+
+Beleza? Olha só que bacana,
+
+eu tenho um computador.
+
+O meu computador.
+
+Ele tem o Windows dez instalado e através do meu Windows eu
+
+faço acesso ou gerenciamento de um servidor de gerenciamento do meu hotel.
+
+Beleza.
+
+Então, aqui, de certa forma, seria aonde o usuário faz a interação
+
+dentro de um determinado sistema que está instalado em um computador.
+
+Então, eu tenho aqui dois softwares.
+
+Beleza.
+
+Porém, eu tenho aqui um hardware que é a estação de trabalho do meu cliente.
+
+Então aqui eu estou justificando tanto o hardware quanto o software.
+
+Bom pessoal, dando continuidade, nós agora vamos utilizar um
+
+outro componente que seria os nossos módulos, né?
+
+Poderia mais uma vez ser este módulo aqui.
+
+Poderia ser.
+
+Este componente que nós temos um módulo em miniatura em cima e também poderia
+
+ser esse que nós temos em ML 2,5, que é este componente aqui.
+
+E ele possui ali também alguns informativos a mais sobre interface.
+
+Neste contexto, eu vou utilizar esse daqui porque eu quero fazer algo um pouco menor.
+
+Tá bom, Aqui nós faremos os nossos modos que seriam pertinentes ou
+
+existentes dentro do nosso servidor de gerenciamento de hotel ou dentro da
+
+nossa aplicação gerenciamento de hotel, tá? Então, pensando em um hotel?
+
+Geralmente, quando nós pensamos em hotel, nós pensamos também em convidados
+
+ou em hóspedes, né? Então o meu servidor de gerenciamento de
+
+hotel, ele tem que gravar as informações desses convidados desses hóspedes.
+
+Beleza.
+
+Então, o primeiro aqui nós poderíamos colocar como
+
+convidados, mas eu vou colocar como? Hóspede, porque
+
+eu acredito que fique melhor, né? Mas entendível.
+
+Beleza.
+
+Agora, quanto o nosso segundo hotel, se também nós pararmos para analisar, existe o empregado?
+
+Beleza, Então eu vou copiar este carinha aqui e vou colocar um segundo chamado empregado.
+
+Emprego? Beleza? Além do empregado, nós também
+
+temos o nosso serviço de quarto, né?
+
+Então, geralmente quando nós nos hospedamos
+
+em hotel, nós somos os hóspedes,
+
+então vai guardar as nossas informações.
+
+Existem os empregados que vão ser aqueles funcionários que trabalham dentro
+
+do hotel e nós geralmente também temos o serviço de quarto.
+
+Serviço? De
+
+quarto.
+
+Então aqui eu preciso saber o que foi pedido e etc, né? Eu posso
+
+através do serviço de quarto, pedir comida, pedir uma bebida e por aí vai.
+
+Além disso, nós também temos dentro de um hotel, tá? Um inventário,
+
+beleza, Inventário Ele é o controle do estoque, entrada, saída para saber
+
+se os produtos existem e se estão lá, quantos têm, etc.
+
+Né? Nós também temos o restaurante, que também é necessário
+
+haver um controle controle de funcionários, controle de comida, controle
+
+de clientes, controle de cardápios e por aí vai.
+
+Beleza, Nós também temos um spa que é para relaxar.
+
+Todo bom hotel possui que mais que nós temos dentro do hotel.
+
+Vão pensando aí e vão matutando na cabeça.
+
+Nós geralmente temos transporte, né? Então geralmente o hotel
+
+disponibiliza transporte para nós podermos chegar até o
+
+local, né? Motorista particular e etc, né? Geralmente
+
+também nós temos entreter alimento e o entretenimento.
+
+Aqui ele pode entrar como vários conceitos, pode ser um
+
+clube aquático, pode ser apenas uma piscina para criançada,
+
+pode ser aqueles playgrounds, né? E por aí vai.
+
+E aí também nós temos os últimos aqui, que também não são tão importantes, mas são as contas.
+
+Falando de ironia, tá.
+
+As contas aqui, resumidamente, seriam os mais importantes, porque envolve
+
+dinheiro e valores, tá? Então, resumidamente, isso daqui seriam módulos.
+
+Beleza, Esses módulos eles ficariam geralmente dentro
+
+de onde? Do servidor de aplicação.
+
+Então este meu servidor de aplicação aqui ó, eu o aumentaria um pouco e.
+
+Colocaria Todos esses módulos, todos esses componentes dentro dele.
+
+Tá bom.
+
+Porém, como eu mencionei anteriormente, o Windows aqui é quem guarda
+
+o servidor, né? Ou o sistema de gerenciamento? Então o Windows
+
+aqui para esse contexto seria o carinha que guardaria não apenas
+
+o sistema, mas os módulos, porque estão como um conjunto.
+
+Tá bom.
+
+E por fim, o computador, né? Esse computador
+
+aqui ele é utilizado para fazer acesso.
+
+Então também é utilizado.
+
+Pertinente a instalação do Windows? Então
+
+tudo isso daqui ficaria aqui dentro.
+
+Então olha só como funciona a criação quando eu tenho algo
+
+embarcado, né? Quando eu tenho aqui amarrações uma dentro da outra.
+
+Beleza, eu posso ir criando e amarrando, caso eu saiba.
+
+Mas eu posso criar separado e depois só ir encaixando tudo aonde precisa.
+
+Olha só, eu tenho aqui como físico o meu computador.
+
+Dentro dele instalado o meu Windows dez, onde eu faço acesso a aplicação
+
+do servidor ou controle do servidor, Gerenciamento de hotel onde eu faço
+
+o controle de hóspedes, empregados, serviços de quarto, inventários, restaurante ou restaurantes.
+
+Depende.
+
+Há mais de um SPA, transportes, entretenimentos, contas.
+
+É claro que existem muito mais coisas aqui, tá? Então, novamente,
+
+como exercício de fixação, gostaria que vocês pensassem que vocês
+
+pesquisassem e vocês complementassem isso que nós já estamos fazendo.
+
+Tá bom.
+
+E aqui para tudo isso, nós também temos outros bloquinhos,
+
+então vamos criar mais outros dois bloquinhos separados aqui.
+
+Que esses outros dois bloquinhos aqui, eles serão
+
+pertinentes a outras duas informações, tá? Quais seriam
+
+essas outras duas informações aqui? Vamos lá.
+
+Bom, nosso primeiro bloquinho que seria separado aqui ó.
+
+Ele poderia se chamar Servidor de.
+
+Impressão E aí nós vamos colocar aqui desta forma, tá?
+
+E aí poderíamos especificar só como impressora do cliente.
+
+Beleza? Então imagina que o cliente, ele
+
+tem essa necessidade de imprimir informações pertinentes
+
+a tudo isso daqui, que é
+
+gerenciável, tá? Não a tudo, né?
+
+Porque hóspede ele não precisa saber.
+
+Mas em relação a empregados, em relação ao horário
+
+de funcionamento de restaurante, quais os cardápios? Então,
+
+sobre o transporte, né? Horários, dias e etc.
+
+Além de entretenimento.
+
+Então o cliente ele poderia fazer o que?
+
+A impressão desses informativos, caso ele tenha necessidade.
+
+Só que, em paralelo a tudo isso, nós também temos o servidor de banco de dados.
+
+Tá, então nós poderíamos colocar um servidor.
+
+De.
+
+Banco de
+
+dados? Beleza.
+
+E aí o servidor de banco de dados,
+
+obviamente, aonde seria hospedada a aplicação? Tá.
+
+Então o que que eu teria de
+
+ter aqui como atenção? Vamos lá.
+
+Primeiro de tudo é que.
+
+Ambos eles seriam ligados ou conectados ao meu servidor de aplicação, que é esse cara aqui.
+
+Então, como está muito grande em vertical, eu posso fazer até
+
+o seguinte olha só colocar um pouco mais para cima.
+
+Beleza? E aqui eu já tenho um visual mostrando um pouco melhor
+
+sobre ambos, né? Não apenas sobre os bloquinhos separados, mas também
+
+sobre esses contextos que nós temos internamente aqui as nossas ligações
+
+elas serão da mesma maneira, Então vamos achar aqui a nossa.
+
+Pode ser aqui, essa nossa linha.
+
+Eu nunca acho ela.
+
+Hoje eu acabei achando, olha só.
+
+Então vamos colocar aqui o.
+
+Que é este carinha aqui?
+
+Nós também vamos colocar.
+
+Para esta ligação.
+
+Então o que está sendo ligado aqui é o servidor de aplicação.
+
+Beleza.
+
+Só que para mim fazer a identificação tá um
+
+pouco esquisito, né? Porque tá tudo preto e etc.
+
+Então, como nós já fizemos em aulas anteriores, nós na verdade vamos arrumar isso daqui.
+
+Então esses dois carinhas e este bloco interno relacionado ao servidor, nós
+
+vamos colocar em uma cor, pode ser um azul, por exemplo.
+
+E a linha aqui também nós podemos fazer a modificação, colocar
+
+em azul também e olha só como muda, né? E aqui
+
+os outros nós podemos ir acrescentando outros tipos de cores, né?
+
+Por exemplo, assim, o vermelho mais escuro é um alaranjado, talvez.
+
+Um vermelho mais claro, Não sei.
+
+Beleza.
+
+E aqui está pronto mais um diagrama de implantação e esse é relacionado ao gerenciamento de hotel.
+
+Tá.
+
+Então o que é legal de vocês se atentarem quanto a todas as aulas
+
+anteriores? E além dessa é que todos os diagramas, eles mudaram a forma, mudaram
+
+a maneira de serem implantados e também muitos deles mudaram os componentes de criação.
+
+Como eu mencionei lá na primeira aula, que é a teórica.
+
+Tudo isso é variável de acordo com o projeto, de acordo com
+
+o produto, de acordo com o serviço que está sendo criado.
+
+Tá, então estou trazendo vários exemplos de várias formas, com vários
+
+modelos, justamente para vocês terem esse entendimento e principalmente este tipo
+
+de percepção, tá? Por quê? Porque muitas vezes as pessoas acabam
+
+olhando outros diagramas e por não serem aquilo que elas
+
+estão acostumadas a criar ou que elas estudaram, elas acham
+
+que não faz parte de um determinado grupo de diagramas.
+
+Então, como eu estou mostrando, todos esses nós viemos a desenhar nessas últimas aulas.
+
+São pertinentes a diagrama de implantação.
+
+Beleza.
+
+Então gostaria que vocês complementassem aqui de mais módulos,
+
+caso vocês encontrem como um exercício de fixação também.
+
+Vou ficando por aqui, me despeço de vocês.
+
+Fiquem com Deus e até breve.
