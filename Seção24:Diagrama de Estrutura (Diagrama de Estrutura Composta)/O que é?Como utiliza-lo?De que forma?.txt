@@ -1,0 +1,561 @@
+Olá, Luna!
+
+Olá, Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês, a partir desta aula, o último diagrama no qual nós iremos trabalhar relacionado
+
+ao Grupo de Diagramas Estruturais.
+
+Nós vamos falar um pouco a respeito sobre diagrama de estrutura composta.
+
+Bom, antes de mais nada, eu gostaria de mencionar que eu deixei este diagrama por último de propósito,
+
+porque é um tipo de diagrama no qual nós vamos mencionar muitos objetos dos quais nós já estudamos nos
+
+diagramas anteriores.
+
+Então, algumas coisas que nós vimos em diagramas de classe, diagrama de objetos, Diagramas de sequência
+
+A pouco tempo em diagrama de implantação, nós faremos a visualização de certa forma, de uma maneira
+
+conjunta dentro do diagrama de estrutura composta.
+
+Então, o que vocês já precisam se atentar logo de início é que aqui.
+
+Diagrama de estrutura composta.
+
+Ele é um pouco mais complexo do que os anteriores.
+
+Diagrama de estrutura composta e um pouco mais detalhado do que os anteriores.
+
+É Diagrama de estrutura composta.
+
+Ele é mais peculiar do que os outros, então, assim como os outros, tinham peculiaridades e nomes
+
+específicos, chamadas específicas, objetos específicos.
+
+Aqui não é diferente, tá?
+
+Então muito cuidado sobre a se atentar no que eu vou estar lendo, né?
+
+Sabemos que essas primeiras aulas são teóricas para nós termos ali um entendimento antes de ir para
+
+prática.
+
+Então assim, atentem se bastante sobre o que eu estou lendo.
+
+Se não ficar claro, vocês voltem.
+
+Se não ficar claro, vocês pausam em vocês mesmos.
+
+Façam a leitura porque muitos parágrafos estão relacionados a outros.
+
+Tá.
+
+Então, assim, o que eu mencionar em um determinado parágrafo talvez seja a relação com o que eu já
+
+li no parágrafo anterior acima.
+
+Então assim, é necessário estar bastante ligado nessas aulas para entender, porque se não entender
+
+literalmente, não vai conseguir desenvolver esses tipos de diagramas.
+
+Tá bom?
+
+Bom, sem mais delongas, o que é o diagrama de estrutura composta?
+
+Vamos lá.
+
+Diagrama de estrutura composta.
+
+Ele é um diagrama do grupo estrutural e oferece uma visão lógica de toda a parte de um sistema de software.
+
+Então, tudo que é lógico ele vai fazer a possibilidade de visualização.
+
+O diagrama atua como uma perspectiva dentro de um determinado classificador.
+
+Estruturado e define suas classes de configurações, interfaces, pacotes e relações entre eles.
+
+A partir de um nível detalhado.
+
+Primeiro ponto aqui, no qual nós ainda não trabalhamos e não visualizamos ou lemos ou ouvimos.
+
+Classificador estruturado O que é um classificador?
+
+Antes de mais nada, classificador nada mais é do que o nome que você vai usar para distinguir ou para
+
+mostrar aquilo que você está desenhando.
+
+Então, o que que pode ser considerado um classificador pode ser considerado uma interface?
+
+Pode ser considerado um pacote.
+
+Pode ser considerado as relações Um pouco mais abaixo, nós vamos ver que ele também pode ser considerado
+
+como uma classe, um componente, um nó de implementação, por exemplo.
+
+Então, quando eu estou dizendo sobre classificador estruturado, eu estou dizendo sobre aquilo que
+
+eu estou desenhando, sobre aquilo que eu estou nomeando, sobre aquilo que eu estou querendo mostrar.
+
+Beleza.
+
+Dando continuidade.
+
+Um diagrama de estrutura composta mostra a estrutura interna dos classificadores estruturados utilizando
+
+peças.
+
+Portas e conectores.
+
+Um classificador estruturado define a implementação de um classificador e pode incluir uma classe,
+
+um componente ou um nó de implementação.
+
+Como eu acabei de mencionar.
+
+beleza.
+
+Então, tudo isso que está sendo dito neste texto, nestes parágrafos aqui, é sobre o classificador
+
+estruturado.
+
+O que pode ser definido como classificador estruturado?
+
+O que pode ser agregado como classificador estruturado?
+
+Tudo isso que eu acabei de ler interfaces, pacotes, relações entre eles a partir de um determinado
+
+nível.
+
+Pode ser também as classes, componentes, nós de implementação classes, componentes.
+
+Nós vimos em aulas anteriores, Nós também, nós vimos.
+
+Então tudo isso está bem fresquinho nas nossas cabeças, Tá bom.
+
+E aí?
+
+Aqui existe também alguns passos, assim como os diagramas anteriores de como fazer a utilização do
+
+diagrama de estrutura composta.
+
+Então vamos lá.
+
+Você pode utilizar o diagrama de estrutura composta para mostrar os detalhes internos de um classificador
+
+e descrever os objetos e funções que trabalham junto para executar o comportamento Tamento do classificador
+
+contido.
+
+Então vamos por partes.
+
+Vamos imaginar que o classificador que eu estou querendo dizer é uma determinada classe.
+
+Beleza.
+
+Então eu posso utilizar o diagrama de estrutura composta para mostrar detalhes do classificador e descrever
+
+os objetos e funções que trabalham junto a eles para executar o comportamento do classificador.
+
+Ou seja, se eu estou falando de uma classe, eu vou utilizar o diagrama de estrutura composta para
+
+detalhar a classe e para descrever objetos ou funções que trabalham em conjunto com esta classe.
+
+Beleza para mim ter ali um comportamento do classificador em conjunto.
+
+Tá.
+
+Estou dando exemplo de classe.
+
+Mas eu poderia também falar sobre o componente, sobre nó, sobre comunicação e por aí vai.
+
+Beleza.
+
+Um diagrama de estrutura composta é similar a um diagrama de classe.
+
+Olha só.
+
+É similar.
+
+Mas ele representa peças individuais em vez de classes inteiras.
+
+Então, dando exemplos de aulas anteriores de diagramas de classes, nós tínhamos representações inteiras
+
+e macros.
+
+Aqui ele vai quebrando um pouco, vai deixando mais granular e passa a ter representações de peças individuais.
+
+Beleza.
+
+E aí?
+
+Aqui o ponto de atenção Antes de definir a estrutura interna de um classificador, você pode mostrar
+
+seu comportamento de estrutura ou abrir um diagrama de estrutura composta.
+
+Aqui ele está dizendo já quais são os passos de criação, boas maneiras, boas práticas para você criar
+
+uma coisa bacana.
+
+Tá bom, não vamos nos atentar, por enquanto a isso.
+
+Então você pode modelar as peças que representam as instâncias que o classificador contido possui.
+
+Nós estamos falando de classes, de instâncias.
+
+E se eu não me recordo mal.
+
+Há um diagrama de objetos.
+
+Passei algumas aulas explicando um pouco a diferença entre classes, objetos, instâncias, né?
+
+Para quando chegar aqui a gente tem um entendimento.
+
+Tá fresquinho.
+
+Em relação ao que a gente está estudando, se não lembra, se não se recorda, se tá ficando um pouco
+
+complexo o entendimento, aconselho a voltar nessas aulas anteriores para ter uma breve recapitulação,
+
+né?
+
+Para refrescar a memória, para poder dar continuidade aqui.
+
+Beleza?
+
+Bom, dando continuidade, você pode incluir conectores para vincular duas ou mais peças em um relacionamento
+
+de associação ou dependência.
+
+Então, aqui no diagrama de estrutura composta nós já estamos vendo e sabendo que existe relação, né?
+
+Que que é a relação?
+
+É a ligação entre algo, né?
+
+E aqui ele está dizendo que existe dois tipos no momento, que é associação ou dependência.
+
+quando algo depende de um outro ou quando é associado um ao outro.
+
+Beleza.
+
+Tivemos aulas específicas também.
+
+Espero que vocês estejam se recordando daquilo que eu estou falando, tá?
+
+Não convém.
+
+Nestas aulas eu entrar muito em detalhes sobre o que nós já vimos, até porque as aulas elas estão gravadas
+
+e se houver dúvidas, vocês conseguem voltar e ver de forma micro, né?
+
+De forma granular, detalhada, passo a passo do que é dito la nas aulas.
+
+Ta bom?
+
+Então se eu parar para explicar tudo o que já foi dito nas aulas anteriores, a gente vai patinar e
+
+não vai sair do lugar.
+
+Beleza.
+
+Continuando.
+
+Olha só.
+
+Em diagrama de estrutura composta, as portas definem o ponto de interação entre um classificador e
+
+seu ambiente ou entre um classificador e suas peças internas.
+
+Então vamos lá.
+
+Imagina que o meu classificador novamente como base, é uma classe.
+
+Então eu estou dizendo aqui que as portas e o ponto de interação entre a minha classe e o meu ambiente,
+
+ou seja, aonde ele está hospedado, tá?
+
+Ou também pode ser uma relação entre a minha classe e as peças internas que compõe a minha classe.
+
+Tá, isso pode ser levado em consideração no software também.
+
+Você pode utilizar uma porta para especificar os serviços que o classificador fornece ou requer de seu
+
+ambiente.
+
+Então, novamente, a minha classe.
+
+Vamos imaginar que é uma tabela no banco de dados chamada cliente.
+
+Beleza.
+
+Então, meu classificador é uma classe chamada Cliente.
+
+Beleza.
+
+A porta eu vou utilizar para mostrar o que eu forneço de informações desta minha tabela para minha aplicação
+
+ou o que minha aplicação precisa dessa minha tabela para poder funcionar.
+
+Beleza?
+
+Então é mais ou menos esse o funcionamento da porta.
+
+Você também pode modelar colaborações e usos de colaborações em diagrama de estrutura composta.
+
+O que é uma colaboração?
+
+Por isso que eu pedi para vocês prestarem atenção, porque não foi dito na linha que eu li, mas está
+
+sendo dito na linha abaixo.
+
+Uma colaboração descreve as funções e atributos que definem um comportamento específico do classificador.
+
+Opa!
+
+Novamente, vamos usar o exemplo da tabela no banco de dados.
+
+A tabela cliente.
+
+Qual um dos comportamentos que essa tabela deve ter?
+
+Gravar dados, por exemplo.
+
+Tá, então gravar dados dentro da tabela dentro do meu classificador.
+
+A colaboração Ela vai descrever as funções ou os atributos deste comportamento de gravar informação
+
+dentro da tabela.
+
+Então, quais as linhas?
+
+Quais as colunas?
+
+Qual que vai ser a maneira, né?
+
+se vai ser um uma Kiri, por exemplo, se vai ser uma procedure.
+
+Se vai ser simplesmente um insert dentro do banco de dados.
+
+Enfim, aqui é onde eu vou dizer a colaboração é o que?
+
+Como que está sendo colaborado?
+
+As funções ou os atributos para o comportamento do meu classificador?
+
+Como que tudo está sendo conversado para que haja a gravura das informações dentro dessa minha tabela
+
+no banco de dados, por exemplo.
+
+Então, a colaboração é em relação a isso.
+
+Tá bom.
+
+Uso de colaboração representa um uso específico da colaboração para explicar os relacionamento entre
+
+as propriedades de um classificador.
+
+Até aqui eu acho que tá beleza.
+
+É entendível a todos, né?
+
+Bom, dando continuidade para identificar as funções das peças no seu uso de colaboração, você anexa
+
+um uso de colaboração.
+
+Há uma colaboração e, em seguida, inclui o uso de colaboração em um diagrama de estrutura composta.
+
+Então, aqui ele está dizendo passo a passo que para mim, identificar as peças no uso de colaboração.
+
+Eu preciso fazer algumas anexações e depois juntar tudo.
+
+Então leva em consideração a última aula que nós tivemos sobre diagrama de implementação, que foi aquela
+
+no qual eu fiz tudo separado.
+
+Depois eu vim fazendo as junções em determinados níveis.
+
+Aqui o que ele está dizendo é mais ou menos coisa parecida.
+
+Beleza.
+
+Como a seguinte figura ilustra um diagrama de estrutura composta e exibido no editor de diagrama como
+
+uma estrutura que tem o nome do classificador contido.
+
+As peças de material composto do classificador e as suas conexões de comunicações são exibidas na estrutura
+
+do diagrama.
+
+Que figura é essa que ele está dizendo?
+
+Eu vou puxar aqui para vocês verem.
+
+Tá bom?
+
+Galera?
+
+O texto no qual eu acabei de fazer a leitura.
+
+Ele está relacionado a este diagrama que eu estou exibindo para vocês na tela.
+
+Beleza.
+
+Infelizmente, é um dos poucos diagramas que eu consegui encontrar sobre diagrama estrutural que fosse
+
+mais simples para mim poder explicar esta aula.
+
+E, infelizmente, ele acabou estando em inglês.
+
+Eu sei que a maioria das pessoas aqui não tem o conhecimento de inglês, mas não tem problema, eu vou
+
+fazer a explicação e relação com a continuidade do texto para entendimento geral.
+
+Bom, primeiro de tudo, o que eu quero explicar é que a gente né, nós, eu como instrutor, vocês
+
+como, como os alunos.
+
+Nós estamos visualizando todos os diagramas até o momento.
+
+Como diagramas para fazer implementação de projetos de software, né?
+
+Mas este exemplo específico para este caso do diagrama de estrutura composta, ele está falando a respeito
+
+de um carro.
+
+Tá bom.
+
+Por que que eu quero mostrar para vocês?
+
+Olha só.
+
+Bom, aqui se nós observarmos, né?
+
+Nós temos inicialmente o nome, né, da estrutura no qual nós estamos falando.
+
+Então isso daqui seria o nosso classificador.
+
+E ele aqui tecnicamente vem colocar, né?
+
+Seria carro em inglês?
+
+E aí dentro dele nós temos aqui outros quatro bloquinhos onde tá escrito left front light, front left,
+
+rear e write.
+
+Tá.
+
+O que que seria isso daqui?
+
+Seria uma estrutura composta falando sobre a estrutura do carro, sobre as rodas.
+
+Tá bom, então aqui eu estou falando neste primeiro bloquinho que dentro do meu carro existe uma roda
+
+dianteira do lado esquerdo e que também existe uma roda dianteira do lado direito.
+
+Beleza, pois como também existe uma roda do lado esquerdo traseira e também existe uma roda do lado
+
+direito traseira.
+
+Então esse Will aqui seria a roda.
+
+Beleza.
+
+Então.
+
+Write.
+
+Lado direito Write Front.
+
+Lado direito Frontal.
+
+Write Rir, né?
+
+Lado direito traseiro.
+
+Da mesma forma aqui.
+
+Lado esquerdo.
+
+Frontal Lado esquerdo traseiro.
+
+Todos eles estão sendo falados que são rodas e ambos possuem ligações relacionamentos.
+
+Aqui eu estou dizendo no primeiro relacionamento entre a minha roda frontal esquerda e a roda frontal
+
+direita que existe uma ligação por eixo.
+
+Então, todo o carro existe uma estrutura de eixo eixo frontal no caso.
+
+E aqui eu estou dizendo que para minha roda traseira, tanto a esquerda quanto a direita, também existe
+
+uma ligação que é pelo eixo traseiro.
+
+Beleza.
+
+Bom galera, dando continuidade.
+
+Aqui tem a continuação do texto.
+
+Olha só o exemplo na figura mostra como o diagrama de estrutura composta identifica o classificador
+
+contido chamado carro, né?
+
+Seria o car.
+
+A estrutura de diagrama mostra quatro peças de material composto interno do classificador contido,
+
+que representa as quatro rodas do carro e são de tipo roda.
+
+Um link de comunicação conecta as rodas dianteiras e rodas traseiras com conectores denominados como
+
+Frontier e raio x, que seria os eixos frontais e eixos traseiros.
+
+Beleza.
+
+Sempre que você cria um diagrama de estrutura composta a partir do classificador carro, quatro instâncias
+
+da classe Rodas são criadas.
+
+Aqui estou exemplificando e já dizendo o que acontece.
+
+Quando eu crio um diagrama de estrutura composta a partir do classificador carro.
+
+Beleza.
+
+Essas peças são mantidas pela composição dentro da estância carro e as rodas dianteiras e as rodas traseiras
+
+são vinculadas por conectores.
+
+Bom pessoal, consegui colocar aqui em miniatura no slide tá?
+
+Só para vocês terem o entendimento conforme a leitura e a visibilidade em tempo real do diagrama.
+
+Tá bom?
+
+Então, conforme vocês forem fazendo a leitura, vocês vão fazendo o entendimento aqui do que está sendo
+
+dito com base na minha explicação anterior.
+
+Antes mesmo deste texto.
+
+Beleza.
+
+Bom, ao estar estendendo um pouco o fato de ela ser teórica, ela acaba sendo um pouco massiva.
+
+Então vou dividir a teoria deste tipo de diagrama em duas aulas como parte um e parte dois.
+
+Parte um está completa.
+
+Vou me despedindo por aqui.
+
+Espero que vocês estejam entendendo e principalmente que vocês estejam gostando.
+
+Me despeço de vocês, Fiquem com Deus e até breve.
