@@ -1,0 +1,665 @@
+Olá Luna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML, trazendo a vocês
+
+nesta aula a continuidade do diagrama de estrutura composta, onde nós visualizamos onde nós aprenderemos,
+
+onde nós iremos trabalhar.
+
+Um pouco sobre descrição dos elementos do diagrama.
+
+Bom, assim como o diagrama de classe, diagrama de objetos, componentes e também de implementação,
+
+o diagrama de estrutura composta.
+
+Ele possui alguns elementos em peculiar ou, como vocês preferirem, alguns elementos particulares de
+
+si, que geralmente é utilizado para fazer a ilustração desse tipo de diagrama.
+
+Então, aqui nesta aula eu vou passar a vocês esses elementos para quando nós formos fazer na prática,
+
+ficar mais fácil a absorção e também o entendimento dos diagramas que eu passarei de exemplo nas próximas
+
+aulas.
+
+Beleza.
+
+Então, assim como aula anterior, nós vamos usar o exemplo ainda do diagrama de estrutura composta
+
+do carro que está localizado ao lado direito superior da tela.
+
+Então nós temos aqui aquela mesma figura da aula anterior.
+
+Então, com base nesta figura, com base neste diagrama, nós iremos nos aprofundar um pouco nos elementos
+
+que ele é composto.
+
+Tá bom.
+
+O primeiro elemento que nós vamos trabalhar se chama peças.
+
+O que são as peças dentro de um diagrama de estrutura composta?
+
+É um elemento que representa um conjunto de uma ou mais instâncias que um classificador estruturado
+
+contido possui.
+
+Acho que todo mundo se recorda sobre o que é uma instância, né?
+
+Uma peça descreve a função de uma instância em um classificador.
+
+Você pode criar peças no comportamento de estrutura de um classificador e em vários diagramas UML.
+
+Como estrutura composta, que é o que estamos estudando, mas também em classe, objeto, componentes
+
+e implementação.
+
+É também diagrama de pacotes que faz parte de um outro grupo e nós também vamos trabalhar.
+
+Ele tá bom.
+
+As peças pertencem a composição e o diagrama de estrutura composta modela como as peças são conectadas
+
+no classificador contido.
+
+Cada peça é um uso específico de um tipo.
+
+O tipo define os tipos de objetos que podem ser ligados ou referidos a uma função.
+
+Você pode ter várias peças com o mesmo tipo e cada peça pode ter um conjunto diferente de relacionamentos.
+
+Para outras peças, você pode juntar peças com conectores para especificar a comunicação entre eles.
+
+A figura ilustra uma peça é exibida na estrutura do diagrama como um retângulo sólido que contém o nome
+
+da peça, o tipo e qualquer multiplicidade específica.
+
+Um ícone de classe é exibido no canto superior da peça.
+
+Então, aqui ao lado direito superior, nós temos aqui o elemento peça.
+
+Tá, então da maneira no qual ele é descrito no texto.
+
+Nós temos o nome.
+
+No caso aqui é o Left Front, que seria o lado esquerdo frontal.
+
+E nós temos o tipo que o tipo seria a roda, né?
+
+Então, tipo.
+
+É uma roda do lado esquerdo na frente.
+
+Beleza.
+
+E ao lado direito superior.
+
+Aqui nós temos o símbolo, né?
+
+Como vocês preferirem.
+
+Relacionado a classe, tá bom?
+
+Então, este tipo de elemento aqui, ele é não só utilizado no diagrama de estrutura composta, mas
+
+como texto mencionou, nós também utilizamos ele em outros diagramas, né?
+
+Diagramas que nós já trabalhamos como classe, objeto, componentes, implementação e também o diagrama
+
+que nós trabalharemos futuramente.
+
+E o diagrama de pacote.
+
+Beleza.
+
+Então o resumo das peças seria esse, tá?
+
+Ele representa um conjunto de uma ou mais instâncias, né?
+
+E aí ele descreve a função de uma instância em um classificador.
+
+Tá bom.
+
+E nós temos o segundo elemento, que se chama Portas.
+
+Observa que de imediato, ao lado direito superior que a nossa figura ela mudou.
+
+Tá, ela mudou porque?
+
+Porque para nós fazermos a ilustra atividade de portas, nós precisamos fazer umas mudanças em peculiar.
+
+Mas vamos entender aqui o contexto.
+
+Tá bom?
+
+Primeiro de tudo.
+
+Uma porta define o ponto de interação entre uma distância do classificador e o seu ambiente, ou entre
+
+o comportamento do classificador e suas peças internas.
+
+Devido a todas as interações entre o ambiente externo e as peças internas precisarem passar por uma
+
+porta.
+
+Você pode utilizar uma porta para isolar as peças internas de um objeto de seu ambiente.
+
+Conectores vinculam as portas a propriedades do classificador e chamam a comunicação entre duas ou mais
+
+instâncias.
+
+Você pode definir várias portas para um classificador.
+
+Para mostrar interações diferentes dependendo da porta a partir da qual a interação se origina.
+
+Uma porta é exibida no quadro de diagramas, como um pequeno quadrado com o nome da porta.
+
+Você pode incluir portas na moldura de um diagrama de estrutura composta e nas peças internas do diagrama
+
+da estrutura composta.
+
+A figura a seguir, o quadro de diagramas mostra três partes.
+
+Duas partes são inseridas no classificador Wheel, que é a roda e a terceira é inserida pelo classificador
+
+EDN, que seria a motor.
+
+Beleza.
+
+Uma linha reta chamada de conector de delegação vincula a parte interna chamada EDN, que seria o motor
+
+a uma porta na extremidade externa do diagrama da estrutura composta.
+
+A porta externa é inserida como um classificador que seria o carro e é chamada de porta carro.
+
+O conector tem uma B aberta que aponta na direção da porta externa.
+
+As duas partes, que são as rodas que são chamadas de frontal e traseira, são conectadas por linhas
+
+retas, chamadas de conectores de montagem.
+
+A porta interna chamada motor.
+
+Então, o que o texto está nos dizendo aqui inicialmente é o seguinte.
+
+Tá.
+
+Primeiro de tudo que para nós fazermos a representatividade de portas dentro do nosso diagrama, nós
+
+geralmente fazemos desenhos, né?
+
+Quadrados nas extremidades.
+
+De onde nós queremos fazer essa representação, essa conectividade.
+
+Beleza.
+
+E junto a esse quadrado, nós acrescentamos o nome da porta.
+
+Então nós mencionamos que aquilo é uma porta e atribuímos um nome a ela.
+
+Beleza?
+
+E aí essas portas, elas são utilizadas para fazer a interação.
+
+Tá.
+
+Quando eu falo de interação, eu posso também falar como uma conexão, uma amarração, uma ponte, uma
+
+ligação.
+
+Então a porta ela tem essa originalidade.
+
+Beleza, Então as portas.
+
+Elas fazem o vínculo de propriedades do classificador e chamam a comunicação entre duas ou mais instâncias.
+
+Tá, então aqui ó, nós temos o nosso diagrama de carros.
+
+Beleza?
+
+E aí nós temos aqui, por exemplo, as rodas.
+
+Aqui já não estamos falando sobre roda frontal, esquerda e direita e também nem roda traseira, esquerda,
+
+direita, que é o conjunto das rodas, tá?
+
+Então, eu estou mencionando rodas frontais.
+
+E rodas traseiras.
+
+Não estou mencionando se a esquerda e a direita.
+
+Eu estou dizendo que são as rodas que estão na frente e também as rodas que estão atrás.
+
+Beleza.
+
+Então, eu tenho aqui as minhas rodas separadas juntamente também.
+
+Eu tenho no outro lado o meu motor.
+
+Beleza.
+
+E aqui eu tenho dois quadrados.
+
+Observa que eu tenho um aqui no meio e eu também tenho um aqui na extremidade.
+
+E eles seriam as minhas portas.
+
+E as minhas portas?
+
+Elas possuem nomes diferentes porque, como o texto menciona, às portas, elas fazem ligações entre
+
+as coisas.
+
+Tá.
+
+Então eu estou dizendo aqui, por exemplo, no centro, que o meu motor, ele tem conectividade.
+
+Ele tem ligação com as minhas rodas frontais e traseiras.
+
+Poderia colocar numa breve ilustração de que quando o motor ele é ligado as minhas rodas elas giram.
+
+E que quando o meu motor ele é parado, às minhas rodas param.
+
+Mas aí vão falar se colocar o carro em ponto morto, o motor continua funcionando e as rodas não giram.
+
+Exatamente.
+
+Então eu posso colocar assim que quando o motor for engrenado as rodas giram.
+
+E que quando o motor for engrenado as rodas param.
+
+Então eu não estou mencionando o que e quando o motor está funcionando, mas quando ele está engrenado,
+
+ou seja, quando engatar a marcha, por exemplo.
+
+E aqui eu também tenho uma ligação deste mesmo motor com o carro.
+
+Porque o carro, que seria uma parte externa, tem ligação com o motor, que seria uma parte interna.
+
+Beleza.
+
+Então a porta ela tem essa ilustre atividade aqui.
+
+Daí nós temos uma outra representatividade, né?
+
+Um outro tipo de elemento, que são as colaborações.
+
+Uma colaboração é um tipo de classificador estruturado, no qual as funções e atributos cooperam para
+
+definir a estrutura interna de um classificador.
+
+Você utiliza uma colaboração quando deseja definir apenas as funções e conexões que são requeridas para
+
+executar um objetivo específico.
+
+Na colaboração, por exemplo, o objeto de uma colaboração pode se definir as funções ou componentes
+
+de um classificador.
+
+Ao isolar as funções principais, uma colaboração simplifica a estrutura e esclarece o comportamento
+
+de um modelo.
+
+Como você não mostra as classes ou identificadores específicos das instâncias participantes, mas apenas
+
+as funções e os conectores, é possível reutilizar uma colaboração para diagramar padrões estruturais
+
+de objetos de colaboração e modelar o seu comportamento comum, similar a um modelo.
+
+Quando você desejar mostrar uma ocorrência específica de um padrão, utilize o uso de colaboração.
+
+Uma colaboração pode incluir classificadores de peças diferentes do sistema que está sendo modelado
+
+e um único classificador que pode desempenhar funções diferentes e participar em várias colaborações.
+
+Isso significa que uma função em uma colaboração faz referência ou usa tipos de um classificador.
+
+Mas a colaboração não possui fisicamente ou contém um classificador referido como a figura ilustra.
+
+Uma colaboração é exibida como uma elipse tracejada com dois comportamentos.
+
+Uma elipse pessoal, de certa forma, é um símbolo oval que tem linhas pontilhadas ou linhas tracejadas.
+
+Então isso aqui é uma elipse.
+
+E aqui dentro desta elipse, eu estou tendo aqui duas referências.
+
+Então, primeiro de tudo, o que nós devemos nos atentar a colaborações é que isso daqui eu sempre vou
+
+utilizar quando eu quero fazer definições específicas.
+
+Tá bom.
+
+E aí, dentro dessa minha elipse aqui, que é a elipse do carro, eu tenho dois comportamentos, né?
+
+Eu tenho aqui o comportamento dor e eu tenho comportamento frame.
+
+Bom, o meu door aqui ele significa a porta é o meu frame.
+
+Ele significa quadro.
+
+Bom, então aqui nós podemos contextualizar que talvez nós estejamos falando sobre esta porta aqui.
+
+Sobre a Porta de carros, é o quadro no qual ela está sendo sugerida.
+
+Tá, então aqui nós estamos falando sobre comportamentos específicos, né?
+
+Quando eu falo do comportamento da porta, é também do comportamento do quadro.
+
+Calma que não acabou por aí.
+
+Vamos por partes.
+
+Olha só o uso de colaborações.
+
+Vamos lá.
+
+Uso de uma colaboração é um elemento de modelo que representa o uso de uma colaboração para explicar
+
+o relacionamento entre as partes de um classificador estruturado.
+
+Você utiliza o uso de colaboração para aplicar um padrão que é descrito por uma colaboração para uma
+
+situação específica que envolve classes ou instâncias que desempenham as funções de uma colaboração
+
+específica.
+
+Você pode ter vários usos de colaboração, cada uma envolvendo um conjunto diferente de funções e conectores
+
+para uma colaboração determinada.
+
+Em um uso de colaboração.
+
+Cada função de uma colaboração é ligada a um elemento conectado com um classificador.
+
+Depois de digitar o uso de uma colaboração com uma colaboração, você poderá abrir o uso de uma colaboração
+
+em um diagrama de estrutura composta e visualizar as funções das partes na ocorrência.
+
+Você pode incluir um conector de ligação de função, que é um relacionamento de dependência simples
+
+para ligar ou mapear as funções e os conectores que cooperam em um classificador de acordo com a colaboração
+
+específica.
+
+Você pode incluir uma ligação de função entre os seguintes itens duas funções existentes, um uso de
+
+colaboração existente e uma função existente.
+
+Uma função existente é um novo uso de colaboração.
+
+Um uso de colaboração existente é uma nova função.
+
+A figura ilustra que você pode reutilizar os objetos e funções de uma colaboração específica e aplicar
+
+esses elementos como um padrão para especificar uma situação que contém um uso de colaboração.
+
+Bom pessoal, eu acredito que para maioria de vocês, tanto o texto anterior quanto o texto que eu acabei
+
+de mencionar, eu acabei falando grego, mandarim, aramaico, enfim, algo um pouco complexo de se
+
+entender.
+
+Tá, então vamos fazer o seguinte vamos deixar um pouco de lado o texto e vamos nos atentar a representatividade
+
+ilustrativa no lado superior direito.
+
+Então nós temos aqui, de certa forma, voltando um slide a nossa figura de carro com a nossa porta
+
+e o nosso quadro.
+
+Beleza.
+
+Então imagina que isso daqui está sendo referido separado e aqui eu já tenho algo ao lado, né?
+
+Então imagina que aqui ainda eu continuo tendo dentro da minha elipse o uso da colaboração, né?
+
+Que seria o carro com a minha porta e o meu quadro Beleza e ao lado dele.
+
+Eu tenho aqui a representação, então eu tenho aqui e o meu diagrama de carro no qual eu estou falando
+
+que é um tipo de carro sedan.
+
+Beleza.
+
+E aqui eu estou falando que existe uma porta.
+
+E aí eu estou representando ela aqui.
+
+E estou falando também que existe um quadro que eu também estou representando ele aqui.
+
+Então a porta é para ilustrar que o carro possui portas e o quadro é para ilustrar que ele é de um tipo
+
+sedan, por exemplo.
+
+Beleza.
+
+E aí essa representação, quando eu quero falar dela em específico, separado, eu uso a colaboração
+
+aqui do lado.
+
+Então, por isso que existe aqui é o tipo de comunicação entre o quadro e a porta.
+
+Então aqui eu consigo falar de coisas específicas sem apontar especificamente para as coisas do carro,
+
+por exemplo.
+
+Era um outro tipo de elemento que nós temos aqui dentro do diagrama de estrutura composta.
+
+São os conectores em classificadores.
+
+Esse aqui é um pouco mais fácil de assimilar.
+
+Olha só.
+
+Um conector é uma linha que representa um relacionamento em um modelo.
+
+Então nós já temos ali ao lado direito superior a representação.
+
+Então nós temos ali, por exemplo, ao lado superior direito, a figura que mostra as duas rodas direita
+
+e o motor.
+
+Beleza.
+
+Então, o que seria o conector dos classificadores?
+
+Os classificadores são as rodas e o motor.
+
+O conector é a linha que liga esses dois carinhas.
+
+Tá.
+
+Então você pode ver que existe uma linha abaixo chamada eixo.
+
+Então essa linha seria o conector de um classificador.
+
+Beleza.
+
+Mas vamos dando continuidade ao texto.
+
+Olha só.
+
+A modelar a estrutura interna de um classificador, você pode utilizar um conector para indicar um link
+
+entre duas ou mais instâncias de uma peça ou porta.
+
+Então nós sabemos que os nossos conectores de classificadores eles tem a usabilidade não apenas para
+
+fazer a relação entre peças, mas também entre classificadores e portas ou peças.
+
+Tá bom.
+
+O conector define o relacionamento entre os objetos ou instâncias que são ligadas a uma função.
+
+No mesmo classificador estruturado e identifica a comunicação entre essas funções.
+
+Uma figura ilustra É possível incluir um conector entre duas ou mais peças.
+
+É um classificador estruturado.
+
+A classe Carro contém duas peças de material composto que são materiais internos e o carro é o externo.
+
+Então nós temos ali as duas rodas traseiras e também nós temos o motor do carro.
+
+E aí nós temos o conector, que é o Rei, né?
+
+Que ele faz o vínculo de mecanismo das instâncias entre a roda e o motor.
+
+Beleza, então.
+
+Conector nada mais é do que isso aí.
+
+Um outro exemplo aqui para vocês entenderem um pouco a mudança.
+
+Estamos falando bastante sobre carros, mas também existe aqui um diagrama que é relacionado a barco.
+
+Só para vocês entenderem a diferença.
+
+Olha só, é possível incluir um conector de uma peça em uma porta para vincular instâncias de uma classe
+
+a instâncias de uma classe diferente.
+
+A classe denominada barco contém uma peça denominada propter, né.
+
+O profiler ele significa hélice, que é conectado no conector de eixo da porta, que é o motor.
+
+Embora a peça motor tenha o mesmo nome de tipos de classe, carro e barco, as peças são instâncias
+
+diferentes e cada uma pertence a um classificador contido Sentido diferente.
+
+O motor do carro não é o mesmo de um motor de um barco.
+
+A estrutura de um carro não é a mesma estrutura de um barco.
+
+Os nomes são semelhantes.
+
+Tá, mas as representatividades não.
+
+Em classificadores estruturados você pode criar dois tipos de conectores.
+
+Olha só.
+
+Um conector de montagem vincula duas peças ou portas internas, similar a um relacionamento de associações.
+
+O conector de montagem mostra que uma peça da composição conecta e fornece serviços a outra peça.
+
+Requer um conector delegado Vincula uma porta no comportamento da estrutura externa a uma peça ou porta
+
+interna.
+
+Beleza.
+
+O conector delegado vincula o todo com uma de suas peças e é exibido com uma ponta de uma seta aberta
+
+no final de uma linha de conexão.
+
+Você pode utilizar os dois tipos de conectores em um classificador contido para descrever vários links
+
+de comunicação entre peças.
+
+Então aqui a coisa já ficou um pouco mais aprofundada, porque eu posso fazer a ligação das peças internas,
+
+mas eu também posso fazer referências entre peças internas e externas usando a porta, por exemplo.
+
+Então a hélice é algo que fica fora do barco, né?
+
+Então seria uma camada fora, porém o motor ele é interno, ele fica dentro.
+
+Então aqui a representatividade está sendo utilizando portas.
+
+Tá, então eu tenho o eixo que seria esse chefe, né?
+
+Em que liga o meu motor com a minha hélice e a minha porta é essa representatividade?
+
+Beleza, então a minha porta está sendo juntamente ligada com o meu conector de classificação.
+
+Beleza, Então estou mostrando ao mesmo tempo que existe uma relação entre o motor do barco e a hélice
+
+do barco.
+
+O que está interno é o que está externo ao mesmo tempo, estou mostrando que esta ligação possui um
+
+nome que é o eixo e também ao mesmo tempo eu estou dizendo que ali é uma ligação de porta, porque um
+
+é um objeto.
+
+Vamos colocar assim que está dentro do barco e o outro é o que está fora do barco.
+
+Beleza.
+
+Mais um exemplo aqui.
+
+Olha só, você pode conectar duas peças internas que representam as rodas dianteiras e traseiras de
+
+um conector de montagem e também pode conectar à peça interna e externa com conector delegado.
+
+Então, aqui novamente falando sobre o carro, olha só, nós temos dentro da estrutura do carro as rodas
+
+internas e externas e aí nós temos o eixo de ligação entre elas e aí nós temos uma porta chamada motor.
+
+Essa porta chamada motor está sendo referida fora porque está pegando o exemplo anterior.
+
+E aí estamos fazendo aqui um exemplo de delegação.
+
+Então uma porta chamada motor, onde a roda faz a delegação.
+
+Então, aqui, por exemplo, eu poderia falar que o que está ligado com meu motor são as duas rodas
+
+dianteiras.
+
+Então, um carro quando ele tem tração dianteira, ele está ligado as rodas, o eixo dianteiro ao motor,
+
+por exemplo, e as rodas da frente que puxa as de trás, por exemplo.
+
+Bom pessoal, e aqui são alguns dos elementos no qual nós temos dentro do diagrama de estrutura composta.
+
+Eu sei que é um pouquinho complexo de fazer esse entendimento, principalmente quando é muito texto
+
+e muita teoria, Mas vocês vão observar que na prática as coisas elas são mais facilitadoras.
+
+Beleza, Isso daqui foi um pouco mais do que nós começamos a estudar para nos aprofundarmos e entendermos,
+
+sabermos como que é cada tipo de ligação, como que é representado, como que é desenhado para quando
+
+nós fizermos na prática, nós literalmente termos um entendimento mais amplo, mais aberto e mais direto.
+
+Tá bom.
+
+Se você ainda não entendeu sobre diagrama de estrutura composta até então, não tem problema, porque
+
+nas próximas aulas nós daremos início a exemplos práticos.
+
+Eu acredito que a partir dali a sua mente vai clarear um pouco mais.
+
+Para vocês que entenderam, eu gostaria que vocês também continuassem prestando atenção.
+
+Para vocês que ainda não entenderam sobre esse tipo de diagrama, prestassem mais atenção do que vocês
+
+já estão prestando.
+
+Para vocês terem um entendimento, como eu falei lá no início da primeira aula sobre esse tipo de diagrama,
+
+é um dos mais complexos que nós temos, então realmente requer muita atenção.
+
+Talvez passar e repassar essas aulas para que tenha uma absorção mais positiva.
+
+Beleza.
+
+Todavia, me despeço por aqui.
+
+Não vou prolongar muito.
+
+Próxima aula nós damos continuidade com exemplos.
+
+Me despeço de vocês.
+
+Fiquem com Deus e até breve.
