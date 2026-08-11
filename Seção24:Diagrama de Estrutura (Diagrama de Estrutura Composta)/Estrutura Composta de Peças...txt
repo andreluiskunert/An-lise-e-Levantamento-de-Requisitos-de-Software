@@ -1,0 +1,575 @@
+Olá Luna.
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML e dessa vez trazendo
+
+a vocês.
+
+Nesta aula o nosso primeiro exemplo prático relacionado à diagrama de estrutura composta.
+
+Então, nas duas últimas aulas anteriores nós falamos um pouco a respeito sobre esse tipo de diagrama.
+
+Nós comentamos um pouco sobre a sua complexidade.
+
+Nós entendemos também as suas maneiras de serem montadas, quais são os elementos que são utilizados
+
+e agora nós faremos passo a passo um diagrama de estrutura composta bastante simples.
+
+Tá, mas para vocês entenderem alguns conceitos daqueles quais nós falamos a respeito nas aulas anteriores,
+
+tá bom.
+
+Bom, o exemplo que eu vou trazer para vocês aqui, na verdade vai ser o diagrama de estrutura composta.
+
+Relacionada a peças de computador.
+
+Ou seja, hardwares.
+
+Tá bom.
+
+Então nós vamos fazer uma montagem bem breve aqui.
+
+Acredito que essa aula ela não vai se estender tanto quanto as demais, mas nós vamos utilizar a como
+
+base para fixação e para um melhor entendimento, para nós passarmos a fazer os diagramas um pouco mais
+
+complexos a partir daqui.
+
+Tá bom?
+
+Então, o que nós vamos usar para esse tipo de diagrama?
+
+Nós também vamos encontrar nos últimos menus relacionado a UML e também ao UML 2,5.
+
+Tá bom.
+
+E aqui vale ressaltar que nós também faremos a utilização de alguns conceitos.
+
+Vamos colocar assim alguns elementos que nós estudamos no diagrama de componentes.
+
+Tá bom?
+
+Não sei se vocês vão se recordar, mas existe a interface fornecida.
+
+É a interface necessária para que não se recordam, era essas meias luas aqui o existir, a meia lua
+
+e existia a bolinha.
+
+Se eu não me recordo mal, nós não utilizamos junto à porta, né?
+
+Então aqui seria uma porta com interface fornecida, interface necessária.
+
+Eu se eu não me recordo mal acabei passando para vocês.
+
+A interface fornecida é a interface necessária.
+
+Separadas, né?
+
+Eu acredito que foi esse aqui, ó.
+
+Mas não tem problema, porque a mudança entre eles, na verdade, é que aqui está sendo usado em conjunto
+
+com a porta, tá?
+
+Ao invés de eu criar um quadrado separado, por exemplo, essa porta é assimilar ou juntar a essa meia
+
+lua a interface fornecida e necessária.
+
+Aqui ele já está em conjunto, Tá bom?
+
+Mas saiba que nós estamos fazendo uma incrementação de diagrama de estrutura composta com algum conceito,
+
+algum elemento de diagrama de componentes também.
+
+Tá bom?
+
+Então, sem mais delongas, vamos lá.
+
+É o primeiro de tudo.
+
+Nós vamos ter lá os elementos, né?
+
+No quais nós iremos trabalhar.
+
+Então nós vamos iniciar aqui com o nosso.
+
+Processador.
+
+Beleza.
+
+Então, dentro de toda a máquina, independente se é notebook ou desktop.
+
+Existe o processador.
+
+Tá bom juntamente ao processador, né?
+
+Nós temos a RAM, então seria aqui à nossa memória RAM e memória RAM.
+
+Beleza.
+
+Nós também temos a nossa memória RAM, né?
+
+Não sei se vocês sabem para que serve a memoria RAM memória RAM.
+
+Ah!
+
+Depois pesquisem aqui sobre memoria RAM se vocês nunca ouviram falar.
+
+Não vou me adentrar em detalhes porque aí envolve aula de hardware.
+
+Eu seria obrigado a criar um curso de hardware para ensinar esses conceitos aqui.
+
+Beleza.
+
+Bom, em paralelo a tudo isso, né?
+
+Nós sabemos que tanto processador quanto memória ROM quanto memoria RAM elas fazem parte de um conjunto
+
+maior que seria a nossa placa mãe.
+
+Tá bom, nossa placa mãe.
+
+Nós vamos utilizar uma classe aqui bem simples.
+
+Deixa eu ver se eu a encontro com facilidade.
+
+Essa daqui, ó.
+
+Tá dentro do último menu de UML.
+
+Tá bom.
+
+Por que que eu quero fazer a utilização dela?
+
+Porque aqui no lugar da classe eu vou falar que ela se chama placa mãe.
+
+Beleza?
+
+E aí, dentro da placa mãe, nós sabemos é que vai todos os outros componentes, né?
+
+Vai os outros hardwares.
+
+Então aqui, como ficou sobreposto?
+
+Nós sabemos que se nós clicarmos com o botão direito e formos na opção para trás, ele vai fazer a inversão
+
+para nós.
+
+Beleza.
+
+Bom, além de tudo isso daqui, nós também temos outras coisas que vão acopladas a placa mãe.
+
+Porém, elas vão fora, né?
+
+Então, lembrando que nós trabalhamos nas aulas anteriores sobre elementos do que é interno e do que
+
+é externo, né?
+
+E que as portas elas servem justamente para fazer essas ligações.
+
+Pois bem, então aqui nós teremos uma percepção de que nós vamos ligar algo do que está fora para o
+
+que ta dentro.
+
+Por exemplo, o que poderia estar fora, que também é conectado à placa mãe que está dentro do computador,
+
+No caso, nós teremos o mouse, nós teremos o teclado, nós teremos pen drive, nós teremos fone de
+
+ouvido, nós teremos talvez impressora, nós teremos monitor.
+
+Entre outras As possibilidades.
+
+Tá, não vou acrescentar todas.
+
+Já falo de imediato para não se estender.
+
+Mas eu deixo como exercício de fixação vocês acrescentarem aquilo que eu comentei aqui e que eu não
+
+acrescentar, ou seja, aquilo que ficaram faltando.
+
+Tá bom.
+
+Então vamos lá.
+
+Para quem não se recorda, eu vou fazer o seguinte nós vamos ver aqui o que é interface fornecida e
+
+o que é interface necessária.
+
+Bom, olha só, interface fornecida para quem não se recorda, era a bolinha completa.
+
+Beleza.
+
+Que é uma linha reta a partir de componentes de um círculo anexado que representa a interface na qual
+
+o componente produz informações.
+
+Pela interface necessária de outro componente.
+
+Beleza.
+
+Agora o próximo que é a necessária.
+
+Ele representa a interface no qual componente requer informações para execução.
+
+Então vamos lá.
+
+vamos voltar aqui para o nosso diagrama.
+
+Bom, nós vamos colocar aqui de início, então vamos subir aqui no menu 2,5, o ML 2,5.
+
+E vamos acrescentar aqui inicialmente este nosso primeiro carinha aqui.
+
+Beleza?
+
+Ele infelizmente vai ter que estar virado, então nós vamos ter que fazer aqui o inverso, tá?
+
+Vamos ver se a gente consegue aqui trazer ele para outro canto.
+
+Assim fica melhor.
+
+Beleza.
+
+E aí esta porta?
+
+Ela vai ficar aqui, ó, na extremidade da placa mãe.
+
+Lembra disso na aula anterior, onde nós falamos que nós temos que colocar nas extremidades?
+
+Beleza.
+
+E nós aqui vamos precisar acrescentar uma legenda para saber do que se trata.
+
+O que significa?
+
+Tá bom?
+
+Então aqui nós vamos colocar como?
+
+Teclado?
+
+Beleza.
+
+Essa bolinha aqui eu estou achando ela bem pequena, então nós podemos aumentá la aqui.
+
+Vamos ver se a gente consegue aumentar o tamanho.
+
+Felizmente não.
+
+Perímetro Vamos ver se aqui a gente aumenta ou não.
+
+O perímetro vai ser relacionado a linha.
+
+Depois a gente faz com detalhes.
+
+Eu vou manter o zoom por enquanto, pra gente poder observar.
+
+Beleza, Agora a outra a respeito, nós vamos utilizar o outro símbolo, que no caso é a meia lua,
+
+né?
+
+Então, interface fornecida e interface necessária.
+
+Então nós vamos pegar ela aqui e vamos acrescentar no outro lado também, na extremidade, né, que
+
+nós estamos falando sobre as portas.
+
+Tá bom.
+
+E aí?
+
+Nós vamos precisar também pegar a ferramenta de metal, né?
+
+E aqui nós vamos colocar monitor.
+
+Beleza?
+
+Bom, qual a diferença?
+
+Olha só a minha porta ao lado esquerdo referente ao teclado e uma interface fornecida.
+
+Por quê?
+
+Porque através do teclado, que é um periférico de entrada, tá?
+
+Então é um componente de entrada de informações.
+
+Envie informações para a placa mãe aqui, onde o processador, memória RAM, memória RAM vão trabalhar.
+
+Beleza.
+
+Para que isso possa sair do outro lado, ou seja, na telinha onde nós visualizamos, assim como estamos
+
+visualizando no momento aqui no curso, é seria a interface necessária, ou seja, a interface necessária
+
+é o nosso monitor, porque ele é quem precisa receber informações para poder trabalhar, já que a interface
+
+é fornecida porque é ele quem envia as informações para os demais trabalharem.
+
+Beleza.
+
+O que mais aqui poderia ser acrescentado como interface fornecida?
+
+Nós poderíamos copiar e colar esse cara aqui, ó.
+
+E aí nós poderíamos colocar o mouse.
+
+Também seria um periférico de entrada.
+
+Aqui é um periférico de saída, né?
+
+Então, aqui o monitor seria um periférico de saída, não uma interface necessária.
+
+Beleza.
+
+Agora, quanto aos processadores, ao processador, né?
+
+Não vamos falar no plural.
+
+Quanto ao processador, memória RAM, memória RAM.
+
+Como funcionaria?
+
+Aqui nós precisamos utilizar uma porta que seria uma porta separada.
+
+Vocês já vão entender o porque.
+
+Tá?
+
+Lembrando que isso é nas extremidades também.
+
+E eu vou até acabar acrescentando um pouco mais para baixo tudo isso daqui.
+
+Justamente para não ficar tudo muito perto.
+
+Tá bom.
+
+E aqui ainda ficou faltando um acima, né?
+
+Nós vamos precisar de um outro aqui, ó.
+
+Um aqui, Um aqui.
+
+Ó, cabem na pontinha assim que aí fica mais legível, né?
+
+Bom pessoal, aqui o tipo de ligação ela vai ser aquele tipo onde existe setas nas duas pontas, tá?
+
+Aqui eu me perco um pouco para achar, porque é muito tipo de seta, mas poderia ser essa daqui, onde
+
+nós vamos fazer a ligação entre uma porta e outra.
+
+Da mesma forma que aqui, também nós faremos a ligação entre uma porta e outra.
+
+Bom, o que eu estou querendo dizer aqui até o momento.
+
+Vamos lá por partes.
+
+Tá.
+
+Aqui eu estou querendo dizer que o meu processador ele envia informações para memória RAM.
+
+Quanto Ele também recebe informações da memória RAM, assim como também à minha memória RAM.
+
+Ela envia informações para o processador, como também recebem informações do processador.
+
+Beleza.
+
+Agora, aqui, no caso da memória RAM, não será nesse tipo de seta.
+
+Porque?
+
+Porque a memória RAM envia para o processador.
+
+Então, aqui neste caso nós podemos colocar.
+
+A seta direcional.
+
+Tá, eu vou colocar essa daqui.
+
+Mas nós iremos retirar aqui os detalhes a mais, tá?
+
+Então, aqui esse tipo de um para vários não tem importância.
+
+Esse aqui também não tem importância no momento.
+
+Beleza.
+
+Então, seria mais ou menos dessa forma.
+
+Tanto da mesma forma que aqui para o nosso teclado e o nosso monitor funcionaria nesse mesmo sentido.
+
+Então eu vou colocar aqui da seguinte forma Olha só, eu vou colocar aqui o meu teclado, ele envia
+
+informações para o processador, assim também como é o meu mouse, quem envia informações ao meu processador
+
+e que o meu processador após processar as informações envia essas informações para o meu monitor, né?
+
+Seria aqui o componente de saída?
+
+Beleza, Então, basicamente seria isso daqui a princípio.
+
+Tá.
+
+Deixa eu só arrumar aqui que eu tenho um pouquinho de toque quanto essas linhas tortas, né?
+
+Vocês já conseguiram perceber ao decorrer do curso?
+
+Tá.
+
+Aqui seria um diagrama de estrutura composta bem simples.
+
+Se tratando sobre a estrutura composta de uma máquina, nós poderíamos colocar aqui de um desktop de
+
+um notebook.
+
+Lembrando que existem outros periféricos, existem outros acessórios e muita coisa também vai acoplada
+
+a placa mãe, né?
+
+Nós poderíamos ter colocado a placa de video, nós poderíamos ter colocado a fonte, nós poderíamos
+
+ter colocado cor, entre outras coisas.
+
+Tá, mas o que eu quero que vocês se atentem a princípio é como isso é moldado, tá?
+
+Como as portas, elas estão sendo centradas?
+
+Beleza.
+
+Então, só recapitulando para nós fecharmos aqui e não estendermos tanto, né?
+
+Então, aqui é um diagrama de estrutura composta relacionada aos periféricos do nosso computador, onde
+
+nós temos as peças internas.
+
+Tá.
+
+Então nós estamos falando da placa mãe.
+
+Onde a.
+
+Né?
+
+A ligação da placa mãe com processador, memória RAM e memória RAM, memória RAM e memória RAM.
+
+No caso, onde eles fazem uma conversação interna onde o processador envia e recebe da memória RAM.
+
+Quanto também à memória RAM envia e recebe do processador e a memória RAM apenas envia para o processador.
+
+Tudo isso daqui está dentro do computador, né?
+
+Está na parte interna, tanto do desktop quanto do notebook.
+
+Beleza.
+
+Agora, quanto ao meu mouse e meu teclado, eles são periféricos de entrada, né?
+
+São componentes que enviam informações.
+
+Então nós colocamos aqui como interface fornecida.
+
+Por isso que é a bolinha completa.
+
+É essa bolinha.
+
+Ela significa que esses periféricos, que esses acessórios, que esses equipamentos enviam as informações
+
+para o processador, né?
+
+Então, como o nome diz, o processador processa as informações e quando ele termina ele envia para
+
+algum lugar.
+
+Ou seja, para o monitor e o monitor é um periférico de saída, seja periférico onde recebe as informações.
+
+Então por isso a meia lua né?
+
+Então é um periférico com interface necessária, então ele necessita de informações para poder funcionar.
+
+Então as informações são enviadas pelo teclado e mouse, são processadas aqui no processador e enviadas
+
+ao monitor para aparecer na sua telinha.
+
+Tá bom.
+
+Da mesma forma que a memória RAM, a memória ROM envia por processador e aparece na sua telinha também.
+
+Beleza.
+
+Nós poderíamos ter colocado aqui como interface fornecida e necessária para memória RAM e memória RAM.
+
+Não, não precisamos.
+
+Tá, mas caso quisermos também, nós podemos acrescentar esse detalhe.
+
+Então, como eu comentei, existem outros acessórios, existem outros periféricos que vocês podem estar
+
+fazendo e acrescentando como uma forma de fixação dentro desse diagrama, aproveitando que ele está
+
+simples, que ele não está complexo.
+
+Para vocês exercitarem ainda mais, vocês podem acrescentar mais acessórios aqui dentro.
+
+Como eu comentei e falta ainda aqui, por exemplo, uma placa de vídeo.
+
+Falta mais de uma memória RAM.
+
+Falta o cooler?
+
+Falta a fonte.
+
+Falta o HD, por exemplo.
+
+Falta o que vocês quiserem.
+
+Leitor de DVD, leitor de CD e por aí vai.
+
+Da mesma forma.
+
+Periféricos de entrada.
+
+Tá bom.
+
+Então eu coloquei o teclado e o mouse, mas tenho pendrive e o pen drive.
+
+Ele é considerado entrada e saída porque eu posso pegar informações dele e jogar aqui para dentro.
+
+Como eu posso pegar informações daqui para dentro e jogar para fora?
+
+Então vocês podem colocar um pendrive para entrada em pendrive para saída também.
+
+Vocês podem ir exercitando, tá bom?
+
+Espero que vocês estejam se divertindo, que vocês estejam aprendendo bastante, que vocês estejam gostando
+
+do curso.
+
+Estou tentando preparar com mais detalhes possíveis para ao término, vocês terem o máximo de conhecimento
+
+para estar atuando com qualquer tipo de diagrama.
+
+Qualquer dúvida que vocês tiverem, vocês podem mandar nos comentários.
+
+Podem mandar uma mensagem direta.
+
+Vou estar respondendo assim que possível.
+
+Geralmente eu costuma demorar, não mais do que um dia para responder, tá?
+
+Então vocês podem tirar as dúvidas que vocês necessitem caso vocês estejam sentindo falta de algo.
+
+Vocês podem estar pedindo também.
+
+Eu tento encaixar aqui dentro do curso, mas desde que faça parte do conteúdo que nós estamos estudando,
+
+tá bom, me estendi bastante, não vou falar mais por enquanto.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
