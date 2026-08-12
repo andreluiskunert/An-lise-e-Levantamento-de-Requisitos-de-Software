@@ -1,0 +1,537 @@
+Olá, Luana.
+
+Olá, aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês nesta aula um segundo exemplo prático relacionado ao diagrama de estrutura composta.
+
+Hoje nós desenharmos em conjunto um diagrama de estrutura composta voltado a um servidor.
+
+Vamos colocar como um servidor genérico um servidor que teria várias funcionalidades.
+
+Tá bom, Sem muitas delongas.
+
+Nós hoje utilizaremos algumas coisas que nós temos novamente em UML e UML.
+
+Então vamos abrir os dois últimos menus.
+
+Conhecemos já um pouco por conta da aula anterior, quais são os elementos que nós vamos estar utilizando.
+
+Então eu vou criar hoje todos os elementos de forma separada para que nós possamos acrescentá los de
+
+acordo com as necessidades e agrupá los de acordo com as necessidades.
+
+Tá bom?
+
+Bom, vamos lá.
+
+Pensando como um servidor, o servidor, ele nada mais é do que uma máquina robusta.
+
+Concordam comigo?
+
+Um computador robusto tem uma capacidade maior do que os computadores normais daqueles que nos quais
+
+nós geralmente utilizamos.
+
+E o servidor?
+
+Ele é utilizado para gravar dados para armazenar sistemas, banco de dados, entre outras coisas, né?
+
+Então, todo o sistema, por sabermos que ele se trata de um computador robusto, nós sabemos que ele
+
+tem coisas assim, como nosso computador normal, porém com robustez maior.
+
+Então, todo servidor físico ele tem uma placa mãe.
+
+Então vamos pegar aqui o elemento de objeto mesmo.
+
+Vamos colocar aqui o placa mãe.
+
+E quantas placas mães existem em um servidor físico?
+
+Uma placa mãe para cada servidor?
+
+Concordam?
+
+Só que junto à placa mãe nós temos a entrada e a saída.
+
+O que seria a entrada e a saída?
+
+Entrada e saída pessoal seria aquilo que vai ser enviado para placa mãe?
+
+Quanto aquilo que vai ser recebido pela placa mãe?
+
+Tá bom então.
+
+Dispositivos ou componentes?
+
+Portas de entrada e saída que nós teremos?
+
+Vamos lá.
+
+Vamos criar um outro objeto.
+
+Esse aqui eu vou deixar mais fininho, tá?
+
+Vamos colocar aqui o serial.
+
+Um para vários.
+
+Beleza.
+
+Nós também teríamos o SB, né?
+
+Então vamos manter o um para vários, então USB um para vários.
+
+Teremos também o VGA.
+
+Vamos manter também um para vários.
+
+Veja a beleza aqui.
+
+Seria as nossas entradas e saídas.
+
+Tá bom?
+
+Tá bom.
+
+Se eu sei que isso é uma entrada e uma saída, eu preciso mencionar.
+
+Correto.
+
+Então nós podemos utilizar aquele elemento de classe no qual nós utilizamos na aula passada, no qual
+
+nós podemos renomear para ter uma percepção e uma visibilidade melhor.
+
+Eu só não me recordo onde ele está.
+
+O momento?
+
+Seria este daqui?
+
+Esta classe tá bom?
+
+Então aqui nós vamos colocar assim o entrada e saída na entrada e saída de informações.
+
+Tá bom, nós vamos aumentar aqui da mesma forma que nós fizemos na aula anterior.
+
+Botão direito para trás, né?
+
+Então vai ter uma sobreposição dos outros elementos por cima deste daqui.
+
+Beleza.
+
+Bom, fora isso, nós temos outras coisas que geralmente são conectadas à placa mãe.
+
+E aí existe uma infinidade de coisas, tá?
+
+Então vamos colocar aqui o de forma separada.
+
+Nós temos uma BIOS.
+
+Isso aqui pessoal, está sendo referido a hardware né, a peças, a componentes.
+
+Então se você não tem um conhecimento bacana sobre os componentes, as peças, os elementos, o computador
+
+é bacana de vocês terem uma visão superficial, então procurarem pelo -1 cursinho básico para ter uma
+
+noção normal.
+
+Não que vocês precisem ser especialistas, né?
+
+Mas para entender como um computador funciona é bacana, tá?
+
+Então, todo mundo que está, que atua e trabalha com T.I.
+
+Seria legal de saber.
+
+Já a CPU, nós poderíamos ter de uma a duas, por exemplo, e aí nós teríamos outras coisas.
+
+Tá.
+
+O que seriam essas outras coisas?
+
+Vamos lá.
+
+Nós poderíamos ter fonte de energia, fonte de energia.
+
+Nós poderíamos ter aqui o backup da fonte de energia.
+
+Backup, né?
+
+Backup da fonte de energia?
+
+Beleza, Além de tudo isso, tem mais coisa.
+
+A Vila tem, tem muito mais coisa.
+
+Vamos lá.
+
+Deixa eu só fazer uma separação de uma forma que eu ache que fique bacaninha, de a gente apresentar
+
+isso daqui, tá?
+
+Vamos ver aqui.
+
+Colocar para o outro lado.
+
+Vou copiar e colar aqui e vamos dar continuidade para cá.
+
+Nós teremos aqui algo que talvez vocês não saibam M2.
+
+MV M é.
+
+Um para muitos.
+
+Bom, e aí, o que seria isso?
+
+Isso daqui seria um HD SSD.
+
+Então eu posso ter um enquanto muitos HDs.
+
+Bom, aqui, como eu mencionei, estamos falando sobre hardwares, as peças do computador, no caso,
+
+as peças do servidor.
+
+Bom, nós teremos aqui os AS3.
+
+Bom, aí nós teríamos uma GPU.
+
+Vocês também podem pesquisar.
+
+Também seria uma para muitos.
+
+Nós também teríamos uma EPE, EPE.
+
+Opa!
+
+Tudo em maiúsculo, né?
+
+Uma CPE, ou melhor, uma CPU.
+
+E.
+
+É um SATA três SATA três também e um HD e HD SATA HD SATA.
+
+Esse daqui é antigo, vocês talvez saibam né?
+
+SATA três.
+
+Beleza.
+
+Bom, fora tudo isso daqui que é relacionado ao hardware, né, as peças e etc.
+
+Nós temos outras coisinhas também.
+
+Que é interessante nós ressaltarmos o que seriam essas outras coisinhas.
+
+Nós também temos a interface de rede da interface de rede.
+
+Seria ali o canal para o qual haveria a comunicação do computador com a internet do servidor com a internet.
+
+Então nós poderíamos copiar aqui esse SATA três.
+
+Vamos colocar aqui no meio que eu acho que vai ficar legal.
+
+Vamos colocar aqui o RJ45 RJ45 Gbe um para muitos, né?
+
+Porque pode haver vários conectados no servidor, concordam?
+
+O RJ para quem não sabe é aquele conector que vai no cabo da internet né?
+
+O cabo seria um cabo coaxial e aquele cabo azul geralmente né?
+
+Hoje em dia a maioria é fibra.
+
+Mesmo assim existe o RJ.
+
+Tá aí tem um SFP 28 que também é um para muitos e por fim existia um outro RJ
+
+rj45 ip mais né?
+
+Opa tudo minusculo não RJ45 é PMI e aqui teria um.
+
+Beleza.
+
+Tudo isso, como eu mencionei, faz parte da interface de rede, então nós podemos copiar essa entrada
+
+e saída aqui, ó.
+
+Nós mudamos para interface de rede e jogamos ela para.
+
+Trás.
+
+Da mesa.
+
+E aí nós temos este carinha aqui é bom.
+
+Vamos mantê los todos menorzinhos ainda.
+
+Tô com um probleminha no mouse.
+
+Peço perdão.
+
+Isso daqui tá sendo uma parte errônea minha ainda não ter trocado, né?
+
+Já tem algumas aulas que eu ressalto sobre isso, mas vamos a medida do possível.
+
+Tá bom?
+
+Beleza?
+
+E aí, ó.
+
+Aqui o nosso diagrama de estrutura composta já tá tomando forma, porém ainda falta um maior.
+
+Ou seja, tudo isso aqui ó tá dentro do servidor, tá?
+
+Então nós vamos fazer assim o.
+
+Definir para trás ficou muitíssimo grande.
+
+Vamos trazer um pouco pra cá.
+
+Ó, já tá melhor, né?
+
+Mas nós podemos diminuir os espaços aqui ó.
+
+Não tem necessidade de ser tão grande e encaixando melhor.
+
+E aqui a gente pode colocar assim o servidor genérico.
+
+Beleza?
+
+E aí o que nos resta aqui é acrescentar as portas, né?
+
+Então, quando nós vamos acrescentar as portas aqui, nós podemos colocar alguns nomezinhos.
+
+Vamos lá para os nossos conectores de portas.
+
+Então, nós temos aqui os quadradinhos, né?
+
+Então a minha entrada e a minha saída ela é conectada à placa mãe.
+
+Então nós podemos colocar aqui uma ligação.
+
+O primeiro a acrescentar as portas.
+
+Tá.
+
+Então nós temos uma porta para cá também.
+
+Nós temos uma porta para cada um dos componentes, na verdade, né?
+
+Então vamos acrescentando aqui porque eu quero fazer por partes, porque aqui para algumas portas a
+
+gente vai nomeá las, tá?
+
+Então só vamos acrescentando aqui o aqui na interface de rede com o servidor também vai precisar haver
+
+uma aqui no SATA também vai precisar haver.
+
+Um.
+
+GPIO também.
+
+Mas também é no nosso MVM também.
+
+Beleza.
+
+Olha aí como nós vamos renomear o Nós vamos dar duplo clique na porta.
+
+No quadrado.
+
+É, nós podemos digitar para renomeá los.
+
+Tá?
+
+Então aqui ó, vai se chamar Flash ROM.
+
+Beleza, Aqui vai se chamar Jim com dois M de Maria.
+
+Aqui vai se chamar socket ou socket, Aqueles como vocês optarem.
+
+A fonte aqui vai ser aqui é uma fonte de 24 pinos ATX.
+
+Aqui eu estou especificando o que é cada coisa.
+
+Tá aqui também uma fonte de 24 pinos.
+
+ATX também.
+
+Beleza?
+
+Aí para o outro lado, ou melhor, para os outros elementos, tá?
+
+Nós temos aqui o SATA, nós já sabemos que é.
+
+Mas aqui ó, nós podemos mudar e colocar como X8X16.
+
+Aqui nós vamos precisar colocar do outro lado, né?
+
+Por conta do nome.
+
+Não vai ficar tão legal, mas é o que nós podemos fazer no momento, tá?
+
+Aqui nós vamos colocar como p, t e.
+
+X16.
+
+Vamos acrescentar para cá também.
+
+Faz parte, né?
+
+Fazer as mudanças repentinas de última hora não tem problema, nós vamos nos adaptando, tá?
+
+Aqui nós vamos manter sem nada, porque nós já sabemos o que é.
+
+E aqui também nós vamos manter sem nada, porque nós já sabemos o que é, tá?
+
+Deixa eu ver só esse sapato aqui que eu vou precisar fazer a inversão também, Tá bom?
+
+Beleza.
+
+Então, aqui seriam as portas aumentar um pouco para tudo ficar lá dentro, né?
+
+Aí nós teríamos também portas.
+
+Copiar essa daqui que já tá mais prontinha ligando a placa mãe com um servidor de interface.
+
+Então, com a interface de rede, né?
+
+E aí já existe uma para fazer a ligação com a entrada e a saída.
+
+Beleza.
+
+E aí?
+
+O que nós precisamos agora é fazer as ligações.
+
+Então nós poderemos ligar aqui, ó.
+
+É claro que o ideal pessoal é usar as ligações que não possuem setas, né?
+
+Mas infelizmente.
+
+Vai acabar dando muito trabalho.
+
+Então vamos fazer aqui com o que tem.
+
+Mas fazendo essa ressalva.
+
+Aqui a gente vai precisar arrastar, né?
+
+Vamos selecionar aqui e tirar.
+
+Aí vai haver aqui a ligação também.
+
+Aqui vai haver ligação ação também é que a gente vai ter que acabar deixando um pouco maior.
+
+E vai haver a ligação também.
+
+Bom, acho que vocês já conseguiram entender tudo o que nós estamos fazendo aqui, né?
+
+Então, tudo o que nós temos aqui, pessoal, vai ser, de certa forma.
+
+Ligado à placa mãe.
+
+Aqui nós vamos precisar aumentar, né?
+
+Vamos tirar um pouco da linha que tá ali para facilitar a visualização.
+
+Aqui entra aquelas boas práticas que nós aprendemos lá no início, né?
+
+Para quem não se recorda, não existe as boas práticas aqui e facilitar a visibilidade e a leitura.
+
+Nós poderíamos, na verdade, ter colocado essas linhas através da fonte e do texto, mas acontece.
+
+Aqui vai ficar um pouco esquisito.
+
+Por conta da necessidade de passar por trás dos elementos, né?
+
+E aí eu não posso fazer a ligação pela frente justamente porque não é a porta, né?
+
+Não se trata da porta.
+
+Então acaba ficando bastante feio.
+
+Então, aí eu tenho que dar os meus jeitinhos aqui, ó.
+
+Mas fazendo com calma, com cuidado, com cautela, as coisas acabam ficando boas.
+
+Tá.
+
+É uma questão de paciência e colocando de certa forma na maneira de vida.
+
+E as coisas vão se encaixando.
+
+Por fim, nós temos a última aqui.
+
+Eu acredito que nós já tenhamos ligado tudo.
+
+Tá bom, isso ainda não está me agradando devido a estar bem torto aqui.
+
+Vamos ver o que eu consigo fazer.
+
+Acabar selecionando as portas de qualquer forma.
+
+Além desses aqui, ou melhor, além de todos esses outros aqui, né?
+
+Bom, não tá 100% da maneira que eu queria, mas também para a gente acabar não estendendo tanto a aula,
+
+né?
+
+Vamos ver se eu consigo pelo menos diminuir este carinha ou trazer mais para cá.
+
+Acaba ficando melhor.
+
+E aqui nós temos um outro diagrama de estrutura composta.
+
+Na aula anterior nós falamos um pouco a respeito sobre o computador de uma forma bem simples, bem superficial,
+
+para um entendimento maior.
+
+E aqui nós já incrementamos, nós já deixamos um pouco mais complexo em relação ao anterior.
+
+Já fazendo um servidor, então nós pegamos ali os componentes dos elementos, transformamos eles em
+
+hardwares, né?
+
+Tudo aquilo que vai dentro do computador, as comunicações de entrada e saída, tanto para placa mãe,
+
+todas as outras peças e componentes também ligadas à placa mãe.
+
+E obviamente a interface de rede, né?
+
+Então, aquilo que conecta o computador, que conecta o servidor, que conecta a robustez desta máquina
+
+à internet, que seriam as portas de RJ.
+
+Então, como eu mencionei nas últimas aulas, né?
+
+Apesar desse ser um diagrama dos mais complexos que são existentes e utilizados, se você tem um entendimento
+
+amplo, as coisas acabam ficando fáceis, né?
+
+Se você sabe como, por onde e como começar a desenhar, as coisas acabam ficando mais leves.
+
+Bom, então eu vou me despedindo por aqui.
+
+Próxima aula nós daremos continuidade.
+
+Vou tentar trazer mais um exemplo de diagrama de estrutura composta, voltado agora um pouco a sistema,
+
+né, pra gente ter uma percepção em relação a desenvolvimento de software.
+
+Beleza.
+
+Espero que vocês estejam gostando do curso, que vocês estejam entusiasmados e despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve!
