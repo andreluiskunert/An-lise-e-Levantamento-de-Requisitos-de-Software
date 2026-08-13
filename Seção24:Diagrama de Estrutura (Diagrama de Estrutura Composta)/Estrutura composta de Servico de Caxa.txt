@@ -1,0 +1,397 @@
+O La Luna La Luna.
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML e trazendo à vocês
+
+nesta aula o nosso terceiro exemplo prático relacionado ao diagrama de estrutura composta.
+
+Desta vez nós vamos falar de um assunto um pouco diferente dos anteriores.
+
+Nós trabalharemos sobre um sistema de caixa de serviço ou um sistema de serviço de caixa, como vocês
+
+optarem em chamar.
+
+Tá bom?
+
+Bom, eu já tenho aqui os nossos dois menus de UML 2,5 e UML também abertos.
+
+Tá bom.
+
+E aí nós já conhecemos os elementos que são utilizados, ou pelo menos os que foram utilizados em aulas
+
+anteriores.
+
+Então alguns desses vai se repetir, tá?
+
+E aí, o que acontece, né?
+
+Lembrando que diagrama de estrutura composta ele tem relação a portas.
+
+Tá.
+
+Então as portas Desta vez eu vou utilizar de uma forma diferente.
+
+Um outro recurso que eu vou passar para vocês.
+
+Talvez vocês se adaptem melhor ao invés de ficar procurando os elementos separados aqui.
+
+Beleza.
+
+Então me acompanha atentamente e siga os passo a passos juntamente a mim para vocês terem uma fixação
+
+melhor sobre esse diagrama.
+
+Então, partindo do início.
+
+Nós inicialmente vamos criar uma classe, tá?
+
+Novamente, vamos utilizar aquela da aula anterior.
+
+Deixa eu me recordar onde estava.
+
+Este elemento aqui.
+
+E aqui nós vamos nomeá lo para.
+
+O serviço de caixa.
+
+Tá bom.
+
+E aí, dentro do nosso serviço de caixa é que nós iremos trabalhar.
+
+Bom, desta vez eu estou fazendo invertido, né?
+
+Lembrando que aulas anteriores nós criamos de forma separada e depois nós acompanhamos tudo em um único
+
+lugar, né?
+
+Nós fizemos uma sobreposição jogando a caixa maior para trás.
+
+Aqui nós vamos iniciar ao inverso.
+
+Tá, então vamos criar aqui a estrutura maior inicialmente e abaixo nós criaremos as outras.
+
+Tá.
+
+Então eu vou utilizar aqui o elemento de objeto.
+
+Beleza.
+
+E aqui nós teremos o vendedor e aqui no nosso vendedor seria o vendedor de ingressos.
+
+Tá bom.
+
+Eu vou aumentar aqui um pouquinho.
+
+Acho que fica melhor visualmente.
+
+Além do vendedor de ingressos, nós também teremos uma guia de desempenho.
+
+Eu já vou explicar o que é essa guia de desempenho, então nós vamos renomear aqui para a guia IA de
+
+Desempenho.
+
+Beleza.
+
+E além da guia de desempenho, nós também teremos o nosso desempenho de banco de dados.
+
+Então nós poderemos colocar aqui tb, né?
+
+De database ou de banco de dados, se vocês quiserem escrever em português e aqui nós vamos colocar
+
+desempenho banco de dados, tá bom?
+
+Bom, resumidamente, o que seria isso daqui?
+
+Isso daqui seria o serviço que faria a venda de ingressos?
+
+Beleza.
+
+Além do serviço que faria a venda de ingressos, nós também teríamos de fazer a utilização da venda
+
+de ingressos em si.
+
+Seria o que?
+
+Uma coisa que acontece fora do serviço, tá?
+
+Imagina que o serviço aqui eu estou falando de uma API, por exemplo, e que quando esta API funciona,
+
+ela faz com que os tickets com que os ingressos sejam vendidos.
+
+Esses ingressos quando são vendidos, eles são vendidos fora da API.
+
+Fora do serviço.
+
+Então nós vamos precisar de fazer a construção aqui de uma outra coisa que é a venda dos ingressos,
+
+né?
+
+Quando a venda, ela realmente acontece, tá bom.
+
+E aí nós vamos utilizar aqui a interface, tá?
+
+E eu já vou explicar por que que eu quero utilizar ela.
+
+E aí, o nome da interface aqui nós vamos colocar assim venda de ingressos.
+
+Beleza?
+
+Bom, aqui ao lado, né?
+
+Nós sabemos que quando a extremidade é a ligação entre algo que está interno para algo que está externo,
+
+existe a porta.
+
+E nas aulas anteriores eu acostumei a passar para vocês a porta onde nós podemos nomear.
+
+Eu também passei a porta de interface fornecida.
+
+É a porta de interface necessária.
+
+Beleza.
+
+Inclusive, nós poderemos utilizar essa daqui para esta ocasião, né?
+
+Acrescentando o quadrado aqui na extremidade e a bolinha aqui para o lado esquerdo.
+
+Tá.
+
+Só que, como eu mencionei alí no início, nós vamos fazer de uma forma diferente.
+
+Deixa eu dar Control Z aqui.
+
+Nós vamos utilizar este elemento aqui.
+
+E eu quero mostrar para vocês que ao lado direito da nossa tela, onde existe aqui alguns opcionais
+
+em relação a formatação não apenas de cores, mas em relação a linhas, tipo de tracejado, bordas e
+
+etc.
+
+Tem uma outra funcionalidade no qual nós podemos selecionar novamente aqui o no qual nós podemos fazer
+
+a escolha do qual o tipo de ligação ou o tipo de seta nós queremos utilizar.
+
+Ávila Como assim?
+
+Eu não estou entendendo?
+
+Vou dar um exemplo bem básico aqui.
+
+Geralmente, quando nós arrastamos qualquer seta para qualquer ligação, ele tende a fazer esta seta
+
+com a ponta da seta preta.
+
+A seta preenchida.
+
+Só que, caso eu não queira, caso eu queira utilizar uma outra forma, eu posso vir aqui e fazer a
+
+escolha, né?
+
+Inclusive, a escolha que nós precisamos para o momento é a escolha da porta.
+
+Então existe aqui a ponta do quadradinho que quando nós selecionamos, nós conseguimos fazer com que
+
+ao invés da ponta da seta tem ali o quadradinho juntamente a ligação.
+
+Tá.
+
+E aí, o que nós vamos fazer aqui?
+
+É justamente isso.
+
+Beleza?
+
+Então nós temos aqui já a situação de interface.
+
+Então aí eu vou achar o quadradinho aqui e mostrar para vocês que ele faz a mudança.
+
+Beleza.
+
+Só que aí você vai falar assim Para mim a vida aí era redondo e agora você transformou para um quadrado.
+
+Não está sendo a interface fornecida.
+
+Ou a interface necessária?
+
+Depende da situação.
+
+Bom, o que acontece?
+
+Onde eu fiz a mudança?
+
+Na verdade, se vocês observarem, foi na caixinha que tá aqui no meio.
+
+Se vocês observarem, existe uma outra caixinha aqui disponível que está com nada, que seria o que
+
+o outro lado aonde existe a ligação mas não possui seta.
+
+Tá bom, então aqui eu poderia fazer o seguinte eu poderia voltar para a bolinha, tá que era aquela
+
+originária.
+
+E aqui ao lado, na caixinha direita onde tá escrito nada, eu poderia colocar aqui, ó o quadradinho.
+
+Beleza.
+
+Então aqui eu estou dizendo que existe uma porta que está fazendo a ligação, a comunicação entre o
+
+meu serviço que e a minha API.
+
+Tudo que está aqui dentro do serviço de caixa com a venda de ingressos que acontece fora.
+
+Outro exemplo que nós podemos dar.
+
+Lembra que nas aulas anteriores eu estava muitas vezes pegando algumas setas aqui, ó?
+
+Por exemplo, essa seta de duas pontas.
+
+E eu falava para vocês Olha, precisa fazer com que não tenha a setas, porque o diagrama fica visualmente
+
+mais legível.
+
+Vocês podem vir aqui ó e fazer as inversões, Então eu posso vir aqui trocar, por exemplo, para nada.
+
+E aí eu retiro aquilo que está tendo na minha seta, por exemplo, né?
+
+As pontas que está havendo e que eu não precise naquela ocasião.
+
+Da mesma forma, aqui, ó, eu puxei, ele acrescentou.
+
+O quadrado de um lado do outro possui uma seta.
+
+Eu posso vir aqui e retirar essa seta.
+
+Beleza, então.
+
+Pois bem, dando continuidade aqui, eu estou falando que a venda dos ingressos ela vai ter aqui uma
+
+comunicação com a minha API.
+
+Beleza.
+
+E a minha API.
+
+Ela também necessita de comunicações, ou seja, o meu serviço de vendedor de ingressos.
+
+Ele precisa ter uma comunicação com a guia de desempenho e a guia de desempenho.
+
+Ela também precisa ter uma comunicação com o desempenho do banco.
+
+O banco de dados.
+
+Então, aqui nós poderíamos, por exemplo, fazer essas ligações aqui.
+
+O igual eu estou explicando agora, que é o tipo de ligação que não tem nada a ver com o que a gente
+
+precisa.
+
+E selecionando as setas, nós poderíamos fazer o seguinte nós poderemos vir aqui e acrescentar a porta,
+
+que é o quadrado para um lado e vir aqui na outra opção, né?
+
+No outro opcional e acrescentar também.
+
+Olha só como fica mais simples a manipulação das relações.
+
+Tá, então eu vou fazer isso também para esses dois lados aqui.
+
+Beleza, então, acrescentando as portas.
+
+Tá, Então aqui estou dizendo que há comunicações e que há portas entre o meu vendedor de ingressos
+
+com a minha guia desempenho e também a minha guia de desempenho com o desempenho do banco de dados.
+
+Tá bom isso daqui que está ao lado esquerdo eu vou deletar porque foi só um exemplo inicial e não convém
+
+nós deixarmos aqui no nosso diagrama de estrutura composta.
+
+Beleza?
+
+E aí, o que eu posso estar acrescentando aqui?
+
+Eu posso estar acrescentando o adicional de um para muitos.
+
+Tá.
+
+Então eu posso colocar aqui o número um.
+
+Neste cantinho eu posso colocar aqui o muitos para este carinha aqui.
+
+Ou seja, eu tenho uma guia de desempenho que ela pode ter inúmeros desempenhos dentro do meu banco
+
+de dados.
+
+Tá bom.
+
+Então, como eu mencionei na aula anterior, né, eu precisava trazer para vocês um exemplo de diagrama
+
+de estrutura composta que coubesse dentro daquilo que está sendo passado no curso, que é o que.
+
+Voltado a desenvolvimento de software, voltado à análise de dados, a modelagem de dados e os exemplos
+
+que nós tínhamos visto em relação ao diagrama de estrutura composta até o momento eram exemplos fora
+
+dessa caixinha, né?
+
+Então nós vimos exemplos relacionados a uma composição de um carro.
+
+Hoje nós falamos ali sobre as partes internas e externas, né?
+
+Eixos, rodas, motores e etc.
+
+Nós vimos também os exemplos do barco onde nós falamos ali, da hélice, do motor e tudo mais, mas
+
+nós não tínhamos o exemplo concreto em relação a um tipo de sistema, um tipo de serviço ou a um tipo
+
+de produto voltado a TI, né?
+
+Voltado a software, por exemplo.
+
+Então aqui é um exemplo que se enquadra.
+
+Então isso daqui vocês podem imaginar que fosse um site.
+
+Vou colocar aqui um exemplo do Ticket for Fun, né?
+
+O site que faz a venda de ingressos para shows, por exemplo.
+
+Então, existe um serviço lá.
+
+Este serviço trabalha internamente e faz com que os ingressos sejam vendidos ao público, que seria
+
+essa parte externa aqui da bolinha.
+
+Tá bom, então, mais ou menos essa situação aqui que eu queria passar para vocês.
+
+Para uma melhor fixação, para um melhor entendimento e para uma abrangência maior sobre a situação
+
+do diagrama de estrutura composta.
+
+Beleza.
+
+Exemplo bem simples, mas que eu achei bastante funcional de estar trazendo para vocês, então espero
+
+que vocês tenham entendido.
+
+Espero que vocês estejam gostando do curso mais uma vez mencionando.
+
+Estou fazendo aqui o máximo de exemplos e trazendo o máximo de detalhes possível para cada um dos tipos
+
+de diagrama.
+
+Para o término do curso você tem uma abrangência muito boa para estar trabalhando em qualquer situação,
+
+com qualquer diagrama que você tiver a necessidade de utilização.
+
+Beleza.
+
+Me despeço por aqui.
+
+Fiquem com Deus.
+
+Até breve!
