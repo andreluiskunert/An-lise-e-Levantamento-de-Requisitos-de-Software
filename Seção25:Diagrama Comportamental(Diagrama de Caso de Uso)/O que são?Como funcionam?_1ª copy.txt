@@ -1,0 +1,197 @@
+Olá, Luna!
+
+Olá, Luna.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem
+
+de Dados do ML, trazendo a vocês a partir desta aula, novos
+
+módulos que serão relacionados a diagramas pertencentes ao Grupo de Diagramas Comportamentais.
+
+Em todos os diagramas que nós vimos até então, todos os exercícios e atividades que nós
+
+fizemos sobre todos os diagramas passados anteriormente, todos eles foram pertencentes ao Grupo de diagramas Estruturais.
+
+Então, da mesma forma que nós vimos cada um dos diagramas que eram pertencentes ao grupo
+
+Diagramas estruturais, nós também faremos utilização 1A1 de todos os diagramas que são pertencentes ao grupo
+
+de diagramas comportamentais, começando pelo primeiro, que é o nosso diagrama de caso de uso.
+
+Beleza.
+
+Então, primeiro de tudo, o que nós devemos saber.
+
+então, assim como todas as outras aulas e todos os outros modos.
+
+Na verdade, nós primeiramente trabalharemos a parte teórica para que então nós possamos ter um entendimento,
+
+saber como funciona, para que que serve, para então nós fazermos os exercícios na prática.
+
+O início de tudo o que é o diagrama de caso de uso Diagrama de caso de uso resume
+
+os detalhes dos usuários do seu sistema, também conhecido como atores e as interações deles com um sistema.
+
+Para criar um Use case ou um caso de uso, use o conjunto de símbolos e conectores especializados.
+
+Um diagrama de caso ajuda a equipe a representar e
+
+a discutir alguns cenários, né? Alguns escopos, alguns meios.
+
+Então.
+
+O primeiro é o cenário em que o sistema ou
+
+aplicativo interage com as pessoas, organizações ou sistemas externos.
+
+Metas que o sistema ou aplicativo ajuda.
+
+Essas entidades que são os atores e os usuários a atingir e também o escopo do sistema.
+
+Assim, de todos os diagramas que nós vimos até então, teoricamente e na prática, vai
+
+ser o diagrama mais fácil de ser elaborado e o diagrama de caso de uso.
+
+Assim como diagrama de classe, ele é um dos mais utilizados diariamente atualmente na
+
+área de software, principalmente na área de desenvolvimento área de TI num contexto geral,
+
+mas ele é um dos diagramas mais simples e mais utilizados até então.
+
+Tá bom assim? O diagrama Ele tem alguns conceitos, algumas peculiaridades, mas ele
+
+é muito simples assim e muito fácil de entender e muito fácil de
+
+manipular e muito fácil de se criar as coisas, tá? Então o que
+
+nós devemos nos atentar aqui? O quando usar um diagrama de caso
+
+de uso o diagrama de caso de uso não oferece muitos detalhes.
+
+Não espere, por exemplo, que ele mostre a ordem em que os passos são executados.
+
+Muito pelo contrário.
+
+Como nós vimos no texto anterior, ele resume os detalhes dos usuários que
+
+são conhecidos como atores e as interações que esses usuários fazem no sistema.
+
+Nós veremos com mais detalhes sobre o que é isso.
+
+Bom, em vez disso, um diagrama de caso de uso adequado dá a
+
+visão geral do relacionamento entre o caso de uso, atores e sistemas.
+
+Os especialistas recomendam usar o caso de uso para complementar um caso de uso descrito em texto.
+
+Você vai usar o caso de uso quando você fazer, por exemplo, um manual do usuário.
+
+Há algo a respeito? Alguma documentação que envolva
+
+passo a passo, que mostre permissões do que
+
+o usuário pode fazer ou pode acessar.
+
+Então você faz uso do diagrama de caso de uso para fazer essa Representatividade.
+
+Para fazer essa ilustração com o ML e o kit de ferramentas de modelagem
+
+para criar diagramas, o caso de uso é representado por uma forma oval, rotulada.
+
+Lembra uma elipse, né, que nós vimos em aulas anteriores.
+
+Só que ao invés de ser algo oval, com linha tracejada
+
+ou linha pontilhada, como vocês optaram em chamar, é uma
+
+linha contínua, tá? Então existe essa representatividade com elemento oval.
+
+Tá bom.
+
+Bonecos de palitos representam os atores no processo e a participação do ator no
+
+sistema é modelada com uma linha entre o ator e o caso de uso.
+
+Então aqui nós já conseguimos ter uma percepção bem grande do que é representado ou quais elementos.
+
+Quais objetos, Quais formas geométricas são utilizadas dentro do caso de uso.
+
+Aqui nós já temos a percepção que é utilizado é uma ferramenta em forma oval.
+
+É utilizado bonecos de palito e utilizado linha para fazer o
+
+relacionamento ou a ligação entre o boneco e a forma oval.
+
+Por exemplo, é bom para representar o limite do sistema.
+
+Desenhe uma caixa em torno do próprio caso de uso.
+
+É o que nós já estamos acostumados e fizemos em muitas aulas anteriores.
+
+Tá bom? Agora, para que o diagrama de caso
+
+de uso é ideal? Tá, um de nós
+
+devemos usar o porquê nós devemos usá los.
+
+Primeiro, representar as metas e interações entre sistemas e usuários.
+
+Segundo, definir e organizar requisitos funcionais do sistema.
+
+Terceiro, especificar os contextos e os requisitos do sistema.
+
+Quarto Modelar o fluxo básico de eventos no caso de uso.
+
+Bom, então aqui é um contexto geral de quando deve se utilizar o caso de uso, Então vamos
+
+colocar assim de forma bem prática, resumida e claro que superficial, mas toda vez que houver documentação.
+
+Toda vez que houver um manual, toda vez que houver algo técnico, toda vez
+
+que houver passo a passo, tutorial, toda vez que você precisar descrever requisito, você
+
+vai utilizar o diagrama para fazer a ilustração daquilo que está contido em texto.
+
+Beleza? Bom, e
+
+aí? O que
+
+nós temos de
+
+percepção inicial? Beleza.
+
+Primeiro de tudo é que diagrama de caso de uso ele é um dos mais simples, se
+
+não o mais simples dentre todos os 14 diagramas que nós vamos ver ao total do curso.
+
+Tá bom.
+
+Dentre eles, apesar de ser o mais simples, ele praticamente é o mais utilizado dentro da área de software
+
+e por ser simples e por ser bem objetivo, ele também tem uma facilidade de criação e de entendimento
+
+muito grande em comparação aos outros diagramas que nós já vimos ou nos próximos diagramas que nós veremos.
+
+Beleza, eu não vou me estender por enquanto, para ela não ficar tão massante.
+
+Nós sabemos que a teoria em si é um pouquinho chata.
+
+É um pouquinho maçante, mas eu vou me despedindo por aqui.
+
+Nas próximas aulas nós também daremos continuidade com alguns outros conceitos, algumas outras teorias que
+
+são pertinentes ao diagrama de caso de uso, para que nós tenhamos uma robustez,
+
+um entendimento um pouco maior, para que então nós possamos praticar esse diagrama também.
+
+Espero que vocês estejam gostando do curso, Espero que vocês estejam entendendo, que vocês
+
+estejam aprendendo e principalmente, absorvendo para colocar em prática no dia a dia.
+
+Me despeço de vocês, Fiquem com Deus.
+
+Até breve!

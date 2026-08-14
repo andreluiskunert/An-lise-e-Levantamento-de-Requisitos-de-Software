@@ -1,0 +1,295 @@
+Olá, Luna!
+
+Olá, Nuno.
+
+Como vocês estão? Espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês a segunda aula sobre Diagrama de Caso de Uso.
+
+Segunda aula teórica no qual nós iremos aprofundar um pouco mais a respeito sobre este tipo de diagrama.
+
+Um Aula anterior Nós falamos um pouco a respeito sobre o que é o
+
+diagrama, como ele é representado, para que ele serve, onde ele é utilizado.
+
+E agora nós vamos falar um pouquinho sobre os elementos ou como vocês preferirem chamar.
+
+Forma geométrica ou objetos na qual o diagrama de caso de uso precisa para ter uma representatividade.
+
+Tá bom? Bom, sem mais delongas, vamos dar início para
+
+entender o que é um diagrama de caso de uso.
+
+É necessário primeiro saber como ele é feito.
+
+São componentes comuns, olha só componentes comuns, ou seja, o que você utilizaria praticamente
+
+em todos os diagramas de caso de uso que você viesse a desenhar.
+
+Tá.
+
+Primeiro deles é os atores.
+
+Tá bom.
+
+O que são os atores? Atores São
+
+os usuários que interagem com o sistema.
+
+Ator pode ser uma pessoa, uma organização ou um sistema interno ou
+
+externo que interagem com o seu aplicativo ou com seu sistema.
+
+Eles devem ser objetos externos que produzam ou consumam dados.
+
+Tá bom.
+
+Então, os atores, de certa forma, é aquilo que tem interação com o seu
+
+sistema, com seu serviço, com seu aplicativo, dependendo do que a gente estiver falando.
+
+Então o usuário, ele pode ser uma organização, pode ser algo chamado em conjunto.
+
+Como ele pode ser um usuário realmente considerado uma única pessoa.
+
+Como pode ser também um sistema? Então, quando você
+
+tem uma integração entre sistemas onde o sistema A
+
+ele busca ou recebe informações do sistema B.
+
+Esse sistema.
+
+Ele também pode ser chamado de ator.
+
+Tá bom, porque ele tá fazendo uma interação com um
+
+sistema, serviço ou aplicativo no qual você estiver falando.
+
+Dependendo do contexto, o segundo sistema, uma sequência específica de ações e interações
+
+entre os atores e o sistema sistema pode ser chamado de cenário.
+
+Então, quando nós falamos em atores, nós estamos falando de usuários.
+
+Quando nós falamos em cenários, nós estamos falando dos sistemas.
+
+Beleza.
+
+Então o sistema vai ser a parte ou as partes no qual nós iremos falar sobre permissões.
+
+Nós iremos falar sobre funcionalidades.
+
+Nós iremos falar sobre ferramentas e assim sucessivamente.
+
+E aí nós temos um terceiro que também é considerado o componente comum,
+
+que são as metas, o resultado final da maioria dos casos de uso.
+
+Diagrama criado corretamente deve descrever as atividades e variantes usadas para atingir a meta.
+
+Tá bom? Então, todo sistema ou toda
+
+a usabilidade de um sistema tem uma
+
+meta final, né? Qual é o objetivo
+
+de utilizar a ferramenta? Qual é o
+
+objetivo de usar a funcionalidade? Sempre tem
+
+um denominador comum, né? Sempre tem ali
+
+um algo final, né? Uma importância final.
+
+Então, o interessante de um diagrama de caso de uso sempre possuir essa meta.
+
+Tá, então para quê que o usuário, por exemplo, ele acessa o
+
+aplicativo do iFood? Qual que é a meta? A meta é fazer
+
+determinados pedidos, sejam eles produtos sólidos ou líquidos, né? E aí
+
+nós podemos falar tanto de consumo em bebida quanto de alimentos,
+
+mas o objetivo final é sempre receber o alimento ou a
+
+bebida na casa, né? Então tem aqui seus objetivos em peculiar.
+
+A gente sempre deve observar isso enquanto nós estivermos fazendo as ilustra atividades, tá bom?
+
+E aí nós temos também os símbolos e notações do diagrama de caso de uso.
+
+A notação do diagrama de caso de uso é bastante objetiva
+
+e não envolve a mesma quantidade de símbolos de outros diagramas.
+
+Então foi aqui um dos motivos do qual eu falei aqui.
+
+Esse diagrama, senão um dos mais fáceis, Sim, o mais fácil de todos os
+
+14 que nós já estudamos e vamos continuar a estudar a partir desse daqui.
+
+Bom, bom.
+
+E aí nós temos também o próprio caso de uso.
+
+O caso de uso, ele sempre vai ser desenhado como um formato oval
+
+horizontal e representa a diferentes usos em que um usuário pode ter.
+
+Bom, então o formato oval ele, por obrigatoriedade, sempre
+
+deve ser desenhado na forma horizontal, nunca em vertical.
+
+Sempre de um lado para o outro, nunca de cima para baixo ou de baixo para cima.
+
+Beleza.
+
+E aí? Mencionando mais uma vez,
+
+né? Todas as funcionalidades, todos os
+
+momentos em que o ator.
+
+Ele deverá ter, sempre será desenhado com este símbolo, este formato ou
+
+este elemento, como vocês optarem em chamar, que é o elemento oval.
+
+Beleza.
+
+Aí os nossos atores.
+
+Os nossos atores, como nós já vimos em aula anterior e já
+
+foi mencionado, né? Teve ali um breve spoiler, vamos colocar assim.
+
+Ele já foi mencionado que o ator é desenhado como um boneco de
+
+palitinho, né? Então aqueles bonequinhos que as crianças costumam a desenhar quando estão
+
+iniciando, o aprendizado em desenho e os mesmos bonequinhos que nós utilizaremos aqui.
+
+Então a bolinha para fazer a cabeça e os palitinhos para
+
+desenhar as perninhas, o corpo e as mãos ali também.
+
+Beleza.
+
+Novamente, bonecos de palito representam as pessoas que realmente implementam os casos de uso.
+
+Beleza.
+
+E aí nós temos as associações.
+
+Nós já sabemos e estamos cansados de utilizar associação, associação e a linha em que
+
+faz a ligação, no caso de uso ou em qualquer outro tipo de diagrama.
+
+Então, a linha que amarra um elemento a outro, que define
+
+o que um elemento a outro possui é um relacionamento dependente.
+
+Se não é.
+
+E assim sucessivamente.
+
+Bom.
+
+Nos diagramas complexos é importante saber quais atores estão associados a quais casos de uso.
+
+Então sempre deve ter essa amarração fazendo a ilustração.
+
+Bom, e aí nós temos como fazer um diagrama de caso de uso.
+
+Tem aqui alguns pequenos passos e eles são bem simples, apesar de serem importantes.
+
+Tá bom.
+
+Fazer um diagrama de caso de uso não é difícil.
+
+Quanto se parece? Princípios de diagramação
+
+em si são bem simples.
+
+O que pode deixá lo mais complicado é a complexidade do próprio sistema que você deseja representar.
+
+Então o complexo não e desenhar o diagrama.
+
+Talvez a complexidade se da a qual sistema ou qual serviço você precisa ilustrar.
+
+Mas o diagrama em si é muito fácil de fazer.
+
+O desenho está bom e nós temos aqui seis pequenos passos.
+
+Tá bom? Então,
+
+o primeiro.
+
+Comece inserindo a forma de sistema no seu diagrama.
+
+Segundo, adicione os atores primários e secundários.
+
+Terceiro, insira os casos de uso na ordem em que
+
+acontecem para representar as tarefas realizadas dentro do sistema.
+
+Para que a ordem?
+
+Ela é bem importante.
+
+Por exemplo.
+
+Primeiro de tudo, o usuário efetua login.
+
+Aí acessa a ferramenta para depois utilizar o recurso.
+
+Eu nunca vou desenhar que ele utiliza o recurso antes de realizar o login.
+
+Por exemplo, eu Respeitar a ordem hierárquica é muito importante.
+
+Quarto, rotule os casos de uso usando verbos e descrições
+
+simples para reforçar a ideia de que uma ação acontece.
+
+Quinto, Conecte os atores e casos de uso para criar os relacionamentos.
+
+Com tudo isso, nós já estamos muito acostumados em fazer.
+
+E sexto, lembrando que os relacionamentos podem ser de associação, inclusão, extensão
+
+ou de generalização, quando são entre casos de usos gerais e Especializados.
+
+Então isso daqui eu estou passando a vocês, mais obviamente que quando nós
+
+fizermos ali a parte prática né? Nós iremos voltar nesse slide e vamos
+
+fazer conforme está sendo mandado esses esses seis passos para que nós possamos
+
+nos adaptar e principalmente entender como funciona a criação respeitando essas regras.
+
+Tá bom? Então, assim, à medida em
+
+que nós fizermos os primeiros exemplos, nós
+
+iremos trabalhar com este contexto aqui.
+
+Bom, e aqui nós temos mais uma aula relacionada ao diagrama de caso de uso.
+
+Mais uma vez eu espero que você esteja gostando que vocês estejam entendendo.
+
+Espero que esteja sendo de bastante serventia e você possa colocar tudo que você vier aprender na prática.
+
+E na próxima aula nós daremos continuidade vendo um
+
+pouco mais sobre esse diagrama, que é bastante fantástico.
+
+Então vou me despedindo de vocês por aqui.
+
+Fiquem com Deus.
+
+Até breve!
