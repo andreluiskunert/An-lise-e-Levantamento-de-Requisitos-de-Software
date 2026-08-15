@@ -1,0 +1,531 @@
+Olá aluna ou aluno, Como vocês
+
+estão? Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML e
+
+trazendo a vocês essa aula, o nosso primeiro exemplo prático relacionado a diagrama de Caso de Uso.
+
+Então aqui nós faremos passo a passo um de vários exemplos no qual eu vou trazer para
+
+vocês estar relacionado ao diagrama de caso com base nas aulas teóricas no qual nós tivemos.
+
+Então, para quem não se recorda, nas aulas anteriores, nós falamos um pouco sobre o diagrama de caso.
+
+Nós entendemos um pouco a respeito, onde ele é utilizado, como ele é
+
+criado, quais são as formas, os elementos como vocês preferirem, que são
+
+utilizados no contexto de diagrama UML para modelagem de caso de uso.
+
+Agora nós vamos colocar o que nós visualizamos em teoria na prática.
+
+Beleza.
+
+O primeiro sistema que nós faremos aqui como exemplo vai ser um sistema de validação de cartão de crédito.
+
+Tá bom? Então nós vamos elaborar aqui algumas coisinhas
+
+que são pertinentes a esse sistema e vamos acrescentar
+
+ali algumas outras coisas que são pertinentes ao diagrama.
+
+Tá bom? Bom, sem mais delongas,
+
+vamos ao que interessa então.
+
+Primeiro de tudo é que o diagrama de caso.
+
+Como eu já mencionei nas aulas anteriores, ele é um dos diagramas,
+
+se não o diagrama mais utilizado dentro do contexto do ML.
+
+Então, se vocês observarem dentro do próprio menu inicial aqui, que é o geral,
+
+o primeiro menu que nós temos disponível, nós já temos aqui algumas ilustrações.
+
+Alguns elementos são pertinentes ao diagrama de caso de uso.
+
+Bom, nós podemos utilizá los aqui ou, se preferirmos, nós também podemos ir
+
+lá no último menu, que é relacionado à UML e dentro de UML.
+
+Nós também teremos aqui algumas coisas, tá? Eu
+
+em particular vou usar o de UML.
+
+Ao invés de usar geral, Mas fica ao critério de vocês, beleza? Bom, a primeira coisa
+
+que nós precisamos identificar para quando nós formos fazer o diagrama de caso de uso
+
+é nas funcionalidades que o sistema vai possuir e no que os usuários e os
+
+atores, como são chamados dentro deste diagrama, vão poder fazer ou terão permissão de visualizar
+
+ou modificar e assim sucessivamente, de acordo com o perfil de usuário dentro desse sistema.
+
+Tá.
+
+Então, primeiro de tudo, é assim todo usuário que vá fazer utilização de
+
+um sistema de validação de cartão de crédito obviamente tem a possibilidade de
+
+fazer uma transação de cartão, né? Seria Seria ali a transação do
+
+dinheiro de um cartão para o outro? Seria também processos de faturas.
+
+Porque se nós entendemos que existe o cartão, ele também
+
+pode ser relacionado como um cartão de crédito, por exemplo.
+
+Beleza.
+
+Nós também temos outras coisas, por exemplo, a gestão ou gerenciamento da conta.
+
+Então eu tenho uma conta, eu tenho um cartão, eu posso
+
+fazer um gerenciamento, adicionar ou restringir, pedir para restringir determinadas ações
+
+ou determinadas coisas, benefícios ou impostos que o meu cartão possui.
+
+E aí, por onde nós devemos começar, né? É interessante nós sabermos
+
+aqui o que é importante e por onde nós devemos começar.
+
+Então eu posso começar desenhando o sistema.
+
+Eu posso.
+
+Eu posso começar desenhando os atores.
+
+Eu também posso.
+
+Até porque, falando dos atores, né? Seriam
+
+os clientes ali dos cartões? Nós,
+
+por exemplo, teríamos dois no quesito.
+
+Nós teríamos o cliente corporativo e teríamos um cliente individual.
+
+Então nós temos pensar lá o Itaú, o Bradesco, grandes
+
+bancos? Eles possuem clientes individuais? Seriam nós aqui, né? Mas
+
+têm os clientes corporativos, então, que são empresas que possuem
+
+conta aberta também, né? Para pingar o dinheirinho deles lá
+
+todo o mês ou quinzenal, enfim, dependendo ainda da empresa.
+
+Mas não convém ao caso nós falarmos desses detalhes a respeito.
+
+Então eu vou iniciar esse primeiro diagrama com vocês falando um pouquinho sobre
+
+os atores, tá? Mas à medida em que as aulas forem acontecendo,
+
+nós vamos variando a criação, porque isso varia de pessoa para pessoa.
+
+Não tem uma regra clara se você deve começar por um ou para o
+
+outro, né? O importante é você ter a noção do que é preciso entender
+
+e saber e do sistema como um todo, dos usuários como um todo.
+
+E você pode descrever a medida em que você achar necessário.
+
+Até porque se você esqueceu uma coisa, você vai começar a escrever outra.
+
+E aí, no momento em que você tá escrevendo outra, você vai lembrar do que você esqueceu.
+
+Aí você vai voltar e isso vai acabar com que o diagrama seja criado por completo do mesmo jeito.
+
+O que vai mudar? O que
+
+as maneiras ou as ordens no
+
+qual a criação ela vai acontecer?
+
+Tá bom? Então vamos lá.
+
+Como eu falei sobre os clientes, nós vamos iniciar primeiramente sobre os clientes.
+
+Então vamos pegar aquele bonequinho, aquele no qual você desenhou lá no prézinho,
+
+né? Uma bolinha é vários pauzinhos para fazer o corpinho do boneco.
+
+E ele, como é o nome de ator, você vai dar duplo clique, Ele vai selecionar o nome.
+
+Você vai colocar aqui o cliente individual Beleza ou pessoa
+
+física, né? Cliente, pessoa física como vocês optarem em chamar?
+
+Beleza, Vocês vão copiar e colar esse mesmo bonequinho aí.
+
+E aí vocês vão colocar um outro nome no boneco.
+
+Então, novamente, duplo clique.
+
+E esse daqui
+
+vai ser o
+
+que? Cliente? Corporativo
+
+Beleza? Não.
+
+Pessoa física e pessoa jurídica.
+
+Todos eles está sendo representado o mesmo cliente, porque para o banco o importante é ter cliente.
+
+Então, aqui nós podemos fazer o seguinte nós podemos falar que o cliente,
+
+ele pode ser representado por ou um cliente individual ou um cliente corporativo.
+
+Beleza.
+
+E aí nós podemos fazer a ligação desse cliente aqui, ou melhor,
+
+desses clientes, né? Para o cliente genérico, né? E o que importa
+
+para o banco? Beleza, Então vamos aumentar um pouquinho mais aqui para
+
+ficar mais legível, beleza? Bom, fora isso, o que nós temos
+
+também como ator, isso daqui, nós estamos pensando como clientes do
+
+banco, clientes de onde tem um sistema de validação do cartão.
+
+Tá, mas fora os clientes, nós também temos outros atores.
+
+Nós também podemos copiar e colar esse bonequinho.
+
+Vamos colocar para o lado de cá Porque? Porque aqui
+
+no meio é onde vai estar o nosso sistema.
+
+Beleza, é esse outro bonequinho.
+
+Aqui nós vamos nomeá lo como
+
+financeira ou financeiro, tá? Porque que
+
+a parte financeira do banco? Beleza.
+
+E o banco? Ele
+
+também possui outros atores.
+
+Aqui a gente poderia fazer um grupo de atores, na verdade, que ele seria
+
+relacionado a esse próximo, que seria o instituto ou a instituição de vendas.
+
+Tá? Seria o que seriam as pessoas que
+
+fariam a venda do sistema para os
+
+clientes do outro lado, por exemplo? Beleza.
+
+E aí nós temos agora que desenhar o que aqui no meio nós precisamos desenhar o sistema,
+
+ou seja, as ações ou as funções que o sistema teria ou que o sistema terá.
+
+E quais são os permissões para cada um desses
+
+atores? Bom, como que nós vamos fazer isso
+
+daqui? Então, o texto ele menciona uma elipse.
+
+Então, aqui o.
+
+Se vocês observarem dentro do menu ML ao lado do bonequinho, nós temos uma elipse elipse.
+
+Novamente, para quem não se recorda, é um símbolo oval em horizontal.
+
+Beleza nunca vai ser um símbolo oval e vertical.
+
+É sempre em horizontal.
+
+E esse símbolo? Ele possui um
+
+contorno ou uma linha, como vocês
+
+optarem chamar em Continua, né, não
+
+é? Aqueles pontilhados ou tracejados? Beleza.
+
+Então é esse cara que nós vamos utilizar.
+
+E aí, dentro dessa elipse é onde nós escreveremos quais são as funcionalidades do sistema.
+
+Por exemplo Tá bom, eu vou diminuir um pouco aqui para não ficar tão maior do que os bonequinhos.
+
+Acho que fica um pouco desproporcional para nós.
+
+Podemos.
+
+Escrever Beleza.
+
+Então vamos lá.
+
+Primeiro de tudo, transação de cartão.
+
+Eu já tinha cantado a bola antes de nós começarmos
+
+a desenhar, né? Então nós só vamos colocar aqui.
+
+E processo de fatura ou processa fatura, beleza? Nós
+
+temos mais o que aqui dentro do sistema.
+
+Nós temos também a reconcilia.
+
+--? Opa,
+
+Transações, beleza.
+
+E nós também temos o gerenciamento da conta.
+
+Então nós colocamos aqui o.
+
+Gerencia, conta.
+
+Beleza.
+
+Bom, por que que eu não coloco gerenciar conta, porque eu estou falando do usuário.
+
+Quando eu falo em gerenciar,
+
+né? É um outro contexto.
+
+Agora, quando eu falo gerencia, é que eu estou falando
+
+que aquele tipo de ator em específico faz a
+
+gestão do cartão, né? No cartão dele, no caso.
+
+Beleza.
+
+E aí, como que nós faríamos
+
+as ligações aqui? Vamos lá então.
+
+Primeiro de tudo, nós faremos a ligação no qual os clientes tem aqui
+
+as permissões ou as visualizações, os acessos, as determinadas funcionalidades do sistema.
+
+Então nós vamos usar o cliente como genérico aqui.
+
+Por quê? Porque eu entendo que o cliente,
+
+no contexto geral, independente se ele é individual
+
+ou corporativo, vai ter os mesmos acessos.
+
+Talvez aqui no contexto real, né? Isso aqui
+
+é um cenário hipotético e vale ressaltar.
+
+Mas talvez no conceito real, uma ilustração real.
+
+Nós tenhamos aqui algumas diferenças entre o que o cliente corporativo possui
+
+para o cliente individual e aí nós podemos fazer de forma separada.
+
+Mas no exemplo atual, eu estou contextualizando que tanto o
+
+corporativo quanto o individual, eles vão possuir o mesmo acesso.
+
+Então, por isso que eu vou falar do cliente de forma genérica.
+
+Beleza, Então vamos lá.
+
+Vamos primeiramente fazer as ligações aqui.
+
+Então ele vai ter a possibilidade de fazer transações.
+
+Ele também vai fazer aqui o processamento de fatura.
+
+Então, imaginando que ele tem um cartão de crédito e todo mês vai chegar
+
+a uma fatura para ele, ele também vai ter aqui a reconciliação de transações.
+
+E nós também podemos colocar outra coisa aqui, que é o último, né, que é a gestão da conta.
+
+Beleza, deixa eu só levar esses bonequinhos mais para baixo aqui, Ficar visualmente
+
+melhor, beleza? Bom, primeira coisa que nós podemos trocar essa setinha aqui.
+
+lembrando que não queremos nada que tenha pontas ta?
+
+Porque aí o diagrama ele fica visualmente melhor.
+
+Nós vamos achar aqui uma linha que não possui seta ou não possui a ponta.
+
+Um momento? Nada na verdade
+
+né? Então é a primeira
+
+opção lá no topo.
+
+Nada também.
+
+Aqui nada também.
+
+E aqui também seria.
+
+Nada.
+
+Beleza.
+
+Agora, com relação a financeiro financeiro, ele só tem duas possibilidades que a gestão da conta é.
+
+E o processamento
+
+da fatura? Beleza.
+
+Então seriam essas duas aqui.
+
+E aí também vamos colocar aqui para não exibir seta a
+
+opção de nada é aqui também, porque aí teria linhas contínuas.
+
+Tá bom.
+
+Agora a instituição de vendas ou
+
+os vendedores teriam acesso às
+
+transações? E os processamentos? Beleza.
+
+E aí nós também colocaríamos aqui como nada.
+
+E essa outra seta também Como nada.
+
+Bom, e aí? O que nós
+
+podemos fazer de variações? Nós poderíamos,
+
+por exemplo, fazer identificação por cores.
+
+Então, aqui os meus atores, no caso, eu poderia colocá los aqui como azuis.
+
+Beleza.
+
+Os meus vendedores ou os funcionários do banco, como vocês optarem chamar.
+
+Nós poderíamos colocar aqui em vermelho.
+
+Beleza.
+
+E o nosso sistema aqui no contexto geral.
+
+Nós também podemos poderíamos alterar a cor.
+
+Nós poderíamos colocar aqui um verde, um laranja, talvez um amarelo, Não sei.
+
+Eu vou acrescentar um verde aqui, porque aí, visualmente nós sabemos
+
+aqui do que se trata, porque nós temos diferenciação por cores.
+
+Lembrando que quando nós temos imagens ilustrativas, isso se torna visualmente
+
+melhor e uma fácil interpretação maior do que um texto bom.
+
+Lembrando que se você trabalha com análise de requisitos, os requisitos que vocês
+
+definiram vai virar esse diagrama aqui no futuro para uma apresentação, por exemplo.
+
+Tá? E aí, o que tá faltando
+
+aqui? O que tá faltando é
+
+simplesmente especificar o nome do sistema,
+
+né? Ou o tipo do sistema.
+
+Então aqui nós poderemos entrar no menu geral, por exemplo.
+
+Beleza? E aí
+
+nós poderíamos.
+
+Deixa eu dar uma olhada.
+
+Aí nós poderíamos pegar esse contêiner aqui.
+
+O que é o container vertical?
+
+É sobrepor o que nós desenhamos.
+
+Tá, eu vou deixar aqui um pouquinho menor.
+
+E aí nós também podemos fazer algumas modificações.
+
+Então preenchimento Aqui nós poderemos colocar um verde mais clarinho.
+
+E bem mais clarinho, né? Vamos colocar
+
+isso daqui, tá? E aí a linha
+
+por si já fica verde também.
+
+E aqui é onde tem o nome vertical Container.
+
+Nós colocaremos o nome do sistema.
+
+Então aqui o sistema de validação de cartão de Crédito.
+
+Beleza? Bom, aí o que nós podemos
+
+fazer aqui para melhorar? Nós poderíamos, por
+
+exemplo, aumentar um pouco esse cenário aqui.
+
+Vamos ver aqui se dá certo o que
+
+eu quero fazer, tá? O nosso texto vai
+
+ficar aqui de canto, tá? E a
+
+sobreposição? Nós colocaremos aqui o para trás.
+
+Beleza.
+
+Aí em cima, Aqui ó, fica visualmente melhor.
+
+Tá bom.
+
+E aqui foi o nosso primeiro diagrama de caso de uso, tá?
+
+Como já foi dito nas aulas anteriores, é o diagrama mais usado.
+
+É ao diagrama mais simples de se utilizar, né? De se ilustrar
+
+porque não existe muitos elementos e ele também não condiz muitas coisas.
+
+Ele só mostra exatamente o que aquele determinado ator possui ou acessa ou mexe dentro de uma funcionalidade.
+
+Tá bom então, mais uma vez, levando em consideração que nós
+
+estamos falando sobre um sistema de validação de cartão onde nós
+
+temos clientes individuais e corporativos e aqui o cliente no contexto
+
+genérico, né? Levando em consideração que estamos falando dos dois
+
+abaixo, quais são os treinamentos, os recursos que eles acessam,
+
+assim também como os de vendas e os financeiros? Beleza.
+
+Bom, eu não vou estender muito a aula já deve ter
+
+ficado um pouco extensa, então eu vou me despedindo por aqui.
+
+Espero que vocês estejam entendendo, principalmente que vocês estejam gostando.
+
+Espero que vocês consigam absorver e colocar em prática no
+
+dia a dia tudo que nós estamos visualizando no curso.
+
+Me despeço de vocês, fiquem com Deus e até a próxima!
