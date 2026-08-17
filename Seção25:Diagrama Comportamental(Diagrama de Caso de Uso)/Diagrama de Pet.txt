@@ -1,0 +1,377 @@
+Olá, Luna! Olá
+
+Luna! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML e
+
+trazendo à vocês nesta aula o nosso segundo exemplo prático relacionado à diagramas de caso de uso.
+
+Desta vez nós falaremos um pouco sobre um sistema de pet, ou seja, um sistema de pet shop.
+
+Tá bom? Então, sem delongas, vamos dar
+
+início aqui sobre as composições, no qual
+
+nós trabalharemos para desenhar este diagrama.
+
+Então, mais uma vez, nós vamos minimizar o menu geral e
+
+vamos expandir o último menu, que é o menu UML.
+
+E aqui nós faremos inicialmente a ilustração novamente através dos atores.
+
+Beleza, Vamos imaginar que o nosso sistema de pet.
+
+Sistema de Pet Shop, no caso ele tenha alguns atores no qual
+
+exista o administrador, Ministrador exista o moderador beleza e exista o usuário.
+
+Bom, quais são as diferenças? Usuário Nós entendemos que são usuários
+
+comuns, talvez usuários que são clientes e têm o login
+
+dentro da ferramenta para poder cadastrar, registrar ou agendar determinadas
+
+consultas ou banhos, enfim, o que o pet shop venda.
+
+Beleza, Nós temos um segundo usuário que é o moderador.
+
+Ele seria usuário que faz as modificações pertinentes a localidades e desenvolvimento e etc.
+
+Tá bom.
+
+E nós temos usuário administrador que tecnicamente é usuário
+
+master e faz os gerenciamentos no contexto geral.
+
+Beleza.
+
+Então, como que nós iniciaremos
+
+aqui? Nós faremos três usuários.
+
+Então, começando pelo usuário normal e vamos digitar o usuário.
+
+Beleza.
+
+Esse mesmo carinha nós iremos copiar e colar e aí nós vamos colocar aqui o moderador.
+
+Tá bom.
+
+E também teremos o nosso terceiro, que é o nosso.
+
+AD Administrador.
+
+Beleza.
+
+E aí, se pensando no contexto em relação ao sistema de
+
+pet shop, nós poderemos falar aqui que inicialmente todo o sistema
+
+existe, o registro, o cadastro, né? Então nós colocamos aqui registrar
+
+se, por exemplo, Regis registra se, né, Porque não seria registrar
+
+se registra se usuário se registra, né? Ele registra se.
+
+Mas vamos mudar o contexto aqui.
+
+Registrar.
+
+Os usuários registram.
+
+Beleza, Eles também efetuam login.
+
+Depois que eles possuem.
+
+Já o registro.
+
+Então efetuar login.
+
+Bom, aí existe depois do login, as funcionalidades dentro do sistema.
+
+Quais seriam? Então nós
+
+temos aqui a manter.
+
+Nós temos também um Adotar
+
+PET? A do pet.
+
+Beleza.
+
+Manter localidades.
+
+Vamos digitar aqui o Manter localidades e gerenciar usuários.
+
+Bom, vamos colocar aqui Gerenciar usuarios.
+
+Beleza.
+
+Bom, esses carinhas aqui, primeiramente eu vou arrastá los um pouco mais para cima.
+
+E aqui nós já vamos acrescentar outras coisas,
+
+tá? Então, aqui perto de manter localidades.
+
+Nós vamos colocar aqui um cara chamado Crude.
+
+Vou entender o que é Já, já.
+
+E nós também vamos ter aqui um outro chamado Buscar.
+
+A beleza aí, levando em consideração sobre usuários, nós podemos entender que
+
+tanto usuário comum como moderador como administrador são usuários no contexto geral.
+
+Então, aqui nós podemos inicialmente fazer com que tanto
+
+o administrador quanto o moderador sejam usuários comuns.
+
+Tá, estamos falando de usuário no contexto geral.
+
+Beleza? Então, esse é
+
+o primeiro ponto.
+
+Qual o segundo ponto? Segundo ponto é fazer
+
+a identificação do que os usuários acessam.
+
+Tá bom, então vamos entender que o usuário comum.
+
+Ele pode fazer o registro para ter um login.
+
+Assim que ele tiver um login, ele pode efetuar o login e acessar a ferramenta.
+
+E aí ele também pode manter pet ou adotar pet.
+
+Beleza? Já o nosso moderador,
+
+ele tem funcionalidades diferentes.
+
+Ele pode manter localidades e apenas isso.
+
+E o administrador varia porque ele pode gerenciar usuários e manter localidades.
+
+Beleza.
+
+Bom, e aí? Para quem faz a gestão de
+
+usuários, que é o administrador, nós podemos falar
+
+que ele faz a busca dentro do sistema.
+
+No caso, ele faz uma pesquisa dos usuários para depois poder fazer a gestão.
+
+Ou seja, a ferramenta de gestão permite com que faça buscas com que faça a pesquisa dos usuários.
+
+Beleza.
+
+Já o CRUD aqui quer manter as localizações.
+
+Aqui seria um tipo de seta invertido.
+
+Tá no qual o CRUD também seria ligado a manter path.
+
+Beleza.
+
+O que seria isso? Daqui vamos pensar
+
+num cenário hipotético sobre localização daqueles pets
+
+que estão em adoção, por exemplo.
+
+Tá, então o usuário ele veio aqui, ele fez login, ele
+
+cadastrou um cachorro, um filhote de cachorro para fazer a adoção.
+
+Quando ele faz o cadastro para manter o pet para adoção, ele tem que
+
+colocar uma localização, ou seja, de onde esse cachorro ele é, Aonde ele vai
+
+ser adotado, qual é a região, qual é o estado, qual é a cidade.
+
+Então, isso tem relação com a localização e o usuário
+
+moderador? Ele quem faz essa gestão de localização? E
+
+verifica também a relatividade daquele pet naquela determinada região.
+
+Beleza.
+
+Então o CRUD aqui ele seria uma espécie de funcionalidade
+
+do sistema que faz a geolocalização dos animais para doação.
+
+Beleza.
+
+Então, esse carinha aqui, o nosso tipo de seta.
+
+Primeiramente, ele seria um tipo de seta tracejada.
+
+Tá.
+
+Tanto para esse lado quanto para esse daqui.
+
+Beleza.
+
+Então, seria desta forma.
+
+Agora, todas as outras setas, como nós já vimos anteriormente, elas não devem possuir uma ponta.
+
+Então, aqui nós mais uma vez vamos arrancar.
+
+Todas as pontas que estão aqui dentro do nosso diagrama.
+
+Beleza.
+
+Com exceção da CRUD, né? Que a CRUD
+
+aqui realmente precisa ter para fazer uma referência.
+
+Bom galera, beleza? E aí, uma vez que eu tenho aqui
+
+todas as setas retiradas, o que eu preciso além de
+
+tudo? Eu também preciso descrever o meu sistema, ou seja,
+
+fazer aquele container no qual nós fizemos na aula anterior.
+
+Tá bom.
+
+Então, como nós vamos fazer mais uma vez? Nós vamos
+
+vir aqui no primeiro menu, que é o geral.
+
+Vamos pegar o container horizontal e nós vamos acrescentar aqui
+
+dentro das funcionalidades do nosso sistema de gestão de pet.
+
+Beleza? Observa como este diagrama ficou bem diferente do
+
+diagrama que nós desenhamos na aula anterior, tá?
+
+Então, novamente, vamos vir aqui com o texto.
+
+Vamos acrescentar ele para cima.
+
+Aqui nós vamos mudar a cor se nós quisermos.
+
+Nós poderíamos deixar branco, mas em particular, acho que não fica legal.
+
+Vamos jogar para trás para podermos ter uma visibilidade.
+
+Acho que essa cor tá bem forte, não fica legal tentar uma cor um pouquinho mais clara.
+
+Talvez esse cinza aqui ja fique mais legalzinho, tá? E aqui ó,
+
+eu vou fazer uma outra variação para vocês em relação à cor.
+
+Principalmente porque as setas estão as setas.
+
+Não, né? As relações, as ligações,
+
+elas estão juntas, tá? Aqui, no
+
+caso, nós poderíamos fazer diferente.
+
+Então, a primeira coisa é que nós poderíamos separar a seta
+
+para ter uma visibilidade melhor do que é o que aqui.
+
+Beleza, então nós poderíamos deixar dessa forma aqui, Olha só.
+
+E aí eu sei que essa seta refere se ao moderador, que essa seta refere se, por exemplo, ao administrador.
+
+Tá bom.
+
+Da mesma forma, nós poderíamos ter colocado aqui o tanto para.
+
+O administrador quanto para o moderador do As Setas.
+
+E aí? Outra diferenciação que nós podemos fazer é quando
+
+nós formos mudar a cor do nosso ator, que aqui
+
+no contexto são os usuários, nós também mudarmos a cor
+
+daquelas ligações no qual ele possui a funcionalidade também.
+
+Então aqui nós poderíamos, por exemplo, colocar uma cor azul.
+
+E aí eu falo que tudo que está em cor azul é referente a esse ator.
+
+Agora quando está em amarelo, por exemplo, já muda.
+
+Aqui é um moderador.
+
+Então eu vou colocar aqui um amarelo.
+
+Beleza.
+
+E o meu vermelho quando for um Administrador, por exemplo.
+
+Então eu vou colocar aqui uma outra cor.
+
+Beleza, Acho que só esse amarelo aqui que não ficou visualmente legal,
+
+né? Então vamos trocar aqui o amarelo para um verde talvez.
+
+Ou um laranja? Vamos tentar
+
+um laranja? Laranja Ele vai
+
+ficar bem semelhante ao vermelho.
+
+Então vamos colocar um rosa aqui.
+
+Tá, também não mudou muita coisa, né? Colocar
+
+umas cores bem diferentes em relação à tonalidade.
+
+Para não haver confusão, vamos de verde, no caso verde meio limão.
+
+Beleza, aqui eu vou dar um zoom só para.
+
+Diminuir um pouco, Deixar visualmente melhor.
+
+Beleza.
+
+E aqui nós temos um outro sistema, né? O que falta aqui é
+
+nós modificarmos o nome, então nós poderíamos colocar aqui o Sistema de pet.
+
+Shop? Tá
+
+bom.
+
+E aí seria o nosso segundo exemplo em relação a diagrama de caso.
+
+Beleza.
+
+Então, novamente, tudo que tá dentro do container refere se às permissões, funcionalidades
+
+ou acessos que o sistema dá para determinados usuários e cada usuário.
+
+Aqui ele é um tipo de usuário específico dentro do sistema, no
+
+qual ele também tem permissões em peculiar de acordo com a ocasião.
+
+Então, administrador, tecnicamente é o cara que consegue fazer tudo,
+
+que tem exibição de tudo, que tem acesso a tudo.
+
+Já o moderador, ele consegue fazer outras coisas, é usuário comum, outras diferentes.
+
+Beleza.
+
+Então, aqui é um segundo exemplo de caso para uma melhor absorção e fixação do exemplo anterior.
+
+Espero que vocês tenham entendido o que vocês estejam gostando, Então eu me despeço por aqui.
+
+Fiquem com Deus e até breve.
