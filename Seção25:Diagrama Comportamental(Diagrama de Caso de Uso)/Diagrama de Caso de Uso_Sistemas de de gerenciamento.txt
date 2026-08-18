@@ -1,0 +1,1653 @@
+Olá Luna!
+
+Olá aluno!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML, dessa vez trazendo
+
+a vocês outro exemplo prático relacionado a diagrama de caso de uso.
+
+Desta vez nós trabalharemos num diagrama de caso de uso voltado a um sistema de gerenciamento escolar.
+
+Eu acredito que de todos os exemplos dados deste diagrama até aqui, este é o diagrama que vai ser mais
+
+completo, mais detalhado e o mais complexo também.
+
+Acredito também que esse vá ser o último diagrama no qual nós iremos abordar relacionados a diagrama
+
+de caso de uso, para que nós possamos dar continuidade ao nosso curso e ver outros diagramas que ainda
+
+estão pendentes.
+
+Tá bom?
+
+Então este diagrama aqui eu vou tentar trazer para vocês de uma forma mais detalhada possível, de uma
+
+forma mais completa possível e de uma forma mais bem elaborada possível.
+
+Beleza.
+
+O primeiro de tudo se tratando de um sistema de gerenciamento escolar.
+
+Então, quando nós pensamos em um instituto escolar, inicialmente nós pensamos que existem alguns atores
+
+que são diferentes, né?
+
+Então, um sistema de gerenciamento escolar.
+
+Inicialmente, ele é utilizado obviamente pelo aluno, então ele é um dos atores no qual vai fazer a
+
+utilização desse sistema.
+
+Nós também temos o professor, que seria um outro ator que também faria a utilização desse sistema,
+
+assim como nós também teríamos os administradores do sistema, que seriam um outro ator.
+
+Se a escola fosse uma escola particular, teria também os financeiros, que também faria a utilização
+
+e o atendente também para fazer a venda do curso Registro em Sistemas.
+
+Então também seria outro ator bom.
+
+Então, nessa perspectiva geral, no qual eu tô comentando com vocês, nós faremos um sistema de gerenciamento
+
+que existe cinco atores diferentes.
+
+Beleza.
+
+Então, como existem cinco atores diferentes, nós vamos saber que todas as funcionalidades e visibilidades
+
+do sistema.
+
+Eles serão variáveis de acordo com cada um desses atores.
+
+Tá bom.
+
+Então vamos começar inicialmente aqui desenhando os nossos bonecos de palitinho.
+
+Então, aqui no nosso menu geral, ao lado esquerdo, nós já temos aqui os atores.
+
+Então vamos criar aqui um primeiro duplo clique e vamos colocar assim o ator um.
+
+Aluno Beleza?
+
+Bom, por que que eu quero diferenciar os atores aqui para nós também fazermos a contabilização?
+
+De quantos atores nós temos.
+
+Tá bom.
+
+Então nós vamos ter aqui o ator dois.
+
+E este ator dois aqui Ele pode ser o administrador.
+
+Beleza.
+
+Nós também teremos o terceiro ator.
+
+O nosso terceiro ator aqui.
+
+Vamos lá.
+
+Ator três, né?
+
+Ator três.
+
+Esse nosso terceiro ator aqui.
+
+Ele pode ser o professor.
+
+Beleza.
+
+O nosso quarto ator.
+
+Duplo clique.
+
+Mais uma vez vamos editar o nome, né?
+
+Ator quatro.
+
+O nosso quarto ator pode ser o atendente.
+
+Beleza.
+
+E o nosso quinto e último ator seria o financeiro.
+
+Com base na explicação que eu mencionei a há pouco.
+
+Beleza.
+
+Então, a tour cinco.
+
+Finan é aqui o atendente.
+
+Eu escrevi errado, né?
+
+Ah, bem, tente.
+
+Não tá certo?
+
+Bom, beleza.
+
+Temos aqui os nossos cinco atores que serão pertinentes ao nosso sistema de gerenciamento escolar e
+
+para cada um deles.
+
+Aqui nós vamos precisar elaborar os treinamentos, as visibilidades, as funcionalidades que eles terão
+
+dentro do sistema.
+
+Beleza.
+
+Então, inicialmente falando do aluno, então vamos trabalhar aqui de um em um.
+
+Eu vou puxar o aluno para baixo aqui.
+
+Tá bom, então vamos focar aqui apenas no aluno.
+
+Inicialmente, o nosso aluno, ele faz o que?
+
+Se for uma escola particular, uma escola pública, para que ele possa estudar, para que ele possa
+
+frequentar, para que ele possa ter uma sala de aula, ele necessita realizar inscrição, né?
+
+Então o pai ele precisa fazer a inscrição do aluno na escola.
+
+Beleza?
+
+Então, tecnicamente, por mais que o pai faça a inscrição do aluno, quem é inscrito na escola é o
+
+aluno.
+
+Beleza.
+
+Então aqui nós vamos colocar a inscrição.
+
+Bom, eu vou abrir aqui o último menu, né?
+
+Porque aqui nós temos as elipses.
+
+Esses aqui é melhor de nós utilizarmos.
+
+Tá bom.
+
+Então eu vou diminuir um pouco para não ficar tão grande, né?
+
+Para não ficar maior do que o nosso boneco e ficar desproporcional.
+
+E aqui nós vamos colocar aqui o que o aluno.
+
+Ele faz?
+
+O que?
+
+A realização da inscrição então realizar?
+
+A inscrição.
+
+Beleza.
+
+Esse daqui seria para o nosso aluno.
+
+Aqui nós já podemos fazer a ligação.
+
+Tá.
+
+Então nós podemos colocar a ligação aqui e É retirar a seta.
+
+Vamos deixar aqui apenas a conexão.
+
+Beleza?
+
+Bom.
+
+Além disso, nós sabemos que o aluno pode fazer outras coisas também.
+
+Bom, ele pode fazer a visualização do curso dele.
+
+Quando ele entrar dentro do sistema, ele pode fazer a visualização das notas deste curso.
+
+Ele também pode fazer a visualização da frequência que ele possui para saber o número de faltas.
+
+Ele pode fazer a solicitação de segunda via de boletos caso ele tenha perdido o boleto para pagamento.
+
+E ele também faz obviamente o principal, que é o acesso ao sistema para poder visualizar tudo isso
+
+que eu acabei de comentar.
+
+Beleza, Então vamos por partes aqui.
+
+Olha só, vamos colocar ao lado de cá que o nosso aluno, ele acessa o sistema, beleza?
+
+E aqui pessoal, eu já estou fazendo as ligações pelo seguinte motivo vai ficar muitas coisas aqui soltas
+
+para que nós não façamos confusão, para que não venhamos a nos perder durante a aula.
+
+Eu já vou fazer as ligações aqui.
+
+Beleza?
+
+Se você optar.
+
+Como eu já mencionei aulas anteriores, não é regra.
+
+Se você optar em criar tudo e depois fazer as ligações, bacana também, desde que você saiba aonde
+
+vai atrelar cada uma das funcionalidades e etc.
+
+Beleza?
+
+Então, dando continuidade aqui o então, primeiro de tudo ele acessa o sistema.
+
+Bom, mas para que que ele vai fazer o acesso ao sistema?
+
+Como eu comentei aqui o Para visualizar cursos Visualizar cursos.
+
+Beleza.
+
+Então isso daqui vai também aqui para o nosso boneco.
+
+O nosso primeiro ator, no caso, né?
+
+Visualiza cursos.
+
+Além da visibilidade de cursos, ele faz a visualização das notas.
+
+Então vamos colocar aqui o Visualizar Notas e aí nós vamos fazer outra ligação aqui também.
+
+Beleza.
+
+Além disso, ele faz a visibilidade da frequência também, Então vamos colocar aqui.
+
+Visualizar Frequência.
+
+Beleza saber aqui o número de faltas que ele possui, por exemplo.
+
+Bom, além de visualizar a frequência, ele também faz a solicitação da segunda via de boletos, tá?
+
+Então nós vamos colocar aqui também a solicitação da segunda via.
+
+E aqui eu esqueci de retirar a seta, né?
+
+Então vamos manter como nada aqui também vamos manter como nada para que nós não nos esqueçamos.
+
+E aqui vamos colocar aqui o solicitar segunda via de boleto.
+
+Isso aqui ficou um pouco grande, mas as vezes é necessário tá?
+
+Lembrando que tudo que da para nós minimizarmos né?
+
+Tudo que dá para nós deixarmos de certa forma mais objetivo nós vamos colocar, mas o que não dá, infelizmente
+
+vai ter que ficar um pouco maior mesmo.
+
+Tá bom.
+
+E lembrando que eu tenho aquele velho toque de deixar tudo direitinho, tudo acertado, né?
+
+Então vamos fazer aqui algumas mudanças, beleza?
+
+Lembrando, se você tá trabalhando realmente na área, tem que deixar visualmente bonito, mais profissional
+
+possível, então fazer isso daqui de uma maneira mais legível.
+
+Leva tempo.
+
+Tá aqui, eu tô deixando um pouco junto, tá, mas o certo seria ter uns espaçamentos um pouco maior
+
+aqui.
+
+Não vou fazer isso por enquanto, porque vamos acabar perdendo um pouquinho de tempo.
+
+Beleza.
+
+Bom, tudo isso que nós estamos fazendo aqui, nós estamos falando especificamente dos alunos.
+
+Beleza, então, do aluno em si ou dos alunos no contexto geral?
+
+Só que eu falei que o nosso segundo ator, ele é o administrador.
+
+Beleza.
+
+Bom, o que que o administrador geralmente ele faz no sistema?
+
+Então vamos puxar aqui o nosso segundo ator e vamos focar apenas nele.
+
+Beleza?
+
+Vamos lá, Nós temos o administrador aqui, administrador.
+
+Ele é aquele cara do TI que tem acesso à o sistema e que faz geralmente as configurações no contexto
+
+geral.
+
+Tá bom.
+
+Então, primeiro de tudo é que ele quem faz o controle.
+
+Ou seja, ele quem faz o gerenciamento dos acessos tanto dos alunos quanto dos professores, quanto
+
+dos financeiros ou dos atendentes dentro do sistema.
+
+Bom, então, de uma maneira mais objetiva, ele faz o gerenciamento dos usuários.
+
+Então nós podemos colocar aqui o gerenciar o acesso aos usuários.
+
+Beleza.
+
+Fora isso, ele também tem uma outra coisa que é bem importante, que é o que visualizar o histórico
+
+de todos os usuários, ou seja, o que os usuários fizeram, onde eles clicaram, o que eles deletaram,
+
+qual quais foram os downloads e por aí vai.
+
+Isso a gente geralmente chama de log, né?
+
+Então, quando vocês ouvirem falar o log do sistema, é como se fosse um histórico.
+
+Beleza.
+
+Então aqui nós podemos colocar, né?
+
+Visibilidade do histórico.
+
+Mas como nós estamos dentro da TI, o termo mais técnico é log.
+
+Então nós vamos colocar assim o visualizar e visualizar.
+
+O log de acesso.
+
+Beleza.
+
+E aí?
+
+Isso também é pertinente ao administrador.
+
+Lembrando que nós precisamos retirar a seta aqui.
+
+Beleza?
+
+Além disso, nós também podemos ter aqui o manter o cadastro administrador.
+
+E vamos manter aqui o manter Cadastro Administrador.
+
+Beleza.
+
+E vamos fazer a ligação aqui também.
+
+O que que seria o manter Cadastro Administrador?
+
+Seria de certa forma, ele poder dar permissão de administrador a outros usuários ou fazer a retirada
+
+caso necessário.
+
+Beleza.
+
+E também tem aqui o gerenciamento de regras gerais do sistema.
+
+E isso também é pertinente à quem é administrador do sistema.
+
+Então as regras de funcionalidade, visibilidade de menus, de botões e etc.
+
+Tudo isso também é pertinente ao administrador atribuir ou retirar de cada um dos usuários.
+
+Por exemplo, ele não vai habilitar uma funcionalidade que é para preencher nota para um aluno.
+
+Porque?
+
+Porque a funcionalidade de preenchimento de nota é algo de um usuário, de professor, de um ator professor.
+
+Então ele quem vai fazer esses controles e saber quais os treinamentos ele vai dar para aluno, quais
+
+visibilidades os alunos terão, quais vão ser as dos professores e assim sucessivamente.
+
+Então nós vamos colocar aqui o Gerenciar Regras gerais do sistema.
+
+Beleza também ficou um pouco grande, mas como eu já mencionei, é necessário.
+
+Beleza, é tudo isso daqui que nós estamos falando.
+
+É dentro do sistema também, concordam?
+
+Então, de certa forma, ele, no caso o segundo ator, também é uma pessoa ou um usuário que faz o
+
+acesso ao sistema, ou seja, ele acessa o sistema e através do acesso ao sistema que ele vai possuir
+
+todas essas funcionalidades aqui.
+
+Beleza, vamos tirar a seta aqui também.
+
+Isso nós estamos falando do segundo ator.
+
+Tá bom, agora vamos falar do nosso terceiro ator.
+
+Tecnicamente, o nosso terceiro ator.
+
+Aqui ele é o professor, né?
+
+Então, por isso que nós já deixamos na ordem.
+
+Aqui eu vou colocar um espaçamento um pouco maior.
+
+e vocês vão entender o porquê.
+
+Tá bom, vamos deixar mais ou menos aqui.
+
+Acredito que fique bom.
+
+Bom, agora falando um pouquinho sobre o professor, né?
+
+Quais seriam as visualizações ou os treinamentos?
+
+As funcionalidades que ele teria ou que ele terá dentro desse sistema?
+
+Primeiro que é manter curso, o que que seria o manter curso?
+
+Aqui ele quem vai fazer o controle e colocar ou retirar os cursos do ar.
+
+Então, por exemplo, fechou uma turma com muitos alunos.
+
+Ele vai manter o curso para ele poder ministrar.
+
+Poxa, não fechou.
+
+Fechou a quantidade mínima de alunos para poder manter o curso?
+
+Então ele vai fazer a retirada do curso.
+
+Bom, então esse aqui é um papel do professor.
+
+Então fala assim Ah, a condição mínima para que haja uma turma para o curso de UML no qual o instrutor
+
+Ávila ele está ministrando e 40 alunos acabou não fechando 40 alunos.
+
+Então ele vai fazer a retirada do curso.
+
+Beleza.
+
+Então esse controle vai se tratar aqui do professor.
+
+Beleza?
+
+Bom.
+
+Segunda coisa ele também é a pessoa quem vai fazer o que?
+
+Manter ou retirar as disciplinas?
+
+Então, por exemplo, o instrutor Wesley aqui é quem vai falar se existe ou não o curso, né?
+
+Ou a disciplina relacionada a diagrama de caso de uso.
+
+Então é legal passar para os alunos.
+
+É legal ensinar para os alunos, sim.
+
+Então eu vou manter.
+
+Não.
+
+Então eu vou retirar no caso aqui.
+
+É legal.
+
+Então vamos manter disciplinas.
+
+Beleza.
+
+E aí, mais uma vez, retirando aqui a nossa seta.
+
+Para tudo isso, nós também vemos que o professor é quem faz aqui o controle da frequência, porque
+
+ele vai fazer a chamada, né, na aula.
+
+Então é ele quem vai aplicar falta ou frequência do aluno?
+
+Beleza.
+
+Então, aqui nós colocamos que ele também é quem faz o mantimento das frequências.
+
+Então Freq.
+
+Frequência.
+
+Manter frequência.
+
+Beleza.
+
+E aí ele também.
+
+Quem faz o quê?
+
+O controle das notas, obviamente, é ele quem vai aplicar aqui as notas para os alunos, então manter
+
+notas também.
+
+Então, tanto notas positivas quanto negativas.
+
+Vai se tratar do instrutor ou do professor, aplicar a cada um dos alunos conforme as aulas ali, etc.
+
+Beleza.
+
+Agora, pensando em tudo isso daqui, né?
+
+Nós temos ainda outros dois atores que seria aqui o ator financeiro e também nós teremos o atendente.
+
+Beleza, então vamos falar um pouquinho do nosso ator atendente, né?
+
+Então vamos pela ordem aqui o nosso quarto ator no caso.
+
+Beleza?
+
+Bom, falando um pouquinho sobre os nossos atendentes, então eles fazem um controle de aprovação e
+
+a matrícula de cada um dos alunos em que estão inscritos.
+
+Tá, então papel deles aqui é bem simples dentro do sistema.
+
+Beleza.
+
+Então eles fazem o controle aqui da aprovação para saber se o aluno foi aprovado ou não, foi inscrito
+
+ou não.
+
+Então, controle de aprovados para que a gente vai fazer rapidinho, porque não envolve muito detalhe.
+
+Beleza.
+
+E aqui ele também vai fazer o que?
+
+Manter matrícula, Manter matrícula?
+
+O que que seria manter matrícula?
+
+Então, quando aluno ele vai fazer a inscrição, abre uma solicitação no sistema.
+
+E quem vai fazer aqui o controle dessa dessa solicitação no sistema.
+
+E o atendente?
+
+Tá bom, então ele quem vai fazer a aprovação ou não, por exemplo, Tá.
+
+Então, aí nós vamos fazer aqui a retirada das setas desses dois também.
+
+Beleza.
+
+E aí o nosso quinto e último ator, o nosso quinto e último ator, ele vai ficar mais ou menos aqui
+
+no meio.
+
+Tá bom.
+
+E aí o nosso quinto e último ator ele faz o que?
+
+O gerenciamento dos boletos, né?
+
+Porque nós estamos falando do financeiro.
+
+No caso, o financeiro mexe muito com valores.
+
+Então, gerente e boletos.
+
+Pode ser boletos mensais, trimestrais, semestrais, anuais, enfim.
+
+E segunda via, etc.
+
+Então ele quem vai fazer aqui os valores né?
+
+Os cálculos e etc.
+
+Beleza e o mantimento aqui do financeiro e manter financeiro.
+
+Ele quem vai fazer o controle tambem financeiro.
+
+E aí nós vamos fazer aqui a ligação para o financeiro também.
+
+Tá bom.
+
+Bom, tecnicamente o nosso sistema, ele seria essa bagunça que nós estamos vendo na tela aqui.
+
+Então eu vou dar um zoom para vocês observarem um pouco mais de perto, tá?
+
+Então, nosso primeiro ator seria aqui o aluno no qual ele tem essas permissões através do acesso ao
+
+sistema.
+
+O nosso segundo seria o administrador que tem essas permissões ao lado esquerdo, de acordo com o acesso
+
+ao sistema.
+
+Aí nós temos o professor, que é o nosso terceiro ator, que teria essas ações conforme o acesso ao
+
+sistema.
+
+O nosso quarto aqui, que seria essas duas ações conforme o acesso ao sistema é o nosso quinto, que
+
+é o financeiro.
+
+Essas duas ações, conforme acesso ao sistema, observa que todas essas funcionalidades aqui eu mencionei
+
+que é conforme o acesso ao sistema, ou seja, para o professor, para o atendente e para o financeiro.
+
+Eu não fiz a ligação, então por que que eu não fiz?
+
+Porque eu não saberia se ia ficar muito junto ou se ia ficar muito próximo.
+
+Então eu vou arrastar um pouco aqui, Olha só.
+
+E eu vou manter ele aqui e fazer a ligação também.
+
+Acessa o sistema aqui, né?
+
+Fazer de uma forma que eu consiga ter a visibilidade da seta e vou retirar a ponta da seta.
+
+A mesma coisa eu vou fazer aqui com o financeiro.
+
+Eu vou acabar colocando um pouco mais abaixo.
+
+Acho que vai ficar um pouco melhor de nós visualizarmos também.
+
+Beleza?
+
+Eu posso até colocar um pouco mais para o lado aqui para seguir essa linha aqui, acredito que fique
+
+um pouco melhor para nós visualizarmos.
+
+A mesma coisa.
+
+Eu vou retirar a seta.
+
+E aqui o nosso quarto.
+
+Nós vamos fazer a mesma coisa.
+
+Nós vamos pegar aqui o atendente e vamos fazer a ligação ao acesso ao sistema.
+
+Ou seja, todas as funcionalidades de cada um dos atores só vai ser possível ou eles só terão quando
+
+eles acessarem o sistema.
+
+Ou seja, cada um dos atores acessa o sistema e conforme a regra de negócio, conforme o requisito definido
+
+para cada perfil de usuário, eles verão após o login cada uma das funcionalidades que é condizente
+
+ao perfil de usuário que eles possuem.
+
+Só que mais uma vez, pessoal, deixando da forma que está, tá um pouquinho obscuro, porque é mais
+
+uma vez mencionando está um pouco bagunçado, né?
+
+Nós temos aqui a visibilidade do contexto geral, mas nós não sabemos exatamente o que é o que em cada
+
+uma dessas situações.
+
+Bom, então o que nós vamos fazer aqui é um processo de separação.
+
+Por que o processo de separação?
+
+Ele é importante para nós termos uma identificação visual de uma forma mais legível e mais fácil, tá?
+
+Então nós vamos criar aqui alguns entre aspas quadrados, né?
+
+De separação para eles.
+
+Como que nós vamos fazer isso daqui?
+
+Então, muita atenção.
+
+Nós vamos aqui no nosso menu geral, tá bom?
+
+E aí nós temos os nossos containers, tanto em vertical quanto em horizontal, independente de qual
+
+você pegue.
+
+Pode ser até um container desse daqui, ó, sem legenda.
+
+Então você pode escolher aí qual você quer atribuir para cada um.
+
+Tá bom.
+
+Eu vou pegar esse container aqui.
+
+O que é o container vertical?
+
+Beleza.
+
+E aí eu vou pegar esse container aqui e vou fazer uma primeira separação.
+
+É esse container aqui, ó.
+
+Ele vai ficar só entre a realização da inscrição do aluno e o aluno.
+
+Beleza, Ávila.
+
+Mas isso daí é necessário?
+
+Sim.
+
+Isso daqui é necessário para nós termos uma visibilidade.
+
+Vocês verão assim que nós terminarmos.
+
+Tá, é o primeiro de tudo é que isso daqui eu vou manter com preenchimento branco, tá?
+
+Então nós vamos vir aqui em estilo e preenchimento preencher com a cor.
+
+Pode ser um amarelado, mas eu não quero fazer o preenchimento do do título.
+
+Eu quero fazer o preenchimento do fundo.
+
+E Aqui o preenchimento do fundo pessoal.
+
+Vocês vão marcar a cor das células.
+
+Pode ser um branco aqui, tá?
+
+Não vai ter problema.
+
+E aí vocês vão vir com o botão direito e vão colocar aqui o para trás.
+
+Bom, para nós termos uma visibilidade melhor.
+
+E aqui também esse fundo onde eu coloquei o título.
+
+Ele pode ser uma cor branca também, tá?
+
+Não tem problema.
+
+Por enquanto.
+
+Tá bom.
+
+O nosso segundo, no qual nós daremos continuidade aqui, o irá fazer uma outra distribuição para esta
+
+outra caixinha aqui e vocês vão entender o por quê.
+
+Tá.
+
+Então, primeiramente, nós vamos fazer que copiamos e colhemos isso daqui.
+
+Fique mais fácil.
+
+Vamos colocar para trás, Beleza?
+
+Isso daqui vai ser uma outra caixa, Porém nós vamos precisar fazer uma coisa aqui tá tudo muito junto,
+
+então vamos ter de fazer uma separação.
+
+E essa separação ela envolve também trazer aqui algumas linhas, tá?
+
+Então vamos tentar fazer algo.
+
+Nesse sentido aqui.
+
+Vamos fazer as ligações de novo.
+
+E lembrando, pessoal, que isso aqui dá trabalho de fazer mesmo, tá?
+
+É super normal termos de fazer e refazer cada um deles.
+
+E aí, como eu falei, se você está atuando na área, você vai tentar deixar o mais legível possível,
+
+visualmente melhor, mais bonito e assim sucessivamente.
+
+Beleza, Tivemos aqui duas separações, tá?
+
+Uma pertinente aluno, uma outra aqui, que eu vou chamar de Acesso Comum.
+
+Por que que eu vou chamar de Acesso comum?
+
+Porque aqui seria onde possui as funcionalidades mais básicas, tá?
+
+Esse outro aqui eu também vou ter de arrastar e fazer uma separação.
+
+Então eu vou poder colocar aqui, por exemplo.
+
+Dessa forma, onde eu possa copiar e colar uma outra caixa.
+
+E eu.
+
+Entre aspas E não sobrecarregue a visualização de tudo.
+
+Tá, não fique tudo muito junto, muito ocupado, muito apertado, tá?
+
+Também vou fazer o seguinte eu vou jogar para trás e vou acrescentar aqui ó.
+
+Esse acabou ficando um pouco maior, então eu vou acabar aumentando um pouco mais aqui para suprir todos
+
+os elementos que nós viemos a criar, pertinentes ao professor, ao terceiro ator.
+
+Da mesma forma, eu vou colocar aqui o nosso quarto ator ao lado.
+
+Também vou copiar e colar mais um container.
+
+Vou jogar para trás para que ele também fique dentro.
+
+Eu vou fazer aqui também com os outros dois restantes, né, Que é o nosso quinto usuário.
+
+O nosso quinto usuário seria o financeiro.
+
+Beleza.
+
+Vou jogar para trás aqui.
+
+E eu também farei um para o nosso administrador.
+
+Beleza, que seria o nosso segundo ator.
+
+E aqui eu também vou acabar aumentando um pouco mais devido ao tamanho.
+
+Lembrando que aqui o já acabou ficando um pouco junto com o primeiro.
+
+Eu não quero que fique dessa forma.
+
+Eu vou acabar arrastando um pouco para baixo aqui o.
+
+Beleza?
+
+Então, aqui seria por enquanto essas alterações necessárias.
+
+Então, olha só.
+
+Quando eu visualizo num contexto geral, eu tenho quadrados de separação que visualmente é melhor para
+
+eu fazer algumas identificações.
+
+Beleza.
+
+E aí, este quadrado, esses quadrados, eles possuem nomes?
+
+Por que que eles vão possuir nomes para mim também?
+
+Visualizar de uma forma mais dinâmica, mais fácil e mais progressiva.
+
+Por exemplo, o aluno eu posso colocar aqui que é um perfil ou funcionalidades voltadas a inscrição,
+
+por exemplo, tá?
+
+Então, quando eu olhar para esta caixa aqui, eu vou saber que isso daqui se trata de inscrição.
+
+Agora, quando eu estou falando sobre o nosso segundo.
+
+Eu posso colocar aqui, que é uma entrada comum de informações ou de funcionalidades.
+
+Já o nosso professor, que seria o nosso terceiro ator, eu posso colocar aqui que é uma funcionalidade
+
+ou que são funcionalidades voltadas a cursos.
+
+Tá bom.
+
+Da mesma forma que o nosso quarto fosse o atendente, eu poderia colocar aqui atendimento ao aluno,
+
+por exemplo.
+
+Beleza.
+
+O nosso financeiro eu não vou precisar comentar, né?
+
+Não vai mudar muita coisa e vou manter como financeiro.
+
+Beleza.
+
+E o nosso administrador?
+
+Eu também não vou precisar fazer muita mudança, né?
+
+Porque o administrador é administrador também, administrador, administrador.
+
+Tá bom.
+
+Então, aqui eu tenho quadros de identificação onde eu tenho uma legibilidade melhor.
+
+Beleza.
+
+E aí, conforme eu vou fazendo, como eu já comentei com vocês, eu posso ir arrastando, eu posso ir
+
+melhorando a visibilidade, eu posso ir fazendo algumas edições, algumas alterações que lhe cabe,
+
+que seja melhor e mais aderente conforme a montagem de tudo isso daqui.
+
+Agora nós já acabamos.
+
+Tá tudo um pouco complexo, Tem muita coisa na tela.
+
+Não, nós ainda não acabamos.
+
+E na verdade, ainda faltam umas coisinhas a mais.
+
+Tá.
+
+Por que que eu digo isso?
+
+Porque no sistema nós para tudo isso que acabarmos fazendo, independente de funcionalidade de aluno,
+
+independente de funcionalidade comum, funcionalidade voltada a cursos, ao atendimento do aluno, ao
+
+financeiro ou funcionalidades administrativas, tudo isso vai ter que passar por um processamento.
+
+Então existe um processo no sistema.
+
+Tá.
+
+Então, esse processo no sistema nós também vamos precisar acrescentar dentro do nosso diagrama de caso.
+
+Beleza.
+
+E esse processo de sistema terá ligação com as funcionalidades que nós já desenhamos aqui abaixo.
+
+Por que que eu digo que nós já desenhamos aqui?
+
+Aqui abaixo.
+
+Porque o nosso processo de sistema ele vai acabar sendo aqui acima.
+
+Tá bom.
+
+Então nós vamos pegar aqui mais uma vez os nossos elipses e vamos dar continuidade ao desenho do diagrama.
+
+Então nós vamos ter aqui uma funcionalidade de processo, que é a notificação do aluno, ou seja, quando
+
+ele realizar a inscrição eu vou ter que fazer notificações para ele, seja por e-mail, seja por mensagem,
+
+SMS, WhatsApp.
+
+Não sei.
+
+Isso vai depender da regra do sistema.
+
+Mas por todavia, eu preciso fazer uma notificação.
+
+Eu preciso informá lo sobre o processo da inscrição e haverá um prazo de aguarde quanto tempo ele precisa
+
+esperar.
+
+Caso ele não receba uma notificação, uma mensagem, o que ele deve fazer?
+
+Quem ele deve consultar?
+
+Então, todas essas informações eu preciso acrescentar para enviar a notificação.
+
+Então vou colocar aqui no post Ficar maluco, beleza?
+
+Fora isso, eu também tenho um outro tipo de notificação, que é a notificação da inscrição.
+
+Então vou colocar aqui notificar a inscrição.
+
+Beleza.
+
+Fora tudo isso, eu tenho outra coisa para acrescentar que é os históricos.
+
+Ou seja, tudo isso vai ter que ter gravado dentro do meu sistema.
+
+Tudo isso precisa estar dentro de uma tabela.
+
+Existe um histórico de tudo isso dentro do sistema, né?
+
+Que é o administrador quem vai coordenar.
+
+Então eu vou precisar também ter aqui um registro de log, então registrar log.
+
+De estar log.
+
+Então lembra que lá quando nós falamos do administrador, ele tem um processo aqui de visualização de
+
+acesso de log.
+
+Essa visualização de acesso ele só possui porque existe o registro de log aqui.
+
+Tá bom.
+
+E aí nós vamos pegar de novo esse container horizontal, né?
+
+Porque que eu digo horizontal?
+
+Ele tá escrito vertical container, né?
+
+Isso é fato.
+
+Mas o nome a legenda está em horizontal, por isso que eu chamo ele de horizontal.
+
+Beleza, Mas também não tem muito a ver, não.
+
+E aí?
+
+Aqui, mais uma vez nós vamos marcar aqui a cor da célula.
+
+Nós vamos acrescentar aqui uma cor branca, Pode ser?
+
+Não tem problema, É isso daqui.
+
+Entre aspas, é o que nós vamos acrescentar acima de todos os elementos que nós já fizemos.
+
+então o botão direito para trás para os outros elementos ficarem aqui.
+
+Beleza.
+
+E aí?
+
+Aqui existe algumas outras regrinhas que é importante a gente ressaltar e observar, porque tudo que
+
+nós fizermos agora já não vai mais ser.
+
+As setas contínuas, as linhas contínuas, tudo que nós fizermos aqui agora será uma permissão de linhas
+
+pontilhadas, porque é tudo que nós fizermos aqui agora será relacionado a inclusão ou a extensão de
+
+funcionalidades.
+
+Seria isso?
+
+Vamos entender aqui o.
+
+Então, por exemplo, quando o aluno realiza a inscrição para um curso ou para uma turma específica,
+
+ele, quando realizar através de um processo sistêmico, vai precisar ser notificado.
+
+Então, entre o processo de realização de inscrição e a notificação é uma inclusão de funcionalidade.
+
+Então, toda vez que eu tiver uma inclusão, eu vou ter de acrescentar um carinha chamada include.
+
+Beleza.
+
+Isso, por regra, tem que ser em inglês.
+
+Então, entre esses dois carinhas aqui, por exemplo, eu vou fazer uma ligação.
+
+Eu vou mudar o tipo da seta para uma seta pontilhada.
+
+Beleza, eu vou aumentar aqui para gente saber que a seta tá tendo essa ligação.
+
+E aqui nós vamos poder colocar uma legenda.
+
+Tá?
+
+Então vamos poder colocar aqui.
+
+Pode ser esse text.
+
+E aqui nós vamos colocar assim o.
+
+Include.
+
+Beleza.
+
+Posso fazer dessa forma?
+
+Posso.
+
+Eu posso fazer de outra forma?
+
+Posso.
+
+Eu posso, por exemplo, acrescentar uma linha até o include, né?
+
+E aqui eu faço a linha pontilhada sem nada.
+
+E do include para cá eu mantenho uma seta e só coloco o pontilhado.
+
+Beleza.
+
+Então eu posso deixar dessa forma aqui também.
+
+Olha só.
+
+Tá bom.
+
+Eu tô dizendo aqui, neste contexto, que quando o aluno, ele faz a realização da inscrição automaticamente
+
+por obrigatoriedade, existe um processo, uma regra sistêmica que ele deve ser notificado.
+
+Então, o processo de realização da inscrição é uma inclusão.
+
+A notificação dessa inscrição para ele.
+
+Tá.
+
+Então, por isso que existe o include.
+
+Da mesma forma, a notificação da inscrição, né?
+
+Eu estou falando aqui notificação da inscrição, mas eu estou notificando o aluno, né?
+
+O aluno deve receber a notificação, a notificação que ele deve receber, a notificação da inscrição.
+
+Então eu vou copiar e colar esse carinha aqui, ó.
+
+E eu vou fazer o mesmo processo.
+
+Olha só.
+
+A a realização da inscrição no caso eu vou acrescentar aqui no include.
+
+Vou colocar a seta pontilhada.
+
+Vou retirar a ponta dessa seta também.
+
+E aqui eu vou dar continuidade e vou manter o pontilhado.
+
+Vamos lá, é manter o pontilhado.
+
+Ou seja, olha só que bacana!
+
+O aluno é quem realiza a inscrição.
+
+Quando a inscrição é realizada, o aluno quem é notificado é ele é notificado sobre a inscrição no qual
+
+ele realizou.
+
+Beleza.
+
+Por isso que existe a notificação de aluno é a notificação da inscrição.
+
+São processos diferentes.
+
+No sistema, beleza é tudo isso que é sobre a inscrição, sobre a realização e etc.
+
+Isso daqui está ligado ao quê?
+
+Ao registro de log?
+
+Porque quando realizar a inscrição deve haver um registro de histórico.
+
+Quando o aluno for notificado, deve haver o registro de histórico.
+
+Quando houver a notificação da inscrição, deve haver o registro de histórico, ou seja, o processo
+
+de realização da inscrição necessita gerar registro, necessita ficar gravado como um histórico.
+
+Então aqui eu também vou acrescentar um include, então vou copiar e colar aqui para ficar melhor.
+
+E aqui eu vou fazer esse processo também sobre a nossa linha pontilhada.
+
+Tá bom?
+
+Então vamos só mudar um pouco aqui essa linha para ela não ficar.
+
+Muito acima e muito junta as outras.
+
+Vamos fazer aqui.
+
+Um outro tipo de linha e um outro tipo de seta que não prejudique a nossa visualização.
+
+Então vamos retirar a ponta da seta, acrescentar pontilhado.
+
+E aqui nós podemos fazer a continuidade da linha, acrescentando pontilhado apenas.
+
+Beleza?
+
+Então, olha só, fiz a minha primeira parte.
+
+É difícil, é difícil, é complexo, não envolve bastante detalhe.
+
+Então é necessário ter muita, mas muita atenção mesmo.
+
+Tá bom, mas não é algo assim de sete cabeças, um bicho de sete cabeças.
+
+Nós já fizemos diagramas em aulas anteriores, módulos anteriores e é muito mais complexo do que isso
+
+daqui.
+
+Exige muito mais atenção do que isso aqui.
+
+Então, isso aqui é mamão com açúcar perto do que nós já estudamos em módulos anteriores.
+
+Tá bom.
+
+Bom, vamos dar continuidade aqui, sermos mais objetivos para que não percamos tanto tempo.
+
+Ela já deve ter se estendido bastante, afinal.
+
+Mas ainda tem muitas coisinhas aqui para nós fazermos.
+
+Então vamos lá.
+
+Outra coisa que é importante quando nós vamos fazer o acesso ao sistema.
+
+Nós também precisamos fazer o registro de log.
+
+Por que eu preciso saber quem foi a ultima pessoa que acessou o sistema?
+
+Quando ela acessou?
+
+Qual foi o dia?
+
+Qual foi a data?
+
+Então usuários também.
+
+Quando foi a última entrada?
+
+O ultimo login do usuário dentro do sistema?
+
+Tudo isso eu preciso ter gravado um histórico, ou seja, o acesso ao sistema.
+
+Ele também faz registros de log.
+
+De certa forma, tudo, todas as funcionalidades que houver dentro do sistema vai gerar log, TA vai
+
+gerar registro, vai gerar histórico.
+
+Então vamos lá.
+
+Dando continuidade então eu vou copiar e colar outro include aqui.
+
+Beleza?
+
+E aí eu vou criar uma amarração entre o meu include.
+
+E o meu acesso ao sistema.
+
+Vou acrescentar linha pontilhada e vou retirar a ponta da seta.
+
+E aqui eu vou dar continuidade, colocando apenas o pontilhado da linha.
+
+Beleza?
+
+E aí vocês, como eu já mencionei, vão fazendo de uma forma que fique legal visualmente, né?
+
+Fique bonito, legível e profissional.
+
+Se eu for fazer isso daqui bem detalhado, vai acabar perdendo bastante tempo.
+
+Tá, então algo que eu não quero perder aqui para não esticar, não estender tanto a aula e perder tempo
+
+com coisa à toa.
+
+Então isso daqui vocês vão praticando conforme vocês vão exercitando aí o conteúdo da aula, tá?
+
+Mas, de certa forma, o que nós precisamos fazer é isso daqui, ó.
+
+Deixa eu colocar para cá, já que eu arrastei.
+
+Para ficar melhor.
+
+Beleza.
+
+Então, o que nós temos é isso daqui.
+
+Agora, porque a linha ela está contínua.
+
+Ata.
+
+Ela ficou.
+
+Continua aqui, ó.
+
+Não porque existe linha contínua, mas porque tem dois pontos juntos.
+
+E aí acabou deixando, Ela continua.
+
+Então, isso daqui é o que eu falei sobre a visibilidade.
+
+Então às vezes compensa você deixar duas setas assim, um pouquinho mais tortas, mas de uma forma em
+
+que você consiga ter a visualização de ambas.
+
+Beleza?
+
+Então vamos tentar esticar aqui o procedimento.
+
+Tá bom.
+
+Fora tudo isso daqui, o que mais que é possível registrar em log?
+
+Olha só.
+
+Quando ao processo de manter o curso ou de manter a disciplina, também é necessário gerar histórico.
+
+Então nós vamos acrescentar aqui include para o manter curso.
+
+E aqui eu vou até fazer de um jeito diferente que a gente economize, tá?
+
+Vamos acrescentar um xingamento e vamos retirar a ponta da seta.
+
+E aqui vamos acrescentar o restante da seta e o pontilhado.
+
+Beleza, vou manter curso também, vai precisar, Então nós vamos acrescentar no mesmo include aqui
+
+e vamos manter o pontilhado e retirar a ponta da seta.
+
+Beleza, Estou falando que ambos tem um processo de inclusão para dentro do registro de log.
+
+Poderia fazer dois include separado da mesma forma que nós viemos a fazer ali os anteriores, Assim
+
+poderia ficaria melhor?
+
+Talvez, Não sei.
+
+Isso daí vocês podem trabalhar e até como um exercício de fixação, as vezes menos é mais.
+
+Então, às vezes, ao invés de você colocar de um em um, você pode colocar um só e alinhar todos eles
+
+a este único, né?
+
+Às vezes menos é mais, mas se não para vocês aqui de formas variadas, né?
+
+Então aqui é um dos exemplos no qual a gente poderia fazer diferente dos anteriores.
+
+Beleza?
+
+O que mais seria que processo de inclusão pessoal?
+
+Vamos lá.
+
+E o que eu estou observando Não teríamos, né?
+
+Mas, como eu falei, nós teremos as inclusões e as extensões, né?
+
+E aí, o que que seria?
+
+As extensões?
+
+Então vamos lá.
+
+O professor, por exemplo, quando ele faz aqui o processo de manter curso, ele também tem a visibilidade
+
+de curso, da mesma forma que o aluno visualiza o curso.
+
+Só que as visualizações elas são diferentes, então não sei se vocês conhecem com certeza sim.
+
+Muitos de vocês estão por essa plataforma, a Udemy, né?
+
+Então existe a forma de visibilidade de curso pelo aluno e existe a forma de visibilidade de curso pelo
+
+instrutor.
+
+Então, por exemplo, vocês quando acessam o meu curso visualizam a plataforma de uma forma.
+
+Eu quando acesso este mesmo curso, só que com o meu perfil instrutor, eu visualizo à plataforma o
+
+curso de uma outra perspectiva, tá?
+
+Então aqui seria uma extensão, por exemplo, ao invés de uma inclusão.
+
+Então, quando o instrutor ele faz a visibilidade do curso, é uma extensão da funcionalidade que ele
+
+possui aqui, tá?
+
+Então, aqui nós poderíamos, por exemplo, fazer o seguinte Ó, eu vou copiar e colar, beleza?
+
+E eu vou acrescentar aqui, por exemplo.
+
+E eu vou fazer o seguinte Ó, eu vou esticar e retirar a ponta da seta, acrescentar partilhamento e
+
+aqui eu vou.
+
+Jogar até o término da visibilidade de curso, né?
+
+Vou acrescentar o partilhamento e aqui não vai ser mais include.
+
+Vai ser extend, tá?
+
+Então vamos colocar aqui o extend.
+
+Ou seja, uma extensão.
+
+Beleza.
+
+Então, quando eu falo que o instrutor, ele mantém um curso através da funcionalidade, ele também
+
+já tem a permissão de fazer a visualização deste curso na plataforma.
+
+Beleza.
+
+Isso daqui seria um extend.
+
+Além deste carinha, né?
+
+O que que seria o extend?
+
+A visibilidade de notas?
+
+Então, da mesma forma que o manter notas, eu poderia acrescentar um extend aqui.
+
+E quando o instrutor ele visualiza aqui a parte de quando ele visualiza Não né?
+
+Quando ele mantém, quando ele dá a nota para o aluno, ele também já consegue visualizar as notas dos
+
+alunos no sistema.
+
+Tá, então aqui seria um processo de extend também.
+
+E aqui o vocês podem ver que já começou.
+
+As coisas ficaram um pouco amarradas, né?
+
+Então nós precisamos, por exemplo.
+
+Aumentar algumas coisas aqui para que não fique este famoso ninho de rato, né?
+
+A gente pode ver aqui que umas coisas começaram a sobrepor às outras.
+
+É natural que aconteça.
+
+Por isso que eu falei que quando vocês vão fazer de uma perspectiva profissional, vocês vão mudar e
+
+mudar muitas coisas, muitos ângulos, muitos posicionamentos, de muitos elementos, até que fique
+
+o mais legível e o mais visual possível.
+
+Tá claro que aqui os diferentes tipos de setas eu também consigo fazer variação por cores.
+
+Consigo fazer todos aqueles procedimentos que nós já vimos em aulas anteriores, que muitas vezes ajuda
+
+a visibilidade.
+
+Aí às vezes eu acabo não mudando tantas coisas quanto eu preciso e aqui, né?
+
+Mas neste contexto aqui, por exemplo, já ficou muitas linhas sobrepostas umas pelas outras.
+
+Talvez eu precisasse realocar muitos elementos aqui, redesenhar de outras formas para ver o que aqui
+
+conseguisse ficar de uma forma mais alienada e mais orientada, na verdade, alienada, não, mas alinhada,
+
+pessoal, não confundam alienada com alinhada.
+
+Pelo amor de Deus.
+
+Vamos lá.
+
+Dando continuidade.
+
+Fora tudo isso daqui, o que mais que eu preciso de processo de extensão?
+
+Novamente voltado ao instrutor, quando ele aplica a presença ou falta para os alunos, Ele faz aqui,
+
+a mantém.
+
+Ele mantém a frequência e essa frequência.
+
+Ele também consegue fazer a visualização.
+
+Ele consegue ver ali, aluno por aluno, quantas faltas ou quantas frequências possui.
+
+Então, aqui nós vamos fazer aqui o processo de extend também.
+
+Beleza.
+
+E aí novamente eu acabei fechando aqui, né?
+
+Vamos retirar a ponta da seta, Vamos acrescentar pontilhado.
+
+E aqui novamente nós vamos manter aqui na frequência É, vamos acrescentar pontilhado para este lado
+
+aqui.
+
+Beleza.
+
+Então, muito do que nós estamos fazendo aqui de extensão de funcionalidades é pertinente ao instrutor.
+
+Porém, além do instrutor, existe uma extensão sobre o financeiro, ou seja, o financeiro.
+
+Quando ele faz aqui o procedimento dos boletos, né?
+
+Ele faz isso.
+
+Sobre a segunda via de boleto que é relacionado ao aluno.
+
+Então aqui existe também um processo de extensão.
+
+Tá, então aqui nós vamos acrescentar a seta.
+
+Vamos retirar aqui a ponta dela novamente, acrescentar o ponto e dar continuidade dessa seta aqui do
+
+outro lado, acrescentando apenas o pontilhado.
+
+E aqui eu tenho o sistema Beleza de uma forma geral.
+
+Sistema de gerenciamento escolar.
+
+É uma perspectiva mais completa e isso eu estou separando por funcionalidades ou por atores ou por acessos
+
+específicos, tá?
+
+Acesso voltado apenas ao aluno.
+
+Acesso voltado apenas ao administrador.
+
+Acesso voltado apenas ao instrutor.
+
+Acesso voltado apenas ao atendimento do aluno e o atendente, no caso acesso voltado apenas ao financeiro.
+
+Eu poderia fazer aqui para melhorar ainda mais?
+
+Eu poderia.
+
+Por exemplo Tá, eu poderia pegar aqui novamente o meu contêiner.
+
+Vamos fazer aqui algo melhor, Visualmente melhor o.
+
+Vamos colocar aqui cobrindo tudo.
+
+Vamos acrescentar também o nosso fundo.
+
+Porém aqui nós vamos variar um pouco, vamos colocar um cinza bem clarinho, vamos jogar para trás,
+
+tá?
+
+E aqui entra os processos bacanas.
+
+Olha só, estou falando que tudo isso daqui que está dentro do quadradão maior cinza, é sobre o sistema.
+
+Cada um desses aqui, ó eu poderia ir acrescentando uma cor, né?
+
+Lembrando que o que eu vou mudar geralmente é o fundo, né?
+
+Então vamos ver aqui Onde está essa célula?
+
+Vamos acrescentar seu amarelo clarinho.
+
+Ah, tá, Eu tô fazendo duas seleções aqui.
+
+E um amarelo.
+
+Aí eu poderia vir aqui e acrescentar uma outra cor.
+
+Um verde aqui.
+
+Poderia ser um azul?
+
+Talvez.
+
+Não sei.
+
+É claro que vocês não vão deixar colorido da forma que eu to deixando, tá pessoal?
+
+Só que eu tô mostrando para vocês, para que vocês de certa forma pensem quando vocês forem fazer as
+
+criações, que existe inúmeras maneiras de vocês dizerem sobre algo através de várias formas, né?
+
+Então, as cores aqui, os separa mento.
+
+A separação, como vocês optarem em chamar separação de cores, é uma das fundamentais que vocês podem
+
+estar utilizando, que vocês podem estar atribuindo.
+
+Podem fazer uma cor só.
+
+Só que vocês podem estar acrescentando a degradê.
+
+Por exemplo, começar com azul escuro e vir clareando, né?
+
+Acho que fica até mais legal e visualmente melhor do que isso que eu tô fazendo aqui com vocês.
+
+De um em cada cor.
+
+Mas para que vocês entendam que cada um desses componentes, cada um desses elementos, cada uma dessas
+
+partes, é pertinente à uma funcionalidade, a um recurso, a um tipo de acesso ou uma permissão específica
+
+dentro do sistema.
+
+Tá bom.
+
+Eu fiz aqui mudando o fundo ao invés do fundo.
+
+Vocês poderiam mudar os elementos.
+
+As elipses aqui que foi mantidas em branca, poderiam mudar as elipses e manter o fundo da mesma cor
+
+que estava, né?
+
+Então são coisas que vocês podem estar mudando conforme a necessidade.
+
+Eu vou voltar, porque eu quero manter assim o tudo branco e o fundo cinza.
+
+Para mim isso aqui tá legal e aqui ó.
+
+Faltou um último nome no qual nós precisamos colocar e nós acabamos não acrescentando que era os processos
+
+do sistema.
+
+Então, tudo que os usuários fizerem vai acabar passando por esses processos aqui.
+
+Tá bom.
+
+E aqui é o nosso último diagrama de caso de uso, o mais completo, o mais complexo, o mais robusto
+
+e o mais detalhado, voltado a sistema de gerenciamento escolar.
+
+Não sei até agora o quanto essa aula rendeu, mas eu acredito que eu tenha falado bastante.
+
+Espero que você tenha entendido que você tenha conseguido absorver o máximo sobre o diagrama de caso
+
+de uso até aqui.
+
+Caso você ainda tenha dúvidas, caso você tenha enxergado dificuldades, Volte aos anteriores.
+
+Se possível, reveja, refaça algumas atividades para que você tenha uma maior absorção e uma fixação
+
+melhor sobre este diagrama.
+
+Lembrando mais uma vez que este diagrama.
+
+Ele é o mais utilizado dentro da área e é um dos mais fáceis que nós temos também.
+
+Tá bom.
+
+Então é muito importante que vocês saibam isso daqui de cor e salteado.
+
+Beleza?
+
+Bom, eu vou me despedindo por aqui.
+
+Próxima aula nós daremos continuidade com um novo módulo, vendo um novo tipo de diagrama e ressaltando
+
+mais uma vez que antes da prática, nós trabalharemos um pouquinho sobre o teórico, né?
+
+Lembrando que nós precisamos conhecer, entender e saber as funções e os porquês daquele determinado
+
+diagrama.
+
+Então vou me despedindo por aqui.
+
+Próxima aula damos continuidade.
+
+Me despeço de vocês.
+
+Fiquem com Deus.
+
+Até breve.
