@@ -1,0 +1,370 @@
+Udemy
+Análise e Levantamento de Requisitos de Software
+Miniatura da aula
+1:08 / 13:24
+
+Olá Luna! Olá
+
+aluno! Como vocês
+
+estão? Espero que
+
+estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês um novo módulo a partir desta aula, Hoje nós iremos abordar um novo tipo de diagrama.
+
+Um novo tipo de diagrama que também faz parte do grupo de diagramas
+
+comportamentais e nós falaremos um pouco a respeito sobre diagrama de atividades.
+
+Então, assim como os demais diagramas que já foram apresentados no curso, nós teremos inicialmente
+
+algumas aulas teóricas, pois nós precisamos saber do que se trata o diagrama, para que
+
+ele serve, como ele funciona, onde ele é utilizado, quais as ocasiões ou circunstâncias.
+
+E a partir de então, nós tenhamos um local, mesmo
+
+que superficial, para poder fazer as atividades dos exercícios práticos.
+
+Conforme formos evoluindo e caminhando.
+
+Beleza.
+
+Ou então eu sei que é um pouco maçante, mas eu trouxe um pouco mais
+
+de texto a vocês aqui, então espero que vocês tenham atenção, porque diferente do
+
+diagrama anterior, no qual nós trabalhamos com o diagrama de caso de uso, esse
+
+daqui já tem um pouco mais de complexidade, então realmente é necessário um pouco
+
+mais de atenção para poder entender beleza? Então, sem delongas, vamos ao que interessa.
+
+Diagramas de atividades junto com diagramas de caso de uso, que foi o que nós vimos no módulo anterior.
+
+Juntamente a diagramas de máquinas de Estado.
+
+Nós inclusive veremos ainda ao decorrer do curso então considerado diagramas de
+
+comportamento, ou seja, pertencem ao grupo de diagramas comportamentais, porque eles descrevem
+
+o que é necessário acontecer no sistema que está sendo modelado.
+
+Beleza.
+
+As partes interessadas lidam com muitas questões, portanto,
+
+é importante se comunicar com clareza e concisão.
+
+Bom, aqui, no caso, quem são as partes interessadas no qual o texto ele menciona partes
+
+interessadas? Geralmente elas são chamadas principalmente na área da TI de stakeholders, as partes interessadas.
+
+Elas podem ser o usuário final, que muitas vezes vai utilizar aquele
+
+produto, aquele serviço, aquele sistema ou aquela funcionalidade que está sendo desenvolvida.
+
+O stakeholder ou a parte interessada pode ser a própria equipe que está
+
+fazendo participação do projeto, pode ser tanto a equipe interna quanto terceiros.
+
+Pode ser um outro cliente, pode ser empreendedores, investidores propriamente, os diretores da empresa,
+
+todas as pessoas que têm interesse em um fim deste determinado projeto ou produto,
+
+seja o interesse benéfico em dinheiro, seja interesse benéfico em otimização ou assim sucessivamente.
+
+Bom, então sempre quando nós falamos em partes Interessadas.
+
+Nós estamos falando dos stakeholders.
+
+Inclusive, eu tenho um curso de análise e levantamento de requisitos de software
+
+e eu abordo bastante sobre as partes interessadas, ou seja, sobre os stakeholders.
+
+Se você é um aluno meu que tá acompanhando e tem a necessidade também de
+
+aprender sobre análise de requisitos, fica a dica para vocês também fazerem o acompanhamento aí.
+
+Tá, Então quem estiver pelo YouTube eu tenho dentro da playlist.
+
+Quem estiver aqui na Udemy eu também tenho disponível o curso com o certificado de conclusão,
+
+tá bom? Bom, dando continuidade, diagramas de atividades ajudam a unir as pessoas das áreas
+
+do negócio e de desenvolvimento de uma organização para entender o mesmo processo e comportamento.
+
+Então, por que que nós precisamos reunir as equipes quando se trata principalmente desse tipo
+
+de diagrama? Porque nós temos visões diferentes e nós temos principalmente fins ou finalidades diferentes.
+
+Uma pessoa que é voltada à área de negócios.
+
+Ela geralmente trabalha muito em cima de valores.
+
+E então ela trabalha sobre quanto o projeto vai custar, quanto os recursos
+
+que são as pessoas envolvidas nos projetos, vai custar, qual é o budget
+
+máximo que pode ser gasto e já o desenvolvimento pensa no fim funcional.
+
+Então, sempre é interessante reunir essas duas partes, tanto a equipe de negócios quanto
+
+a de desenvolvimento, para fazer a discussão e chegar a um denominador comum.
+
+Beleza.
+
+Bom, para criar um diagrama de atividade é necessário um conjunto de símbolos especiais.
+
+Obviamente, assim como os demais diagramas que nós já viemos a trabalhar.
+
+Então existe ali elementos específicos, formas geográficas, como vocês optarem em
+
+chamar e incluindo aqueles para dar partida ou encerramento do diagrama.
+
+Então já leva em consideração que quando você for criar um diagrama de atividade, você sempre
+
+terá de fazer ali um objeto de início para mostrar onde o diagrama está começando e
+
+também um símbolo de encerramento ou de término para mostrar onde é o fim daquilo.
+
+Beleza, Um dia eu receber etapas no fluxo, o qual abordamos
+
+de forma mais aprofundada neste guia de diagramas de Atividades.
+
+Então eu vou mostrar aqui.
+
+Não sei se ainda vai ser nesta aula, espero que dê tempo,
+
+mas se ficar um pouco prolongada eu vou precisar quebrar aqui.
+
+Mostrar os símbolos que são pertencentes ao diagrama de atividades em uma outra aula.
+
+Tá bom? Mas vamos por partes aqui então,
+
+primeiro de tudo, nós sabemos para que serve.
+
+O diagrama de atividades.
+
+Então nós temos aqui o entendimento, mesmo que superficial, de o porquê ele existe e aonde ele é utilizado.
+
+E aqui nós vamos falar também um pouquinho a respeito sobre os benefícios que ele traz, ou seja, porque
+
+é benéfico eu criar um diagrama de atividade e talvez não um diagrama de caso de uso, por exemplo.
+
+Ou por que é benéfico trazer um diagrama de atividade e não de
+
+estado de máquina, por exemplo? Então nós vamos entender aqui os motivos.
+
+O primeiro deles é que a demonstração da lógica do algoritmo.
+
+Ela é mais ampla.
+
+Então eu consigo demonstrar à lógica de algoritmo o que é o
+
+algoritmo para quem ainda não teve contato com a área de desenvolvimento.
+
+O algoritmo.
+
+De certa forma, ele é o código à programação no qual
+
+o desenvolvedor faz o determinado sistema ou determinado produto ou serviço.
+
+Tá bom, então a primeira beneficiência que ele tem é justamente essa de demonstrar à lógica do algoritmo.
+
+Segundo descreve as etapas realizadas em caso de uso, então você praticamente
+
+vai juntar um pouco com o que você aprendeu no módulo anterior.
+
+Terceiro é mostrar um processo de negócio ou fluxo de trabalho entre os usuários e o sistema.
+
+Olha, tem algumas coisas aqui que são bem familiares, né?
+
+Principalmente porque tá fresca na nossa cabeça, porque afinal,
+
+foi o modo que nós terminamos quase que agora.
+
+Então, tudo que nós viermos a acrescentar aqui, muita coisa
+
+vai ser pertinente ao diagrama de caso de uso.
+
+Eu acho que vai ficar um pouco mais fácil até de eu explicar para vocês também.
+
+Beleza.
+
+Agora o quinto simplificar e melhorar qualquer processo ao esclarecer casos de uso complicados.
+
+Então nós já vimos que os casos de uso, eles podem ser um pouco complexos
+
+por conta de eles não mostrarem muitas informações a não ser ali quais são os
+
+acessos ou os permissões que os usuários possuem ou os próprios sistemas de integrações
+
+possuem dentro daquele determinado sistema em específico, né? Aqui nós conseguimos ter um esclarecimento
+
+um pouco maior, um pouco mais detalhado, talvez até um pouco mais aprofundado também.
+
+O último benefício aqui, né, De alguns que eu listei, na verdade é a modelagem.
+
+Então modelar elementos de arquitetura de software com método, função e operação.
+
+Então, vocês já viram também o que
+
+é método? O que é função? Só
+
+não viram ainda o que é operação.
+
+E cabe a mim explicar e ensinar vocês devidamente, né?
+
+Mas praticamente tudo que nós vimos em alguns dos diagramas
+
+que já foram estudados, praticamente nós vamos fazer algumas funções.
+
+Então pegar um pouquinho daqui, um pouquinho do outro e vamos formar um diagrama de atividades.
+
+Bom, e aí, falando um pouquinho dos componentes básicos, Lembrando que
+
+existem muito mais componentes do que esses que eu estou mostrando.
+
+Eu vou tentar trazer para vocês como ilustração também.
+
+Eu acho que fica mais fácil de assimilar.
+
+Mas o que vocês devem ter de imediato é que para todos os diagramas de atividades
+
+que vocês vierem a criar, sempre vai haver alguns símbolos, alguns elementos que são praticamente obrigatórios.
+
+Tá bom.
+
+Antes de criar um diagrama de atividades é necessário primeiro entender a sua composição.
+
+Então, obviamente, nós precisamos entender antes de fazer.
+
+Então, não adianta fazermos sem termos o entendimento de o que é, o que faz ou como funciona.
+
+E aí eu trouxe aqui de listagem alguns componentes.
+
+Então nós temos um componente que se chama ação ou ações.
+
+E é uma etapa da atividade que o usuário ou o software.
+
+E isso é variável, né? Porque pode ser, como eu mencionei também
+
+no diagrama de caso de uso, uma certa integração, né? Então um
+
+sistema consultando o outro ou um sistema distribuindo dados para outro.
+
+E realiza uma determinada tarefa.
+
+Basicamente é isso as ações.
+
+Elas são simbolizadas por retângulos de cantos arredondados.
+
+Então grava isso na sua cabeça.
+
+É possível? Aproveitando que o
+
+textinho aqui é curto.
+
+Pega um papelzinho, uma caneta e anota à mão.
+
+Lembrando que quando você escreve, você fixa melhor aquilo que você está estudando.
+
+Beleza.
+
+Dando continuidade.
+
+Segundo, é o nó de decisão um ramo condicional no
+
+fluxo representado por um diamante ou um símbolo de ouros.
+
+Para quem conhece um pouco de baralho, inclui uma única entrada e duas ou mais saídas.
+
+Ou seja, é um fluxo no qual eu vou fazer o direcionamento de caminho feliz e as exceções
+
+ou os erros que podem estar acontecendo, ou quais são as duas possibilidades para um determinado fim.
+
+Por exemplo, o que seriam duas possibilidades para um determinado fim Eu desenhar um diagrama relacionado a
+
+aplicativo de comida e quando eu colocar os alimentos no carrinho, eu tenho várias formas de pagamento.
+
+Imagina que cada um ali dos pontos desse diamante ele possa
+
+ser um tipo de pagamento específico, uma conta cartão de crédito.
+
+A outra cartão de débito é uma outra pizza, por exemplo.
+
+Beleza.
+
+O fluxo de controle.
+
+Outro nome dado aos conectores que mostram o fluxo entre as etapas.
+
+No diagrama, o fluxo de controle vai mostrar etapas específicas.
+
+Tem um pouco a ver com o nó de decisão, mas nós vamos
+
+ver isso em peculiar e em particular quando estivermos fazendo o prático.
+
+Tá bom.
+
+E aí o nó de início, o nó inicial que simboliza o início da atividade
+
+e é representado por um círculo preto, é o nó final ou nó de término.
+
+Ele é a etapa final, né? Então representa o
+
+fim do diagrama ou o fim daquela determinada atividade.
+
+E ele é representado por um círculo preto delineado.
+
+Eu vou tentar trazer para vocês os
+
+dois, né? Vou tentar trazer ambos.
+
+Vocês vão ver a diferença entre o que é todo preto e o que é delineado para vocês terem o entendimento.
+
+Tá bom.
+
+Bom, a princípio, para nossa primeira aula deste
+
+primeiro módulo sobre diagramas de atividades, é isso.
+
+Espero que vocês tenham entendendo.
+
+Espero que vocês estejam gostando.
+
+Eu gostaria de aproveitar para fazer um comunicado
+
+bem importante e bem bacana, principalmente para mim.
+
+O YouTube habilitou recentemente aqui no meu canal o Valeu demais que aquele determinado joinha.
+
+Então fica aberto para vocês, caso vocês queiram se sintam confortáveis.
+
+Caso alguma aula, algum curso, alguma playlist, algum video,
+
+algum tutorial meu tenha ajudado ou está ajudando vocês.
+
+Vocês possam fazer uma contribuição para que eu possa manter esse canal ativo e que eu
+
+principalmente venha trazer mais conteúdos, mais aulas, mais ensinamentos, mais sobre de tecnologia, que afinal
+
+é uma coisa que eu gosto compartilhar e distribuir um pouco do que eu conheço.
+
+Eu acredito que vai ajudar muitas pessoas, principalmente aquelas que não possuem
+
+condições de certificados, de talvez fazer uma faculdade, um curso técnico.
+
+Às vezes tem difícil acesso a esses locais ou a cidade não permite.
+
+Enfim, eu não vou me estender tanto, mas
+
+fica aí ao critério de vocês, caso vocês
+
+queiram contribuir, tá bom? Me despeço de vocês.
+
+Fiquem com Deus e até breve.
