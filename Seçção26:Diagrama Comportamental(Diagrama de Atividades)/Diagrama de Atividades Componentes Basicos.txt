@@ -1,0 +1,684 @@
+Udemy
+Análise e Levantamento de Requisitos de Software
+Miniatura da aula
+11:59 / 20:46
+
+Olá, Luna!
+
+Olá Luna!
+
+Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+A nossa segunda aula relacionada ao Diagrama de Atividades Diagrama também pertencente ao Grupo de Diagramas
+
+Estruturais.
+
+Hoje eu vou passar a vocês um pouco sobre os componentes básicos desse tipo de diagrama, ou seja,
+
+os elementos que são mais utilizados na montagem do diagrama de atividades.
+
+Beleza?
+
+Bom, eu me recordo que ao término da aula anterior eu havia passado para vocês este último tópico,
+
+que era condizente aos componentes mais utilizados, que são os componentes de ação, nó de decisão,
+
+fluxo de controle, nó inicial e no final o nó de início e nó de término.
+
+Beleza.
+
+E aí eu prometi a vocês que eu traria algumas cositas a mais.
+
+E podemos dizer assim, é que eu traria algumas imagens também.
+
+Exemplificando já para abrir um pouco a mente e expandir os horizontes.
+
+E quando nós formos fazer a prática, ter uma percepção e um entendimento maior.
+
+Tá bom.
+
+Então, o primeiro tipo de símbolo ou de elemento no qual eu vou falar para vocês, obviamente é o símbolo
+
+de início.
+
+Beleza é o símbolo de início.
+
+Ele é representado com uma bola.
+
+Por bem dizer, ou um círculo no qual ele é totalmente preenchido.
+
+Beleza.
+
+Bom, o que ele significa?
+
+Representa o começo de um processo ou fluxo de trabalho de um diagrama de atividades.
+
+Ele pode ser usado por si só ou com um símbolo de nota que explica o ponto de partida.
+
+Beleza.
+
+Ou seja, eu posso utilizar esses símbolos apenas ou em incrementado juntamente a uma nota, explicando
+
+que ali é o início de uma atividade ou que é início de diagrama.
+
+O que é início de um serviço ou início de qualquer outra coisa que nós precisamos desenhar?
+
+Beleza, Então já anota aí no caderninho de vocês papel e caneta, que esta bolinha preta, ela é o
+
+símbolo do início do diagrama de atividades.
+
+Tá bom.
+
+O segundo símbolo, ele é o símbolo de atividades.
+
+Aqui eu trouxe um print em inglês, né?
+
+Está escrito como um act, mas seria atividades.
+
+Indica as atividades que compõem um processo modelado.
+
+Estes símbolos ou como vocês preferirem.
+
+Estes elementos incluem descrições breves dentro da forma.
+
+São principais componentes de um diagrama de atividades.
+
+Por quê?
+
+Porque é dentro deste símbolo, deste retângulo com as bordas arredondadas que eu vou acrescentar as
+
+atividades que vão acontecer e que eu estou ilustrando.
+
+Então, por bem dizer, este símbolo aqui, ele é o que mais vocês vão estar utilizando dentro do diagrama.
+
+Beleza.
+
+Toda atividade, todo o processo, toda representatividade de atividade que vocês forem ilustrar tecnicamente
+
+vai estar escrito dentro deste símbolo aqui.
+
+Beleza?
+
+O próximo vocês já conhecem muito bem, é o símbolo conector.
+
+Nós praticamente estamos utilizando desde o primeiro diagrama e ele mostra o fluxo de direção ou fluxo
+
+de controle da atividade.
+
+Uma seta de entrada inicia um passo de uma atividade.
+
+Uma vez que conclui do passo, o fluxo continua com a seta de saída.
+
+Então, aqui nós estamos fazendo o símbolo conector.
+
+Beleza.
+
+Conectando uma atividade a um processo, uma entrada de informação, uma atividade.
+
+Nós vamos entender quando nós formos fazer os desenhos.
+
+Quando nós formos fazer as ilustrações, beleza?
+
+Aí nós temos alguns outros aqui que já começa a ficar bem diferente do que nós já acostumamos a trabalhar,
+
+do que nós já vimos até aqui.
+
+E é um deles que é o símbolo de junta.
+
+Barra de sincronização.
+
+Então, aqui, tecnicamente são duas coisas.
+
+Ou pode ser chamado de duas coisas.
+
+Tá.
+
+Combina duas atividades simultâneas e reintroduz em um fluxo onde apenas uma atividade ocorre por vez,
+
+representado por uma linha expressa, vertical ou horizontal.
+
+Isso daqui é variável.
+
+Aqui eu estou mostrando para vocês a horizontal assim.
+
+Adiantando, né?
+
+Eu dei o exemplo da aula anterior sobre um carrinho de compra, onde eu posso fazer ali tecnicamente,
+
+a escolha do tipo de pagamento que eu quero fazer para o produto ou para o alimento que eu estou comprando.
+
+Tá.
+
+Então, tecnicamente são várias atividades.
+
+Porém, o resultado ele sai como único, né?
+
+Eu posso ter várias entradas ali de tipo de pagamento, então tudo pode ir para o mesmo lugar, o mesmo
+
+serviço.
+
+Um exemplo tá tanto verificação de pagamento quanto crédito, débito, boleto e seja mais o que tiver.
+
+Porém, a saída vai ser aquela que eu fizer a escolha.
+
+Então, tecnicamente seria uma representação nesse sentido aqui.
+
+Bom, e por que que pode ser vertical?
+
+Horizontal?
+
+Porque depende da forma que você está ilustrando.
+
+Depende da forma que o fluxo do diagrama está sendo seguido.
+
+Tá?
+
+Então, se eu estou fazendo um diagrama que ele tá correndo mais na vertical, então eu vou fazer um
+
+desenho na vertical.
+
+Se eu estou fazendo um desenho, uma ilustração que tá correndo mais na horizontal, eu vou utilizar
+
+o símbolo em horizontal, então segue mais ou menos nesse sentido.
+
+Por isso que existe um ou outro, né?
+
+Ou às vezes até ambos, dependendo do tamanho do diagrama e do tipo de atividade que você tá fazendo.
+
+Você pode direcionar um determinado caminho para horizontal, um determinado caminho para vertical.
+
+Então isso daqui acaba fluindo bastante também.
+
+Um outro símbolo que também vocês provavelmente nunca viram é o símbolo de garfo E calma que ele é sim,
+
+diferente do anterior, tá?
+
+Olha só o anterior.
+
+As setas acima elas são espaçadas, né?
+
+Ou seja, elas são nas pontas e a seta da parte de baixo ela é no meio.
+
+Beleza, aqui é invertido, olha só.
+
+A seta de cima que é no meio.
+
+E as setas de baixo que são nas extremidades, ou seja, só nas pontas.
+
+Tá bom, não tem diferença.
+
+Aqui sim.
+
+Beleza.
+
+E aí, para que que serve esse símbolo de garfo aqui?
+
+Olha só.
+
+Divide O único fluxo de atividades em duas atividades simultâneas é simbolizado com várias linhas com
+
+setas de uma junção, ou seja, quando eu estou em um determinado fluxo, porém, a partir daquele momento,
+
+àquele determinado fluxo, ele segue várias direções, ou seja, ele faz determinadas funcionalidades
+
+simultâneas.
+
+Tá bom, então eu faço a utilização desse carinha aqui.
+
+Bom, não está escrito aqui, mas assim como o anterior, eu também posso fazer a utilização tanto na
+
+vertical quanto na horizontal também.
+
+Beleza.
+
+Já o nosso próximo símbolo é o símbolo de decisão.
+
+Inclusive esse símbolo aqui é bastante utilizado em fluxograma.
+
+Nós vamos ver bem adiante aqui no curso, tá?
+
+Então vocês já podem ter entendimento a partir daqui e lá no fluxograma vocês já saberem como funciona,
+
+para que serve, como utiliza.
+
+Então vamos lá.
+
+Olha só o símbolo de decisão.
+
+Ele representa obviamente uma decisão e sempre tem pelo -2 caminhos ramificados e contexto de condição,
+
+permitindo aos usuários visualizarem opções.
+
+Esse símbolo representa a ramificação ou fusão de diferentes fluxos ou um símbolo atuando como um quadro
+
+de contêiner.
+
+Então, olha só o símbolo de decisão.
+
+Ele sempre terá duas saídas.
+
+Por quê?
+
+Porque o mínimo que nós podemos fazer para cada uma das decisões é quero ou não quero, posso ou não
+
+posso?
+
+Vou ou não vou?
+
+Certo ou errado?
+
+Sim ou não?
+
+Um ou dois.
+
+E assim sucessivamente.
+
+Então, o mínimo esperado de uma decisão é duas respostas.
+
+Beleza.
+
+Obviamente, haverá casos que há mais de duas respostas.
+
+Isso é fato.
+
+Porém, o mínimo são duas.
+
+Então, por exemplo, deseja continuar a solicitação para preencher o formulário?
+
+Sim ou não?
+
+Gostaria de fazer o download do arquivo em PDF.
+
+Sim ou não?
+
+Continuar ou cancelar, por exemplo?
+
+Então, esse símbolo.
+
+Ele é bastante utilizado justamente nesse contexto.
+
+Beleza.
+
+E aí, obviamente, ele vem aqui com um quadro de container, que são aquelas atividades que nós vamos
+
+desenhar após, né?
+
+Ou seja, após a decisão tomada, o que será feito?
+
+Tá.
+
+E lembrando que para cada decisão existe também o quadro de texto no qual nós vamos explicar ou vamos
+
+argumentar o que e aquela decisão, né?
+
+Então nós vamos pegar ali um quadrinho de texto e falar em cima daquela linha de decisão para que ela,
+
+para que ela serve ou o que ela faz ou para onde ela leva.
+
+Beleza.
+
+O próximo símbolo é aquele que eu mencionei lá no primeiro do início, né?
+
+Que é o símbolo de nota.
+
+Ele permite os criadores ou colaboradores do diagrama comunicar mensagens adicionais que não se encaixam
+
+dentro do próprio diagrama, ou seja, espécies de comentários.
+
+Tá bom, então você pode acrescentar observações, notas literalmente do que cada parte ou cada contexto
+
+ali tá fazendo.
+
+Então, por exemplo, tá desenhando algo que é muito técnico e envolve serviço API.
+
+Aí precisa falar sobre campos.
+
+Jeison Parâmetros, tipos de dados, regras, máscaras de entrada, qualquer outra coisa Nesse sentido,
+
+você acrescenta como nota para apenas deixar mais explícito ou detalhar mais aquilo que já vai Tá legal?
+
+Tá bom.
+
+Não que quando você vier a fazer uma apresentação, você vai precisar falar sobre isso, mas para que
+
+as pessoas mais técnicas elas vejam que existe aquilo e como as coisas irão funcionar no momento do
+
+desenvolvimento, por exemplo.
+
+Tá?
+
+Inclusive, é esse tipo de nota que você vai colocar lá no início, juntamente ao símbolo de início.
+
+Beleza.
+
+Outro símbolo também que é bem bacana aqui é o símbolo de enviar sinal.
+
+Ele indica se o sinal está sendo enviado a uma atividade recebedora.
+
+Tá bom.
+
+Ou seja, eu tenho uma integração no qual meu sistema recebe dados.
+
+Eu vou fazer o que?
+
+?
+
+O símbolo do sinal para sinalizar que está enviando dados de atividade para aquilo.
+
+Beleza.
+
+Temos de receber sinal Demonstra a aceitação de um evento após o evento ser recebido.
+
+O fluxo que vem desta ação é concluído, ou seja, o sistema de integração enviou um sinal.
+
+O outro sistema que está recebendo tem o recebimento do sinal, ou seja, um conecta ao outro, ou seja,
+
+um diga ao outro tá bom?
+
+O símbolo de história rasa, pseudo estado.
+
+Isso aqui é diferente, né?
+
+Parece inclusive um símbolo de aterrissagem de helicóptero.
+
+Mas não vamos nos perder aqui, não vamos desfocar dando continuidade.
+
+Aqui, pessoal, ele representa a transição que invoca o último estado ativo.
+
+Opa, pera aí!
+
+Isso daqui ficou mais complexo, né?
+
+Vamos lá, Vão haver possibilidades ou vão haver ocasiões No qual você vai representar uma determinada
+
+atividade, aquela determinada atividade vai ser encerrada.
+
+Porém, algumas ocasiões vão invocar aquela mesma atividade para ser refeita novamente, ou para ser
+
+transcrita, ou para ser vista, ou para ser executada, como vocês preferirem.
+
+Beleza?
+
+E aqui esse ponto, né?
+
+Ou este símbolo em H.
+
+Ele vai fazer uma invocação do último estado ativo.
+
+Como assim?
+
+Ainda não entendi.
+
+Tá bem complexo.
+
+Calma, aqui nas aulas práticas você vai entender melhor fazendo o passo a passo.
+
+Mas para vocês não saírem daqui com interrogações na cabeça, tá bom?
+
+Vamos imaginar aqui o status de um sistema onde você pode ficar online, ocupado, ausente ou invisível.
+
+Beleza.
+
+Isso são estados de atividades.
+
+Beleza.
+
+Quando eu estou trabalhando, estou online.
+
+Quando eu estou ocupado em reunião, eu vou atribuir ocupado.
+
+Quando eu estiver em almoço alguma coisa no sentido vou ao banheiro, vou por ausente.
+
+Quando eu já tiver feito a minha carga horária, eu vou colocar invisível.
+
+Eu vou desligar o desconectado esses estados.
+
+Eles vão ter ali as suas ocasiões específicas.
+
+Porém haverão ocasiões ou outras atividades que você vai precisar invocar esses estados.
+
+Como assim?
+
+Vamos lá.
+
+Eu estou dentro do meu sistema e eu estou como online.
+
+Tá bom.
+
+E aí, por acaso cai um chamado para mim fazer o atendimento?
+
+Eu estou fazendo atendimento de um determinado chamado.
+
+Eu já não estou mais online disponível, né?
+
+Por quê?
+
+Porque eu estou fazendo uma determinada atividade.
+
+Eu estou fazendo uma determinada tarefa, ou seja, automaticamente o meu estado, que é online ou Disponível.
+
+Ele, após eu atender a ligação, vai passar a ser como ocupado ou indisponível, porque eu estou fazendo
+
+ali uma tratativa, então a mudança de estado ela vai acontecer.
+
+Esse símbolo, ele pode ser usado para isso, para representar uma atividade e invocar um estado automaticamente.
+
+Da mesma forma que quando eu fizer o encerramento dessa ligação deste chamado, automaticamente aquele
+
+meu estado que estava como ocupado ou invisível volta a ser o que?
+
+Online disponível?
+
+Beleza.
+
+Então, essa mudança de estado invocação é pertinente a essas coisinhas.
+
+Assim.
+
+Nesse sentido.
+
+Tá.
+
+Vou tentar trazer bastante exemplo voltado a isso daqui para vocês pegarem bem, beleza?
+
+Mas para vocês não saírem com a interrogação na cabeça desta aula sobre o que é esse símbolo de aterrissagem
+
+de helicóptero aqui, tá bom.
+
+Lembrando que é o pseudo estado.
+
+Beleza.
+
+Outro símbolo bem bacana também é o símbolo de opção em loop, que permite o criador modelar uma sequência
+
+repetitiva dentro de um símbolo de opção em loop.
+
+O que é um loop?
+
+Galera, Loop é nada mais do que uns passos que vão ficar sendo repetidos continuamente até uma determinada
+
+solução.
+
+Vamos lá.
+
+O que é um loop?
+
+Dentro de uma atividade?
+
+Então vamos colocar aqui algumas ocasiões sistêmicas para a gente ir pegando o andar da coisa.
+
+Vamos pensar que o loop ele pode ser ali, a tentativa de pagamento de algo que eu estou comprando ou
+
+de algo que eu esteja comprando.
+
+Tá, então vai haver ali a solicitação do número de cartão.
+
+Vai haver ali a possibilidade de parcelamento.
+
+Número de vezes.
+
+Vai haver também ali o local onde vai ser entregue, né?
+
+Então você vai ter que colocar o endereço de entrega e você vai fazer o processamento para finalizar
+
+o pagamento.
+
+Se alguma dessas opções no qual eu mencionei acontecer de dar algum problema, seja por falta de saldo,
+
+cartão bloqueado, as vezes o cartão não é de crédito, é só débito ou o endereço está errado, o CEP
+
+ficou errado, enfim, algumas outras coisas nesse sentido.
+
+O loop vai ficar acontecendo e vai ficar processando e processando, voltando para aquele determinado
+
+local do problema, processando de novo até que você consiga solucionar e ele finalizar.
+
+Ta bom, então isso é um loop.
+
+Beleza.
+
+Deu erro no cartão, Eu vou ter que voltar no cartão, preencher de novo.
+
+Processou, Deu erro no cartão, Vou ter que voltar.
+
+Deu erro no cartão.
+
+Vou ter que voltar até que seja concluído.
+
+Isso é um loop.
+
+Beleza.
+
+Então, este símbolo aqui, ele é uma representação nesse sentido.
+
+Em loop.
+
+Tá bom.
+
+Obviamente que há outras opções e a gente sabe que, dependendo do que a gente estiver fazendo, aí
+
+muitas coisas são enquadradas como isso.
+
+Mas também para vocês não saírem com a interrogação na cabeça e já sair com exemplo aqui mais ou menos
+
+do que é e como funcionaria.
+
+Tá bom.
+
+E aí nós temos o símbolo de fluxo final.
+
+Obviamente, ele não é o símbolo do X-Men.
+
+Tá bom.
+
+Isso daqui é o símbolo de fechamento de fluxo.
+
+Beleza representa o final de um fluxo de processo específico, ou seja, este símbolo não deve representar
+
+o fim de todos os fluxos de uma atividade.
+
+Nesse caso, usa o símbolo de término.
+
+Olha só.
+
+O símbolo de final de fluxo não é o símbolo de término do diagrama.
+
+Beleza aqui é onde ele representa o final de um fluxo ou final de uma atividade.
+
+Beleza, então o símbolo do X-Men.
+
+Ele representa o final de uma atividade.
+
+Tá bom.
+
+Diferente do outro que nós veremos daqui a pouco.
+
+Tá.
+
+Mas aí nós temos o texto de condição, que é aquele textinho descritivo que eu mencionei que faz junção
+
+a o símbolo de condicionamento, né, De sim ou não, certo?
+
+Errado.
+
+Vou, não vou, aceito e não aceito.
+
+Beleza que você vai descrever especificamente o que e para onde leva ou o que vai fazer aquilo, aquela
+
+determinada condição.
+
+Tá bom.
+
+E aí, por fim, nós temos o símbolo de término, que de novo é diferente do símbolo do X-Men, que
+
+é final de fluxo.
+
+Um vai representar o final do fluxo de uma atividade e o Eterno vai representar tecnicamente o término
+
+do diagrama.
+
+E aí, diferente do símbolo que nós vimos lá no início, que é apenas um ponto preto, este daqui é
+
+um ponto preto com um determinado círculo.
+
+E aí, se nós capturarmos na última aula que tivemos, eu falei um pouquinho aqui.
+
+Olha só.
+
+Símbolo inicial é representado por um círculo preto que seria esse daqui e o símbolo final.
+
+Ele é representado por um círculo preto delineado, que é este último que nós acabamos de fazer a visualização
+
+aqui.
+
+Beleza?
+
+Então pessoal, esses são alguns elementos do qual ou dos quais nós vamos utilizar bastante.
+
+E eu digo assim nós vamos utilizar bastante.
+
+Não levando em consideração apenas o curso, apenas as instruções, apenas os diagramas que nós vamos
+
+criar no passo a passo.
+
+Mas eu estou levando em consideração o cotidiano dia a dia, vocês atuando, trabalhando dentro da área
+
+e tendo de fazer as ilustrações e representatividades usando este tipo de diagrama.
+
+Beleza?
+
+Então são os elementos que vocês vão estar levando aí para o resto da vida se vier a trabalhar com diagramação
+
+ou prototipação, Dependendo do contexto, também enquadra.
+
+Diagramas.
+
+Tá bom, eu espero que vocês estejam entendendo, principalmente que vocês estejam gostando.
+
+Eu gostaria de reforçar mais uma vez que aqui, para quem tá acompanhando pelo YouTube, nós temos o
+
+Valeu demais!
+
+Então, se essas aulas estão sendo úteis a vocês, estão ajudando você na faculdade, Estão ajudando
+
+você a entender em algum sentido.
+
+Não deixe de contribuir, caso vocês possam, Tá bom?
+
+Se não puder, também.
+
+Só a presença de vocês, o engajamento de vocês, o like de vocês já é o suficiente.
+
+Mas fica ao coração de vocês e à critério de vocês.
+
+Caso vocês queiram ajudar o canal a continuar no ar e obviamente, a crescer e trazer ainda mais conteúdos
+
+de tecnologia e futuramente novos cursos relacionados a vocês.
+
+Tá bom, não vou me estender tanto, a aula já tá bem longa, então eu vou me despedindo por aqui.
+
+Fiquem com Deus e até breve.
