@@ -1,0 +1,617 @@
+Aluna Olá aluno! Como
+
+vocês estão? Espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados UML.
+
+Trazendo a vocês nesta aula a nossa primeira aula prática relacionada ao diagrama de atividades.
+
+Bem, nas aulas anteriores nós entramos no módulo de diagrama de atividades e
+
+nas aulas anteriores nós tivemos algumas noções teóricas, então foi passado a vocês.
+
+Como esse diagrama funciona? Para que esse diagrama
+
+serve? Onde ele é utilizado? Quais são as
+
+suas formas geométricas, ou seja, os seus elementos
+
+mais utilizados? E qual a sua importância dentro
+
+do mundo da UML? Então, a partir dessa
+
+aula, nós faremos aqui alguns casos práticos, no
+
+qual eu vou trazer para vocês algumas situações.
+
+Eu vou tentar trazer o mais genérico possível para facilitar o entendimento e também para
+
+abranger um pouco mais os horizontes e expandir um pouco mais a respeito deste diagrama
+
+na cabecinha de vocês, tá bom? Bom, primeiro de tudo, eu quero dizer que
+
+este diagrama no qual nós faremos agora, ele vai ser um diagrama no qual
+
+nós faremos uma verificação cadastral ou uma situação de verificação cadastral, onde nós colocaríamos
+
+ali login e senha ou username e password como vocês optarem, como vocês preferirem.
+
+E a medida em que o caso for acontecendo, saber se ele existe
+
+dentro do banco de dados, se existe aquele determinado cadastro ou não.
+
+E aí, a partir disso, nós sabemos quais são os próximos passos.
+
+Se existe, ele faz login e não existe, ele faz o direcionamento para uma pagina cadastral.
+
+Bom, então o primeiro de tudo nós precisamos achar aqui os elementos nos quais nós vamos
+
+trabalhar, Então ele não está dentro aqui do nosso menu geral, então vamos minimizá lo.
+
+Tá bom.
+
+Nós temos aqui vários menus.
+
+Eu vou abrir o último menu, que é relacionado à UML e eu quero ver aqui com vocês.
+
+Eu acho o elemento no qual nós precisamos utilizar de início.
+
+Na verdade, eu vou acabar achando ele UML 2,5, tá? Eu estou fazendo
+
+uma verificação aqui para ter o entendimento do qual nós poderíamos estar utilizando.
+
+Eu acredito que esse start aqui ele seria bem bacana para nós podermos
+
+trabalhar, tá? Lembrando que ele está dentro do menu de UML mesmo.
+
+Bom, não sei se vocês se recordam, mas na última aula eu passei sobre os elementos e
+
+eu falei para vocês que a bolinha preta ela seria a bolinha de início e de start.
+
+Dentro do nosso diagrama, ou seja, ela inicia o diagrama ou ela inicia uma determinada atividade.
+
+Beleza.
+
+E aí, contudo, nós sabemos também que os elementos nos quais nós
+
+mais vamos utilizar seria a espécie do retângulo com as bordas arredondadas.
+
+Beleza que ele representa a atividade em si que
+
+está acontecendo naquele determinado momento ou naquela determinada ocasião.
+
+Então eu vou tentar pegar aqui o mais semelhante possível.
+
+Lembrando pessoal, que o que nós estamos utilizando aqui é o drywall,
+
+né? Então possa ser que vocês estejam utilizando aí outra ferramenta.
+
+Isso não difere.
+
+Mas eu gostaria de comentar que dependendo da ferramenta, as formas
+
+geométricas mudam, né? Geralmente para ter uma carinha ali mais
+
+única diferenciação entre empresa e empresa, entre programa e programa.
+
+Por exemplo, se você pegar esse programa que estou apresentando a vocês, vocês compararem com
+
+o site de chat, por exemplo, vocês compararem ali com o vídeo da Microsoft.
+
+Vocês vão ver que algumas formas geométricas elas são um pouco diferentes, mas isso
+
+não quer dizer que o diagrama ou que os tipos de formas elas mudem.
+
+Beleza, Então eu vou abrir o menu geral aqui também, porque eu quero deixar algo bem bacana.
+
+Pode ser essa daqui, o retângulo arredondado pode ver que as bordas são arredondadas.
+
+Beleza, Então, de início nós vamos utilizar o e-mail normal, tá? Menu UML O último
+
+é este menu aqui Geral e à medida que nós formos precisando de outros elementos,
+
+nós vamos vendo aqui onde eles encontram ou quais melhores se adaptam para ocasião.
+
+Tá bom, então eu vou puxar ele aqui e esta bolinha
+
+ela por obrigatoriedade fica realmente menor do que o retângulo mesmo.
+
+Tá bom, ela não precisa de tanto destaque.
+
+E aí, como eu mencionei para vocês aqui, nós precisamos dizer em relação às atividades,
+
+o que vai acontecer dentro desta verificação cadastral, ou seja, para que haja uma verificação
+
+cadastral de algum sistema, alguma tentativa de login, alguma tentativa de acesso? Primeiramente, é necessário
+
+a inserção de algumas informações por parte do usuário, ou seja, poderia colocar aqui
+
+o algo bem resumido ou se eu preferir eu poderia colocar algo bem detalhado.
+
+Então vamos ver aqui algumas diferenças, tá bom? Olha só, poderia
+
+colocar assim o usuário acessa o endereço https dois pontos.
+
+O google.com.br.
+
+Beleza, aqui eu estou iniciando falando uma primeira atividade no qual o usuário ele faria.
+
+Beleza, eu vou copiar e colar esse carinha aqui e mostrar para vocês que talvez eu não precisasse.
+
+Eu poderia só colocar assim se eu soubesse ou se eu achasse que fosse melhor.
+
+Economizando passos, o usuário.
+
+Insere login Beleza? Como eu poderia
+
+também fazer dessa seguinte forma aqui.
+
+Olha só.
+
+Usuário insere login e senha.
+
+Beleza ou username e password ou e-mail e senha ou e-mail Password Depende do contexto.
+
+Se você quer escrever os termos técnicos em inglês ou se você quer deixar em português.
+
+Mas o que que eu quero que vocês entendam aqui? Olha só,
+
+eu poderia colocar diversos passos e esses passos eles seriam diferentes.
+
+E eles encurtaram ou eles aumentariam meu diagrama.
+
+Tá bom.
+
+Quando eu falo aqui o que o usuário
+
+faz? O acesso ao endereço? Eu estou falando
+
+um passo anterior de ele fazer o que?
+
+A inserção de login e senha, por exemplo.
+
+Beleza.
+
+Da mesma forma que eu poderia colocar aqui abaixo desse processo de acesso ao endereço
+
+que ele precisa imputar apenas o login ou de imediato imputar o login e senha.
+
+Agora, como assim? Eu não entendi o que
+
+seria diferenciado entre eles? Se eu colocasse separado
+
+desta forma, eu teria de haver aqui ó.
+
+O seguinte vou copiar e colar para ficar
+
+mais fácil, tá? Teria de haver o seguinte.
+
+Eu colocaria este carinha aqui e eu.
+
+Falarei aqui o que o usuário ele também insere a senha.
+
+Porque ele faz as inserções separadas? Ele não insere tanto
+
+o login quanto a senha de uma única vez.
+
+Então isso daqui.
+
+Ele também é imprescindível de vocês escolherem o formato.
+
+Por quê? Porque quando vocês precisarem, ao decorrer do
+
+diagrama, repetir alguma ação que seja semelhante, vocês
+
+fazerem igual e o diagrama não ficar distorcido.
+
+Beleza.
+
+O que eu estou querendo dizer aqui até então?
+
+Olha, eu poderia fazer desta forma aqui, Olha só.
+
+Beleza, Eu poderia fazer desta forma aqui e eu poderia fazer
+
+desta forma aqui, como eu também poderia fazer desta forma aqui.
+
+Para vocês entenderem o usuário e senha de login e senha.
+
+Beleza.
+
+A vila Qual é o
+
+melhor? Qual é o
+
+correto? Qual é mais
+
+abrangente? Depende das situações.
+
+Eu, em particular, gosto de ser bem detalhista e gosto realmente de colocar passo
+
+a passo na minha questão, no meu contexto, no meu entendimento, no meu achismo.
+
+Não que eu esteja correto, eu opto em usar o mais detalhista possível,
+
+gerir todas as informações possíveis, porque muitas pessoas as vezes acaba tendo de
+
+mexer com esse diagrama de visualizar ou de validar esse diagrama e acontecer
+
+de não saber, por exemplo, aonde ele precisa acessar para fazer determinada validação.
+
+Qual seria o endereço do site? Qual seria o acesso
+
+do sistema ou qualquer outra coisa pertinente a isso? Então,
+
+quando há essas opções ou quando eu tenho disponiveis essas
+
+informações, eu opto em inserir um quadrinho à mais.
+
+Um quadrinho a menos.
+
+Para mim colocar não vai fazer diferença para mim.
+
+Eu sempre acrescento mais detalhes do que realmente necessita.
+
+Tá bom, mas a questão é que você poderia colocar o endereço, login
+
+e senha separado como endereço, login e senha junto ou ignorar o endereço.
+
+Inserir apenas login e senha separados ou diretamente login e senha juntos.
+
+Beleza, eu vou escolher por enquanto esta primeira opção aqui.
+
+Tá bom então.
+
+Inicialmente, para realizar aqui a atividade o Fulano de Tal, acesse
+
+o endereço onde ele precisa fazer a validação São ele.
+
+Acessando o endereço, ele vai fazer a inserção do login.
+
+Fazendo a inserção do login, ele fará a inserção da senha.
+
+Beleza é isso.
+
+Contextualizando que ele tenta fazer o login.
+
+Só que aí existe o que agora existe a verificação cadastral à verificação cadastral.
+
+Ela é esse símbolo de Ourinhos.
+
+Aqui o tal do diamante.
+
+Tá bom, aonde? Sempre
+
+vai haver duas respostas.
+
+Como eu comentei já na aula anterior,
+
+sempre haverá ali sim ou não, certo
+
+ou errado? Posso ou não posso?
+
+Um ou dois? Vou, não vou.
+
+E assim sucessivamente.
+
+Beleza.
+
+Então aqui eu também faço a escolha para onde eu quero fazer o direcionamento do meu diagrama.
+
+Eu quero puxar uma ponta para horizontal e uma aponta para vertical ou
+
+eu quero fazer aqui uma outra ponta para horizontal esquerda, uma para vertical.
+
+ou eu quero puxar as duas,
+
+uma para cada horizontal? Não sei.
+
+Isso vai depender de como você quer montar o diagrama.
+
+Se você quer apresentar ou precisa imprimir em uma folha vertical em uma folha horizontal.
+
+Se você vai talvez apresentar um PowerPoint, então você vai ter que deixar já algo mais quadrado.
+
+Depende bastante, porque por exemplo, aqui nas setas eu poderia não fazer todos
+
+em vertical e colocar alguns em horizontal e eu economizaria espaço, provavelmente.
+
+Então isso vai ser de acordo com o que vocês optarem.
+
+Beleza.
+
+A questão aqui é beleza.
+
+O usuário.
+
+Ele vai fazer aqui a inserção do login, da senha.
+
+E aí por trás, né? Vai haver ali uma codificação que vai fazer uma
+
+busca dentro da base de dados e saber se aquele login existe sim ou
+
+não, é se aquela senha existe para aquele login e se ela está correta.
+
+Sim ou não também.
+
+Então aqui já entra aquele contexto no qual eu vou falar e eu vou dar os opcionais aqui o.
+
+Login existe? Beleza
+
+ou login? Não
+
+existe login?
+
+Não existe.
+
+Tá bom? Ou seja, se login ele existir, se
+
+o login usuário ou e-mail username existir na base
+
+de dados e a senha ela estiver correta.
+
+Então eu vou falar aqui que este carinha vai percorrer para cá.
+
+Tá bom.
+
+E aí eu vou falar aqui o seguinte vou copiar e colar essa setinha aqui para nós mantermos a mesma beleza.
+
+Mas aí, aqui eu vou falar o seguinte se o login ele existe, beleza.
+
+O usuário logado com sucesso.
+
+Beleza é o login não existe.
+
+O que que nós precisamos fazer aqui?
+
+Se login não existe? Pode ter algumas
+
+situações ou login realmente não existe.
+
+Ou o login ou a senha está incorreta.
+
+Beleza, Mas vou alegar aqui que ele está realmente dizendo que não existe.
+
+Tá bom, então eu vou falar aqui oque se o login
+
+ou a senha não existe né? Então este carinha aqui.
+
+Será direcionado a página cadastral, ou seja, ele vai ser direcionado para a página onde ele
+
+vai realizar o cadastro e buscar os dados dele para ele realmente criar uma conta.
+
+Beleza.
+
+Mas como eu falei, possa ser que o login ou a senha estejam inválidas.
+
+Tá bom? E se o login
+
+acima estiver inválido? Então, por isso
+
+que o mínimo são duas respostas.
+
+Mas eu poderia falar aqui o login e senha inválida, por exemplo.
+
+Vamos ver o que aconteceria nesta ocasião aqui.
+
+Login.
+
+Ou senha inválida? Ele
+
+seria redirecionado para redefinir.
+
+Tenha beleza.
+
+Estou fazendo aqui, pessoal, de uma maneira bem superficial e bem resumida.
+
+Claro que quando ele fosse redirecionado para a página de redefinir senha, aí ele teria de fazer de
+
+novo que o input da do e-mail dele, no caso, para ele poder receber uma senha por e-mail,
+
+né? Ou para ele poder receber um código de acesso e revalidar a senha dele por e-mail.
+
+Bom, mas aqui, olha só para vocês entenderem, são os contextos ou segmentos
+
+ou os caminhos que eu poderia percorrer na tentativa de fazer um login.
+
+Na tentativa de acessar um determinado sistema ou uma determinada ferramenta.
+
+Então, inicialmente eu acessaria o endereço necessário.
+
+Beleza, Eu faria a inserção aqui do meu login e faria a
+
+inserção da minha senha e ele cairia num condicional e login.
+
+E a senha? Ela
+
+existe? Eu seria
+
+logado com sucesso.
+
+Beleza.
+
+Se o login e a senha não existe ou se o fato
+
+só de login não existir, com certeza senha também não vai existir.
+
+Eu seria direcionado a uma página cadastral aonde teria um formulário, preenchimento
+
+de nome, sobrenome, dados pessoais ali para o cadastro ele acontecer.
+
+E se eu tenho o acesso né, o cadastro.
+
+Mas eu por um acaso coloquei o meu login ou a minha senha errada, Ele direcionaria para uma
+
+página de redefinição de senha para mim receber ali um código ou acesso a uma senha temporária.
+
+Lembrando que tudo isso seria definido conforme o requisito de desenvolvimento do sistema.
+
+Tá bom, mas eu poderia já finalizar de imediato como é o nosso
+
+primeiro diagrama aqui, só para vocês entenderem como que é a montagem.
+
+Beleza, mas eu vou dar uma continuidade a mais
+
+aqui, então o direcionamento da página cadastral tá bom.
+
+Ele foi direcionado para a página.
+
+O que eu poderia
+
+fazer aqui, ó?
+
+Inserir nome? Beleza.
+
+Poderia colocar o que
+
+mais aqui? Inserir.
+
+Sobrenome?
+
+Beleza.
+
+Tá ficando muito vertical, não tá?
+
+Então eu poderia fazer isso aqui.
+
+Inserir.
+
+E-mail eu vou colocar poucos
+
+aqui, tá? E em C.
+
+Inserir e-mail.
+
+Beleza.
+
+E aqui eu vou colocar aqui Inserir senha.
+
+Beleza.
+
+Ah, usuário, Ele conseguiu fazer o cadastro, então automaticamente ele já viria para cá.
+
+Foi cadastrado?
+
+Beleza? Opa,
+
+foi cadastrado.
+
+Então eu vou colocar aqui o cadastro realizado com sucesso.
+
+Cadastro realizado com sucesso.
+
+Beleza? É esse
+
+cadastro aqui ó.
+
+Eu já poderia falar que assim que ele terminou o cadastro ele já é redirecionado a página
+
+de login, então o usuário logado com sucesso e aqui seria o término do meu diagrama.
+
+Da mesma forma que a redefinição de senha seria levado para algum
+
+lugar que depois, quando ele validar se ele seria logado com sucesso.
+
+Então talvez o meu diagrama aqui, ele teria de ser invertido para caber as amarrações.
+
+Como assim? Eu poderia
+
+fazer isso daqui, ó.
+
+Eu poderia levar esses carinhas aqui para o lado e
+
+este carinha aqui em vertical para amarrar as duas situações.
+
+Beleza, não vou fazer por enquanto.
+
+Talvez eu deixe isso daqui como uma atividade complementar para vocês, uma
+
+vez que eu estou fazendo a vocês a quatro mãos, tá bom?
+
+Bom, e aí, como todo diagrama necessita, nós precisamos de um término.
+
+Então nós inserimos aqui a nossa bolotinha De início, tá bom? Então, lembrando que ela
+
+é o círculo preto por completo e nós temos a bolinha de término, que é
+
+a bolinha pertinente também a ser preta, porém ela tem ali um determinado contorno.
+
+Então vamos tentar achar ela aqui para nós já nos situarmos.
+
+Olha só, ela está dentro de ML 2,0 e ela chama aqui o
+
+final state e o final node final da amarração final do nó.
+
+Como vocês optarem.
+
+E aqui nós acrescentaríamos ela no término da atividade.
+
+Beleza.
+
+Lembrando que eu estou deixando pontas soltas para vocês amarrarem aqui, Tá bom? Não
+
+vou fazer com vocês, senão vocês acabam não praticando tudo aquilo que é necessário.
+
+Então, como um exercício de fixação e que tá difícil amarrar, viu? Então,
+
+como um exercício de fixação, eu gostaria que vocês fizessem o seguinte aqui.
+
+Olha só como nós precisamos amarrar o lado da redefinição de senha também para que ele possa
+
+ter o login e cair neste mesmo quadro de login ou de usuário logado com sucesso.
+
+Eu gostaria que vocês pegassem esses quadros de atividades que nós fizemos de
+
+login não existente e colocasse ao lado, ou seja, de forma horizontal.
+
+Este carinha Ficaria quando o login ele existe? Vocês invertessem para k para vertical
+
+para vocês conseguirem amarrar as duas pontas a ele, Beleza? E aí vocês me
+
+mandem aí nos comentários para quem tá acompanhando pelo YouTube se vocês conseguiram, se
+
+foi fácil, se vocês tiveram alguma dificuldade, porque caso tenham dificuldades eu vou nas
+
+próximas aulas, pegando um pouco mais leve e detalhando um pouco mais juntamente à
+
+vocês, tá bom? E para quem tá acompanhando aí pela Udemy e pela plataforma
+
+da Udemy, vocês podem também mencionar nos comentários ou mandar uma mensagem privada
+
+caso vocês encontrem alguma dificuldade perante a isso aqui, beleza? Bom, então de
+
+início aqui para nossa primeira atividade do diagrama de atividades, nós trabalhamos com
+
+quatro elementos, já sabendo que a nossa setinha aqui de amarração ou de
+
+ligação já é algo bem comum, porque quase todos ou todos os diagramas.
+
+Ele faz utilização, então a gente já sabe muito bem do que se trata, né?
+
+Para mostrar ali o fluxo que está sendo direcionado, quais atividades dependem de outras.
+
+Mas nós utilizamos aqui praticamente quatro novos elementos que ainda não
+
+tínhamos visto, né? O nosso símbolo de inicialização ou de início.
+
+O nosso símbolo de final ou de término, como vocês optarem.
+
+O nosso retângulo com as bordas arredondadas, que significa ali
+
+as atividades e o nosso quadro de decisão, né? Que
+
+é a espécie desse losango ou do símbolo de
+
+ouros? Para quem aí conhece de baralho, tá bom.
+
+Bom, eu não vou me estender tanto, então eu espero
+
+que vocês estejam entendendo o que vocês estejam gostando.
+
+Vocês estejam animado para as próximas aulas para as próximas atividades relacionadas a esse diagrama.
+
+Eu vou me despedindo por aqui.
+
+Fiquem com Deus e até breve!
