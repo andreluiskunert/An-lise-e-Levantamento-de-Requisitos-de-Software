@@ -1,0 +1,593 @@
+Olá Luna! Olá
+
+Luna! Como vocês
+
+estão? Eu espero
+
+que estejam bem.
+
+Sejam muito bem vindos a mais uma aula do nosso curso de Modelagem de Dados do ML.
+
+Trazendo a vocês nesta aula mais uma atividade prática pertencente ao tipo
+
+de diagrama de atividades que faz parte do Grupo de Diagrama Comportamental.
+
+Bom, eu vou trazer aqui um exemplo bem breve, bem prático, mas para que nós
+
+possamos exercitar e fixar um pouco melhor, afinal, nós só trabalhamos dois exercícios até então.
+
+Beleza.
+
+Início de tudo, Vou minimizar aqui o nosso menu geral e
+
+abrir os dois ultimos menus Menu UML e menu UML 2,5.
+
+E aí, como nós já sabemos né? Basicamente nós iniciaremos
+
+o nosso diagrama com o start que ele é nada
+
+mais do que a bolinha Juntamente a certa beleza.
+
+E aí? Antes de nós
+
+basicamente criarmos aqui é interessante.
+
+Nós falamos um pouco a respeito.
+
+Então, seria esse diagrama de atividades no qual nós faremos aqui? Ele
+
+tecnicamente vai ser um tipo de diagrama que vai falar um pouco
+
+sobre as atividades que são pertinentes ou que são pertencentes aos alunos.
+
+Tá bom.
+
+Então imagina você como um aluno de uma escola ou como um aluno de uma universidade.
+
+E aí você tem a necessidade de efetuar login dentro de uma plataforma,
+
+dentro de um sistema, para que então você possa fazer ali algumas
+
+coisas, né? Fazer a visualização do curso, disciplina, matéria, provas e etc.
+
+Bom, então nada mais vai ser do que um exemplo prático do
+
+que talvez vocês já utilizaram, talvez do que vocês estão utilizando.
+
+ou talvez do que vocês ainda vão utilizar caso vocês façam algum
+
+curso e têm aí matérias online ou matérias dentro do sistema.
+
+Bom, sem delongas.
+
+Primeiro de tudo, o aluno ele efetua o login no sistema e então nós sabemos que todas as
+
+atividades no qual nós iremos fazer aqui e a necessidade de um retângulo com as bordas arredondadas.
+
+Eu posso criar com o retângulo com borda quadrada.
+
+Se você está fazendo um diagrama de atividades, você tem que seguir a risca.
+
+Você já utilizar um elemento que não é pertinente ou que
+
+não faz parte dentro dos elementos que são compostos nesse diagrama.
+
+Ele já deixa de ser um diagrama de atividades.
+
+Talvez você fale que é um diagrama de atividades, mas alguns
+
+elementos ali não vão ser coerentes ao tipo de diagrama.
+
+É legal sempre respeitar os elementos para não haver confusão depois, à medida que vocês forem fazendo.
+
+Com certeza vocês vão ter aptidão também quanto a isso.
+
+Beleza.
+
+Então, para a primeira atividade aqui, no qual nós iremos fazer e efetua.
+
+Login no sistema Beleza.
+
+Bom, ele efetuando o login vai automaticamente logar.
+
+Não, porque eu sou uma pessoa que estou tendo o primeiro contato com a
+
+minha plataforma e eu simplesmente tentar logar, eu não vou conseguir porque eu ainda
+
+não fiz um cadastro, eu não criei uma conta e um sistema por obrigatoriedade.
+
+Ele necessita identificar que aquele e-mail é que aquela senha ou que aquele ID, que aquele
+
+usuário, aquela senha não existem e ele me dizer ou ele retornar alguma mensagem de problema.
+
+Então quando um aluno ele tenta efetuar o login antes de efetuar o login propriamente, existe
+
+uma condição, existe uma verificação para saber se aquilo ou aquelas informações estão aderentes ou não.
+
+Então, o que que nós iremos colocar aqui? Nós iremos colocar
+
+um condicional e aí nós podemos ligar aqui o nosso elemento.
+
+A condição.
+
+Note que essa condição aqui é um pouco grande.
+
+Eu vou deixar ela um pouco menor para o diagrama não ficar tão
+
+poluído, né? Ficar aqui de forma assimétrica, os tamanhos mais ou menos semelhantes.
+
+Beleza.
+
+E aí? No meu condicional eu vou colocar aqui as
+
+atividades pertencentes a essas condições, Ou seja, eu tenho no
+
+mínimo duas condições, como eu já mencionei em aulas anteriores,
+
+no qual pode ser sim ou não, certo ou errado.
+
+Vou ou não vou? um ou dois
+
+A ou B e assim sucessivamente.
+
+Todo o condicional, por ser uma decisão, por haver escolha, eu tenho de ter no mínimo dois opcionais.
+
+Se eu não preciso de opcional ou se eu não tem opcional, eu não preciso fazer condicionamento.
+
+No contrário, se eu tenho condicionamento, no mínimo duas respostas.
+
+Beleza.
+
+Então aqui é uma charada bem básica.
+
+A vila.
+
+Quando eu vou utilizar condicionamento à vila, quando eu preciso utilizar um condicionamento,
+
+sempre quando houver necessidade de uma escolha, seja duas ou mais escolhas.
+
+Se eu não tenho escolha, eu não preciso ter uma condição.
+
+Agora vamos lá.
+
+Esta primeira condição aqui ela vai ser se o aluno está cadastrado ou não.
+
+Caso ele não esteja cadastrado,
+
+eu vou precisar fazer o
+
+que? Cadastrar Aluno? Beleza.
+
+Agora, se ele já está cadastrado, ele vai fazer o login automaticamente.
+
+Então eu vou fazer o seguinte aqui ó.
+
+Eu vou colocar dois condicionais aqui se chama condicional composto, tá? Estou
+
+utilizando um condicional propriamente ao outro e aí neste segundo condicional aqui
+
+eu vou fazer o seguinte eu vou fazer a visualização das atividades.
+
+Beleza, eu vou colocar aqui o seleciona.
+
+Atividades Beleza propriamente o que eu estou dizendo até então o aluno ele vai
+
+acessar a plataforma, ele vai fazer a tentativa de login e o login.
+
+Ele existe, ele vai passar direto e ele vai cair em
+
+um segundo condicional, que é para fazer a seleção da atividade.
+
+Caso essa tentativa de login ela não exista, ele vai cair
+
+no condicional de registrar se antes de efetuar o login.
+
+Então ele vai fazer o cadastro e aí, quando ele cadastrar, vai
+
+haver o redirecionamento aqui para a seleção das atividades da mesma forma.
+
+O que está faltando aqui
+
+para mim? Ter uma
+
+orientação melhor? Os textos.
+
+Então aqui eu vou acrescentar ou não.
+
+Vamos ajeitar ele aqui e ao lado nós colocaremos o.
+
+Sim.
+
+Beleza.
+
+Ou seja.
+
+Dentro deste condicional, caso eu opte também, eu posso colocar uma pergunta.
+
+Então eu poderia colocar aqui o seguinte o usuário possui cadastro Sim.
+
+Então ele vai dar
+
+continuidade ao fluxo? Não.
+
+Ele vai cair para um outro lado do fluxo, que é o cadastro.
+
+Eu posso fazer de várias formas esta instrução.
+
+Primeira forma eu posso escrever dentro do meu condicional e aí propriamente o
+
+meu diagrama, ele obviamente vai ficar maior, Os elementos serão maiores também.
+
+Então, se eu aumentar aqui, por exemplo, o meu condicional de tamanho, todos os
+
+meus outros elementos, eles também terão de ficar maiores para ficar algo bem
+
+simétrico, tá? Eu, em particular, quando vou fazer, tenho o costume de criar
+
+dentro, então eu sempre faço um pouco maior do que o tamanho padrão.
+
+Olha só.
+
+Note que no início eu diminui o tamanho padrão e esse daqui
+
+Geralmente eu crio diagramas um pouco maiores para eu poder escrever.
+
+Por que que eu não fiz desta forma? Porque
+
+eu quero falar para vocês que existe outras possibilidades.
+
+Eu poderia, por exemplo, usar a nota.
+
+Lembra que nós falamos na parte teórica que Existe a nota e a nota.
+
+Ela é para justamente fazer anotações, fazer escritas ou breves descrições de
+
+algumas coisas que talvez não caibam ou não são de tanta
+
+importância ou relevância dentro dos elementos ou dentro propriamente do diagrama.
+
+Então, as notas nós poderíamos trabalhar com ela neste contexto aqui.
+
+Bom, eu não vou me recordar exatamente onde ela tá, então eu vou precisar de
+
+um tempinho para procurar e se eu demorar eu acabo adiantando a aula aqui.
+
+Tá bom? Teria esse elemento
+
+de comentário? Tá bom, nós
+
+vamos utilizá lo aqui.
+
+Primeiro de tudo, o que eu vou precisar fazer aqui.
+
+Note que a folha no qual estou criando ela está em vertical e eu comecei
+
+a criar aqui muito próximo a borda, então eu vou arrastar aqui o elemento, os
+
+elementos um pouco mais para o centro, para que caiba o nosso símbolo de comentário.
+
+E aí o símbolo de comentário nós podemos fazer a amarração.
+
+Então nós vamos fazer o seguinte aqui o.
+
+Ao invés de nós ligarmos o comentário ao condicionamento, nós
+
+vamos fazer o que? Ligar o condicionamento ao comentário.
+
+E aí, como eu havia dito, nós podemos escrever aqui o.
+
+Usuário possui
+
+cadastro? Beleza.
+
+Se o usuário possuir cadastro.
+
+Ele vai fazer login.
+
+Pelo contrário, ele vai ter a necessidade de realizar o cadastro.
+
+Tá aí.
+
+Existem algumas coisas aqui no qual vocês podem estar fazendo e também vai facilitar
+
+bastante Quando vocês forem fazer aqui os direcionamentos, é sempre dar um zoom para
+
+ter uma melhor visão, melhor direcionamento de onde você está ligando a seta.
+
+Não sei se vocês observaram, mas eu tinha ligado antes de dar o zoom
+
+e quando eu dei zoom ficou muito amarrado aqui ao centro do objeto.
+
+O esquisito e eu precisei arrumar, tá? São pequenos detalhes
+
+que fazem toda a diferença no término do diagrama.
+
+Beleza? Bom, vamos
+
+dando continuidade aqui.
+
+Então.
+
+Esta é 1/1 que é condizente ao aluno fazendo as interações no sistema.
+
+O que vai acontecer aqui agora? Bom, quando ele faz a
+
+seleção das atividades, abre automaticamente o que as atividades em si.
+
+Então, quando ele faz a seleção propriamente após seleção
+
+existe o que? A exibição das atividades? Beleza, Então
+
+vamos colocar aqui o exibe? Atividades Beleza? E aí,
+
+o que acontece quando faz a exibição das atividades?
+
+Ele também tem aqui duas coisas a serem
+
+feitas, que é o que fazer, a atividade
+
+em si ou refazer a atividade em si.
+
+Por que que ele às vezes vai precisar refazer? Porque vai
+
+variar de acordo com a nota que ele vai tirar.
+
+Se ele vai acertar a quantidade mínima, ele vai respeitar as regras e etc.
+
+Beleza.
+
+Lembrando lá, quando você tá na escola, algumas ocasiões o
+
+mínimo para você tirar uma nota azul é cinco.
+
+Outras escolas o mínimo é sete.
+
+Da mesma forma, em universidades Existe uma nota mínima
+
+no qual você precisa tirar para poder passar adiante.
+
+Do contrário, você precisa refazer ali uma segunda prova para compensar a nota ou algo do tipo.
+
+Então, aqui é mais ou menos este conceito no qual nós trabalharemos.
+
+E aí, de novo, o que nós poderíamos fazer
+
+aqui? Nós poderíamos colocar também um determinado comentário.
+
+Por quê? Porque, de novo, nós
+
+iremos precisar de um condicional.
+
+Tá bom, então nós vamos colocar o condicional aqui.
+
+E de novo, obviamente, vai ter duas possibilidades.
+
+Então eu vou colocar a primeira aqui ao lado também.
+
+E essa primeira vai ser assim o que tem
+
+de muito menor? Do que 75%? Ou seja, E
+
+o rendimento dele for menor do que 75%.
+
+Ele vai precisar refazer o contrário.
+
+Ele vai continuar com o processo sistêmico e com as outras disciplinas.
+
+As outras matérias e assim sucessivamente.
+
+Beleza.
+
+Então vamos lá fazendo as amarrações devidas aqui.
+
+Nós vamos precisar também fazer uma escrita como um breve
+
+comentário, da mesma forma que nós atribuímos anteriormente na nota.
+
+Então, copiando e colando a nota que está acima, nós vamos precisar acrescentar ela aqui também.
+
+E aí novamente, vamos dar um zoom aqui, ó.
+
+Para poder fazer a amarração.
+
+E aqui nós já vamos ver o que nós vamos escrever.
+
+Vamos continuar aqui o copiar e colar que às vezes fica
+
+mais fácil, né? Nós vamos manter um sim aqui do lado.
+
+E vamos manter um não.
+
+Do lado de cá.
+
+Bom, vamos lá.
+
+Qual a pergunta no qual nós poderíamos colocar aqui?
+
+Nós poderíamos colocar assim o aluno é a atividade.
+
+Fim ou não? Lembrando que
+
+é conforme o rendimento.
+
+Sim.
+
+Ou seja, quando o rendimento ele for menor do que 75%.
+
+E não é quando o rendimento for maior do que esta regrinha aqui.
+
+Beleza.
+
+Então, dando continuidade aqui para que nós possamos ter o entendimento, olha só,
+
+eu fui lá, fiz a exibição da minha atividade, fiz todo questionário, respondi
+
+as dez perguntas e aí eu tive um rendimento menor do que 75%.
+
+Beleza.
+
+Então, sim, eu precisarei refazer e eu vou cair neste condicional aqui.
+
+Eu vou refazer porque eu tive um rendimento menor.
+
+Beleza.
+
+E aí, quando eu refazer, eu vou passar adiante de novo.
+
+Tendo eu rendimento menor ou não? Porque eu não
+
+posso fazer e refazer várias vezes uma atividade.
+
+O máximo que eu refaço é uma para tentar compensar e tirar uma nota maior do que eu fiz na anterior.
+
+Eu não vou poder refazer duas, três, quatro, cinco e assim sucessivamente.
+
+Então aqui esta regra ela vai ser uma regra feita apenas para você refazer uma única vez.
+
+Beleza.
+
+E aí, do contrário, o aluno ele fará a atividade não porque? Porque a nota
+
+dele foi boa e ele não precisou cair no condicionamento de refazer a atividade.
+
+Beleza.
+
+E aí nós damos continuidade.
+
+E aí nós colocamos aqui o seleciona atividade.
+
+Isso já é uma parte sistêmica,
+
+tá? Lançar nota no sistema.
+
+Beleza.
+
+E aí? Sobre a seleção da
+
+atividade, também tem um outro ponto.
+
+E esse ponto é o que a verificação da quantidade de vezes que foi realizada a atividade.
+
+Então aqui o existe O que? A verificação, então nós podemos colocar
+
+assim o verifica a quantidade de vezes e foi realizada a atividade.
+
+Beleza.
+
+E aí, por fim, seleciona atividade.
+
+Ele também vai cair na última etapa, né?
+
+Ou na última opção, como vocês optarem.
+
+E é o que realiza.
+
+Atividade?
+
+Beleza.
+
+E aí nós teremos o fim, o término do diagrama.
+
+Poderíamos já colocar aqui o nosso carinha de término,
+
+né? E aí nós poderíamos também escrever aqui.
+
+Para ficar legal, assim como nós poderíamos
+
+escrever no início, né? Colocaremos fim aqui.
+
+E poderíamos colocar.
+
+Início aqui.
+
+Belezinha? Então, aqui seria o nosso
+
+diagrama da aula de hoje.
+
+Lembrando que nós estamos falando de um diagrama relacionado à atividade escolar do aluno.
+
+Beleza.
+
+Então, recapitulando, o início da atividade se dá quando o
+
+aluno acessa a plataforma, acessa o endereço, abre o sistema.
+
+Beleza.
+
+Ele faz a tentativa de login.
+
+Caso o login não exista, ele vai se cadastrar e caso o login exista, ele passa adiante.
+
+Beleza? Ou seja,
+
+o usuário ele
+
+possui cadastro? Sim.
+
+Se possui cadastro vai logar no sistema e ele vai passar adiante.
+
+Usuário possui
+
+cadastro? Não.
+
+Então ele vai cair numa tela onde haverá necessidade de preenchimento
+
+de cadastro para que então ele dê continuidade e prossiga.
+
+Beleza, E aí, qual é o procedimento depois de ele ter
+
+logado no sistema? Ele vai fazer a seleção da atividade.
+
+Quando ele selecionar a atividade desejada, o sistema vai fazer a exibição dessa atividade.
+
+E aí o sistema.
+
+Ele também vai fazer uma verificação se o aluno fará ou fará a atividade a partir de qual critério.
+
+A partir do critério de um rendimento menor de 75%.
+
+Ou seja, se a atividade primária que o aluno realizou teve
+
+um rendimento menor do que 75%, sim, ele precisará fazer novamente.
+
+Do contrário, se a primeira atividade no qual ele realizou teve
+
+um rendimento maior do que isso, ele vai prosseguir adiante.
+
+Beleza.
+
+E aí, quando ele fizer a seleção da atividade, vai haver a
+
+realização e o término dessa atividade automaticamente quando ele realizar a atividade.
+
+O próprio sistema também vai fazer a verificação de quantas vezes ele
+
+realizou aquela atividade e após ele fará o lançamento da nota.
+
+Então, se na primeira atividade no qual ele realizou, ele teve um rendimento
+
+maior do que 75%, automaticamente o sistema já vai fazer o lançamento.
+
+Beleza.
+
+Agora, se o usuário ele fez a primeira, teve um rendimento baixo, ele ta fazendo a
+
+segunda, aí o sistema ele vai cair nessa aqui, onde ele vai fazer a verificação da
+
+quantidade, porque aí ele vai ver de qual das duas avaliações ou qual das duas
+
+atividades teve uma maior nota para que então a pós possa ser lançado no sistema.
+
+Beleza, Eu espero que vocês tenham entendido.
+
+Foi mais um exemplo aqui para nós exercitarmos um exemplo bem simples também, por sinal.
+
+Eu gostaria de informar a vocês que próxima aula eu vou tentar trazer algo um pouco
+
+mais complexo, um pouco maior também e que nos faça pensar um pouco melhor a respeito
+
+de como nós precisamos ou como nós podemos montar alguns tipos de diagramas de atividades.
+
+Então eu espero vocês na próxima aula.
+
+Fiquem com Deus e até breve.
