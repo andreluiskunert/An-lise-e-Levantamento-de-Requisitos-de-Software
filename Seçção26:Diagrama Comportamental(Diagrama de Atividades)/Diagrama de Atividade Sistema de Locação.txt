@@ -1,0 +1,677 @@
+Olá, aluna! Olá, aluno! Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de
+
+modelagem de dados do ML,
+
+trazendo a vocês, nesta aula, a última atividade prática
+
+que é pertinente ao diagrama de atividades.
+
+A partir daqui, nós teremos uma conclusão geral relacionada a este diagrama.
+
+Tivemos um módulo específico apenas para ele,
+
+porém, nós precisamos dar continuidade ao curso
+
+e nós precisamos ver ainda demais diagramas em falta.
+
+Então, vou estar passando aqui para fazer juntamente a vocês
+
+o último exercício de atividades deste módulo.
+
+O que nós desenharemos hoje?
+
+Nós desenharemos um diagrama de atividades
+
+que vai ser relacionado a atividades de uma locadora.
+
+Uma locadora que utiliza um serviço de software para fazer o registro das locações.
+
+Nós, basicamente, faremos o acompanhamento das ações
+
+desde o momento em que um ator fará a solicitação desta locação
+
+e, consequentemente, prosseguindo com outras etapas.
+
+Então, sem delongas, nós vamos iniciar aqui o diagramas,
+
+obviamente, abrindo os menus que nós vamos utilizar, que é o UML e o UML 2.5.
+
+Aqui em UML, nós já temos o nosso start, sabemos que é a bolinha preta que já possui uma seta.
+
+E aqui nós podemos fazer a representatividade de início.
+
+Então, nós vamos abrir o menu geral, vamos pegar aqui a ferramenta de text
+
+e vamos digitar aqui início, tá bom?
+
+Então, nós temos o início do diagrama aqui.
+
+Bom, primeiro de tudo, para fazer a solicitação das locações nesse sistema,
+
+obviamente, existe a solicitação de locação.
+
+Porém, como nós já sabemos, o usuário precisa ser verificado
+
+para ver se há existência do cadastro, do login dele ou não.
+
+Então, aqui o que nós já fizemos em aulas anteriores de
+
+saber se está cadastrado, caso não esteja, precisar direcionar para uma página cadastral.
+
+Nós vamos, basicamente, repetir aqui.
+
+Eu não tenho muito o que eu argumentar, tá bom?
+
+Então, início de tudo, nós vamos diminuir um pouco aqui o nosso elemento de atividades.
+
+Vamos colocar aqui que o início é a solicitação de alocação, beleza?
+
+Então, este daqui é o nosso princípio.
+
+Bom, após isso, existe a verificação se o usuário está cadastrado ou não.
+
+Então, nós podemos colocar como verificação cadastral ou algo relacionado a isso.
+
+Bom, primeiramente, vamos fazer a ligação aqui.
+
+Vamos colocar verificar se o usuário está cadastrado, beleza?
+
+E aí, nós temos o condicionamento.
+
+Sabemos que é o losangulo, para quem conhece baralho, aí é o símbolo de oros.
+
+E aí, como eu já mencionei em aulas anteriores, nós temos possibilidades de utilização
+
+para este elemento, podendo escrever dentro ou podendo fazer uma anotação por fora
+
+e linkando neste elemento.
+
+Então, depende muito do contexto, do tamanho do diagrama, do tipo ou da forma que você está utilizando.
+
+Eu, geralmente, como já mencionei, costumo fazer as escritas dentro,
+
+porém, para o diagrama não ficar muito grande e eu precisar ficar dando zoom,
+
+eu vou fazer ele menor, então vou colocar aqui as notas aos lados, tá bom?
+
+Então, vamos continuando assim por enquanto.
+
+Bom, então, aqui vai ser basicamente duas condicionais sequenciais, tá bom?
+
+Onde nós falaremos aqui se ele deseja ou não realizar os cadastros,
+
+basicamente repetindo os processos anteriores.
+
+E aí, nós precisamos também tomar a nota, tá?
+
+Então, vamos pegar aqui o nosso comentário para fazermos as anotações devidas, beleza?
+
+Então, o primeiro de tudo é o quê? Verificar se o usuário está cadastrado.
+
+Então, vamos colocar a pergunta aqui no seguinte sentido.
+
+Usuário está cadastrado?
+
+Essa vai ser a pergunta pertinente a esta nossa primeira condicional aqui, tá bom?
+
+Sim, o usuário está cadastrado ou não, o usuário não está cadastrado.
+
+Fazendo o caminho triste primeiro, vamos fazer aqui o não, tá?
+
+Então, o usuário está cadastrado? Não.
+
+E aí, existe aqui outras duas possibilidades, ou ele efetou o cadastro ou ele sai do sistema, né?
+
+Então, ele não efetou o cadastro.
+
+Então, novamente, caminho triste, vamos aqui pegar o nosso estudo de término, beleza?
+
+Vamos colocar aqui, ligando também com o condicional, um pouco pequeno, né?
+
+Deixar aumentar um pouco.
+
+Tá melhor.
+
+E aqui, nós colocamos outra pergunta, né?
+
+Que aqui é uma outra condicional.
+
+Então, qual seria o sentido dessa próxima pergunta aqui?
+
+Vamos lá, deixa eu só ajustar inicialmente.
+
+O usuário realizará o cadastro? Sim ou não?
+
+Então, vamos novamente para o caminho triste e vamos colocar um não aqui também, tá?
+
+Então, inicialmente, nós já temos o nosso primeiro caminho triste, ou seja,
+
+o usuário vai acessar o sistema, o aplicativo, a plataforma, enfim.
+
+Vocês imaginarem de software sobre alocação, beleza?
+
+Ele vai fazer a tentativa de login e haverá uma verificação cadastral, tá bom?
+
+Então, o usuário foi constado que não possui o cadastro e aí ele tem a possibilidade ou
+
+de realizar o cadastro ou de não realizar, desistir e sair de onde ele está.
+
+Aqui é o caminho triste e ele não quis realizar o cadastro.
+
+Então, automaticamente, a gente já teve o término do fluxo, beleza?
+
+Agora, caso ele queira ou caso ele precise realizar o cadastro, aí é o caminho feliz,
+
+ou seja, o usuário faz a solicitação do cadastro.
+
+Então, nós vamos dar sequência aqui, vamos colocar o sim.
+
+O usuário realizará o cadastro?
+
+Sim, é o primeiro caminho feliz.
+
+Então, nós vamos pegar aqui o nosso elemento de atividade, beleza?
+
+E aqui nós vamos inserir a atividade efetuar cadastro, beleza?
+
+Essa atividade de efetuar cadastro, ela vai ser também uma opção condicional, por quê?
+
+Porque eu posso ir até a página de cadastro, a página cadastral,
+
+porém eu posso desistir do cadastro.
+
+Talvez o formulário de preenchimento para realizar o cadastro peça muitas informações,
+
+ou talvez peça a obrigatoriedade de algum dado que eu não queira passar,
+
+algum dado pessoal, CPF, número de cartão, ou alguma coisa nesse sentido,
+
+e eu desista também.
+
+Então, aqui vai existir novamente um próximo condicional, tá bom?
+
+E aí, esse condicional, ele vai ser pertinente para saber se ele efetuou o cadastro ou não, tá bom?
+
+E aí, nós podemos também acrescentar caso nós fizermos a nossa nota.
+
+Então, aqui, qual seria a pergunta pertinente?
+
+Cadastro efetuado ou cadastro não efetuado?
+
+Ou seja, cadastro realizado com sucesso?
+
+Vamos escrever aqui, cadastro realizado com sucesso.
+
+E aí, nós vamos tomar a nota, vamos acrescentar aqui.
+
+O primeiro ponto aqui que nós vamos nos atentar é em relação ao espaço, tá?
+
+Então, nós vamos, primeiramente, precisar fazer a mudança disso daqui para não ficar havendo a sobreposição.
+
+Então, aqui, nós teremos o outro condicional, mais uma vez.
+
+Caso o cadastro, ele não seja realizado, nós sabemos que haverá o término.
+
+Então, vamos colocar aqui para baixo, tá bom?
+
+Então, de novo, cadastro realizado com sucesso, não. Por quê?
+
+Ele foi até a página cadastral, porém, ele não quis dar continuidade ao preenchimento
+
+para ter o cadastro efetuado.
+
+Então, ele veio para cá, beleza?
+
+Agora, caso ele vá ser redirecionado para a página cadastral e ele queira fazer o preenchimento,
+
+aí nós temos, de novo, o caminho feliz.
+
+E aí, o caminho feliz, nós sabemos que é o caminho do sim, beleza?
+
+E aí, o que vai acontecer com o caminho do sim aqui?
+
+Quando ele vier para o preenchimento cadastral, e aí o cadastro for efetuado com sucesso,
+
+nós podemos colocar aqui assim, cadastro efetuado, beleza?
+
+E aí, para o cadastro efetuado, nós vamos dar continuidade.
+
+Então, eu vou acrescentar essa atividade para cima, porque se vocês observarem,
+
+eu mantive a pendência aqui de um condicional, porque ele vai direto para cá. Que é o quê?
+
+Verificação de pendências do cliente.
+
+Ou seja, quando ele tem o cadastro e eu preciso fazer uma verificação,
+
+se existe alguma coisa, alguma locação no nome dele, ou alguma coisa que ele não tenha entregue,
+
+ou talvez ainda não tenha pago, tá?
+
+Então, eu vou colocar assim, verificar pendências do cliente, beleza?
+
+Eu comi a letra aqui, eu acho que é a fome de verificar pendência do cliente, tá bom?
+
+Então, essa atividade, ela vai ser pertinente a isso daqui.
+
+Agora, voltando lá no início, vamos imaginar que haja a tentativa aqui de verificação cadastral,
+
+e o usuário já possui o cadastro de imediato,
+
+e ignorando todo esse caminho de fazer preenchimento no qual nós estamos mapeando,
+
+vamos imaginar que ele já possua, vai vir direto para cá, olha só.
+
+Por isso que eu tinha deixado ele não ligado ali, não tive mencionado ele também,
+
+para a gente ter um entendimento agora, beleza?
+
+Então, aqui nós já temos basicamente o comportamento inicial entre o ator fazendo a solicitação cadastral,
+
+ou o ator fazendo o login do sistema, e já havendo após o login a verificação do sistema
+
+pertinente àquele determinado cadastro para saber se há ou não determinadas pendências naquele nome
+
+ou naquele registro, beleza?
+
+E aí, de novo, nós vamos ter um outro condicional, por quê?
+
+Porque se existe a verificação de pendências, eu, de novo, vou ter duas possibilidades,
+
+ou eu tenho a pendência, ou eu não tenho a pendência, ou seja, eu tenho dois caminhos.
+
+Bom, quais são esses caminhos?
+
+Se houver a pendência, eu tenho que fazer o quê? A quitação da pendência.
+
+Agora, se não houver, eu vou dando continuidade.
+
+Então, vamos fazer primeiro o caminho triste de que há a pendência.
+
+Por que é o caminho triste? Porque existe um determinado débito, existe ali uma determinada
+
+cobrança, ele está devendo.
+
+Eu vou colocar aqui, ar, pendência, beleza?
+
+E aí, de novo, eu vou precisar fazer o quê? A verificação em relação ao contexto escrito.
+
+Então, para me orientar melhor, eu vou fazer aqui, na parte de cima, e eu vou colocar aqui, existe pendência em aberto?
+
+Pode ser a pergunta que ficaria aqui no ar, para a gente poder nos orientarmos, tá?
+
+Existe a pendência aberta? Sim, existe a pendência aberta, e eu vou fazer a quitação dessa pendência, beleza?
+
+Então, aqui nós já temos a continuidade.
+
+Agora, se não houver a pendência, aí já é um outro determinado caminho,
+
+mas nós estamos falando em quitação da pendência, é uma determinada atividade,
+
+e quando nós quitarmos, nós estamos terminando a atividade.
+
+Então, nós poderemos colocar aqui o símbolo de término da atividade em específico, tá bom?
+
+Lembrando que eu posso fazer um comentário adicional, ou algo nesse sentido,
+
+eu poderia colocar uma nota aqui de que há o registro no sistema quando houver a quitação.
+
+É algo que não é pertinente ao fluxo no qual nós estamos montando,
+
+seria uma atividade paralela a esse segmento aqui,
+
+mas que o sistema acaba fazendo quando há a quitação.
+
+Então, nós podemos pegar aqui, por exemplo, este elemento e colocar aqui,
+
+e o sistema vai fazer o quê?
+
+O registro, então, registrar no sistema.
+
+Por que eu coloquei aqui entre esse símbolo sistema?
+
+Porque aqui eu estou dizendo que é uma atividade sistêmica, tá bom?
+
+E aí, eu vou fazer essa ligação aqui, tá?
+
+Então, quando houver a quitação, vai consequentemente haver o registro dessa quitação.
+
+Eu preciso marcar quando foi pago, que está pago,
+
+para não fazer a cobrança indevida mais uma vez.
+
+Aí, dando continuidade aqui ao nosso segmento de atividade,
+
+nós ainda teremos um segundo condicional aqui também.
+
+Por quê? Porque se não há a pendência,
+
+aí eu preciso também fazer a escolha de quais os próximos procedimentos eu quero realizar.
+
+E também, da mesma forma, se eu quitar a pendência,
+
+eu também devo fazer a continuidade do fluxo de atividades
+
+para me poder fazer aqui a atividade necessária.
+
+Se fazer uma nova alocação, se é efetuar uma troca de algo que eu já tenho alocado,
+
+ou algo nesse sentido, tá bom?
+
+Agora, se vamos falar sobre a troca,
+
+nós poderíamos colocar aqui as seguintes possibilidades.
+
+A primeira delas seria o seguinte.
+
+Quando eu falar sobre troca, eu inicio o registro de troca.
+
+Vou colocar como iniciar, registro de troca, beleza?
+
+E aí, nós podemos colocar aqui que existe a seleção do que vai ser utilizado para troca.
+
+Então, vamos colocar aqui, selecionar,
+
+cópias a serem trocadas, beleza?
+
+E aí, também, de novo, vai ter o registro sistêmico.
+
+Então, eu posso copiar esse cara que já está, basicamente, como pronto, beleza?
+
+E este cara aqui, nós podemos mapear no seguinte sentido.
+
+Sistema, podemos manter a mesma informação, genérico, registra no sistema.
+
+Aqui, para nós nos orientarmos melhor, vamos colocar aqui o seguinte.
+
+Quando ele vier por este caminho, é relacionada à troca, tá bom?
+
+Então, ele verificou a pendência. Há pendência?
+
+Faltou um informativo aqui. Há pendência? Não.
+
+Então, ele faz aqui a continuidade do que ele quer prosseguir.
+
+Há pendência? Sim, ele quita a pendência.
+
+Depois que ele quita a pendência, ele também vem para o mesmo caminho,
+
+ou seja, ele quer fazer uma troca ou ele quer fazer uma alocação.
+
+Bom, aí, o que acontece aqui?
+
+Olha só, quando ele selecionar as cópias, vai haver uma outra continuidade.
+
+Porém, eu vou deixar uma ponta solta e vou aplicar a continuidade aqui sobre a alocação
+
+para lá na frente esses dois se encontrarem assim como nós fizemos no início aqui para a parte de baixo, beleza?
+
+Então, como vai funcionar? Olha só, eu vou dar continuidade aqui para frente
+
+e eu vou me orientar aqui, então, acrescentando a alocação, beleza?
+
+E aí, eu coloco aqui, inicia o registro de alocação, beleza?
+
+Aí, mais uma vez, quais são os procedimentos sobre o registro de alocação?
+
+Ele vai fazer a seleção das cópias, então, aqui, selecionar...
+
+Seleção fica melhor, né? Seleção de cópias a serem levadas, beleza?
+
+Porque quando eu estou falando de alocação, eu estou falando não de um, mas de várias alocações ao mesmo tempo.
+
+E aí, de novo, o sistema vai fazer o registro, então, eu vou deixar esse cara aqui como uma ponta solta também, tá?
+
+Porque aqui eu estou dizendo o que está sendo de atividade sistêmica, beleza?
+
+E aí, de novo, vamos cair numa outra condicional, tá?
+
+Qual seria esta outra condicional? Vamos lá.
+
+Esta condicional, ela está sendo pertinente à finalização do processo, tá?
+
+Então, vamos colocar aqui na seguinte hipótese, beleza?
+
+Primeira coisa, eu posso finalizar tanto o procedimento de alocação quanto o procedimento de troca,
+
+e eu posso iniciar um novo processo, tá?
+
+Então, o que aconteceria aqui?
+
+Esta parte que eu deixei ponta solta faria a seleção de cópias a serem levadas e viria para cá, tá?
+
+É a mesma parte de seleção, porém, antes de eu vir para cá, eu tenho outra coisa para ser feita.
+
+O que seria esta outra coisa para ser feita?
+
+O término do fluxo.
+
+Então, aqui, talvez eu também pudesse acrescentar um determinado condicional, tá?
+
+E esse condicional diria se eu quero dar continuidade a novas cópias
+
+ou apenas realizar a troca daquelas que eu selecionei.
+
+Então, eu vou fazer o seguinte.
+
+Se eu quiser fazer apenas a troca das cópias,
+
+eu vou vir aqui para o termo, beleza?
+
+Porém, se eu quiser fazer aqui o processo de novas cópias,
+
+a seleção de novas coisas para levar juntamente com o que eu estou trocando,
+
+eu vou trazer para cá.
+
+Agora, qual vai ser a anotação no qual nós vamos acrescentar aqui
+
+para nós termos uma orientação?
+
+Então, vamos pegar aqui de novo o nosso círculo de anotação,
+
+e aí nós vamos fazer o seguinte.
+
+Qual a pergunta que nós podemos fazer aqui?
+
+Vai ser essa na troca e aqui, realizar.
+
+Realizar não, levar.
+
+Eu acho que ficaria melhor assim.
+
+Levar novas cópias.
+
+E aí, nós vamos ter o procedimento de sim ou não.
+
+Deseja levar novas cópias?
+
+Não. Então, fluxo e finaliza.
+
+Deseja levar novas cópias?
+
+Sim. Então, o fluxo dá continuidade.
+
+Então, vamos colocar aqui o deseja antes.
+
+Deseja levar novas cópias.
+
+Está melhor de nós nos orientarmos, beleza?
+
+E aí, ele vai cair nesse condicional no qual nós já estávamos fazendo,
+
+e aí nós vamos fazer o procedimento de finalização do processo.
+
+E aí, aqui, vamos colocar também duas atividades. Por quê?
+
+E a atividade daqui vai fazer a finalização,
+
+e a atividade de baixo vai realizar um novo processo.
+
+Beleza? Então, vamos lá.
+
+Qual é a orientação que nós podemos colocar aqui?
+
+Deseja finalizar o processo? Sim ou não?
+
+E aí, nós nos orientamos de novo. Sim.
+
+Então, eu vou manter para cá.
+
+Não. Eu vou manter para o lado de cá. Beleza?
+
+Bom, eu vou fazer aqui o término do processo,
+
+então, eu vou colocar aqui, finalizar processo de alocação barra troca.
+
+Porque o processo, a finalização, se dá aos dois meios.
+
+Independente se lá atrás ele deu com a opção de troca,
+
+mesmo ele fazendo a troca, ele vai cair na condição de que, se ele quer ou não,
+
+dar a continuidade a fazer novas seleções.
+
+E sim, caso ele queira, ele vai cair nesse mesmo fluxo aqui.
+
+E aí, nós vamos pegar aqui o símbolo de término de novo,
+
+e vamos finalizar esta atividade. Beleza?
+
+Agora, caso ele não queira finalizar o processo,
+
+então, ele vai cair na condição de iniciar novo processo. Beleza?
+
+E aí, este novo processo vai ter outra condicional.
+
+Esse fluxo está bem cheio de condicional, não é mesmo?
+
+Então, vamos lá.
+
+Quando ele cair para este condicional,
+
+aí, nós faremos o seguinte,
+
+aí, vai ter novamente dois novos caminhos.
+
+Ou ele finaliza, e aí, vai ser um caminho A,
+
+ou ele inicia um novo registro de alocação,
+
+e aí, ele vai para o caminho B. Beleza?
+
+Então, aqui, deseja ou gostaria,
+
+vamos colocar como deseja para manter o que nós já estávamos fazendo.
+
+Vou colocar assim, deseja iniciar novo processo.
+
+E aí, de novo, sim ou não?
+
+Sim, eu desejo iniciar um novo processo.
+
+Ele vai cair para este condicional.
+
+Caso não, ele vai, literalmente, terminar o fluxo. Beleza?
+
+Assim como também aqui, como nós colocamos,
+
+nós poderíamos ter colocado que quando ele vai aqui para o não,
+
+ao invés de ele finalizar,
+
+nós poderemos colocar para ele vir para cá,
+
+para ele finalizar direto aqui.
+
+Eu poderia ter puxado essa perninha para cá,
+
+mas isso também é um detalhe a mais.
+
+Não que aqui esteja errado, beleza?
+
+Então, isso daqui seria um diagrama de atividade
+
+que é pertinente ao que nós falamos no início sobre um sistema de alocação.
+
+Aí, vamos lá nas coisas que nós não estamos mais habituados a fazer,
+
+até mesmo devido a tempo,
+
+eu acabo não colocando para não deixá-la tão maçante,
+
+que é fazer as devidas formatações.
+
+Então, vamos fazer a seleção aqui de alguns elementos
+
+e fazer a mudança das cores deles,
+
+até para nós termos uma orientação visual melhor.
+
+E aí, vocês vão ver como o diagrama muda
+
+só de nós fazermos pequenas alterações de cores. Olha só.
+
+Tudo que for nota, eu também vou acrescentar outras cores
+
+para nós termos uma percepção do que é notação.
+
+E tudo que é sobre sistema,
+
+eu também vou colocar aqui outra cor
+
+para também nós termos uma percepção do que é a notação. Beleza?
+
+Então, vai ser basicamente isso daqui que nós iremos fazer.
+
+Agora, eu vou fechar para a gente poder dar um zoom
+
+e termos uma visibilidade melhor. Olha só.
+
+Então, esse é o diagrama mais elaborado que nós fizemos até então
+
+e como foi mencionado na última aula e foi prometido, inclusive,
+
+para algo um pouco mais complexo,
+
+para nós podermos literalmente fechar esse assunto
+
+e poder dar início a um novo. Beleza?
+
+Então, eu vou me despedindo por aqui,
+
+não vou me estender tanto.
+
+Eu espero de verdade que vocês não apenas tenham entendido,
+
+mas que vocês estejam aprendendo,
+
+que vocês sejam capazes de utilizar esse diagrama no dia a dia
+
+e que caso vocês tenham dúvidas,
+
+que vocês não deixem de voltar nas aulas
+
+para talvez reforçar ou se reorientar naquilo que vocês
+
+tenham deixado a passar despercebido,
+
+que vocês não tenham dado tanta atenção ou tanta importância. Beleza?
+
+Na próxima aula, nós daremos início a um novo modo,
+
+a um novo tipo de diagrama
+
+e, novamente, onde nós falaremos um pouquinho a mais na parte teórica
+
+e assim que nós tivermos um know-how, mesmo que superficial,
+
+entraremos na parte prática como nós temos feito nos anteriores. Beleza?
+
+Eu sou o Leôngas, me despeço de vocês,
+
+fiquem com Deus e até breve.
