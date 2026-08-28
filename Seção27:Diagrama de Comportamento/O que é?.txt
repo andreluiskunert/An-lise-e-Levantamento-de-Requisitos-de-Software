@@ -1,0 +1,287 @@
+Olá, aluna! Olá, aluno! Como vocês
+
+estão? Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem
+
+de dados UML, trazendo a vocês nesta aula um novo modo no
+
+qual nós falaremos em mais um diagrama do grupo de diagramas comportamentais.
+
+Nós vamos falar do diagrama de estado, ou,
+
+para quem preferir, diagrama de máquina de estado.
+
+Bom, como nós trabalhamos todos os outros diagramas anteriores, nós, primeiramente,
+
+falaremos bastante sobre a parte teórica, vamos entender sobre o que
+
+o diagrama se trata, quais são as suas funcionalidades, onde ele
+
+se enquadra, quais são os benefícios e os malefícios deste diagrama,
+
+para que, então, nós possamos fazer exercícios práticos a quatro mãos,
+
+tá bom? Então, sem delongas, vamos ver aqui um pouco a
+
+respeito, pelo menos, o início deste diagrama de estado, tá? Então,
+
+como eu já disse aqui na introdução, o diagrama de estado
+
+é um diagrama que faz parte do grupo de diagramas comportamentais
+
+e é dentro de uma classificação de diagramas de UML,
+
+tá bom? Bom, o que esse diagrama faz? Ele, na
+
+verdade, vai fazer a exibição de transições entre vários objetos.
+
+Como assim? Vamos por parte que nós vamos entender ao passar os tópicos, olha só.
+
+Um diagrama de máquina de estado é qualquer dispositivo que armazena o status de um objeto em
+
+um determinado momento e pode mudar o status ou causar outras ações baseado na entrada que recebe.
+
+Estados indicam as diferentes combinações de informações que um objeto pode conter e como ele se comporta.
+
+Para entender os diferentes estados de objeto, você pode visualizar todos os possíveis estados
+
+e mostrar como um objeto chega a um determinado estado e, por isso, pode
+
+ser feito um diagrama de estado ou um diagrama de estado de máquina.
+
+Bom, o que o texto está dizendo até então? Ele diz que tudo
+
+que é objeto e possui estados, nós podemos fazer a representatividade de um
+
+diagrama de estado de máquina para mostrar quais são os seus estados
+
+ou quais são os seus status ou ações no qual ele passa.
+
+Bom, eu vou dar exemplos aqui para vocês poderem ter uma percepção melhor.
+
+Vamos lá. Quando vocês fazem a solicitação de algum lanche lá
+
+no iFood, aí vocês pedem para fazer o pagamento na entrega.
+
+Quando vocês vão fazer o pagamento na entrega, o motoboy que vai fazer a entrega tem
+
+uma máquina e ele vai fazer a inserção do valor no qual você precisa pagar.
+
+A máquina vai mostrar estados, por exemplo.
+
+Então, ele inicialmente vai ter uma orientação para digitar o valor, depois ele
+
+vai ter uma outra orientação para selecionar o tipo de pagamento, que
+
+aí vai ser a escolha do cliente entre débito ou crédito, e
+
+aí vai ter um próximo estado no qual vai pedir para inserir
+
+o cartão e após um outro estado pedindo para digitar a senha.
+
+E aí, quando houver a aprovação, vai ter um outro estado perguntando se
+
+deseja emitir a nota, emitir ali a segunda via de comprovante de pagamento.
+
+Então, a máquina no qual nós fazemos os pagamentos, por exemplo, ela passa por vários estados.
+
+Então, se eu precisasse fazer a ilustratividade dessas ações ou desses estados no qual eu mencionei agora, eu
+
+poderia usar o diagrama de estado, que ele faria um papel muito bem em relação a essa ilustratividade.
+
+Um outro exemplo no qual eu já falei aqui algumas vezes, então eu sou
+
+um atendente de telemarketing, talvez eu atuo com chamados por chat, não sei,
+
+algo nesse gênero, e eu uso um sistema no qual existem alguns estados.
+
+Então, quando eu estou disponível, cai chamado para mim, quando eu
+
+talvez precise participar de uma reunião ou quando eu estou em
+
+um chamado em atendimento, o meu status passa a ser ocupado.
+
+Quando eu vou precisar me ausentar tanto para ir no banheiro ou qualquer outra coisa, eu ponho um ausente.
+
+Quando eu tenho meu período de almoço, eu ponho um outro status.
+
+E quando eu talvez fizer ali o término do meu período de trabalho, eu coloco desconectado ou offline, por exemplo.
+
+Então, são estados no qual o sistema passa, são ações no qual
+
+o sistema passa, no qual você também pode fazer a ilustratividade.
+
+Aqui, dois exemplos bem práticos e bem básicos para vocês terem uma noção do que
+
+o texto está falando aqui, para vocês terem uma melhor orientação e nós possamos prosseguir.
+
+Não vou estender com tantos exemplos a princípio para não ficar
+
+muito extenso a aula, beleza? Bom, dando continuidade, cada diagrama de
+
+estado começa, geralmente, com um círculo escuro que indica o estado
+
+inicial e termina com um círculo contornado indicando o estado final.
+
+Tecnicamente, tanto o início quanto o término é bem semelhante com o diagrama no qual nós fizemos no módulo passado.
+
+Então, existe o círculo preto no qual nós iniciamos e existe
+
+aquele outro círculo que possui um contorno no qual nós
+
+os orientamos com um término, beleza? Dando continuidade, olha só.
+
+No entanto, apesar de ter pontos iniciais e finais claros, diagramas de estado
+
+não são, necessariamente, a melhor ferramenta para registrar a progressão geral de eventos.
+
+Então, se eu quero fazer aqui a progressão de eventos, eu vou utilizar um outro diagrama.
+
+Então, no caso aqui, ele fala que, em vez disso, eles ilustram
+
+tipos específicos de comportamento, principalmente mudanças de um estado para outro.
+
+Foi um dos exemplos que eu mencionei um pouco mais cedo.
+
+Diagramas de estados retratam, principalmente, estados e transições.
+
+Estados são representados por retângulos com cantos arredondados e rotulado com o nome do estado.
+
+Basicamente, aquele mesmo elemento que nós usamos no módulo anterior, o elemento de atividade,
+
+ele vai ser o mesmo elemento para fazer a representatividade, que é o elemento
+
+de um retângulo com as bordas arredondadas, tá bom? As transições são marcadas com
+
+setas que fluem de um estado para outro, mostrando como os estados mudam.
+
+Então, nada mais, nada menos do que aquelas mesmas ligações no qual nós fazíamos para
+
+mostrar a orientação, o segmento de um fluxo, tá bom? Você pode usar esses dois
+
+elementos em ação por meio de um diagrama básico retratando a vida de um estudante.
+
+Então, olha só aqui o que eu desenhei para vocês terem uma percepção melhor.
+
+Então, aqui eu coloquei um exemplo bem breve de um diagrama de estado de máquina, no
+
+qual nós estamos falando a respeito de um estudante universitário, beleza? E aí, o que acontece?
+
+Eu tenho, primeiramente, o nosso círculo preto mostrando onde é o início deste diagrama, e aí
+
+eu tenho os retângulos com as bordas arredondadas com o nome de cada estado no meio.
+
+O estado ali são o quê? São as ações, os estados no momento no qual o estudante pode
+
+passar ou que ele vai acabar passando até chegar em um futuro, e esse futuro virar um presente.
+
+Então, olha só, o estudante universitário, quando ele vai iniciar as suas aulas, ele,
+
+inicialmente, é um estudante calouro, né? Então, é um estudante iniciante no qual ele
+
+está pisando pela primeira vez numa universidade, beleza? Passar de um ano, esse estado
+
+do meu estudante, ou este estado do estudante, ele passa a ser de
+
+estudante calouro para um estudante de segundo ano, ou seja, ele já não
+
+está mais naquele primeiro ano dele de conhecimento, ele já conhece as coisas,
+
+ele está no próximo ano, então ele já não é mais um calouro.
+
+Então, o estado dele mudou, o status dele mudou, então ele já é um estudante de segundo ano.
+
+Quando ele terminar, aqui estou falando, tecnicamente, de um curso tecnólogo, tá?
+
+Quando ele terminar a faculdade, o seu curso lá durante os
+
+dois anos, dois anos e meio, ele vai virar um funcionário
+
+júnior, tá? Então, por isso que existe ali o júnior abaixo.
+
+E aí, talvez o júnior possa passar para pleno, né? A gente
+
+sabe que tem toda aquela hierarquia, mas para não ficar um desenho
+
+muito extenso e caber aqui no slide, eu pulei direto para o
+
+sênior, beleza? Mas vale lembrar que tanto antes do júnior quanto
+
+após o júnior, nós temos ali outras etapas, tá? Poderia estar
+
+colocando ali estágio, trainee, poderia estar colocando o júnior, aí poderia
+
+estar colocando o pleno, no meio, o sênior, coordenação, diretoria, enfim.
+
+Isso não importa.
+
+Aqui eu estou apenas exibindo, ilustrando para vocês, para vocês
+
+poderem ter a percepção de como é desenhado, de como
+
+é ilustrado e como é feita a leitura deste diagrama,
+
+tá bom? Algo bem simples aqui para nós nos orientarmos.
+
+Então, esses são os elementos bem básicos nos quais nós vamos trabalhar bastante,
+
+e eu acredito que vocês já estejam bem familiarizados, principalmente por conta
+
+dos módulos anteriores, tá bom? Bom, e aí, onde o nosso diagrama
+
+de estado de máquina é aplicado? Então, existem algumas áreas ou algumas
+
+objetividades deste diagrama no qual ele é melhor representado ou no qual
+
+ele tem uma melhor representatividade, dependendo daquele contexto ou daquela necessidade ocasional.
+
+Então, ele primeiramente é usado para fazer a descrição
+
+de objetos orientados a eventos em um sistema relativo.
+
+Ele também pode ser utilizado para fazer a ilustração de
+
+cenários de caso de uso em um contexto de negócios.
+
+Então, eu posso fazer uma esclagem de diagramas, por exemplo, nós já vamos entender também.
+
+Ele também é muito bom para descrever como um objeto se move por vários estados em o seu tempo de vida.
+
+Nós sabemos que todo objeto tem um ciclo, ele inicia, ele vive e ele morre, né? Tudo no nosso
+
+sistema, todas as ações, enfim, tudo que existe por trás de um sistema tem um ciclo de vida.
+
+Então, nós podemos utilizar esse diagrama para fazer ali essa ilustratividade e
+
+também para mostrar o comportamento geral de uma máquina de estado ou
+
+o comportamento em conjunto de um relacionamento de máquinas de estado, tá
+
+bom? Então, são bem utilizados este diagrama nesses contextos, nesses cenários aqui.
+
+Bom, então, o que nós podemos tirar de resumo inicialmente deste diagrama de
+
+estado de máquina? Primeiramente, que ele é bem simples de ser ilustrado.
+
+Segundo que o ponto principal e importantíssimo deste tipo de diagrama é fazer
+
+as representações dos estados ou dos status no qual um objeto passa.
+
+Isso eu posso falar tanto para sistema quanto para objetos físicos, por exemplo.
+
+E é bem interessante de nós trabalharmos e pegarmos o andar da carruagem
+
+deste diagrama, principalmente, porque este diagrama é um dos diagramas no qual nós
+
+podemos fazer a junção com outros diagramas que nós já aprendemos até então.
+
+E eu, inclusive, vou tentar passar a vocês alguns exemplos no qual nós podemos fazer a
+
+utilização em conjunto, tá bom? Então, eu não vou estender tanto para não ficar tão maçante.
+
+Na próxima aula, nós falaremos um pouco sobre alguns outros símbolos no qual eu
+
+não mostrei para vocês, mas que também são bastante utilizados dependendo do contexto.
+
+E eu vou me despedindo por aqui e fiquem com Deus. Até breve!
