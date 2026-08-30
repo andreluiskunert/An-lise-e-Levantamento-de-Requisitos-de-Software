@@ -1,0 +1,345 @@
+Olá, aluna! Olá, aluno! Como vocês
+
+estão? Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de
+
+dados UML, trazendo a vocês, nesta aula, o segundo exemplo prático voltado a
+
+diagrama de estado ou como optar em diagrama de estado de máquina.
+
+E, desta vez, nós faremos uma ressalva para o check-in de
+
+um aeroporto, tá bom? Então, da mesma maneira na qual eu
+
+comentei sobre algumas coisas peculiares que apareceram no diagrama anterior, aqui
+
+também haverão algumas coisas que nós já vimos de forma teórica
+
+elementos, mas acabei não utilizando eles em algumas coisas práticas.
+
+Eu resolvi acrescentar neste diagrama para fazer a utilização de tudo, ou pelo menos
+
+do máximo, no qual nós estamos vendo e aprendendo aqui no curso, tá bom?
+
+Bom, eu já tenho os meus menus de UML e UML 2.5 abertos, e
+
+aqui nós já vamos iniciar o diagrama utilizando o nosso símbolo de inicialização.
+
+E vamos, para o menu geral, pegar o nosso retângulo com as bordas arredondadas.
+
+Bom, o nosso diagrama é representado por um check-in de aeroporto.
+
+Então, o primeiro elemento aqui no qual nós vamos acrescentar é a verificação da reserva.
+
+Então, vamos colocar aqui, verifique a reserva, beleza? E eu estou fazendo
+
+uma verificação, isso indica que eu também tenho alguns tipos de retornos.
+
+Eu estou verificando, é porque pode estar tudo certo, como pode não estar tudo certo,
+
+beleza? Bom, se não estiver tudo certo, eu vou fazer da seguinte forma aqui,
+
+um outro tipo de exemplo para vocês verem como os diagramas podem mudar de
+
+acordo com quem está fazendo, tá bom? Vou colocar aqui, problema com a reserva.
+
+Então, ao invés de eu fazer a pergunta aqui, existe problema com
+
+a reserva? Sim, vai para um lugar. Não, vai para outro lugar.
+
+Eu posso colocar desta forma aqui, olha só.
+
+Problema com a reserva.
+
+E eu já estou indicando que existe problema com a reserva? Sim,
+
+vai cair para cá, por quê? O problema com a reserva
+
+é para este lado aqui, bom? E aí, se existe o
+
+problema com a reserva, o que vai acontecer? Vamos verificar aqui.
+
+Se existe o problema com a reserva, vai ter de fazer o envio para a agência de viagens do aeroporto.
+
+Vamos colocar aqui, enviar para a agência de viagens do
+
+aeroporto, beleza? Legal, agora, se não houver problema, nós continuaremos
+
+à frente aqui, né? E aí, o que nós faremos
+
+aqui? Se não houver problemas, o cliente vai obter preferências.
+
+Preferências do quê? Preferências do assento do avião,
+
+preferências do hotel, preferências do andar, enfim.
+
+Ele vai obter as preferências voltadas àquilo que ele está
+
+comprando, àquilo que ele está agendando, beleza? E agora, vamos
+
+para a parte boa. Qual a parte boa? Eu comentei
+
+aqui no início que nós utilizaríamos um determinado elemento,
+
+no qual nós já vimos, porém, nós nunca utilizamos.
+
+E este elemento é este cara aqui.
+
+Bom, o que é este elemento e o que ele faz? Eu não sei se
+
+vocês se recordam, mas eu já o passei a vocês, pelo menos, em aula teórica.
+
+Este elemento é o elemento de garfo, no qual, quando nós
+
+estamos utilizando, nós indicamos que, naquela determinada ocasião, acontecem duas
+
+situações simultâneas, ou seja, acontecem dois processos ao mesmo tempo.
+
+Neste contexto aqui, nós teremos quais processos aconteceriam ao mesmo tempo. Vamos lá.
+
+O primeiro seria que, quando houvesse a obtidão
+
+das preferências, haveria a impressão do cartão de
+
+embarque, beleza? Então, nós podemos colocar aqui.
+
+Imprimir cartão de embarque, beleza? Agora, por um acaso,
+
+deixa eu só mudar para cá, fica melhor.
+
+Agora, por um acaso, qual seria o outro processo, enquanto está
+
+havendo a impressão de embarque, que aconteceria ao mesmo tempo?
+
+Seria o recebimento da bagagem e a impressão dos recibos.
+
+Então, seria aqui um outro processo.
+
+Só que este processo, no caso, ele seria anteriormente
+
+verificado para ver se não há problema com as
+
+bagagens, beleza? Então, aqui, na verdade, teria um condicional.
+
+Vem junto comigo para vocês não se perderem.
+
+Prestem bastante atenção aqui nesta parte, beleza?
+
+E aqui existiria uma verificação do seguinte.
+
+Existe bagagem? Sim.
+
+Existe a bagagem, ele vai vir para cá, beleza? E
+
+aí, se existe a bagagem, haverá a impressão de cartão
+
+de embarque, beleza? Bom, e aí, se há a bagagem,
+
+ele vai ter aqui, receber a bagagem e imprimir recibos.
+
+Receber a bagagem e imprimir recibos, beleza?
+
+E se não houver, aí que está.
+
+Se não houver, vamos pegar este elemento de novo, que era
+
+o elemento do garfo, e ele passa a ser outro elemento.
+
+Qual é o outro elemento que ele passa a ser? Olha
+
+só, vou até abrir o PowerPoint aqui para vocês se recordarem.
+
+Ele vira uma barra de sincronização, ou seja, quando existem duas
+
+situações simultâneas, ele volta a ser uma, beleza? Então, aqui existem
+
+duas situações, essas duas situações voltarão a ser apenas uma.
+
+Então, nós vamos fazer aqui as junções destes carinhas aqui.
+
+Pessoal, lembrando que aqui pode ficar ordenado, tudo lindinho, tudo
+
+perfeitinho, mas para não perder tempo, eu vou tentar não
+
+mexer tanto, apesar de eu já estar mexendo no caso.
+
+Pode ficar assim, não tem problema.
+
+E aqui nós vamos utilizar o nosso texto.
+
+E aqui no nosso texto nós vamos colocar aqui, sem bagagem, beleza?
+
+E esse nosso sem bagagem vai vir para o mesmo local.
+
+Aqui eu poderia usar um outro condicional também,
+
+mas eu acredito não ter necessidade, porque esse
+
+outro condicional aqui só vai ser para nós
+
+juntarmos as setas para que fique mais alinhado.
+
+Para vocês entenderem o que eu estou falando, seria isso daqui.
+
+Não é obrigatório isso, mas eu vou fazer para vocês entenderem do que eu estou falando.
+
+Poderia ser isso daqui.
+
+Só que aqui eu não estou fazendo nenhum tipo de questionamento,
+
+porque aqui eu já sei que vai haver a impressão do
+
+recibo e aqui eu já sei que não existe a bagagem,
+
+beleza? Mas, neste caso, o contexto ficaria desta forma aqui.
+
+E aí, por fim, havendo este término de processo, nós
+
+teremos os últimos informativos, que seria o fornecimento dos documentos.
+
+Então, fornecer documentos de viagens aos passageiros, beleza? E vai fazer
+
+isso, este processo onde havia a situação de processo simultâneo.
+
+Para a sincronização, ou seja, para um único processo no qual eu mencionei para vocês.
+
+Vamos fechar aqui de novo.
+
+Para nós termos uma visibilidade melhor, beleza? Bom,
+
+o que tem de diferente aqui? Faltando apenas
+
+o nosso fechamento, nunca podemos esquecer dele.
+
+Nós teremos o fechamento aqui.
+
+O que nós não podemos nos esquecer.
+
+Como eu mencionei, nós estamos acostumados e habituados a sempre
+
+em um processo condicional ou fazer uma pergunta aqui dentro.
+
+E a partir dessa pergunta, colocar sim ou não, certo ou errado, vou ou não vou nas setas.
+
+Mas nós temos um segundo meio de desenho, um segundo método, que
+
+é quando houver um problema, você já mencionar na legenda o problema.
+
+Então, aqui você já sabe que é o caminho e não é tão feliz.
+
+E que o próximo é o caminho feliz,
+
+beleza? E aí, nós temos aqui outros elementos.
+
+Quais são as diferenças desse para esse aqui? Se você
+
+observar apenas o que eu estou selecionando, você vai ver
+
+que é uma seta e após a barra vira duas.
+
+Este elemento, desta maneira, se chama garfo, beleza? Quando
+
+nós usamos? Quando houver duas situações que acontecem ao
+
+mesmo tempo, ou seja, quando houver dois processos simultâneos.
+
+Agora, diferente deste outro aqui, se eu selecionar, são o
+
+quê? Duas setas que acabam virando uma, ou seja, já
+
+não se chama garfo, se chama barra de sincronização.
+
+Quando há dois processos simultâneos que acabam e voltam a ser
+
+um, beleza? Isto aqui eu acabei passando para vocês em
+
+aulas anteriores, mas eu acabei não achando um diagrama, um
+
+contexto, um exemplo para acabar utilizando e aqui surgiu a
+
+oportunidade, por isso que eu estou mostrando a vocês, beleza?
+
+Então, fazendo a verificação geral para o nosso diagrama agora,
+
+vamos apenas acrescentar algumas modificações para ter uma legibilidade melhor.
+
+Então, eu vou, primeiramente, selecionar estes caras aqui para
+
+verde, estes outros aqui para roxo, beleza? Este daqui
+
+pode ser amarelo, laranja, não sei, ali vai
+
+manter branco e aqui também vai permanecer verde.
+
+Por quê? Vamos entender aqui.
+
+Deixa eu fechar de novo.
+
+Bom, o que eu estou dizendo aqui, olha só, de novo, isto aqui
+
+é o diagrama de estado que representa o check-in de um aeroporto, ou
+
+seja, os seus estados e subestados em relação a um processo de check-in.
+
+Então, primeiramente, inicia-se com a verificação de reserva, beleza? E, por um acaso,
+
+houver o problema com a reserva, vai haver um envio de mensagem, notificação
+
+para a agência de viagem de aeroporto e isso vai acabar. Por quê?
+
+Porque vai haver um retorno da agência só após uma análise que eles
+
+vão fazer para verificar por qual motivo aconteceu o determinado problema, beleza? Agora,
+
+pensando no caminho feliz, se houver a verificação da reserva e tudo estiver
+
+ok, aí o cliente vai na opção de obter preferências, ou seja, ele
+
+vai na opção de escolha, qual é o avião, qual é o
+
+assento, se é classe A, classe B, classe C e assim sucessivamente.
+
+Faz as escolhas no qual ele quer e aí vai haver a continuidade, o processo espontâneo.
+
+Assim que ele escolher as preferências dele, vai haver a impressão de
+
+embarque, beleza? Porque ele já escolheu, porém, ao mesmo tempo, vai
+
+haver o quê? Uma verificação se ele possui ou não bagagem.
+
+Se ele possui a bagagem, ele vai receber a bagagem e a impressão dos recibos.
+
+Se não houver a bagagem, vai apenas haver a impressão do cartão de
+
+embarque e ele vai dar continuidade sem a bagagem, beleza? Porém, independente
+
+dessa situação se tem ou não bagagem, vai haver a impressão, ele
+
+vai dar continuidade com ou sem bagagem e vai até o quê?
+
+O fornecimento dos documentos de viagens aos passageiros, ou seja, vai retornar
+
+as informações para aquele determinado passageiro poder fazer a sua viagem tranquilamente.
+
+Bom, por que eu deixei esse cara em branco? Digamos que
+
+o check-in é a verificação da reserva, então aqui é
+
+o estado e todos os demais aqui teriam subestados condizentes
+
+ao processo até ele fazer a sua viagem, até ele
+
+fazer o seu embarque, beleza? Bom, mais uma aula concluída.
+
+Espero que vocês estejam entendendo, que vocês estejam gostando.
+
+Espero que vocês possam praticar.
+
+Vocês podem imaginar outras coisas aí que são semelhantes para vocês fazerem como exercício de viagem.
+
+Eu não vou me estender tanto, a aula já ficou um pouco extensa.
+
+Vou me despedindo de vocês.
+
+Fiquem com Deus e até breve!
