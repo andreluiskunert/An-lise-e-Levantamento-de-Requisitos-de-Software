@@ -1,0 +1,521 @@
+Olá, aluna! Olá, aluno! Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de dados UML.
+
+Trazendo a vocês, nesta aula, mais um exercício prático para fazermos a quatro mãos
+
+relacionados a diagrama de estado ou a diagrama de estado de máquina, como vocês optarem.
+
+Desta vez, nós iremos fazer o desenho do diagrama de estado de máquina
+
+de uma forma um pouco diferente das anteriores.
+
+Eu quero mostrar mais uma das opcionais que vocês conseguem fazer,
+
+do que vocês conseguem aprimorar.
+
+Lembrando que este diagrama pode ser utilizado em conjunto com diagramas anteriores
+
+que nós já vimos ao decorrer do curso.
+
+A primeira coisa que nós iremos fazer aqui no início da aula é vir em visualização.
+
+Primeira opção, formatar.
+
+E aqui, ao menu do lado direito, nós vamos trocar para a opção de paisagem
+
+para que nós tenhamos aqui a nossa folha de desenho, o nosso diagrama de forma horizontal.
+
+Então, a gente vai trabalhar de forma deitada, beleza?
+
+Bom, e aí o que nós vamos fazer aqui?
+
+Faremos um diagrama relacionado a vendas, no qual nós iremos ponderar não apenas os estados,
+
+mas as situações que ocorrem em cada um dos estados
+
+no qual for percorrendo para que uma venda seja realizada via sistema.
+
+Ou seja, qual informação um determinado objeto vai receber,
+
+qual informação este objeto vai ter como ação,
+
+ou seja, durante o estado no qual ele estiver,
+
+qual ação que ele terá e qual vai ser a ação de saída,
+
+o que ele vai entregar para as próximas etapas,
+
+para que as próximas etapas possam receber e ter as suas ações também.
+
+Então, o que nós faremos aqui será um diagrama de estado de máquina,
+
+porém, com êfase em algumas coisas relacionadas a diagramas de classe,
+
+principalmente o objeto classe que nós vamos estar trabalhando
+
+para acrescentar algumas informações adicionais aqui, entendeu, Anguas?
+
+Vamos iniciar abrindo aqui, expandindo os dois últimos menus,
+
+menu de UML e UML 2.5.
+
+Bom, dentro de UML 2.5 nós temos aqui o nosso elemento de inicialização,
+
+mas nós trabalhamos também com outros elementos, nós temos aqui abaixo também,
+
+e já é o elemento de inicialização, e já possui a nossa seta, o nosso direcional.
+
+Beleza, feito isso, nós iremos inserir um elemento no qual nós temos familiaridade,
+
+e é o elemento de classe, a classe, no caso,
+
+nós vamos utilizar este elemento chamado classe 5.
+
+Bom, por que nós vamos trabalhar com este elemento em específico?
+
+Como eu mencionei anteriormente,
+
+nós vamos incrementar o diagrama de máquina de estado juntamente ao diagrama de classe,
+
+ou seja, utilizando elementos do diagrama de classe,
+
+justamente para atribuir, além dos nossos status, dos nossos estados, no caso,
+
+juntamente a eles também as determinadas ações
+
+que são pertinentes àqueles determinados estados, ou seja,
+
+quais são as informações de entradas e saídas, ou também as ações,
+
+se tiver determinadas ações condizentes a cada um dos estados no qual nós vamos desenhar, beleza?
+
+E aí, por que exatamente este elemento?
+
+Porque aqui eu consigo atribuir o título, que de certa forma vai ser o elemento,
+
+e abaixo aqui em field e método,
+
+nós acrescentaremos as entradas e as saídas, ou as ações, dependendo do contexto, tá bom?
+
+Então, nós vamos iniciar aqui primeiro alterando o nosso título para abertura, beleza?
+
+Então, aqui seria a abertura da venda, seriam os registros, ou seja,
+
+o cadastro ou também os produtos, as escolhas dos produtos.
+
+Então, o que seria a entrada aqui?
+
+Entrada, ela seria basicamente cadastro dos usuários, beleza?
+
+E o que seria a nossa saída?
+
+Vamos colocar aqui, a ação no caso, a ação após o usuário ter um cadastro,
+
+o que geralmente ele faz?
+
+Ele faz a escolha de determinados produtos,
+
+então os produtos vai acabar virando um pedido e o pedido vai acabar virando uma venda,
+
+mas de início seria isso daqui.
+
+Então, quando há uma abertura, obviamente há um determinado cadastro,
+
+então isso aqui é um dado de entrada, tá bom?
+
+A entrada para uma abertura é o cadastro de usuário
+
+e a ação é a escolha de um determinado produto, tá bom?
+
+Copiando e colando isso daqui para agilizar, nós damos continuidade fazendo o seguinte,
+
+vamos fazer a amarração aqui e aqui após a abertura existe a pré-venda, beleza?
+
+Bom, o que seria a nossa pré-venda?
+
+Nós também teremos aqui a entrada e a ação, então vamos manter.
+
+A entrada seria a escolha dos produtos, ou seja,
+
+seria nada mais, nada menos do que a ação que foi efetuada no estado anterior, tá?
+
+Então, a ação daqui foi a escolha de produtos,
+
+a entrada acabou sendo a escolha de produtos decorrente à ação anterior, beleza?
+
+E após a entrada da escolha de produtos, aí existe a realização do pedido ou realização dos pedidos, né?
+
+Geralmente, independente da quantidade de itens, acaba sendo um pedido só,
+
+a não ser que queira fazer separação, passar algumas coisas por partes,
+
+mas aqui seria, de certa forma, esse contexto.
+
+Então, entraria o determinado produto e o produto seria transformado em pedido, beleza?
+
+Feito isso, após o estado da pré-venda, nós passaremos por um próximo estado
+
+e esse estado aqui seria o estado de espera.
+
+Bom, por que seria um estado de espera?
+
+Vamos entender o contexto aqui.
+
+A entrada dele seria a verificação dos pedidos que foi em decorrência à ação anterior.
+
+Então, vamos colocar aqui, realização pedido, beleza?
+
+A nossa ação para este contexto em específico seria a verificação do perfil do cliente.
+
+Por que existe a verificação do perfil?
+
+Existem inúmeras regras, isso seria variável de acordo com o sistema, de acordo com a necessidade,
+
+mas verificação do perfil seria para saber se existe crédito na casa, se ele possui algum benefício,
+
+se talvez ele seja um determinado sócio, se ele faz uma compra inserindo CPF e recebe desconto,
+
+enfim, são inúmeros contextos.
+
+Então, existe a verificação do perfil do cliente justamente para isso,
+
+até mesmo para saber se ele já é cadastrado na loja.
+
+Então, existe essa verificação aqui em decorrente a isso.
+
+Só que aqui, para este caso, ainda tem uma ação maior que seria a saída.
+
+E a saída para este cara seria o fechamento do pedido.
+
+Então, aqui neste contexto, este elemento acabaria ficando um pouco maior, beleza?
+
+E a partir da espera, nós teremos aqui algumas variáveis, ou seja, situações diferentes
+
+no qual nós poderíamos ter aqui dois sentidos ou dois caminhos, como vocês optarem em chamar.
+
+Bom, para este caso em específico, nós precisamos de um elemento no qual também já fizemos a utilização,
+
+também já estamos habituados, que é nada mais, nada menos do que o elemento do garfo.
+
+Qual é o elemento do garfo?
+
+Beleza, nós poderemos pegar o elemento já pronto, pré-definido,
+
+mas existem muitos elementos aqui, talvez nós tenhamos aqui um pouco de dificuldade para encontrar.
+
+Então, eu vou optar em usar algum item diferente do que eu encontre aqui, e a gente incrementa.
+
+Bom, pessoal, com muita dificuldade, acabei encontrando aqui, vamos utilizar este mesmo.
+
+E, através dele, nós conseguimos fazer o que a gente precisa, o que nós precisamos.
+
+Então, eu vou fazer a amarração, primeiramente, da nossa ação de espera para este ícone,
+
+que ele pode ser usado tanto para bifurcação quanto para unificação.
+
+Então, lembrando que a bifurcação seria o nosso garfo.
+
+E, aqui, nós conseguimos fazer um caminho multiplicar, virar 2,
+
+como também nós podemos fazer dois caminhos se unificarem e virar 1.
+
+Então, dando continuidade, vou copiar e colar o outro elemento aqui, para não perdermos tanto tempo.
+
+E, aqui, nós vamos fazer outra amarração, vamos utilizar o elemento da seta.
+
+Aqui não precisa ser exatamente a seta pontilhada, então nós podemos colocar aqui a seta como
+
+uma seta fixa, uma seta contínua, beleza?
+
+E esse cara aqui seria um elemento chamado ativa, beleza?
+
+Onde a sua entrada seria o recebimento do pedido.
+
+E a sua ação seria a informação de pagamento.
+
+Então, aqui, nós poderíamos colocar informar pagamento.
+
+Bom, a entrada, como nós já entendemos aqui,
+
+ela seria justamente a ação decorrente ao estado anterior, beleza?
+
+Então, quando nós temos aqui a realização do pedido, nós vamos acabar tendo aqui o recebimento do pedido, beleza?
+
+Fora isso, nós também teríamos uma outra questão,
+
+e aí eu vou copiar este outro, que vai acabar sendo melhor,
+
+e vai variar porque nós teríamos também uma ação, mas também nós teríamos uma saída.
+
+E este outro, em específico, seria chamado agregado.
+
+Então, vamos colocar aqui como agregado.
+
+A entrada seria a sugestão de produtos.
+
+Então, nós poderíamos colocar assim, sugerir produtos, beleza?
+
+A ação seria a inclusão dos produtos sugeridos, inclusão de produtos, beleza?
+
+E o término seria o fechamento do pedido, beleza?
+
+Qual a diferença? Olha só.
+
+Se eu estou na ação anterior, que é decorrente à espera, e eu não quero fazer uma venda agregada,
+
+aqui mesmo eu teria o fechamento do pedido, e eu entraria para o sentido esquerdo,
+
+onde seria informado que o pedido foi efetuado,
+
+e seria necessário fazer a inclusão do pagamento, a solicitação de pagamento.
+
+Agora, se por um acaso eu estou aqui, dentro da espera, e decorrente à ação,
+
+eu aceito a venda agregada, eu pego determinados produtos que estão sendo sugeridos como uma venda casada,
+
+aí o fechamento do pedido acaba sendo aqui embaixo,
+
+por isso que os fechamentos acabam se repetindo, beleza?
+
+Então, o fechamento anterior, ele se decorre justamente se sentir para o lado esquerdo,
+
+e já o fechamento aqui é ignorado se ele aceitar a venda agregada, a venda casada,
+
+e o fechamento acaba sendo um passo após, tá bom?
+
+Bom, tendo a bifurcação, obviamente nós após aqui teremos a unificação,
+
+então nós podemos pegar aqui essas mesmas setas para facilitar e ganharmos tempo,
+
+e aqui nós vamos ter o estado de aprovação,
+
+e aí nesse estado de aprovação vamos fazer a amarração aqui a um próximo elemento,
+
+vamos alterar o nome do elemento para aprovação, beleza?
+
+A entrada seria o recebimento do pagamento,
+
+a ação sobre o recebimento seria a aprovação do pagamento,
+
+obviamente teriam duas ações aqui, tá?
+
+Então nós poderemos fazer subdivisões sobre a ação 1 e a ação 2, por quê?
+
+Porque poderia ter tanto a aprovação quanto a reprovação do pagamento,
+
+então dependendo da forma de pagamento que ele fizesse,
+
+digamos que talvez ele não tivesse saldo, talvez não tivesse limite,
+
+e aí após a tentativa de pagamento houvesse uma reprovação,
+
+então seria duas ações nesse contexto,
+
+não vou mexer, vou por enquanto manter apenas uma,
+
+para não ficar tão complexo e vocês terem um entendimento aqui num contexto como um todo.
+
+Agora, a saída seria a não-aprovação,
+
+vamos entender por que aqui entra a não-aprovação como saída e não como duas ações, como eu mencionei.
+
+Então vamos colocar aqui, não-aprovação.
+
+A não-aprovação eu posso colocar como saída,
+
+isso é variável, como eu mencionei já dentre o início da aula,
+
+que depende de sistema para sistema,
+
+depende de levantamento de requisito para levantamento de requisito,
+
+isso daqui seria variável.
+
+Essa questão no qual estou mencionando para você agora,
+
+ela se decorre da seguinte forma,
+
+se por um acaso a solicitação de pagamento for aprovada, dá continuidade.
+
+Se por um acaso a solicitação de pagamento for reprovada, o fluxo termina.
+
+E aí quando o fluxo termina, obviamente vai ter de fazer
+
+todo o procedimento de tentativa de pagamento mais uma vez.
+
+Agora, se fizesse da forma anterior no qual eu mencionei,
+
+onde a ação se daria como aprovação e a ação 2 como reprovação,
+
+seria um loop até o pagamento ser aprovado.
+
+E aí isso seria bem variável porque nós pensando no cotidiano,
+
+pensando realmente no dia a dia e em variedade de clientes,
+
+possa ser que o cliente só tenha um único cartão,
+
+então ele não consiga fazer várias tentativas,
+
+como possa ser que o cliente tenha vários cartões
+
+e aí ele consiga fazer várias tentativas.
+
+O contexto mais simplificado é pensando em uma generalização
+
+onde todo mundo só possui um cartão
+
+e se aquele cartão não está conseguindo aprovação de pagamento,
+
+não tem o porquê ficar no loop até ser aprovado.
+
+Então por isso que a saída é a não aprovação e ali o fluxo encerra.
+
+Porque o fluxo encerrando aqui,
+
+a tentativa de pagamento pode ser de uma outra forma.
+
+Talvez ele não consiga no débito,
+
+talvez ele tente de novo desde o início parcelando no crédito,
+
+talvez ele solicite pagar via boleto ou talvez ele solicite um carnê,
+
+enfim, depende do contexto.
+
+Mas aqui é mais para ilustrar quais são as formas que vocês poderiam fazer.
+
+E aí aqui se o fluxo termina,
+
+nós obviamente vamos colocar o nosso elemento de término e vamos amarrar.
+
+Então se a saída for não aprovação,
+
+vai acabar morrendo o fluxo aqui e ele vai ter de repetir todas as etapas mais uma vez.
+
+Então a etapa obviamente vai ser sistêmica,
+
+mas aí vai ser toda a verificação de produto,
+
+entrar na espera, verificar se ele vai querer ou não a venda casada,
+
+e aí sim para tentar fazer a aprovação mais uma vez daquele determinado pagamento,
+
+daquele determinado pedido, beleza?
+
+Bom, feito isso nós vamos ter o término,
+
+o término aqui entre aspas é a compra finalizada,
+
+então vamos colocar aqui a finalização, tá bom?
+
+E a entrada vai ser o recebimento dos pedidos,
+
+e também o encerramento da compra.
+
+Então nós vamos colocar aqui, encerramento da compra, beleza?
+
+Então vai receber os pedidos conforme o pagamento aprovado
+
+e o encerramento daquele determinado pedido vai ser efetuado,
+
+ou seja, a compra vai ser encerrada, beleza?
+
+E aí após a finalização,
+
+nós vamos ter o fechamento, e aí aqui sim,
+
+nós poderemos colocar como realmente fechamento,
+
+que é receber a lista de produtos,
+
+recebimento da lista de produtos,
+
+e a ação é a entrega do produto.
+
+Que seria o recebimento da lista dos produtos?
+
+Então, se nós fomos no mercado, geralmente é a nota que sai após o pagamento,
+
+se nós formos num depósito, pode ser dois recebimentos de lista,
+
+um exemplo pode ser a nota do pagamento efetuado,
+
+como também pode ser um papel dos materiais que você tem a solicitação de retirada,
+
+então você comprou o cimento, você pagou pelo cimento,
+
+o cimento ele vai gerar uma nota de compra,
+
+aquela nota é a nota fiscal,
+
+mas geralmente eles também dão um papel,
+
+no qual você vai com esse papel até o local da retirada do cimento,
+
+e aí os caras anotam que aquele determinado cimento foi retirado
+
+e entregam o cimento para você.
+
+Então, essa parte da entrega da lista pode ser variada também dependendo dos contextos.
+
+E aí, após aqui, o fluxo ele também termina.
+
+E aí, nós finalizamos o nosso diagrama, beleza?
+
+Então, tirando o zoom aqui, para nós termos um know-how um pouco maior,
+
+até que ficou um pouco extenso o diagrama,
+
+mas para nós vemos a arquitetura, ela num contexto.
+
+Então, aqui este exemplo, esta aula, ela foi mais para mostrar a vocês
+
+como que dá para casar esse diagrama com outros tipos de diagramas que nós já utilizamos,
+
+para incrementar informações se é necessário tê-las para uma apresentação,
+
+ou talvez para um escopo de projeto, para um desenvolvedor olhar e etc.
+
+Lembrando que aqui nós estamos falando de determinados estados,
+
+e esses estados são sempre condizentes a entradas de informações,
+
+ações de determinadas informações e saída de determinadas informações.
+
+Tudo isso sempre vai depender de um estado anterior àquele estado atual.
+
+Então, um exemplo aqui.
+
+A minha pré-venda sempre vai depender da minha abertura.
+
+A minha espera sempre vai depender da minha pré-venda.
+
+A minha aprovação ou a minha venda agregada sempre vai depender da minha espera,
+
+ou seja, da lista de pedidos já efetuada pelo cliente.
+
+A minha aprovação sempre vai depender já do pedido pronto.
+
+A finalização, ou seja, o pagamento sempre vai depender da aprovação.
+
+Todos esses estados sempre são dependentes.
+
+Então, aqui o que eu falei em aulas anteriores sobre estados e subestados
+
+se enquadra bastante nesse contexto também.
+
+Vou me despedindo por aqui para a aula não ficar tão extensa.
+
+Próxima aula, nós daremos início ao novo modo, obviamente, vendo um novo tipo de diagrama,
+
+e nós entraremos mais uma vez em aulas teóricas para entendermos um pouco mais,
+
+falarmos a respeito, ver do que se trata, onde se utiliza,
+
+para novamente termos os exercícios práticos como um habitual.
+
+Fiquem com Deus. Até breve.
