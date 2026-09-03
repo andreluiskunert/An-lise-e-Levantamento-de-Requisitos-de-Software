@@ -1,0 +1,319 @@
+Olá, aluna! Olá, aluno! Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de dados UML.
+
+Trazendo a vocês nesta aula a abertura de um novo modo,
+
+nós falaremos um pouquinho mais a respeito dos diagramas comportamentais,
+
+porém com subdivisões de grupos.
+
+Como assim, Ávila? O que está acontecendo?
+
+No início do curso, você havia dito que existem diagramas estruturais e também diagramas comportamentais.
+
+Sim, eu mencionei exatamente isso, porém, para não confundir,
+
+eu queria dizer aqui que existem subgrupos,
+
+e agora que vocês estão habituados e que vocês já entendem a maioria dos diagramas,
+
+vocês possam separar esses subgrupos para que nós possamos trabalhá-los também, beleza?
+
+Então, vamos lá. Nós vimos que entre o diagrama UML, no caso,
+
+nós tínhamos dois grupos, e eles eram divididos por diagramas estruturais e diagramas comportamentais.
+
+Nós iniciamos o curso falando sobre todos os diagramas estruturais,
+
+ou seja, todos os diagramas aqui abaixo, nós já trabalhamos,
+
+visualizamos para que eles servem, como eles são utilizados,
+
+quando eles são utilizados, e também fizemos exercícios práticos a quatro mãos.
+
+E aí foram, não um, não dois, mas inúmeros exercícios.
+
+Então, diagrama de classes, diagrama de componentes, diagrama de objetos,
+
+diagrama de perfil, diagrama de estrutura composta,
+
+diagrama de implantação e diagrama de pacotes, nós já trabalhamos, beleza?
+
+Então, todos esses aqui já foram concluídos tem um determinado tempo.
+
+Daí, nós entramos em uma segunda etapa nos diagramas comportamentais.
+
+E aí, nos diagramas comportamentais, nós havíamos trabalhado em diagrama de atividades,
+
+diagrama de caso de uso e diagrama de estado de máquina,
+
+ou de máquina de estado, como vocês optarem, beleza?
+
+Aí, a partir daqui, nós também já fechamos quase que completo.
+
+Porém, nós iremos entrar, a partir de agora, em um próximo diagrama,
+
+que é um diagrama comportamental, que se chama diagrama de interação.
+
+Só que tem um porém. Qual é este porém?
+
+Dentro de diagrama de interação, nós também costumamos a fazer divisões, ou seja,
+
+em diagrama, por um contexto geral, nós temos o grupo de diagrama de comportamento,
+
+diagramas comportamentais, no caso,
+
+e dentro do grupo dos diagramas comportamentais, nós temos subgrupo.
+
+E esse subgrupo é o diagrama de interação.
+
+Dentro do subgrupo do diagrama de interação, nós vamos trabalhar quatro outros novos diagramas,
+
+que é o diagrama de sequência, diagrama de comunicação,
+
+diagrama de visão geral de interação e o diagrama de tempo, beleza?
+
+Então, eu estou passando este início de slide para vocês, por quê?
+
+Para que vocês entendam que existe um subgrupo dentro do grupo dos diagramas comportamentais,
+
+então, nós teremos aqui novos quatro módulos, onde nós teremos aulas teóricas e práticas
+
+para falar a respeito desses quatro carinhas aqui dentro deste subgrupo, tá bom?
+
+Então, sem delongas, vamos dar início e vamos entender, inicialmente, o que são esses diagramas de interação.
+
+Então, quando eu falar sobre o diagrama de interação,
+
+entenda que eu não estou falando apenas do diagrama de sequência,
+
+que eu não estou falando apenas do diagrama de comunicação
+
+ou do diagrama de visão de interação ou do diagrama de tempo,
+
+eu estou falando do contexto geral de todos esses diagramas
+
+que são pertencentes ao subgrupo do diagrama de interação, tá bom?
+
+Então, tecnicamente, o texto inicial que nós vamos abordar aqui,
+
+ele se trata, mais ou menos, da funcionalidade de todos esses diagramas que são contidos nesse subgrupo.
+
+Bom, então, iniciando, a primeira coisa é os diagramas de interação.
+
+Como o nome ele indica, o diagrama de interação, nós já sabemos que ele é pertencente ao grupo do diagrama
+
+relacionado ao ML, modelagem de dados unificada,
+
+e ele é usado para, obviamente, mostrar o comportamento interativo do sistema,
+
+porque nós sabemos que ele está dentro do grupo de diagrama comportamental, beleza?
+
+Os diagramas de interação, em específico, que são os quatro que eu mostrei anteriormente,
+
+eles descrevem o fluxo de mensagem e fornecem contextos para uma ou mais linhas da vida dentro de um sistema.
+
+Eita, o que eu falei aqui, grego ou aramaico? Vamos lá.
+
+Primeira coisa que nós devemos entender, algumas pessoas, talvez, que estejam acompanhando o curso,
+
+já trabalham com ML, já trabalham com produtos, ferramentas de software, sistemas e etc.,
+
+e essas já sabem em relação ao ciclo de vida de um produto ou de um sistema.
+
+Porém, eu sei que tem algumas pessoas aqui que estão estudando para entrar na área,
+
+que estão buscando oportunidade, então vale a pena ressaltar.
+
+Aqui entra um pouco de um assunto separado, que é a área de produtowner, tá?
+
+Mas, para vocês entenderem e não passar em branco, qualquer produto, isso não só falando em TI,
+
+mas num contexto geral, existe um ciclo de vida.
+
+Qual é o ciclo de vida?
+
+O determinado produto, a determinada ferramenta, se nós pensarmos dentro da área do TI,
+
+o determinado software, no caso, ele nasce com um determinado propósito,
+
+então sempre vai haver um determinado problema, e através desse problema,
+
+o determinado produto ou determinado serviço vai nascer para fazer a solução daquele problema.
+
+Ele vai ter um determinado ciclo de vida por quê?
+
+Porque ele vai, certamente, solucionar aquele determinado problema por um determinado tempo,
+
+e após aquele determinado tempo, ele, basicamente, tem o seu fim do ciclo de vida.
+
+Quando que um produto chega ao fim do seu ciclo de vida?
+
+Quando ele já não é mais cabível para determinadas situações,
+
+ou quando existe algo mais tecnológico, mais inovador para tomar o lugar dele.
+
+Então, damos exemplos bem práticos aqui, bem breves, para vocês entenderem.
+
+O pessoal dos anos 2000 pegou bastante a época onde as redes sociais eram MSN, Yahoo e Orkut.
+
+Então, esses carinhas, na época, eles reinaram por um determinado período,
+
+porque cada um tinha as suas particularidades.
+
+Então, para quem usou bastante MSN vai lembrar, vai recordar, inclusive, é uma boa nostalgia para a maioria.
+
+Porém, ao passar dos anos, lançou-se o Facebook.
+
+E o Facebook foi tão inovador que ele continha coisas que, na época, praticamente eram impossíveis,
+
+e as pessoas acabaram migrando.
+
+Então, elas acabaram deixando de usar MSN, elas acabaram deixando de usar o Yahoo,
+
+elas acabaram deixando de usar o Orkut,
+
+e essas outras ferramentas, que até então eram boas naquilo que faziam,
+
+elas acabavam morrendo, elas acabaram morrendo.
+
+Então, o Facebook se sobressaiu.
+
+Então, por que isso aconteceu?
+
+Então, existem alguns motivos.
+
+Talvez as ferramentas, na época, não se preocupavam em se atualizar, em se inovar,
+
+e elas ficaram obsoletas.
+
+E, ao mesmo tempo, o Facebook veio com coisas inovadoras, que eram inexplicáveis para a época,
+
+e tomou conta e lugar das pessoas através daquilo, beleza?
+
+Então, o ciclo de vida pode ser dedicado desta forma, por um tempo ou por um período,
+
+daquele determinado produto, ou daquela determinada ferramenta, ou daquele determinado serviço,
+
+ficar no mercado, tá bom?
+
+E esse ciclo de vida, geralmente, nós tentamos manter,
+
+ou tentamos fazer com que ele fique ao máximo de tempo vivo. Por quê?
+
+Porque quando a ferramenta está sendo criada, e ela está indo ao mercado,
+
+ela gera-se valor, ela gera-se renda, ela gera-se receita,
+
+e quando ela morre, infelizmente, ela deixa de gerar renda, deixa de gerar receita.
+
+Então, geralmente, a gente sempre tenta inovar, mudar, acrescentar novas coisas,
+
+para que ela fique o máximo de tempo possível,
+
+pegando ou suprindo necessidades daquelas pessoas que as utilizam, tá bom?
+
+Então, esses diagramas aqui, no contexto geral, como eu mencionei anteriormente,
+
+ele vai servir para exemplificar ou para ilustrar essas linhas do ciclo de vida do sistema, tá bom?
+
+Então, onde ele começou, qual é o percurso e aonde, praticamente, ele irá morrer, tá bom?
+
+E, além disso, os diagramas de interação também podem ser usados para representar as sequências organizadas
+
+dentro de um sistema e servir como um meio de visualização de dados em tempo real na OML, tá?
+
+Então, eu posso usar esses tipos de diagramas também para fazer a visualização de dados dos sistemas.
+
+Então, por isso que ele é bastante, ou melhor, porque eles são bastante importantes dentro da OML também, tá bom?
+
+E aí, voltando à slide anterior, como eu mencionei, nós temos o diagrama de sequência,
+
+comunicação, visão geral de interação e de tempo.
+
+Esses caras aqui, nós iremos trabalhar de forma separada, assim como nós fizemos nos anteriores.
+
+Então, nós vamos passar aqui ainda um contexto geral dos benefícios,
+
+porém, nós iremos dar início a partir das próximas aulas,
+
+falando um pouco mais aprofundado a respeito sobre cada um, tá bom?
+
+Mas, dando continuidade, quais são os benefícios do diagrama de interação ou dos diagramas de interações?
+
+Eles podem ser implementados em diversos cenários para fornecer um conjunto exclusivo de informações,
+
+ou seja, as informações que eles geram são completamente diferentes de todos os outros diagramas
+
+que vocês já utilizaram ou do que vocês já visualizaram até aqui, tá bom?
+
+Então, essas ferramentas aqui, elas são cruciais, principalmente para quando você quer fazer a ilustração por conjunto.
+
+Então, você pode usar diagramas estruturais, pode usar os diagramas comportamentais,
+
+e você também pode acrescentar os diagramas sequenciais para que o seu projeto, o seu trabalho,
+
+ele seja mais completo, mais apresentável na hora de mostrar a um gestor, por exemplo.
+
+Bom, para que eles podem ser usados?
+
+Modelar um sistema com uma sequência de eventos organizadas por tempo,
+
+aí nós estamos falando especificamente do diagrama de tempo, né?
+
+Fazer engenharia reversa ou avançada de um sistema ou processo.
+
+Então, nós precisamos, por exemplo, entender como um sistema funciona e aonde foi o início daquele sistema.
+
+Então, geralmente nós fazemos engenharia reversa.
+
+Então, acredito que todo mundo já ouviu falar em engenharia reversa, geralmente para o lado da ciência, né?
+
+Então, engenharia reversa, ela é bem utilizada na área da TI também.
+
+Organizar a estrutura de vários eventos interativos
+
+e mostrar de forma simples o comportamento de mensagens e linhas da vida dentro de um sistema,
+
+no qual eu já mencionei anteriormente.
+
+E por fim, identificar possíveis conexões entre elementos dessas linhas da vida, tá?
+
+Então, nós podemos fazer ali ligações, amarrações desses ciclos, se julgarmos necessário.
+
+Bom, como eu já dei um spoiler para vocês anteriormente, logo no início, né?
+
+Falando sobre quais são os diagramas de interação, mostrei as imagens e etc.,
+
+aqui eu apenas vou ressaltar o seguinte que
+
+cada tipo de diagrama aborda um aspecto diferente do comportamento ou estrutura de um sistema, tá bom?
+
+E a partir daqui, acredito que nós já iremos poder entrar dentro desses novos módulos,
+
+falando um pouco mais a respeito sobre cada um, beleza?
+
+Então, de conclusão geral, o que eu quero que vocês tirem daqui?
+
+Quero que vocês entendam que esse subgrupo relacionado aos diagramas comportamentais,
+
+que é o grupo dos diagramas de interação,
+
+eles são diagramas completamente diferentes daquilo que vocês já viram até então,
+
+e que, obviamente, a composição e a metodologia de usabilidade deles também vai ser diferente.
+
+Então, tudo aquilo que for de novidade, que vocês ainda não trabalharam ou não visualizaram nos diagramas anteriores,
+
+eu vou estar tentando explicar de forma mais detalhada possível, de forma mais completa possível,
+
+para não gerar dúvidas, para vocês terem o máximo de absorção,
+
+e, obviamente, para vocês levarem não só o certificado para casa, mas levarem conhecimento
+
+e, com certeza, conseguirem colocar isso em prática durante o dia a dia, beleza?
+
+Não vou me estender por enquanto, vou me despedindo por aqui, fiquem com Deus e até breve!
