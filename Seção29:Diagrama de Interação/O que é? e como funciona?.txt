@@ -1,0 +1,249 @@
+Olá, aluna! Olá, aluno! Como vocês
+
+estão? Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem
+
+de dados UML, trazendo a vocês, nesta aula, a primeira aula para
+
+falarmos especificamente de um dos diagramas pertencentes aos diagramas de interações.
+
+Nós iremos dar início a este modo falando um
+
+pouco sobre diagrama de comunicação ou diagrama de colaboração.
+
+Vocês vão entender aqui, a partir deste texto, por que ele tem estes dois
+
+nomes, por que ele tem o diagrama de comunicação ou o nome de colaboração.
+
+Sem leongas, o diagrama de comunicação mostra as interações entre os objetos ou funções
+
+associadas às linhas de vida e mensagens transmitidas entre essas linhas de vida.
+
+Bom, nas versões anteriores, este diagrama tinha o nome de diagrama de colaboração e
+
+ele possuía uma anotação diferente, então, ele, entre aspas, tinha ali uma outra notoridade.
+
+Mas por que ainda nós colocamos como diagrama de colaboração?
+
+Porque a galera das antigas ainda os chamam dessa forma.
+
+Então, é importante saber que ele tem dois nomes para
+
+que não confunda e ache que são dois diagramas distintos,
+
+tá? Ambos os nomes diferentes são relacionados ao mesmo diagrama.
+
+Bom, o diagrama de comunicação é um tipo de diagrama de
+
+interação, como nós já vimos, e você pode utilizar ele para
+
+explorar comportamento dinâmico de um sistema ou aplicativo de software.
+
+Bom, então, ele sempre vai fornecer uma visualização
+
+alternativa das mesmas informações do diagrama de sequência.
+
+Só que, como nós falamos, visões alternativas, você sempre pode optar em utilizar um ou outro.
+
+Isso varia do contexto e da necessidade.
+
+No diagrama de sequência, o foco é ordenar as mensagens com o tempo.
+
+No diagrama de comunicação, o foco é a estrutura
+
+das mensagens transmitidas entre os objetos da interação.
+
+Então, observa como o ponto focal entre os dois é diferente, né? Apesar de eles
+
+estarem falando do mesmo objetivo que é as mensagens, um é fazer a ordenação
+
+através do tempo, o outro é estruturar as mensagens entre os objetos, tá bom?
+
+Então, são coisas distintas, por isso que nós falamos aqui que são coisas alternativas.
+
+Varia da necessidade entre ilustrar um ou ilustrar o outro, beleza?
+
+Os diagramas ilustram como o fluxo de mensagens entre os objetos
+
+e os relacionamentos implícitos entre as classes, tá? E aí, o
+
+que nós podemos julgar aqui, de certa forma? Que nós podemos
+
+explorar objetos em um sistema ou aplicativo que trabalham juntos.
+
+Nós sabemos que, hoje em dia, é normal nós termos um sistema e um aplicativo que são integrados, por exemplo.
+
+E aqui, este diagrama é um dos melhores para se trabalhar neste contexto, para ilustrar
+
+este contexto, onde eu tenho, por exemplo, um site de pizzaria e um aplicativo da
+
+pizzaria, os dois integrados entre si e conectados ao mesmo banco de dados, por exemplo.
+
+Então, esse diagrama funciona bem para esta ocasião.
+
+O diagrama de comunicação pode identificar os seguintes aspectos de uma interação ou de
+
+uma tarefa, né? Então, de determinadas ações ou de determinadas comunicações. Vamos lá! Objetos
+
+que participam da interação, interfaces que as classes participam e agem, alterações estruturais que
+
+uma interação requer e também dados transmitidos entre os objetos em uma interação.
+
+Então, ele serve para muita coisa se nós pararmos para pensar.
+
+Eu não sei se eu vou conseguir, mas eu vou tentar, quando nós
+
+estivermos praticando, exercitando, trazer pelo menos um exemplo de cada uma dessas situações
+
+aqui para que vocês tenham a percepção do que são as diferenças do
+
+que nós estamos falando entre esses quatro tópicos que eu acabei de notar.
+
+Beleza? Bom, os diagramas de comunicação também assemelham-se a diagramas de objetos.
+
+Bom, eu disse aqui que eles assemelham-se, tá? Apesar
+
+de eles serem semelhantes, eles não são iguais.
+
+Ou seja, nos quais a linha de vida representa objetos na interação
+
+e as setas representam as mensagens transmitidas entre as linhas de vida.
+
+Ainda não dá para vocês entenderem muito bem, nem saberem o que
+
+é, porque ainda não mostrei imagens, né? Mas vamos por partes.
+
+Pontas de seta indicam a direção das mensagens, isso vocês
+
+já sabem, para frente ou para trás, e números de
+
+sequência indicam a ordem na qual as mensagens são transmitidas.
+
+Isso é importante vocês anotarem para quando nós estivermos fazendo vocês
+
+fazerem ali uma breve leitura em relação ao meio à prática,
+
+para que vocês entendam quais são os sentidos desses textos aqui.
+
+Aqui nós vamos falar um pouco sobre os símbolos, ou melhor, os elementos nos quais esse diagrama utiliza.
+
+Então, eu tentei dividir por tópicos, tá? Aqui, diferente dos outros,
+
+eu acabei não acrescentando imagens, mas eu posso estar trazendo também.
+
+Quadro de interações.
+
+Nos diagramas de sequência e de comunicação, um quadro de
+
+interação fornece um contexto ou limite para o diagrama no
+
+qual você cria elementos de diagramas, como linhas de
+
+vida ou mensagens, e no qual você observa comportamentos.
+
+Então, o quadro de interação basicamente vai ser o
+
+carro-chefe, o elemento-chefe para fazer as ilustrações desses diagramas.
+
+Já as linhas de vida, o que elas são? Como nos
+
+diagramas de sequência e comunicação, linhas de vida representam objetos que
+
+participam de uma interação, beleza? Você pode desenhar, por exemplo,
+
+o diagrama de objetos, e aí você faz o diagrama
+
+de sequência para desenhar as linhas de vida desses objetos,
+
+ou dos objetos que são participantes das interações, por exemplo.
+
+Aqui, olha só, em um cenário financeiro, linhas
+
+de vida podem ser representadas ou podem representar
+
+objetos como um sistema bancário ou cliente.
+
+Então, o objeto em si no diagrama poderia ser cliente,
+
+poderia ser banco, poderia ser gerente, e as linhas de
+
+vida aqui seriam as mesmas coisas do que essas representatividades.
+
+Cada instância em uma interação é representada por uma linha de vida.
+
+Caminho de mensagens nos diagramas de comunicação.
+
+Nos diagramas de comunicação, um caminho de mensagem
+
+é um conector entre as funções ou objetos
+
+representados pelas linhas de vida no diagrama.
+
+O caminho identifica os objetos que podem transmitir mensagens de interação.
+
+Uma mensagem é um elemento em um diagrama que define
+
+um tipo específico de comunicação entre instâncias em uma interação.
+
+Uma mensagem transporta informações de uma instância que é representada por uma linha
+
+de vida para uma outra instância em uma outra interação. Vamos lá.
+
+Aqui, galera, nada mais é do que um pequeno spoiler de objetividade do
+
+diagrama em relação a cada um dos elementos no qual nós iremos trabalhar.
+
+Então, aqui, esses textos, no caso, eles estão dizendo o que
+
+cada um dos elementos faz e qual é a objetividade deles.
+
+Agora, sobre os benefícios que esse diagrama oferece. Vamos lá.
+
+Ressaltam como as linhas de vida se conectam, focam em elementos dentro
+
+de um sistema em vez de se concentrarem no fluxo das mensagens
+
+e focam mais na organização do que no tempo, beleza? Agora, sobre
+
+desvantagens, porque nem tudo são flores, né? Então, da mesma maneira que
+
+nós temos coisas boas, infelizmente, nós temos coisas não tão boas assim.
+
+Quais são as desvantagens desses caras aqui? Podem se tornar muito
+
+complexos, dificultam explorar objetos específicos dentro de um sistema e podem
+
+demorar bastante tempo para serem criados, beleza? Bom, pessoal, e
+
+aqui é um exemplo bem breve do que é esse
+
+diagrama para vocês visualizarem o quão diferente ele é daqueles
+
+diagramas que vocês já utilizaram e que já aprenderam até
+
+aqui, tá bom? Eu trouxe já um exemplo basicamente pronto
+
+para vocês entenderem como é feita a estrutura, como é
+
+feita a escrita, como é direcionado às setas e etc.
+
+Mas esse mesmo diagrama, com certeza, eu vou trazer para vocês por etapas para nós criarmos
+
+o zero, mas já para vocês irem fixando na cabeça sobre esses textos que nós fizemos
+
+a leitura, tá bom? Aqui, ele mostra em relação aos processos do sistema e as ações,
+
+como os textos mencionam, beleza? Bom, eu não vou me estender por enquanto, até porque nós
+
+estamos na teoria, então, aqui é mais para nós começarmos a fixar o que esse
+
+diagrama é, do que ele é composto, como ele é feito, o que ele faz
+
+e onde ele se utiliza, mas eu vou ressaltando essas mesmas coisas à medida em
+
+que nós nos aprofundarmos e começarmos a fazer as criações desses diagramas, fazermos as exemplificações.
+
+Então, eu vou notando, vou comentando cada um desses pontos aí, beleza?
+
+Vou me despedindo por aqui, fiquem com Deus e até breve!
