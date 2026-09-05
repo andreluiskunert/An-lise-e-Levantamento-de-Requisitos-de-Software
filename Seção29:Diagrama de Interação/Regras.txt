@@ -1,0 +1,189 @@
+Olá, aluna! Olá, aluno! Como vocês estão?
+
+Espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de dados UML,
+
+trazendo a vocês nesta aula a continuidade sobre diagramas de interações,
+
+falando um pouco mais a respeito do diagrama de comunicação.
+
+Desta vez, nós iremos abordar aqui algumas situações no qual percorre,
+
+ou melhor, algumas regras no qual percorre no diagrama de comunicação, tá bom?
+
+A primeira delas, no qual nós vamos falar, são as mensagens.
+
+Bom, as mensagens geralmente serão as mesmas definições das mensagens do diagrama de sequência, tá bom?
+
+Então, geralmente, para o diagrama de comunicação,
+
+elas serão representadas como se fosse uma chamada de métodos, tá?
+
+E no diagrama de comunicação não existe a preocupação da ordem das mensagens.
+
+O importante dentro do diagrama de comunicação
+
+é sempre mostrar quem está fazendo os disparos dessas mensagens, independente da ordem, tá?
+
+Eu trouxe exemplos para vocês entenderem, beleza?
+
+E aqui, no caso, olha só, a mensagem por si não existe um retorno.
+
+Por quê? Porque o foco não é falar sobre o retorno da mensagem,
+
+mas é sempre apontar quem está fazendo os determinados envios,
+
+quem está fazendo a criação dos métodos, por bem dizer.
+
+Então, se você reparar, se você observar nos elementos em si,
+
+basicamente são os elementos do diagrama de sequência.
+
+Porém, a maneira de escrita nós deixamos diferente e isso faz com que ele seja um diagrama de comunicação.
+
+Então, aqui eu estou falando que existe um curso e que existe uma turma, beleza?
+
+E a mensagem ali é sobre visitar turma, né?
+
+Então, a mensagem em si está tendo um direcionamento
+
+onde ela mostra que está saindo do curso para a turma, tá bom?
+
+Nós também temos atores aqui, então, nós tivemos diagramas que falaram bastante a respeito de atores
+
+e aqui nós veremos também, desenharemos, na verdade, alguns objetos relacionados a atores.
+
+Então, é importante ressaltar isso também, beleza?
+
+Então, os mesmos diagramas de sequência,
+
+consequentemente, os mesmos diagramas de caso de uso, né?
+
+Então, os diagramas de caso de uso é onde nós temos os atores.
+
+Um ator possui vínculos com outros objetos ou com outros atores, isso nós já sabemos.
+
+Um ator envia e recebe mensagens através dos vínculos, assim como os objetos.
+
+Então, dentro do diagrama de comunicação, eu vou sempre fazer a referenciação aos meus atores,
+
+tanto fazendo o envio quanto o recebimento de determinadas mensagens, tá?
+
+E aqui tem um outro exemplo específico onde o professor, ele, entre aspas, é o meu ator, tá bom?
+
+E eu tenho ali os alunos, né?
+
+Eu tenho uma turma em específica ou eu tenho um aluno em específico
+
+e o professor, ele faz a consulta do aluno, tá bom?
+
+Então, seria uma ilustração sobre diagramas de comunicação desta forma, por exemplo, beleza?
+
+Então, são coisas bem simples, mas que é importante nós sabermos para fazermos na prática e não
+
+gerar dúvidas, legal?
+
+Aí, nós também temos os condicionais.
+
+Para quem acompanhou e não pulou nenhuma das aulas do curso até aqui,
+
+sabe muito bem do que eu estou falando e que eu mostrei inúmeras formas de condicionais,
+
+onde existe o símbolo de losângulo, né?
+
+E ele mostra para nós onde haveria uma situação condicional entre certo e errado,
+
+vou ou não vou, posso ou não posso, sim ou não, zero ou um, e assim sucessivamente.
+
+E ali sempre tinham pelo menos dois caminhos, para quando desse certo, o caminho feliz,
+
+para quando desse errado, que era o caminho triste.
+
+E aí, eu mencionei também algumas formas de escrita que poderiam ser dentro do losângulo,
+
+acrescentando, às vezes, uma referência através de um bloquinho de notas, né?
+
+Um note, que é aquele postitizinho de comentário, escrevendo abaixo.
+
+Então, tem uma série de variedades do qual nós podemos falar.
+
+Aqui, em específico, para o diagrama de comunicação, é um pouco diferente, por quê? Olha só.
+
+Indica que uma mensagem só será enviada quando uma determinada condição for satisfeita.
+
+Então, aqui eu estou mandando uma mensagem só quando houver uma aprovação, por exemplo.
+
+A condição vem entre dois conchetes antes da mensagem.
+
+Então, isso aqui é uma regra.
+
+Para eu fazer uma condição, eu tenho que colocar conchetes, por exemplo.
+
+E aqui, olha só que bacana, eu meio que escrevo a condição, tá?
+
+E eu falo qual vai ser a ação daquela condição.
+
+Então, eu estou falando aqui o seguinte, eu tenho um ator que é o gerente,
+
+e eu tenho ali a minha conta, né? Que é a conta gerencial.
+
+E eu estou falando o seguinte, se o saldo estiver zerado na minha conta,
+
+ou se o meu dinheiro for igual a zero, vai ter a ação.
+
+Qual é a ação? Encerrar conta, tá?
+
+E a ação aqui eu estou colocando como um método, então isso daqui é importante.
+
+Observa que eu não tenho o losango, e eu não estou dizendo se a minha conta bancária for zerada em encerra-conta.
+
+Se a minha conta bancária estiver algum determinado valor diferente de zero, ela percorre outro caminho.
+
+Não, aqui nós falamos apenas a condição 1, tá?
+
+O importante é a mensagem apresentada, beleza?
+
+E aí, nós temos as auto-chamadas também, que é bem importante.
+
+Seria as auto-chamadas, vamos lá.
+
+O objeto pode disparar uma mensagem para si mesmo.
+
+No diagrama de sequência, nós vimos bastante isso.
+
+A mensagem parte do objeto para si próprio.
+
+Indica que o objeto tem que fazer aquela tarefa para completar o serviço solicitado.
+
+Então, ele mesmo faz a solicitação para ele mesmo, ele mesmo dispara para si próprio a determinada mensagem, tá?
+
+E aí, nós temos um exemplo de como faz essa representatividade.
+
+Então, quando eu estou dizendo que existe uma necessidade de uma auto-chamada para o mesmo objeto,
+
+eu vou fazer esse tipo de ilustração.
+
+É uma espécie de dois elementos sobrepostos um pelo outro.
+
+Indica que ele estava lá atrás e ele está se chamando aqui na frente mais uma vez.
+
+E aqui eu estou fazendo uma validação do CPF.
+
+Então, validação do CPF vai ser ele por ele mesmo e ele só vai dar continuidade após ter a validação, beleza?
+
+Então, galera, por que eu não passei tantos elementos, assim como os diagramas anteriores?
+
+Como já foi mencionado no anterior, basicamente, todos os elementos dos diagramas anteriores,
+
+nós fazemos a junção, nós fazemos a utilização neste diagrama aqui, tá bom?
+
+Então, o que nós temos de diferente, por enquanto, são essas notações, esses conceitos e esses
+
+elementos que eu passei para vocês, beleza?
+
+Então, a partir da próxima aula, nós daremos continuidade, agora de uma forma que eu acredito que vocês gostem,
+
+a parte prática, então nós trabalharemos alguns exemplos a quatro mãos.
+
+Eu vou me despedindo por aqui, espero vocês na próxima aula, fiquem com Deus e até breve!
