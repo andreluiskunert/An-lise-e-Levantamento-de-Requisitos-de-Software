@@ -1,0 +1,165 @@
+Olá, aluna! Olá, aluno! Como vocês estão? Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de dados
+
+UML, trazendo a vocês, nesta aula, o primeiro exemplo prático relacionado a diagrama de
+
+comunicação, onde nós trabalharemos a quatro mãos, tá bom? Bom, o intuito da aula
+
+é desenhar um diagrama e criar um diagrama de comunicação, que seja relacionado
+
+à abertura de uma conta bancária, até para nós pegarmos resquícios do que
+
+nós vimos nas aulas anteriores, como exemplo, beleza? Então, aqui vai ser uma
+
+situação onde nós teremos um determinado usuário, e ele terá de fazer ali
+
+algumas especificações, por sinal, para que ele possa abrir a sua conta bancária
+
+e ter ali os seus extratos ou os seus históricos, tá? Então, o
+
+primeiro de tudo é que nós vamos iniciar este diagrama acrescentando um ator.
+
+Então, nós já temos aqui no primeiro menu geral o nosso bonequinho de ator,
+
+e nós vamos dar duplo clique para alterar o seu nome, e ele vai
+
+se chamar Banco, beleza? Então, o meu ator vai ser o meu Banco.
+
+E aí, para o meu Banco, eu vou ter aqui uma situação específica, que será a pessoa física.
+
+Então, eu vou pegar aqui o retângulo, beleza? Eu vou até esticá-lo um
+
+pouquinho mais, e vou colocar assim, ó, física, um, dois pontos, física, que
+
+é a minha pessoa física, beleza? E aqui, eu vou fazer a ligação
+
+que nós já estamos acostumados e que não tem muito segredo, beleza? A
+
+partir daqui, o que nós vamos fazer, ou melhor, o que nós
+
+faremos? Primeiro de tudo, nós vamos retirar esta seta aqui, então vamos...
+
+Mas só se eu clicar aqui no menu, né? Retirar as pontas das
+
+setas, se eu não me recordo mal, ela é aqui, para ficar uma
+
+linha contínua, tá bom? E aqui, nós vamos fazer uma primeira referenciação em
+
+relação ao Banco para pessoa física, que é o quê? A abertura de
+
+uma determinada conta bancária, nós vamos, primeiramente, precisar fazer uma inserção do CPF.
+
+Então, aqui, nós vamos precisar utilizar a nossa ferramenta text, que é a nossa ferramenta de texto, e
+
+colocar aqui, ó, que a primeira situação seria esta daqui, vou até dar um zoom para vocês.
+
+Ficarei assim, ó, com CPF, que seria isso, consultar CPF, beleza?
+
+E aí, eu tenho que fazer o direcionamento, tá? Então, o
+
+direcionamento, ele vai ser esse direcionamento aqui, beleza? Então, eu estou
+
+apontando de onde ele está vindo para onde ele está indo.
+
+Vamos copiar e colar este primeiro para facilitar a nossa vida, e aqui, nós
+
+vamos colocar assim, ó, 2, beleza? E aqui vai ser o nosso condicional.
+
+Lembra que a regra na qual nós lemos no texto passado é
+
+que precisa estar dentro dos colchetes? Então, nós vamos colocar aqui, ó,
+
+se necessário, beleza? Gravar. Ah, Vila, como assim, se necessário gravar? Então,
+
+vai haver uma consulta bancária relacionada ao CPF, beleza? Se o CPF,
+
+ele já consta neste banco, se ele já é um CPF cadastrado,
+
+não vai haver a necessidade de passar para a segunda opção.
+
+Agora, se for uma primeira consulta, né, uma primeira inserção desse CPF neste banco, no caso,
+
+aí, no caso, ele vai ter de fazer a gravação para poder criar a conta, tá
+
+bom? Então, aqui, nós também faremos o direcionamento devido de acordo para onde ele percorre,
+
+beleza? Fora isso, nós também vamos ter, vamos poder colocar aqui abaixo, ó, ah, acredito
+
+que aqui fique bom, nós vamos ter assim, ó, conta 1, 2 pontos, conta comum,
+
+beleza? Aqui, eu estou falando que, se o usuário, ele for uma pessoa física, o
+
+CPF dele, quando for gravado, vai partir para uma terceira situação, que é a conta,
+
+a abertura da conta, beleza? Então, aqui, nós faremos o direcionamento mais uma vez, vamos
+
+tentar, deixa eu ver se eu acho uma outra seta aqui que seja melhor, mas
+
+eu acho que não vai, aqui, ó, essa daqui ficou bem bacana, aí já vai
+
+ficar uma linha contínua, né, sem curvas, uma linha reta, tá? Aqui, nós vamos falar
+
+nossa terceira situação, então, aqui, nós podemos copiar e colar para facilitar mais uma vez,
+
+e vamos colocar aqui a nossa terceira situação, que é a abertura da conta, então,
+
+abertura, abre e fecha parênteses, né, lembrando que sempre vai fazer a representatividade dos métodos.
+
+Vamos copiar e colar esta seta, e vamos falar para ela qual vai ser o seu direcionamento.
+
+Beleza? Até então, eu acho que está entendível a todos, né? Então,
+
+dando continuidade, após a abertura de uma conta comum, aí, no caso,
+
+ele vai ter os seus direitos, né, de extratos, tanto de entrada
+
+quanto saída, então, tecnicamente, ele vai ter uma visibilidade dos seus históricos,
+
+tanto de transação, quanto de pagamentos, beleza? Ou de recebimentos também,
+
+né? Então, aí, para este caso, nós vamos ter aqui uma
+
+outra situação, vamos colocar como história 1, ou histórico, no caso,
+
+né? Histórico, e aqui vai ter uma situação onde nós vamos
+
+precisar fazer a ligação, e onde nós vamos precisar falar o
+
+que vai ser feito de ação entre esses dois carinhas aqui.
+
+Então, vamos copiar e colar a nossa abertura, e aqui nós teremos uma
+
+quarta situação, ou um quarto passo, que vai ser gravar, beleza? E aqui,
+
+basicamente, está pronto o nosso primeiro diagrama de comunicação, levando em consideração as
+
+nomenclaturas, os textos e as mensagens no qual nós abordamos nas aulas anteriores.
+
+Então, aqui nós estamos falando bastante a respeito sobre as mensagens
+
+que vão ser exibidas, sobre as ações que serão exibidas, sobre
+
+os condicionamentos necessários, e sobre os atores que estão envolvidos.
+
+Bom, eu não sei se vocês observaram, mas, para a primeira situação, eu
+
+não acrescentei seta direcionamento, as demais também não precisam, eu acabei não alterando.
+
+Então, se o de vocês está assim como o meu, ainda com as setas, retirem
+
+para ficar com uma linha contínua, beleza? E aqui está pronto o nosso diagrama
+
+de comunicação relacionado ao banco, beleza? Bom, esse daqui foi bastante simples, não houve
+
+complexidade, então, vamos começando devagarinho, sem muita afobação, mas, à medida que nós formos
+
+evoluindo com as explicações e formos tendo um breve conhecimento, nós vamos nos aprofundando
+
+e vamos deixando um pouco mais complexo, um pouco mais difícil as situações, tá
+
+bom? Então, acredito que a próxima aula eu traga um próximo exemplo novamente, porém,
+
+não tão fácil quanto este daqui, para que nós tenhamos um know-how e uma
+
+percepção maior, beleza? Vou me despedindo por aqui, fiquem com Deus e até breve.
