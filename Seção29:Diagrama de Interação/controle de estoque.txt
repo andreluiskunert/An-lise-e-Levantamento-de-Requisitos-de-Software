@@ -1,0 +1,342 @@
+Olá, aluna! Olá, aluno! Como vocês estão? Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem
+
+de dados UML, trazendo a vocês nesta aula mais uma aula
+
+prática para nós aprimorarmos os conhecimentos relacionados a diagrama de comunicação.
+
+Nesta aula eu vou tentar passar a vocês o diagrama de comunicação
+
+de um sistema de controle de estoque, beleza? Acredito que em
+
+aulas anteriores, em módulos anteriores, vendo outros diagramas, nós já vimos
+
+a respeito de algum diagrama sobre controle de estoque, e desta
+
+vez eu vou passar o sistema de controle de estoque para
+
+diagrama de comunicação, para vocês verem as diferenças em relação à
+
+montagem dos diagramas, por mais que sejam relacionados ao mesmo assunto.
+
+Embora sejam relacionados ao controle de estoque, a maneira no qual é
+
+criado, a maneira no qual é desenvolvido, com certeza muda, até para
+
+vocês entenderem as diferenças, beleza? Bom, para o diagrama de comunicação nós
+
+vamos precisar apenas do primeiro menu, no qual já está aberto, está
+
+expandido, o menu geral, e aqui nós vamos usar os elementos básicos,
+
+tá bom? O primeiro elemento no qual nós vamos trabalhar é o
+
+nosso retângulo, então, clicando nele, ele apareceu aqui no centro da tela,
+
+duplo clique para nós podermos inserir os textos, vamos colocar aqui inicialmente
+
+janela, e não precisam se preocupar, porque à medida que nós formos
+
+evoluindo, eu vou explicando, tá bom? Então, a janela aqui vai se
+
+chamar entrada de pedido, beleza? Eu imagine que esta janela aqui, ela
+
+possa ter vários significados, nós estivéssemos falando, por exemplo, para um aplicativo,
+
+em relação à entrega alimentícia, como exemplo, o iFood, seria uma janela
+
+de pedido, o carrinho de compras, por exemplo, para se fosse um
+
+lugar físico, um estabelecimento, por exemplo, poderia ser ali o balcão, o
+
+balconista onde ele recebe os pedidos dos clientes, por exemplo, beleza? Bom,
+
+dando continuidade, a janela de pedido é onde é a entrada, onde
+
+a solicitação do pedido vai acontecer, para que o pedido possa existir,
+
+então, aqui nós colocaremos pedido, beleza? Após fazermos a inserção do que
+
+seria o suposto pedido, nós precisaremos colocar os itens que seriam relacionados
+
+a esse pedido, aqui seria basicamente o nome dos itens, eu
+
+vou colocar aqui Guaraná Antarctica, beleza? E esse Guaraná Antarctica é
+
+relacionado ao item de pedido, eu vou até dar um Enter
+
+a mais aqui para ter um espaçamento e ter uma legibilidade
+
+melhor, uma leitura melhor, beleza? Aí o que acontece, a partir
+
+daqui, o item de pedido passa a ter duas situações, beleza?
+
+De novo, não se preocupem que demais informações, demais detalhes nós
+
+vamos acrescentando à medida em que nós formos fazendo a hierarquia
+
+e a estrutura deste diagrama, beleza? Mas o que acontece, quando
+
+houver o pedido relacionado ao Guaraná Antarctica, nós antes de efetuarmos
+
+o pedido ou de realizarmos a entrega desse pedido para o
+
+cliente, nós precisamos fazer a verificação, e que verificação seria essa?
+
+A verificação de estoque, saber se existe uma lata ou uma
+
+garrafa de Guaraná Antarctica para eu poder distribuir para esse cliente,
+
+né? Então a lata ou a garrafa obviamente vai variar de
+
+acordo com o pedido, porque ele pediu a lata e caso
+
+não tenha lata que eu vou entregar a garrafa, mas aqui
+
+como está de uma forma genérica, eu não estipulei se é
+
+uma lata, se é uma garrafa, eu só estou estipulando o
+
+tipo de produto, que seria um refrigerante da marca Guaraná Antarctica,
+
+mas para nós temos o entendimento que, se tivesse necessidade, poderemos
+
+acrescentar mais informações, beleza? Aqui então nós vamos colocar assim, o
+
+estoque de Guaraná Antarctica, beleza? E aqui a gente colocaria item
+
+de estoque, já não é item de pedido, item de estoque.
+
+E aqui nós podemos, na verdade, deixar com espaços, tá? Porque
+
+é informativo, não está relacionado à classe nem a determinados
+
+métodos de programação, beleza? Então, beleza, resumo geral por enquanto.
+
+Então existia aqui a inicialização, solicitação de pedido, onde seria o recebimento do suposto pedido,
+
+a entrada do suposto pedido, o pedido em si, juntamente com os seus itens e
+
+a verificação desse item em estoque, beleza? Quando o item sai de estoque, basicamente eu
+
+preciso de uma reposição deste item, porque se sempre sair do estoque e eu não
+
+fizer a reposição, uma hora ou outra eu vou acabar ficando sem estoque e
+
+quando eu for efetuar a venda já não vai ter o que ser entregue.
+
+Então sempre que houver a retirada de estoque, deve haver o que? Uma reposição.
+
+Então eu vou colocar aqui, item de reposição, beleza? Uma vez que eu verifiquei que
+
+o meu Guaraná Antarctica tem disponibilidade no estoque e eu também já fiz a
+
+sua reposição, aí sim eu vou fazer a entrega deste refrigerante ao meu cliente.
+
+Então aqui eu vou colocar um item de entrega, por exemplo, beleza? E
+
+aí agora vem a parte bacana. Qual é a parte bacana? Fazer as
+
+descrições ou acrescentar as informações que são relevantes ao diagrama de comunicação.
+
+Primeiro de tudo aqui nós vamos fazer as ligações devidas.
+
+Então, para não perdermos muito tempo, eu vou primeiramente fazer todas as ligações.
+
+E observem que todas as ligações possuem direcionamentos.
+
+Esses direcionamentos eu não quero. Por quê? Porque aqui eu não estou
+
+falando a respeito de quais informações vão ser enviadas para outras.
+
+Então aqui eu só estou querendo fazer ligações.
+
+Então para todas as setas que tiverem direcionamentos aí
+
+para vocês, retirem para que fique apenas uma linha
+
+única, tá bom? Sem a necessidade de direcionamentos.
+
+Então aqui, tirando de todos, nós temos basicamente o nosso diagrama montado.
+
+A estrutura dele nada mais é do que isso.
+
+Bom, por que aqui na parte do item do pedido ele tem duas amarrações?
+
+Porque quando eu estou falando sobre o item, primeiro eu verifico em relação se
+
+esse item existe no estoque, para que esse mesmo item eu consiga fazer
+
+a entrega ao cliente, beleza? E aqui agora nós faremos as nossas descrições.
+
+Então o nosso primeiro ponto, vamos colocar aqui, enumerar 1,
+
+seria preparar, ou seja, fazer a preparação do pedido, beleza?
+
+Então aqui é onde eu faço o suposto recebimento.
+
+Copiando e colando para facilitar e agilizar, nós podemos colocar aqui
+
+o seguinte, 2 e um asterisco, por que o asterisco? Porque
+
+aqui nós vamos falar que existe uma obrigatoriedade, e aqui nós
+
+podemos colocar assim ó, para todas as linhas de pedido.
+
+Ávila, como assim para todas as linhas de pedido? Eu não entendi o que você quis dizer.
+
+Aqui basicamente o que nós estamos falando é que quando
+
+houver a preparação, a que seja preparado todas as linhas
+
+de pedido, ou seja, todos os itens que forem acrescentados
+
+dentro do mesmo pedido, para serem levados em consideração.
+
+No caso nós estamos falando apenas de um item que é o Guaraná Antártica,
+
+mas vamos imaginar aqui uma pastelaria, eu pedi um refrigerante e 6 pastéis.
+
+Então eu deveria fazer a consideração de 7 linhas, por exemplo, dos
+
+6 pastéis, porque obviamente cada um seria um determinado produto do pedido,
+
+juntamente ao Guaraná Antártica, que seria o meu sétimo item, por exemplo.
+
+Bom, aí dando continuidade, observa que aqui eu estou falando a respeito do
+
+preparo do pedido, da contagem de produtos que serão inseridos no meu pedido.
+
+E aqui quais são as diferenças? Porque eu cheguei no
+
+momento onde eu estou numa etapa que há dois direcionamentos.
+
+Nesses direcionamentos é importante nós sabermos quais são as
+
+enumerações, porque é de acordo com as prioridades.
+
+Eu vou fazer a entrega do determinado produto sem saber se ele existe no estoque?
+
+Não. Então obviamente a prioridade é a verificação do estoque para depois a entrega.
+
+Então aqui o meu número 3, por exemplo, ele seria relacionado a esta
+
+etapa, onde eu faço a checagem de estoque, beleza? Então aqui o meu
+
+terceiro, ele seria verificar, verificar o quê? Verificar se o item é existente
+
+ou não no estoque, beleza? Bom, fora a verificação, se o item é
+
+existente em estoque, eu também preciso fazer a sua retirada, porque se eu
+
+vou fazer a entrega deste item, caso ele esteja, ou caso tenha em
+
+estoque, então vamos colocar aqui, tem estoque, beleza? Igual a retirar, porque se
+
+existe o item no estoque, é este item que eu vou retirar e
+
+fazer a entrega para o meu cliente, beleza? Verifiquei se o item tem
+
+estoque, se tem eu retiro, se não tem, não tem como fazer a
+
+venda, beleza? Bom, uma vez que eu fiz a verificação do meu item
+
+em estoque, eu fiz a retirada, eu também preciso fazer a reposição.
+
+A reposição, ela sempre vai ficar aqui acima do elemento, tá bom? Então aqui
+
+eu colocaria o numerador 5, precisa repor, tá bom? E aqui eu posso fazer
+
+uma regra ou um direcionamento, vou pegar aqui essa seta de curva, e essa
+
+seta de curva vai ser fundamental para nós, porque aqui nós fazemos algumas modificações
+
+para mostrar que este elemento vai trabalhar em cima dele mesmo, tá bom?
+
+Talvez tivesse uma outra seta aqui ou um outro recurso que nós pudéssemos
+
+usar de uma melhor forma, mas para não estender tanta aula, eu vou
+
+deixar esse daqui mesmo, que eu estou dizendo que a reposição ela deve
+
+acontecer em cima do estoque, tá? Então, por isso que está dessa forma.
+
+Bom, tem um pequeno erro aqui no numerador 5 que eu acrescentei
+
+uma barra, deixa eu retirar para não ficar errôneo, tá? E número
+
+6, o que é o número 6 aqui? É a reposição.
+
+Então, a reposição ali acima foi a verificação de reposição, agora
+
+aqui o meu precisa reposição vai ser onde a reposição literalmente
+
+vai acontecer, beleza? Deixa eu só aumentar aqui para nós continuarmos.
+
+Então, todavia, por enquanto, está da seguinte forma, eu recebo a solicitação do pedido, beleza?
+
+Esse pedido ele é efetuado, ou seja, é adicionado determinados itens em relação ao pedido,
+
+dando de novo como exemplo a pastelaria, onde eu fiz a solicitação do Guaraná
+
+Antártica, tá bom? E para a entrega deste pedido ela acontecer, eu faço a
+
+verificação no estoque, então eu verifico caso haja o meu Guaraná Antártica em estoque,
+
+eu faço a retirada para fazer a entrega, para efetuar a venda, obviamente, porém
+
+ao mesmo tempo eu faço uma reposição no meu estoque para que nunca fique
+
+em falta, beleza? Então, toda essa etapa aqui no qual nós acabamos de fazer.
+
+E aí, por fim, quando eu faço a verificação, retiro o produto de estoque,
+
+reponho este mesmo produto no qual eu acabei de retirar, aí sim eu vou
+
+para a minha sétima etapa, que é o que? É o item para entrega.
+
+Então, eu falo para o meu cliente que este item existe em estoque, eu
+
+coloco aqui, tem em estoque, e a partir daqui o item sai para a
+
+entrega, beleza? Então, aqui é mais um exemplo de diagrama de comunicação, bem
+
+simples, bem fácil, nada complexo, e exige bastante atenção em relação às ordenações,
+
+as ordens hierárquicas das coisas, como elas acontecem e por onde elas trafegam.
+
+Bom, terminamos? Ainda não, falta uma pequena informação acrescentar, que agora sim é
+
+falar sobre os seus respectivos direcionamentos, tá bom? Então, aqui nós vamos acrescentar
+
+uma seta, beleza? Esta seta é a seta que vai representar o direcionamento
+
+por onde as comunicações acontecem, beleza? Então, isso que nós estamos fazendo aqui
+
+é basicamente o que nós estamos acostumados a fazer com os elementos, só
+
+que de uma forma mais completa, tá? Então, esse daqui que é de
+
+lado, vou arrastar antes, senão vai fazer amarração com a legenda, ele pode
+
+ficar aqui abaixo, e o último vai ser ali o nosso número 7.
+
+Então, aqui eu estou dizendo por onde as comunicações trafegam, tá bom? Então, aqui basicamente
+
+a parte do item de Guaraná Antártica, que é pressuposto passando do 2 ao 3,
+
+que vai até o sexto e volta para o sétimo, é basicamente situações simultâneas.
+
+Eu vou, verifico e já retorno a resposta para o meu cliente, se
+
+tem ou não aquele determinado produto que ele escolheu para efetuar a compra,
+
+tá bom? Bom, eu vou me despedindo por aqui para a aula não
+
+ficar tão extensa, espero que vocês estejam entendendo, que vocês estejam gostando, próxima
+
+aula nós daremos continuidade com um outro tipo de diagrama, abordando um
+
+novo módulo, me despeço de vocês, fiquem com Deus e até breve.
+Rolagem autom
