@@ -1,0 +1,523 @@
+Olá, luna! Olá, luno! Como vocês estão?
+
+Eu espero que estejam bem.
+
+Sejam muito bem-vindos a mais uma aula do nosso curso de modelagem de dados UML,
+
+trazendo a vocês, a partir desta aula, a inicialização de um novo módulo,
+
+um novo diagrama, o diagrama de visão geral de interação.
+
+Este diagrama também é pertencente ao grupo de diagramas comportamentais
+
+e também pertencente ao subgrupo dos diagramas de interações,
+
+assim como o diagrama que nós estudamos no módulo anterior.
+
+Bom, assim como vocês estão acostumados,
+
+e eu venho repetindo à medida em que a gente entra no termo teórico,
+
+nós, de novo, vamos estudar, primeiramente, a parte contextual, a parte teórica,
+
+para que, então, possamos colocar em prática à quatro mãos
+
+as atividades pertinentes a este tipo de diagrama, beleza?
+
+Bom, primeiro de tudo, o que o diagrama de visão geral de interação
+
+tem de benefício ou tem de importância dentro da modelagem de dados?
+
+Primeiro de tudo é que este diagrama aqui é um dos poucos que é chamado de diagrama híbrido. Por quê?
+
+Porque este diagrama nada mais é do que a combinação do diagrama de atividades
+
+com o diagrama de sequência, ou seja, a junção de ambos.
+
+Então, ele combina a perspectiva de alto nível do diagrama de atividades
+
+e a visão de interação detalhada do diagrama de sequência, beleza?
+
+Esta combinação acaba oferecendo uma representação diferenciada do fluxo operacional de um sistema. Por quê?
+
+Porque acaba abrangendo atividades sequenciais e simultâneas
+
+e tornando-as especialmente valiosas em contextos complexos de engenharia de software,
+
+que é o que nós visualizamos no curso, mas também em design de sistemas, beleza?
+
+Então, este diagrama, ele muitas vezes é utilizado quando precisamos, por um acaso,
+
+fazer o diagrama de atividades, ou muitas vezes o diagrama de sequência,
+
+ou até, em ocasiões, fazer ambos, se dá a troca para fazer o diagrama de visão geral de interação,
+
+porque este diagrama aqui tem uma objetividade maior,
+
+ele tem um mapeamento e um detalhamento maior, e nós vamos ver ao decorrer da aula.
+
+Bom, para quem não sabe, o diagrama de visão geral de interação
+
+surgiu com base da melhoria da modelagem de dados, ou seja, a partir da UML 2.0.
+
+Ao decorrer do curso, nós vimos dentro da ferramenta no qual nós usamos aqui para fazer as diagramações,
+
+que nós temos o menu normal, o menu UML, e nós temos também o menu UML 2.0,
+
+e nós vimos que no menu UML 2.0 existem elementos diferentes, às vezes, elementos até mais complexos
+
+e mais completos do que os elementos de UML comum, beleza?
+
+Então, da mesma maneira que existem aqueles elementos de UML 2.0, foram criados novos elementos,
+
+também foram criados novos diagramas que abrangem a junção desses elementos, beleza?
+
+E este diagrama aqui em específico, ele deu um avanço significativo no campo da engenharia de software, por quê?
+
+A evolução reflete o esforço contínuo de abordar as complexidades e as naturezas multifacetadas
+
+dos sistemas de softwares modernos, então, à medida em que a tecnologia vai evoluindo,
+
+os mapeamentos, as formas no qual nós podemos desenhar ou descrever, também precisa ter uma evolução.
+
+Não dá para nós ficarmos também no tempo das cavernas, tá?
+
+Então, por isso que existe essa evolução dentro da modelagem também.
+
+Esses diagramas, eles têm sido fundamentais para preencher a lacuna entre o fluxo do processo de alto nível
+
+e a modelagem detalhada da interação, oferecendo uma abordagem mais integrada ao projeto do sistema.
+
+Então, este diagrama, ele tem como principal função o preenchimento desta lacuna, desta brecha, tá bom?
+
+Que é a relação do processo de alto nível com a modelagem detalhada da interação, tá bom?
+
+E assim como vocês já estão acostumados a saber antes da prática sobre os elementos,
+
+as formas que são utilizadas no diagrama, eu vou passar para vocês aqui também.
+
+Para este caso em específico, eu, infelizmente, não achei imagens que eu pudesse estar utilizando
+
+para a representatividade desses textos, mas conforme nós formos fazendo na prática,
+
+eu vou mencionando, ou eu vou voltando aqui no slide para fazer junção dessas ocasiões, tá?
+
+Junção do que é o elemento e o que ele faz, assim como eu já fiz em algumas outras aulas,
+
+alguns outros módulos lá no início do curso, beleza?
+
+Bom, então, os primeiros elementos que nós temos que são julgados como principais para este tipo de diagrama
+
+são os nós e as arestas, beleza?
+
+Os nós, este termo em si, ele é bastante utilizado para quem é da área de redes, tá?
+
+Então, quem mexe bastante com infraestrutura, quem é engenheiro ou arquiteto de rede,
+
+ouve falar bastante em nó. O que é o nó?
+
+O nó nada mais é do que a junção, ou a conexão, ou a ponte de ligação entre uma parte e outra,
+
+entre uma ponta e outra, tá?
+
+Então, o nó aqui dentro deste tipo de diagrama também tem esta determinada relação.
+
+Então, o nó serve para fazer ligações, tá bom?
+
+Então, existem nós que são relacionados a atividades,
+
+existem nós que são relacionados a interações,
+
+existem nós que são relacionados a decisões,
+
+e existem nós que são relacionados a fusões, beleza?
+
+E esses nós, geralmente, nós utilizamos para fazer as interconexões das arestas, tá bom?
+
+Estas arestas, basicamente, nós teremos apenas neste diagrama,
+
+então, nos diagramas anteriores, nós acabamos não visualizando o que é, nem como faz, ou por que ela existe.
+
+Então, vamos lá.
+
+Os nós e arestas, no termo geral, ou utilização dos dois em conjunto,
+
+eles têm a função de fazer o mapeamento coletivo e sequência do fluxo de atividades e decisões,
+
+ou também das interações dentro do sistema, tá bom?
+
+Então, sempre que eu tiver arestas, eu vou precisar ter nós para fazer as interconexões entre elas, beleza?
+
+A precisão na representação de diferentes tipos de nós
+
+permite uma compreensão aprofundada da funcionalidade e do fluxo de sistemas.
+
+Então, aqui já é dito que nós precisamos prestar bastante atenção
+
+e entender bastante, e colocar detalhes e profundidade em específico
+
+para termos uma melhor compreensão, dependendo da ocasião, beleza?
+
+Nós temos também outros elementos, que são controles de fluxos e dados, beleza?
+
+A inclusão de elementos de controle de fluxos e dados neste diagrama é vital, por quê?
+
+Descrevem como os dados e os sinais de controle navegam pelo sistema,
+
+fornecendo informações sobre as interações e dependências entre os diferentes componentes de sistema.
+
+Esse nível de detalhe é fundamental para identificar possíveis gargalos,
+
+otimizar o desempenho do sistema e garantir uma operação sem interrupções, tá bom?
+
+Então, o controle de fluxos e dados nada mais é ter o controle de direcionamento de tráfego,
+
+quem está enviando, ou seja, quem é o emissor, quem está recebendo, ou seja, quem é o receptor,
+
+por qual meio esta comunicação está acontecendo, qual que é a carga de dados que está sendo enviada,
+
+se está havendo gargalo entrando em fio ou não, tudo isso nós conseguimos ver através desse tipo de diagrama,
+
+utilizando os elementos de controle de fluxos e dados, tá bom?
+
+Temos também elementos de fragmentos de interação e referências,
+
+ou seja, fragmentos de interação e as referências nos diagramas de visão geral
+
+permitem examinar em detalhe sequências específicas dentro de um fluxo mais amplo.
+
+Então, eu consigo pegar aqui o que não está tão detalhado e trazer de uma forma mais granular, por exemplo.
+
+Esses elementos podem representar cenários complexos, como caminhos alternativos,
+
+loops e atividades simultâneas, e também obter uma visão granular das interações do sistema.
+
+Este detalhe, particularmente, é importante na identificação e análise dos caminhos críticos
+
+e das interações que definem o comportamento do sistema.
+
+Então, eu preciso ter esses fragmentos de interações e referências
+
+para eu saber o que está conversando com o que, ou o que está integrado com o que, e assim sucessivamente.
+
+E, assim como os demais diagramas que nós já estudamos até aqui,
+
+existem também boas práticas a serem criadas, ou melhor,
+
+existem boas práticas a serem levadas em consideração
+
+para que nós possamos criar um diagrama de forma mais profissional, mais bem definida,
+
+mais bem detalhada, mais robusta, mais completa possível, beleza?
+
+E essas etapas, elas envolvem algumas regrinhas.
+
+Muitas dessas regras, na verdade, nós já estamos acostumados,
+
+porque, basicamente, é regra e é premissa para os demais também.
+
+Mas, vale ressaltar e vale passar mais uma vez, até para fixar melhor na cabeça de vocês, beleza?
+
+Bom, etapas preliminares e levantamentos de requisitos.
+
+A fase inicial da criação de um diagrama de visão geral
+
+envolve uma análise completa dos requisitos e da arquitetura do sistema.
+
+Essa etapa é fundamental para garantir que o diagrama reflita com precisão a funcionalidade
+
+e as interações pretendidas no sistema.
+
+É aqui que as informações detalhadas são coletadas de diversas partes interessadas,
+
+incluindo arquitetos de sistemas, desenvolvedores e usuários finais,
+
+para obter uma compreensão abrangente dos objetivos e restrições do sistema.
+
+Ou seja, a primeira etapa para nós criarmos um sistema, antes de ele existir,
+
+antes do scope existir, antes do diagrama existir, antes da documentação existir,
+
+é o levantamento dos requisitos.
+
+É onde nós vamos conversar, fazer entrevistas, brainstorms com os stakeholders,
+
+que são as partes interessadas.
+
+É aqui que nós faremos os mapeamentos, entenderemos as regras.
+
+É aqui que nós saberemos quais as tecnologias vão ser utilizadas,
+
+quais vai ser os tipos de implementações, como que vai ser a arquitetura,
+
+como que vai ser a infraestrutura.
+
+Então, tudo isso é interessante e é importante ter mapeado
+
+na hora de desenhar esse tipo de diagrama, beleza?
+
+Então, aqui é onde eu vou falar qual vai ser o banco de dados,
+
+se ele vai ser on-premises, se ele vai ser em nuvem, se vai ser uma AWS,
+
+qual vai ser o tipo de tecnologia de comunicação,
+
+qual vai ser o código ou a linguagem de código que eu vou utilizar
+
+para desenvolver o sistema, como que vai ser o tipo de interface,
+
+quem vão ser as pessoas, quais serão os recursos, quantas horas vai durar.
+
+Então, tudo isso está envolvido no levantamento de requisitos.
+
+E esta etapa é fundamental, não só para este diagrama,
+
+mas para todo o projeto de software, no contexto geral, beleza?
+
+E aí, nós temos aqui um primeiro tópico, que é a identificação
+
+e definição dos principais componentes.
+
+Então, comece fazendo a identificação das principais interações,
+
+atividades e pontos de decisões no sistema.
+
+Divida processos complexos em partes simples e defina claramente
+
+cada interação usando os símbolos UML padronizados, ou seja,
+
+faça a utilização das opções de elementos de UML da forma que deve ser,
+
+ou seja, utilize cada elemento com cada objetivo na sua devida ocasião,
+
+no seu devido lugar e na sua devida importância.
+
+Não faça algo escrachado e queira utilizar um elemento que não tem nada a ver
+
+com uma outra determinada funcionalidade, ou para uma outra determinada objetividade, beleza?
+
+Segundo ponto, esboce o fluxo preliminar. Aqui é o famoso papel de pão, tá bom?
+
+Faça um mapeamento preliminar para ilustrar a sequência de eventos e interações.
+
+Inclua as nós condicionais e loops para representar aspectos dinâmicos,
+
+como processamento condicional ou sequências repetitivas.
+
+Então, aqui é onde você vai começar a fazer os direcionamentos e fazer divisões dos caminhos, tá?
+
+Então, é onde você vai começar a criar as condições, pelo menos as básicas, as mais importantes.
+
+Terceiro, revise, refine e solicite feedback.
+
+Depois de criar o diagrama inicial, revise os dados para certificar-se da precisão e integridade.
+
+Compartilhe o seu diagrama com os stakeholders e membros do time para obter feedback
+
+e refiná-lo com base nas informações recebidas.
+
+Então, aqui, galera, não só para quem é de modelagem de dados ou para quem é analista de requisitos,
+
+mas para qualquer pessoa em qualquer trabalho, independente se você é da área do TI ou não, tá bom?
+
+Tudo que nós fazemos com constância, tudo que nós fazemos que vira hábito ou que vira rotina,
+
+acaba ficando no automático.
+
+Por muitas vezes, nós acabamos esquecendo, porque nós já estamos acostumados com determinados padrões.
+
+E, por muitas vezes, acaba esquecendo de acrescentar ou de incluir determinados detalhes.
+
+E é importante sempre dar ou sempre solicitar um feedback
+
+de pessoas que tenham um conhecimento, pelo menos, superficial daquilo que você faz.
+
+Porque sempre um segundo, um terceiro olhar, vai mostrar você o que está faltando,
+
+ou o que precisa ser melhorado, ou talvez o que precise ser acrescentado, tá bom?
+
+Então, aqui, é importante sempre você compartilhar e fazer um refinamento com os stakeholders,
+
+que são as partes interessadas.
+
+Então, mostre isso ao seu time.
+
+Se eles acharem legal, mostre também às pessoas que são participantes do projeto,
+
+os donos do projeto, aos usuários, principalmente, que são aqueles que mais vão utilizar o produto,
+
+e eles também, por muitas vezes, vão saber e vão falar quais vão ser as melhores regras
+
+cabíveis para aquelas situações.
+
+Então, é bem importante, beleza?
+
+Tópico número 4, finalize e documente.
+
+Finalize o diagrama com foco na clareza e precisão.
+
+Agregue documentos e anotações para fornecer contextos e explicar interações ou decisões complexas.
+
+Então, aqui, a parte de finalização não envolve só a parte da diagramação, o desenho de um ML em si,
+
+mas a documentação como um todo.
+
+Então, existe o manual do usuário, existe uma documentação mais técnica,
+
+que esta, por exemplo, seria utilizada para os times de TI.
+
+Muitas vezes, iam pesquisar uma API, o funcionamento, como que seria uma autenticação,
+
+documentação relacionada à infraestrutura, quais são as portas de IPs, quais são as criptografias,
+
+se vai ter acesso via VPN ou não, por onde isso vai estar acessado, onde vai estar armazenado,
+
+como que está a arquitetura do banco, qual que é a infraestrutura num todo.
+
+Então, a documentação, ela, basicamente, não só faz parte da diagramação ML, do desenho,
+
+mas envolve muito texto.
+
+Então, é sempre bom você ter ambos, tá bom?
+
+E a nossa quinta etapa, ou o nosso quinto tópico, atualização regular, tá bom?
+
+Mantenha o diagrama atualizado para refletir quaisquer alterações no sistema.
+
+Assim, ele continua sendo útil como ferramenta de compreensão e comunicação.
+
+Aqui, mais uma vez, a atualização não se dá só a diagramação ML, mas também todas as documentações
+
+que vocês tiverem, que houver a necessidade de mudança, de atualização, tá bom?
+
+Então, é sempre bom você ter versões, ao invés de substituir o documento,
+
+porque aí você também terá um controle de como o projeto era inicialmente,
+
+quais foram as alterações que foram efetuadas, por que essas alterações ocorreram,
+
+se foi solicitação por melhoria, se talvez foi uma solicitação por falta de recurso,
+
+se foi uma solicitação por falta de tempo, se talvez foi uma solicitação porque
+
+a tecnologia que foi escolhida não consegue arcar com aquilo que foi solicitado.
+
+E essas versões, os versionamentos das documentações vão ser importantes lá na frente também,
+
+para quando, se por um acaso, o usuário questionar sobre valor ou funcionalidade que não tem no sistema,
+
+você ter mapeado e conseguir dizer para ele o porquê que aquilo não foi inserido,
+
+qual foi a dificuldade, qual foi o impacto, quem foi a pessoa que deu o aval para aquilo não ir para o sistema,
+
+para aquilo não ir em produção, e é importante você ter essas documentações,
+
+esses versionamentos, tanto em texto quanto em desenho, beleza?
+
+Bom, e aí aqui nós temos conceitos avançados para o tipo de diagrama de visão geral de interação.
+
+Coloquei este primeiro, que eu não identifico como um conceito avançado,
+
+que é relacionado a nós condicionais e de looping, tá?
+
+Os nós condicionais ou os loopings, nós já vimos isso em todos os outros diagramas anteriores,
+
+nós sabemos que o sistema, por mais básico que seja, por mais superficial que seja,
+
+sempre vai haver essas etapas, então eu não considero isso daqui como algo complexo,
+
+porém, depende da ocasião.
+
+Tem condicionais ou loopings que, literalmente, vão haver complexidades,
+
+não vem ao caso por enquanto, porque eu posso usar condicionais e loopings
+
+de forma bem superficial para coisas básicas.
+
+Por exemplo, para saber se o usuário possui cadastro ou não,
+
+ele possui login ou não na ferramenta.
+
+Então, existe um condicional para isso, existe um looping para isso,
+
+caso ele esteja, ou caso ele tenha um cadastro, ele vai para o lugar,
+
+caso não, ele vai ser solicitado um cadastro, o looping vai acontecer naquela etapa
+
+até que os dados sejam preenchidos, então é considerado básico,
+
+não convém falar bastante sobre.
+
+Agora, sobre execução paralela e sincronização, sim.
+
+Execução e sincronização paralela é uma característica fundamental do diagrama
+
+de visão geral de interação, ou seja, só temos isso neste diagrama.
+
+Inclusive, é essencial para modelar sistemas modernos e complexos.
+
+Então, o que eu falei no início dessa aula, à medida em que a tecnologia acaba avançando,
+
+nós precisamos de coisas para suprir e fazer jus a essas tecnologias.
+
+Este diagrama teve essa origem devido a isso,
+
+suprir necessidades, brechas, lacunas, que os diagramas que já existiam não conseguiam fazer.
+
+Então, essa parte de paralelismo e sincronização envolve bastante este contexto.
+
+Restrições de tempo e anotações.
+
+As restrições de tempos e anotações trazem uma perspectiva temporal a interações,
+
+crucial para sistemas onde o tempo é um fator chave.
+
+Quais sistemas nós podemos julgar um fator chave?
+
+Nós podemos colocar aqui, como exemplo, aplicativos bancários.
+
+Então, nós sempre precisamos falar sobre sessões, sobre tempos de login,
+
+e se, por um acaso, o celular ficar aberto por muito tempo, desbloqueado,
+
+ou com o aplicativo aberto por muito tempo,
+
+obviamente há um determinado risco de roubo, transferência e etc.
+
+Então, existe aqui uma determinada regra que é sobre o tempo de sessão.
+
+Então, quanto tempo o usuário fica logado sem que a ferramenta esteja sendo utilizada.
+
+Então, há uma identificação.
+
+Então, a cada 10 minutos, se o usuário não utilizou durante aquele período,
+
+vou fazer uma forçada de logoff, ou seja, eu vou derrubar o usuário automaticamente.
+
+Então, isso daqui é bem importante e também faz jus a esse tipo de diagrama, tá bom?
+
+Bom, pessoal, o que eu poderia passar para vocês relacionados a este diagrama,
+
+diagrama de visão geral de interação, é isso.
+
+Como eu mencionei no início da aula, infelizmente eu acabei não achando imagens
+
+que pudessem condizer com o que eu acrescentei em texto para vocês.
+
+Então, eu vou optar em repassar os slides à medida em que nós fizermos a prática.
+
+Quando nós formos fazendo as criações e usando os elementos que são pertinentes a esse diagrama,
+
+eu vou voltando nos slides e vou fazendo referências sobre eles
+
+para que vocês refresquem a memória, beleza?
+
+Eu não vou me estender tanto, afinal a aula teórica já é um pouco maçante, um pouco cansativa.
+
+Inclusive, eu passei até um pouco do previsto.
+
+Então, eu vou me despedindo por aqui.
+
+Próxima aula nós já daremos continuidade falando um pouco sobre a parte de prática.
+
+Me despeço de vocês, fiquem com Deus e até breve.
